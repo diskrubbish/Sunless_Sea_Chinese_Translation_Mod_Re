@@ -1,0 +1,591 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/5/Name"
+      ],
+      "entities/qualities.json": [
+        "/13/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "红色之梦",
+      "Eng": "A Dream of Red"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/4/Name"
+      ],
+      "entities/qualities.json": [
+        "/105/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "旅行中的光",
+      "Eng": "A Travelling Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/7/Name"
+      ],
+      "entities/qualities.json": [
+        "/151/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "她心脏的黑色轮廓",
+      "Eng": "An Adumbration of Her Heart"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/SpawnedEntities.json": [
+        "/44/HumanName"
+      ],
+      "entities/events.json": [
+        "/71/ChildBranches/6/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Constant Companion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Tutorials.json": [
+        "/24/Name"
+      ],
+      "entities/qualities.json": [
+        "/252/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "船员",
+      "Eng": "Crew"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/SpawnedEntities.json": [
+        "/41/HumanName"
+      ],
+      "entities/events.json": [
+        "/71/ChildBranches/7/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "黎明海胆",
+      "Eng": "Dawn Fluke"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Tutorials.json": [
+        "/3/Name"
+      ],
+      "entities/events.json": [
+        "/491/ChildBranches/1/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "玛瑙港",
+      "Eng": "Echoes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/CombatItems.json": [
+        "/6/Name"
+      ],
+      "entities/qualities.json": [
+        "/286/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "黎明元素",
+      "Eng": "Element of Dawn"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/CombatItems.json": [
+        "/4/Name"
+      ],
+      "entities/events.json": [
+        "/651/ChildBranches/1/Name"
+      ],
+      "entities/qualities.json": [
+        "/330/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "照明弹",
+      "Eng": "Flare"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/59/Name"
+      ],
+      "entities/events.json": [
+        "/353/ChildBranches/7/DefaultEvent/MoveToArea/Name",
+        "/419/ChildBranches/0/DefaultEvent/MoveToArea/Name",
+        "/580/ChildBranches/37/Name",
+        "/831/Name"
+      ],
+      "geography/Tiles.json": [
+        "/11/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "寒霜城",
+      "Eng": "Frostfound"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Tutorials.json": [
+        "/23/Name"
+      ],
+      "entities/qualities.json": [
+        "/334/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "燃料",
+      "Eng": "Fuel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/Ambiences/8/Name"
+      ],
+      "entities/areas.json": [
+        "/64/Name"
+      ],
+      "entities/events.json": [
+        "/166/ChildBranches/0/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Funeral"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/CombatItems.json": [
+        "/10/Name"
+      ],
+      "entities/qualities.json": [
+        "/356/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "海盗之林",
+      "Eng": "Hand-Carved Ushabti"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Tutorials.json": [
+        "/27/Name"
+      ],
+      "entities/qualities.json": [
+        "/372/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "货仓",
+      "Eng": "Hold"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/Ambiences/10/Name"
+      ],
+      "entities/areas.json": [
+        "/66/Name"
+      ],
+      "entities/events.json": [
+        "/636/ChildBranches/0/SuccessEvent/MoveToArea/Name",
+        "/636/ChildBranches/1/DefaultEvent/MoveToArea/Name",
+        "/636/ChildBranches/2/DefaultEvent/MoveToArea/Name",
+        "/636/ChildBranches/3/SuccessEvent/MoveToArea/Name",
+        "/636/ChildBranches/4/SuccessEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kingdom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/SpawnedEntities.json": [
+        "/39/HumanName"
+      ],
+      "entities/events.json": [
+        "/71/ChildBranches/3/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lornest Fluke"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/CombatItems.json": [
+        "/5/Name"
+      ],
+      "entities/qualities.json": [
+        "/499/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "死亡租界",
+      "Eng": "Mountain-sherd"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/SpawnedEntities.json": [
+        "/42/HumanName"
+      ],
+      "entities/events.json": [
+        "/619/ChildBranches/2/Name",
+        "/654/ChildBranches/2/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neither"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/SpawnedEntities.json": [
+        "/5/HumanName"
+      ],
+      "entities/events.json": [
+        "/635/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pirate Frigate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/SpawnedEntities.json": [
+        "/2/HumanName"
+      ],
+      "entities/events.json": [
+        "/634/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pirate Steam-Pinnace"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Tutorials.json": [
+        "/11/Name"
+      ],
+      "entities/events.json": [
+        "/17/ChildBranches/2/DefaultEvent/Name",
+        "/3/ChildBranches/7/Name"
+      ],
+      "entities/qualities.json": [
+        "/700/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something Awaits You"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/Ambiences/12/Name"
+      ],
+      "entities/areas.json": [
+        "/68/Name"
+      ],
+      "entities/events.json": [
+        "/547/ChildBranches/1/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "Stargate",
+      "Eng": "Stargate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/CombatItems.json": [
+        "/2/Name"
+      ],
+      "entities/qualities.json": [
+        "/711/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "奇怪的猎获",
+      "Eng": "Strange Catch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Tutorials.json": [
+        "/22/Name"
+      ],
+      "entities/events.json": [
+        "/508/ChildBranches/4/DefaultEvent/Name"
+      ],
+      "entities/qualities.json": [
+        "/716/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "补给",
+      "Eng": "Supplies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Tutorials.json": [
+        "/6/Name"
+      ],
+      "entities/qualities.json": [
+        "/776/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "黎明元素",
+      "Eng": "Terror"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/SpawnedEntities.json": [
+        "/40/HumanName"
+      ],
+      "entities/events.json": [
+        "/71/ChildBranches/5/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thalatte"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/580/ChildBranches/39/Name",
+        "/658/Name"
+      ],
+      "geography/Tiles.json": [
+        "/3/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "切洛内特",
+      "Eng": "The Chelonate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/580/ChildBranches/26/Name"
+      ],
+      "geography/Tiles.json": [
+        "/15/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "钢铁共和国",
+      "Eng": "The Iron Republic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/Ambiences/1/Name"
+      ],
+      "entities/areas.json": [
+        "/50/Name"
+      ],
+      "entities/events.json": [
+        "/810/ChildBranches/0/DefaultEvent/MoveToArea/Name",
+        "/832/ChildBranches/6/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Surface"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/SpawnedEntities.json": [
+        "/37/HumanName"
+      ],
+      "entities/events.json": [
+        "/71/ChildBranches/1/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Triskelegant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/Ambiences/11/Name"
+      ],
+      "entities/areas.json": [
+        "/67/Name"
+      ],
+      "entities/events.json": [
+        "/226/ChildBranches/0/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Turn into a zee-monster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/CombatItems.json": [
+        "/1/Name"
+      ],
+      "entities/qualities.json": [
+        "/848/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unclear Device"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/SpawnedEntities.json": [
+        "/9/HumanName"
+      ],
+      "entities/events.json": [
+        "/534/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "未完成者海盗",
+      "Eng": "Unfinished Pirates"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/Ambiences/7/Name"
+      ],
+      "entities/areas.json": [
+        "/63/Name"
+      ],
+      "entities/events.json": [
+        "/814/ChildBranches/4/DefaultEvent/MoveToArea/Name",
+        "/832/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "Vienna",
+      "Eng": "Vienna"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/Ambiences/9/Name"
+      ],
+      "entities/areas.json": [
+        "/65/Name"
+      ],
+      "entities/events.json": [
+        "/172/ChildBranches/0/DefaultEvent/MoveToArea/Name",
+        "/172/ChildBranches/2/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wineglasses"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/SpawnedEntities.json": [
+        "/47/HumanName"
+      ],
+      "entities/events.json": [
+        "/71/ChildBranches/0/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wreckship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/Ambiences/13/Name"
+      ],
+      "entities/areas.json": [
+        "/69/Name"
+      ],
+      "entities/events.json": [
+        "/678/ChildBranches/0/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "Zeppelin",
+      "Eng": "Zeppelin"
+    }
+  }
+]

@@ -1,0 +1,1161 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/26/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "'We hear those voices that will not be drowned.' This is the Sea of Voices: we are close to Polythreme, where nothing is truly dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/TerrainData/34/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Placeholder city, its towering features squint and fade before you, a wonder of momentary existance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/33/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A baked breeze rises, the improbable scent of stone out of some distant desert. You are close to the Salt Lions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/30/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A buttery bloom of light on the southern horizon! You approach Varchas, the Mirrored City."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/0/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A carmine tint to the waves. We're approaching Adam's Way, 'where flows the Mountain's blood'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/14/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A floating strand of web caresses your face. The air hints at spiders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/8/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "普通的瓦片",
+      "Eng": "A generic tile"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/TerrainData/7/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A grand house rises over a humble isle "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/5/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sudden fog of spores! Zailors sneeze. The sound echoes flatly in the soupy air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/0/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "亚当海角",
+      "Eng": "Adam's Cape"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/35/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "And now we enter the Calumnies. There is a wild and glorious scent in the air. A kind of light. Why do zailors fear this place?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/3/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another zee-beast corpse afloat. So much carrion. We approach the Chelonate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/1/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boreal Reach. Is this snow? Touch it, and it puffs to vapour. Your crew huddles close to the warmth of pipe and funnel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/7/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Came on deck to find the metal sharp with sparks. Ozonal coronas haunt the ship. This is Dawn's Edge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/4/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corsairs Forest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/36/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creeping tendrils of fungus, zee-weed, unnamable flora. We enter the Snares."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/6/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cumaean Canal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/7/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "黎明边境",
+      "Eng": "Dawn's Edge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/9/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "德莫之门",
+      "Eng": "Demeaux's Gate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/SpawnPoints/2/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discovered a group of Auroral Megalops outside the Tomb Colonies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/6/Tiles/0/SpawnPoints/1/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discovered the Auroral Megalops of the Cumaean Canal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/7/Tiles/0/SpawnPoints/1/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discovered the Glorious Dreadnoughts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/11/Tiles/0/SpawnPoints/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discovered the Lifebergs of Frostfound!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/1/Tiles/0/SpawnPoints/0/Description",
+        "/1/Tiles/0/SpawnPoints/1/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discovered the Lifebergs of the Pale Haunt!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/20/Tiles/0/SpawnPoints/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discovered the Lorn Flukes of the Promised Sea!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/SpawnPoints/0/Description",
+        "/22/Tiles/0/SpawnPoints/1/Description",
+        "/22/Tiles/0/SpawnPoints/2/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discovered the Trimarans of the Khanate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/34/Tiles/0/SpawnPoints/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discovered the Tyrant Moths of The Ragged Crow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/15/Tiles/0/SpawnPoints/1/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discovered the Unfinished Revolutionaries of the Iron Republic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/SpawnPoints/0/Description",
+        "/37/Tiles/0/SpawnPoints/1/Description",
+        "/37/Tiles/0/SpawnPoints/3/Description",
+        "/37/Tiles/0/SpawnPoints/4/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discovered the flocks of bats outside the Tomb Colonies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dust, echoes: even a sepia tint to the air. These are the waters around the Tomb-Colonies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/2/SpawnPoints/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encountered a group of Jillyfleurs!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/2/SpawnPoints/1/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encountered a group of bats!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/0/SpawnPoints/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encountered the colony of bats!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/4/Tiles/0/SpawnPoints/2/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encountered the pirate fleets of the Corsair's Forest!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/8/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fathoms below, miles above."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/SpawnPoints/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Found the Bound-Sharks of Errant's Gyrus!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/11/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frostfound, vast and chilly. A fortress sieged by questions, answers, and riddles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/14/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "蛛网海峡",
+      "Eng": "Gossamer Way"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/1/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here the slate-black sea is like rippled glass, spiked with light from the roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/9/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here the wilder airs mingle with the airs of the near reaches. Demeaux's Gate, named for a navigator lost above. How did his bones come below?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Home waters. Zailors dawdle at the rail, watching for the lights of London."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/6/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little ships throng the waters here. The crew grow wistful: they swap old stories of sunlit sea. We draw near to the Cumaean Canal, the way to the Surface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/27/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Milliner-bats perch on the funnel, gaudy with stolen plumage. This must be the Feathered Sea."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/16/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "米瑟利加亚",
+      "Eng": "Myceligaea"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "No landlubber would notice the change. But you feel the air prickle on your skin. Somewhere new."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/17/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "帕默斯顿海域",
+      "Eng": "Palmerston's Reach"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/17/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Palmerston's Reach. There is brimstone on the wind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/18/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "石柱海",
+      "Eng": "Pillared Sea"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/21/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "拉特西",
+      "Eng": "Rattsey"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "盐阶",
+      "Eng": "Salt Steppes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/21/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scuttering and chittering in the corners of the hold. Humped shapes on the deck rail. Rattsey air emboldens vermin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/25/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "雕像海",
+      "Eng": "Sea of Statues"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/27/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "羽毛海",
+      "Eng": "Sea of Wings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/28/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "牧羊人湾流",
+      "Eng": "Shepherd's Wash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/28/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shepherd's Wash, the salty hinterland of London, home to hermits, nuns and shadowy business."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/15/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sizzling vapours rise from the sea. Time slips sideways. A coil of rope has stung a stoker, and his fellows beat it to death. We are under the hand of the Iron Republic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/6/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something forgotten is here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "南方群岛",
+      "Eng": "Southern Archipelago"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/3/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spined towers rear in the light of the false-stars. Ware reefs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/4/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalagmites loom in the distance like the cranes of Wolfstack Docks, but vaster, vaster. The Corsair's Forest. Our lookouts are watchful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/32/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "斯坦福的阔地",
+      "Eng": "Stamford's Expanse"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/33/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "石魂岛",
+      "Eng": "Stonesoul Isles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/34/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "风暴之骨",
+      "Eng": "Stormbones"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/18/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange puffs of warmth from the air behind the ice. This is the Pillared Sea, where Irem will lie. Lies. Has always lain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/1/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "北方海岸",
+      "Eng": "The Boreal Reach"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/35/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "卡勒穆尼",
+      "Eng": "The Calumnies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/2/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Carnelian Coast"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/2/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Carnelian Coast. Far to the South, the Neath-roof glimmers above the Mountain of Light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/5/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Crying Heights"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/5/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Crying Heights, where the Blue Prophets call the names of those about to die."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/10/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Empire of Hands"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "珊瑚之源",
+      "Eng": "The Principles of Coral"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Principles of Coral. The corpse-rainbow glow from beneath the waves echoes the false-stars above."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/20/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "许诺之海",
+      "Eng": "The Promised Sea"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/20/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Promised Sea. All through this place, the song of the Drownies lies shivering-sweet along the wind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Salt Steppes. This is the domain of the New Khanate, whose ancestors came here long before London fell..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/23/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "秋日之海",
+      "Eng": "The Sea of Autumns"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/24/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "莲花海",
+      "Eng": "The Sea of Lilies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/26/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Sea of Voices"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/36/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "罗网",
+      "Eng": "The Snares"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/30/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Southern Wall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/31/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Southern Wall (Tiling version)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Tomb Colonies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/1/HumanName",
+        "/39/Tiles/2/HumanName",
+        "/39/Tiles/3/HumanName",
+        "/39/Tiles/4/HumanName",
+        "/39/Tiles/5/HumanName",
+        "/39/Tiles/6/HumanName",
+        "/39/Tiles/7/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dark Unterzee"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/32/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The false-stars above are feral amber, like tigers' eyes. Stamford's Expanse, named for one who lost his child to cats."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/23/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The mists of the Sea of Autumn get into the eyes, the heart. It is not unusual to find yourself in unsuspected tears."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/16/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The water is sluggish with hyphal threads. Violet vegetable bulks break the surface. Myceligaea!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/4/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The wind carries the echo of distant chants. Long-dead priests still count the hours in this place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/2/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The world is webbed with invisible lines. You've crossed one. Tighten them, and it would split like a fruit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/7/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The zee here is warm. Bubbles rise and burst with lazy menace. The fire in the earth is restless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/38/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This must be Void's Approach. The air crackles with frosty radiations. To the North, the false-stars fail in the darkness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/31/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This part of the Unterzee (The Southern Wall) has not yet been created!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/38/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Chs": "虚空之隅",
+      "Eng": "Void's Approach"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/10/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "We approach the Empire of Hands. Let us clasp our souls tight, lest the Pentecost Apes take them from us."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/34/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "We enter Stormbones. St Eligius sends his fire to dance in the air, on deck. Very far away we see the great light of the Ragged Crow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/25/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "We have entered the Sea of Statues. Giants gape at us. Kingeater's Castle rises ahead, where fools give up their future."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/24/Tiles/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "We watch for fungal-pads in the Sea of Lilies. There is a prison here, guarded by knot-oracles..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/7/Tiles/0/SpawnPoints/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have encountered the  Glorious Frigates."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/15/Tiles/0/SpawnPoints/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have encountered the Iron Republic Dreadnaughts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/6/Tiles/0/SpawnPoints/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have encountered the Jillyfleurs that prey on Cumaean shipping."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/38/Tiles/0/SpawnPoints/0/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "discovered Mt Nomad, the black glass mountain that eats ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/39/Tiles/0/HumanName"
+      ]
+    },
+    "Texts": {
+      "Eng": "the dark Unterzee"
+    }
+  }
+]
