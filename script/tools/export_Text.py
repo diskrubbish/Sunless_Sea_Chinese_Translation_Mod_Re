@@ -17,11 +17,14 @@ if platform == "win32":
 def step_1(json,key):
     dict_1 = list()
     for i in json:
-        if key in i and i[key] is not None:
-            cache_1 = list()
-            cache_1.append(i["Id"])
-            cache_1.append(i[key])
-            dict_1.append(cache_1)
+        if "Tiles" in i and i["Tiles"] is not None: 
+            for v in i["Tiles"]:
+                    if key in v and v[key] is not None:
+                        cache_1 = list()
+                        cache_1.append(v["Name"])
+                        cache_1.append(v[key])
+                        dict_1.append(cache_1)
+    
             """
                 if "RareDefaultEvent" in v and v["RareDefaultEvent"] is not None:
                     w = v["RareDefaultEvent"]
@@ -29,8 +32,8 @@ def step_1(json,key):
                         cache_1 = list()
                         cache_1.append(w["Id"])
                         cache_1.append(w["Teaser"])
-                    ##print (w["Description"])
-                    # dict_1.append(zip(w["Description"],w["Id"]))
+                    ##print (w["HumanName"])
+                    # dict_1.append(zip(w["HumanName"],w["Id"]))
                         dict_1.append(cache_1)
             """
     return(dict_1)
@@ -38,13 +41,13 @@ def step_1(json,key):
 
 if __name__ == "__main__":    
     target = json.loads(prepare(open(
-        "F:/Sunless_Sea_Chinese_Translation_Mod_Re/translations/texts/entities/qualities.json.json", "r", "utf-8-sig")))
+        "F:/Sunless_Sea_Chinese_Translation_Mod_Re/translations/texts/geography/Tiles.json.json", "r", "utf-8-sig")))
     old = json.loads(prepare(
-        open("F:/Sunless_Sea_Data/cn_translation/entities/qualities.json", "r", "utf-8-sig")))
+        open("F:/Sunless_Sea_Data/cn_translation/geography/Tiles.json", "r", "utf-8-sig")))
     new = json.loads(prepare(
-        open("F:/Sunless_Sea_Data/Sunless Sea_source_file/entities/qualities.json", "r", "utf-8-sig")))
-    old_data = step_1(old,"ChangeDescriptionText")
-    new_data = step_1(new,"ChangeDescriptionText")
+        open("F:/Sunless_Sea_Data/Sunless Sea_source_file/geography/Tiles.json", "r", "utf-8-sig")))
+    old_data = step_1(old,"HumanName")
+    new_data = step_1(new,"HumanName")
     dict_2 = dict()
     for i in old_data:
         for v in new_data:
@@ -62,6 +65,6 @@ if __name__ == "__main__":
         ##if  w["Texts"]["Chs"] in w["Texts"] and w["Texts"]["Chs"] == w["Texts"]["Eng"]:
         ##    del w ["Texts"]["Chs"]
     f = open(
-        "F:/Sunless_Sea_Chinese_Translation_Mod_Re/translations/texts/entities/qualities.json.json", "wb+", "utf-8")
+        "F:/Sunless_Sea_Chinese_Translation_Mod_Re/translations/texts/geography/Tiles.json.json", "wb+", "utf-8")
     f.write(json.dumps(target, ensure_ascii=False, sort_keys=True, indent=2))
     f.close

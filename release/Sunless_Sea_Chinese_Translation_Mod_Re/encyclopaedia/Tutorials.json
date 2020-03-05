@@ -68,7 +68,7 @@
   {
     "Description": "在海上航行一段时间后,在日志的上方会出现一个灯笼的图标. 这意味着下一个港口有新的机会等待着你.",
     "Id": 12,
-    "Name": "Something Awaits You",
+    "Name": "有什么事情在等着你",
     "ShouldPause": false
   },
   {

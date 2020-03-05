@@ -12,7 +12,7 @@
         "Area": null,
         "AreaId": 102882,
         "MusicTrackName": "BustlingLondon",
-        "Name": "The Surface",
+        "Name": "地表",
         "PrefabName": "Surface"
       },
       {
@@ -54,14 +54,14 @@
         "Area": null,
         "AreaId": 104588,
         "MusicTrackName": "SpookyUpLead",
-        "Name": "Vienna",
+        "Name": "维也纳",
         "PrefabName": "Vienna"
       },
       {
         "Area": null,
         "AreaId": 105136,
         "MusicTrackName": "VictoryMusic",
-        "Name": "Funeral",
+        "Name": "葬礼",
         "PrefabName": "Funeral"
       },
       {
@@ -75,21 +75,21 @@
         "Area": null,
         "AreaId": 105138,
         "MusicTrackName": "VictoryMusic",
-        "Name": "Kingdom",
+        "Name": "王国",
         "PrefabName": "Garden"
       },
       {
         "Area": null,
         "AreaId": 105139,
         "MusicTrackName": "VictoryMusic",
-        "Name": "Turn into a zee-monster",
+        "Name": "变成海怪",
         "PrefabName": "ZeeMonster"
       },
       {
         "Area": null,
         "AreaId": 105140,
         "MusicTrackName": "VictoryMusic",
-        "Name": "Stargate",
+        "Name": "星门",
         "PrefabName": "Stargate"
       },
       {
