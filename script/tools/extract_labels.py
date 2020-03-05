@@ -24,8 +24,8 @@ if platform == "win32":
 else:
     from os.path import normpath
 
-root_dir = "F:/sunlesssee/Sunless Sea_bak"
-prefix = "F:/sunlesssee/new/cn_translation"
+root_dir = "F:/Sunless_Sea_Data/Sunless Sea_source_file"
+prefix = "F:/Sunless_Sea_Chinese_Translation_Mod_Re/translations"
 texts_prefix = "texts"
 sub_file = normpath(join(prefix, "substitutions.json"))
 
@@ -277,6 +277,6 @@ def extract_labels(root_dir, prefix):
 
 
 if __name__ == "__main__":
-    root_dir = "F:/sunlesssee/Sunless Sea_bak"
-    prefix = "F:/sunlesssee/new/cn_translation"
+    root_dir = "F:/Sunless_Sea_Data/Sunless Sea_source_file"
+    prefix = "F:/Sunless_Sea_Chinese_Translation_Mod_Re/translations"
     extract_labels(root_dir, prefix)

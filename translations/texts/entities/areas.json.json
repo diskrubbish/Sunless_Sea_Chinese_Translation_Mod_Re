@@ -177,18 +177,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "entities/areas.json": [
-        "/14/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "哭泣高地",
-      "Eng": "Crying Heights"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
         "/24/Description"
       ]
     },
@@ -243,19 +231,6 @@
     "Texts": {
       "Chs": "沦敦! 幽深, 黑暗而不可思议. 所有的航行从这里开始: 所有成功的航行在这里结束.",
       "Eng": "FALLEN LONDON! Deep, dark and marvellous. All voyages start here: and this is where successful voyages end."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/0/Name",
-        "/1/Description"
-      ]
-    },
-    "Texts": {
-      "Chs": "沦敦",
-      "Eng": "Fallen London"
     }
   },
   {
@@ -424,30 +399,6 @@
     "Texts": {
       "Chs": "洛林港:以最有上进心的溺亡者命名.磷光生物发着绿光. 在这下面的某处,王等待着.",
       "Eng": "Lorkins Port: named for that most enterprising of Drownies. Phosphor-cells burn green. Somewhere below, the King waits."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/29/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "伤心群岛",
-      "Eng": "Melting Isles"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/31/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "羊岛",
-      "Eng": "Mutton Island"
     }
   },
   {

@@ -10,7 +10,7 @@ foi = {
     "SpawnedEntities.json": [".*HumanName$"],
     "exchanges.json": [".*/Name$",".*/Description$"],
     "qualities.json": [".*/Name$",".*/Description$",".*/AvailableAt$","./ChangeDescriptionText$"],
-    "Tiles.json": [".*HumanName$",".*/Description$"],
+    "Tiles.json": [".*HumanName$",".*/Description$",".*/Label$"],
 }
 files_of_interest = dict()
 for ext, poi in foi.items():

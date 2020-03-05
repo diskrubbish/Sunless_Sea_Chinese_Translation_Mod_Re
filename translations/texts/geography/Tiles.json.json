@@ -103,12 +103,78 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/6/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abora Gate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/11/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Achlys Abyss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/0/Tiles/0/HumanName"
       ]
     },
     "Texts": {
       "Chs": "亚当海角",
       "Eng": "Adam's Cape"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/15/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adam's Doom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/26/Tiles/0/LabelData/9/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aeschaven"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/6/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Albertine Gates"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/17/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ambrose Point"
     }
   },
   {
@@ -126,11 +192,121 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/1/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Andergard Harbour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/5/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Andromeda's Rocks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/3/Tiles/0/Description"
       ]
     },
     "Texts": {
       "Eng": "Another zee-beast corpse afloat. So much carrion. We approach the Chelonate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aphotic Quills"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/0/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apis Meet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/23/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Autumn Islands"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/LabelData/7/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Badstevener's Abyss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/25/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Banning Bluff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/5/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Becker Bight"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bidmead Reefs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/9/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bonny Reefs"
     }
   },
   {
@@ -148,11 +324,187 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/4/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bournvadus Pillar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/11/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brock's Reef"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/5/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bubel's Thicket"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bugsby's Marshes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/7/Tiles/0/Description"
       ]
     },
     "Texts": {
       "Eng": "Came on deck to find the metal sharp with sparks. Ozonal coronas haunt the ship. This is Dawn's Edge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/LabelData/6/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cant's Abyss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carissa's Point"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/18/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carlisle's Haven"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/7/Tiles/0/LabelData/6/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Castle Clare"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/1/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Censor's Arch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/LabelData/7/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chatranic Lobe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/34/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chong Yi Rift"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/35/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cob's Way Bay"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/26/Tiles/0/LabelData/8/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Commingle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/8/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Quarter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/7/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corkery Bay"
     }
   },
   {
@@ -170,6 +522,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/36/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crabcake"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/36/Tiles/0/Description"
       ]
     },
@@ -181,11 +544,55 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/15/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cugel's Bluff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/6/Tiles/0/HumanName"
       ]
     },
     "Texts": {
       "Eng": "Cumaean Canal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/0/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Darkgryphon Straits"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/11/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dathooley's Rage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Davies Bay"
     }
   },
   {
@@ -210,6 +617,28 @@
     "Texts": {
       "Chs": "德莫之门",
       "Eng": "Demeaux's Gate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/28/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Depot (A)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dept. of Menace Eradication"
     }
   },
   {
@@ -332,11 +761,88 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/19/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dow's Ait"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/17/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Duggan's Maw"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/37/Tiles/0/Description"
       ]
     },
     "Texts": {
       "Eng": "Dust, echoes: even a sepia tint to the air. These are the waters around the Tomb-Colonies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/2/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dybala Town"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/10/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eagle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/4/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eeken Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/34/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elifaus Abyss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/20/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elifaus Rift"
     }
   },
   {
@@ -387,11 +893,88 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/19/Tiles/0/LabelData/9/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Errant's Gyrus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/35/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ewan's Way"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/20/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fathomking's Hold"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/8/Tiles/0/Description"
       ]
     },
     "Texts": {
       "Eng": "Fathoms below, miles above."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/28/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fieldhaven"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/28/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flitterstone Isle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/32/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flourishing - of - Years"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/26/Tiles/0/LabelData/7/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forlorn"
     }
   },
   {
@@ -420,12 +1003,67 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/0/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gardiner's Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/21/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geryk's Scalpel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/6/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giannotti Harbour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/14/Tiles/0/HumanName"
       ]
     },
     "Texts": {
       "Chs": "蛛网海峡",
       "Eng": "Gossamer Way"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/LabelData/7/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harper's Ferry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/6/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hekaterine's Arch"
     }
   },
   {
@@ -454,11 +1092,176 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/7/Tiles/0/LabelData/7/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hodgerton's Bluff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/29/Tiles/0/Description"
       ]
     },
     "Texts": {
       "Eng": "Home waters. Zailors dawdle at the rail, watching for the lights of London."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horneman's Stag"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "House of Ancestors"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/9/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron & Misery Co. Funging Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Quarter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/30/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jack - a - Dandy Stack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/1/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Johannesson Town"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/32/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kapalka Cove"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/7/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Khan's Gate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/36/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Labyrinth of Eels"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leopard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/35/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lesley's Harbour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/2/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Librarian's Grotto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/36/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lick-a-Monkey Crag"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/23/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lipiäinen Point"
     }
   },
   {
@@ -476,11 +1279,77 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/20/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lorkins Port"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/20/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Luckwright's Reef"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/4/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Massey's Shaft"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/21/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "McMaster's Haven"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/27/Tiles/0/Description"
       ]
     },
     "Texts": {
       "Eng": "Milliner-bats perch on the funnel, gaudy with stolen plumage. This must be the Feathered Sea."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/9/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moody's Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Murray Straits"
     }
   },
   {
@@ -499,11 +1368,110 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/18/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nablus Reef"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/35/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nathan's Bluff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/39/Tiles/0/Description"
       ]
     },
     "Texts": {
       "Eng": "No landlubber would notice the change. But you feel the air prickle on your skin. Somewhere new."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/LabelData/10/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Noctic Lobe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/24/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nuppmiddt Harbour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/10/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "O'Keefe's Drift"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/26/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Obey"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/1/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Odinson Straits"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ogedei's Bridge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/1/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pale Wastes"
     }
   },
   {
@@ -533,12 +1501,188 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/4/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patrick's Lot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/25/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pennington"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/32/Tiles/0/LabelData/6/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peter's Rocks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/24/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peterson's Rift"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pickett's Bluff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/18/Tiles/0/HumanName"
       ]
     },
     "Texts": {
       "Chs": "石柱海",
       "Eng": "Pillared Sea"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/0/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Point Livingston"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/15/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Porcelain Quarter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/5/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Port Addey"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/30/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Port Erdonmez"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/17/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Port Palmerston"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/3/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pourzia's Reef"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/LabelData/9/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prickfinger Wastes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/25/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ptacek's Fury"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/1/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puckeridge's Lookout"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/9/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purewal Point"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/2/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainer's Vortex"
     }
   },
   {
@@ -557,12 +1701,133 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/32/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reef of Roses"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/LabelData/8/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Regal Complexus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/2/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rolias Bluff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/LabelData/10/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rowena's Rocks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/5/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rubenach Grotto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/18/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ruegsegger Straits"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/7/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Runeshmi Port"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/3/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sachatown"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/36/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saints-Haven"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/22/Tiles/0/HumanName"
       ]
     },
     "Texts": {
       "Chs": "盐阶",
       "Eng": "Salt Steppes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/3/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Schabelport"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scott's Reef"
     }
   },
   {
@@ -580,7 +1845,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
-        "/25/Tiles/0/HumanName"
+        "/24/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sea of Lilies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/25/Tiles/0/HumanName",
+        "/25/Tiles/0/LabelData/2/Label"
       ]
     },
     "Texts": {
@@ -632,6 +1909,17 @@
     },
     "Texts": {
       "Eng": "Sizzling vapours rise from the sea. Time slips sideways. A coil of rope has stung a stoker, and his fellows beat it to death. We are under the hand of the Iron Republic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/21/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skylar's End"
     }
   },
   {
@@ -695,6 +1983,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/11/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stoddard's Haven"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/33/Tiles/0/HumanName"
       ]
     },
@@ -724,6 +2023,138 @@
     },
     "Texts": {
       "Eng": "Strange puffs of warmth from the air behind the ice. This is the Pillared Sea, where Irem will lie. Lies. Has always lain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/18/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stryketon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/23/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swallowing Isles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/11/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sycamore Arch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Taimen"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/37/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tanah-Chook"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/11/Tiles/0/LabelData/6/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teneb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/32/Tiles/0/LabelData/7/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aferox Channel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/26/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Antonine Abyss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/14/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Arntzen Deep"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/38/Tiles/0/LabelData/0/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avid Horizon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/35/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Azaquoric Abyss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/7/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Barnsmore Gap"
     }
   },
   {
@@ -776,6 +2207,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/38/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Chapel of Lights"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/5/Tiles/0/HumanName"
       ]
     },
@@ -798,11 +2240,99 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/7/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Dawn Machine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/36/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Dubois Maelstrom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/LabelData/11/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Echo Bazaar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/10/Tiles/0/HumanName"
       ]
     },
     "Texts": {
       "Eng": "The Empire of Hands"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/21/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Finknottle Vortex"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/38/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Kisigar Vortex"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/15/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Mercurius Deep"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/14/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Nativity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/9/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Phosgene Bleaks"
     }
   },
   {
@@ -855,6 +2385,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/34/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Ragged Crow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/22/Tiles/0/Description"
       ]
     },
@@ -895,6 +2436,17 @@
     },
     "Texts": {
       "Eng": "The Sea of Voices"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/28/Tiles/0/LabelData/6/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Sisterhood"
     }
   },
   {
@@ -1051,12 +2603,133 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/28/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thornwell Croft"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/26/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tides of Appetite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/23/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tiggelaar Bay"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/10/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Torry Point"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tortoise"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/3/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tusler's Channel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/25/Tiles/0/LabelData/6/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upton"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/15/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Van Horn Harbour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/2/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Velten's Vortex"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/25/Tiles/0/LabelData/4/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vinno's Rift"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/38/Tiles/0/HumanName"
       ]
     },
     "Texts": {
       "Chs": "虚空之隅",
       "Eng": "Void's Approach"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/16/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanderer's Haven"
     }
   },
   {
@@ -1107,6 +2780,105 @@
     "DeniedAlternatives": [],
     "Files": {
       "geography/Tiles.json": [
+        "/18/Tiles/0/LabelData/5/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weaver's Rift"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/28/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Westergren's Fire"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/33/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wilbert's Abyss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/9/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wolf"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/28/Tiles/0/LabelData/3/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wolf's Rift"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/29/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wolfstack Docks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/19/Tiles/0/LabelData/6/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wreck of the Emperor Wolfgang"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/16/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wreck of the Mikko"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/14/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wreck of the Nocturne"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
         "/7/Tiles/0/SpawnPoints/0/Description"
       ]
     },
@@ -1134,6 +2906,28 @@
     },
     "Texts": {
       "Eng": "You have encountered the Jillyfleurs that prey on Cumaean shipping."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/33/Tiles/0/LabelData/1/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zeel Port"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "geography/Tiles.json": [
+        "/7/Tiles/0/LabelData/2/Label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zelo's Town"
     }
   },
   {

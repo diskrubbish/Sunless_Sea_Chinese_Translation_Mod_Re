@@ -31,7 +31,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Adam's Way",
+            "Label": "亚当之路",
             "ParentTile": null,
             "Position": {
               "X": 740,
@@ -806,7 +806,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Codex",
+            "Label": "法典岛",
             "ParentTile": null,
             "Position": {
               "X": 1150,
@@ -819,7 +819,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Whither",
+            "Label": "何方",
             "ParentTile": null,
             "Position": {
               "X": 663,
@@ -2221,7 +2221,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "The Chelonate",
+            "Label": "切洛内特",
             "ParentTile": null,
             "Position": {
               "X": 664,
@@ -2234,7 +2234,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Gant Pole",
+            "Label": "刚特极点",
             "ParentTile": null,
             "Position": {
               "X": 542,
@@ -2299,7 +2299,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "The Gant Pole",
+            "Label": "可汗之心",
             "ParentTile": null,
             "Position": {
               "X": 496,
@@ -3602,7 +3602,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Crying Heights",
+            "Label": "哭泣高地",
             "ParentTile": null,
             "Position": {
               "X": 767,
@@ -4264,7 +4264,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "The Cumaean Canal",
+            "Label": "卡米安运河",
             "ParentTile": null,
             "Position": {
               "X": 714,
@@ -4830,7 +4830,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Grand Geode",
+            "Label": "宏伟晶洞",
             "ParentTile": null,
             "Position": {
               "X": 704,
@@ -5670,7 +5670,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Demeaux Island",
+            "Label": "德莫岛",
             "ParentTile": null,
             "Position": {
               "X": 789,
@@ -6247,7 +6247,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "Port Stanton",
+            "Label": "斯坦顿港",
             "ParentTile": null,
             "Position": {
               "X": 842,
@@ -6260,7 +6260,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "Ash Isthmus",
+            "Label": "灰烬地峡",
             "ParentTile": null,
             "Position": {
               "X": 721,
@@ -6956,7 +6956,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Frostfound",
+            "Label": "寒霜城",
             "ParentTile": null,
             "Position": {
               "X": 553,
@@ -7462,7 +7462,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Saviour's Rocks",
+            "Label": "救世主岩礁",
             "ParentTile": null,
             "Position": {
               "X": 522,
@@ -8037,7 +8037,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "The Iron Republic",
+            "Label": "钢铁共和国",
             "ParentTile": null,
             "Position": {
               "X": 751,
@@ -8634,7 +8634,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "The Uttershroom",
+            "Label": "世纪之蕈",
             "ParentTile": null,
             "Position": {
               "X": 768,
@@ -9230,7 +9230,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Mount Palmerston",
+            "Label": "帕默斯顿山",
             "ParentTile": null,
             "Position": {
               "X": 790,
@@ -9243,7 +9243,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Anthe",
+            "Label": "安忒",
             "ParentTile": null,
             "Position": {
               "X": 980,
@@ -9940,7 +9940,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Irem",
+            "Label": "农西奥",
             "ParentTile": null,
             "Position": {
               "X": 490,
@@ -10375,7 +10375,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Port Cecil",
+            "Label": "达哈",
             "ParentTile": null,
             "Position": {
               "X": 640,
@@ -11000,7 +11000,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Aigul",
+            "Label": "爱古",
             "ParentTile": null,
             "Position": {
               "X": 1010,
@@ -11565,7 +11565,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Nuncio",
+            "Label": "农西奥",
             "ParentTile": null,
             "Position": {
               "X": 1098,
@@ -11630,7 +11630,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Nook",
+            "Label": "旮旯",
             "ParentTile": null,
             "Position": {
               "X": 238,
@@ -12317,7 +12317,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "Nephrite Quarter",
+            "Label": "软玉区",
             "ParentTile": null,
             "Position": {
               "X": 261,
@@ -12330,7 +12330,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Khan's Shadow",
+            "Label": "可汗之影",
             "ParentTile": null,
             "Position": {
               "X": 1251,
@@ -12343,7 +12343,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Khan's Heart",
+            "Label": "可汗之心",
             "ParentTile": null,
             "Position": {
               "X": 638,
@@ -12356,7 +12356,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Khan's Glory",
+            "Label": "可汗的荣耀",
             "ParentTile": null,
             "Position": {
               "X": 479,
@@ -13497,7 +13497,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "The Mangrove College",
+            "Label": "红树学院",
             "ParentTile": null,
             "Position": {
               "X": 580,
@@ -13536,7 +13536,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Melting Isles",
+            "Label": "伤心群岛",
             "ParentTile": null,
             "Position": {
               "X": 796,
@@ -14098,7 +14098,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Scrimshander",
+            "Label": "骨雕馆",
             "ParentTile": null,
             "Position": {
               "X": 1009,
@@ -14137,7 +14137,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "Wisdom",
+            "Label": "智慧监狱",
             "ParentTile": null,
             "Position": {
               "X": 654,
@@ -14638,7 +14638,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Kingeater's Castle",
+            "Label": "安忒",
             "ParentTile": null,
             "Position": {
               "X": 937,
@@ -14664,7 +14664,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Sea of Statues",
+            "Label": "雕像海",
             "ParentTile": null,
             "Position": {
               "X": 507,
@@ -15274,7 +15274,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Godfall",
+            "Label": "神落",
             "ParentTile": null,
             "Position": {
               "X": 600,
@@ -15287,7 +15287,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Dahut",
+            "Label": "达哈",
             "ParentTile": null,
             "Position": {
               "X": 631,
@@ -15300,7 +15300,7 @@
             "Description": "",
             "DiscoveryValue": 33,
             "Important": true,
-            "Label": "Polythreme",
+            "Label": "碎心国",
             "ParentTile": null,
             "Position": {
               "X": 1132,
@@ -15352,7 +15352,7 @@
             "Description": "",
             "DiscoveryValue": 33,
             "Important": false,
-            "Label": "Endure",
+            "Label": "忍耐",
             "ParentTile": null,
             "Position": {
               "X": 1252,
@@ -16219,7 +16219,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Station III",
+            "Label": "三号要塞",
             "ParentTile": null,
             "Position": {
               "X": 1232,
@@ -16232,7 +16232,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Abbey Rock",
+            "Label": "修道院岩礁",
             "ParentTile": null,
             "Position": {
               "X": 450,
@@ -16245,7 +16245,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Shepherd Isles",
+            "Label": "牧羊人之岛",
             "ParentTile": null,
             "Position": {
               "X": 771,
@@ -16829,7 +16829,7 @@
             "Description": "",
             "DiscoveryValue": 0,
             "Important": true,
-            "Label": "Fallen London",
+            "Label": "沦敦",
             "ParentTile": null,
             "Position": {
               "X": 548,
@@ -16881,7 +16881,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Mutton Island",
+            "Label": "羊岛",
             "ParentTile": null,
             "Position": {
               "X": 1368,
@@ -16894,7 +16894,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "Quaker's Haven",
+            "Label": "贵格避风港",
             "ParentTile": null,
             "Position": {
               "X": 1347,
@@ -16920,7 +16920,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Hunter's Keep",
+            "Label": "猎户塔楼",
             "ParentTile": null,
             "Position": {
               "X": 1205,
@@ -16972,7 +16972,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "Low Barnet",
+            "Label": "沉没的巴内特",
             "ParentTile": null,
             "Position": {
               "X": 871,
@@ -16985,7 +16985,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Low Barnet",
+            "Label": "沉没的巴内特",
             "ParentTile": null,
             "Position": {
               "X": 954,
@@ -17867,7 +17867,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Varchas",
+            "Label": "瓦尔查斯",
             "ParentTile": null,
             "Position": {
               "X": 784,
@@ -18482,7 +18482,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Isle of Cats",
+            "Label": "猫岛",
             "ParentTile": null,
             "Position": {
               "X": 652,
@@ -18508,7 +18508,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Visage",
+            "Label": "维瑟吉",
             "ParentTile": null,
             "Position": {
               "X": 337,
@@ -18547,7 +18547,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "Port Cavendish",
+            "Label": "卡文迪许港",
             "ParentTile": null,
             "Position": {
               "X": 650,
@@ -18586,7 +18586,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Rosegate",
+            "Label": "玫瑰之门",
             "ParentTile": null,
             "Position": {
               "X": 860,
@@ -19187,7 +19187,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "The Salt Lions",
+            "Label": "盐狮",
             "ParentTile": null,
             "Position": {
               "X": 758,
@@ -19226,7 +19226,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Wrack",
+            "Label": "船墟",
             "ParentTile": null,
             "Position": {
               "X": 961,
@@ -19749,7 +19749,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "The Undercrow",
+            "Label": "鸦下",
             "ParentTile": null,
             "Position": {
               "X": 770,
@@ -20381,7 +20381,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Aestival",
+            "Label": "阿斯蒂沃",
             "ParentTile": null,
             "Position": {
               "X": 913,
@@ -20446,7 +20446,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Hideaway",
+            "Label": "隐逸之地",
             "ParentTile": null,
             "Position": {
               "X": 1206,
@@ -20948,7 +20948,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Pigmote Isle",
+            "Label": "皮格莫特岛",
             "ParentTile": null,
             "Position": {
               "X": 875,
@@ -21408,7 +21408,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "Venderbight",
+            "Label": "文登湾",
             "ParentTile": null,
             "Position": {
               "X": 685,

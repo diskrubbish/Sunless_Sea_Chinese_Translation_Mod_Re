@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/exchanges.json": [
+        "/7/Name"
+      ],
+      "geography/Tiles.json": [
+        "/22/Tiles/0/LabelData/11/Label"
+      ]
+    },
+    "Texts": {
+      "Chs": "软玉区",
+      "Eng": "Nephrite Quarter"
+    }
+  }
+]

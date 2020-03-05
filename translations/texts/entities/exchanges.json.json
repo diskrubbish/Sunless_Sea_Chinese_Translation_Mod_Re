@@ -832,18 +832,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "entities/exchanges.json": [
-        "/7/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "软玉区",
-      "Eng": "Nephrite Quarter"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/exchanges.json": [
         "/17/Shops/1/Description"
       ]
     },

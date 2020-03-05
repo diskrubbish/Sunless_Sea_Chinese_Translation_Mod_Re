@@ -166,115 +166,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "entities/areas.json": [
-        "/44/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/14/Name",
-        "/781/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "修道院岩礁",
-      "Eng": "Abbey Rock"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/4/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/48/Name",
-        "/622/Name"
-      ],
-      "entities/exchanges.json": [
-        "/3/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "亚当之路",
-      "Eng": "Adam's Way"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/58/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/38/Name",
-        "/830/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "阿斯蒂沃",
-      "Eng": "Aestival"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/75/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/58/Name",
-        "/580/ChildBranches/68/Name",
-        "/62/ChildBranches/1/DefaultEvent/MoveToArea/Name",
-        "/62/ChildBranches/1/Name",
-        "/862/Name"
-      ],
-      "entities/qualities.json": [
-        "/122/AvailableAt",
-        "/123/AvailableAt",
-        "/124/AvailableAt",
-        "/44/AvailableAt",
-        "/7/AvailableAt"
-      ]
-    },
-    "Texts": {
-      "Chs": "爱古",
-      "Eng": "Aigul"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/76/Name"
-      ],
-      "entities/events.json": [
-        "/304/Name",
-        "/580/ChildBranches/64/Name",
-        "/62/ChildBranches/9/DefaultEvent/MoveToArea/Name",
-        "/62/ChildBranches/9/Name",
-        "/863/Name"
-      ],
-      "entities/exchanges.json": [
-        "/22/Name"
-      ],
-      "entities/qualities.json": [
-        "/173/AvailableAt",
-        "/176/AvailableAt",
-        "/182/AvailableAt",
-        "/184/AvailableAt",
-        "/185/AvailableAt",
-        "/189/AvailableAt",
-        "/190/AvailableAt",
-        "/588/AvailableAt"
-      ]
-    },
-    "Texts": {
-      "Chs": "安忒",
-      "Eng": "Anthe"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "entities/events.json": [
         "/589/ChildBranches/1/Name"
       ],
@@ -380,21 +271,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "entities/areas.json": [
-        "/42/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/40/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "法典岛",
-      "Eng": "Codex"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
         "/47/Name"
       ],
       "entities/events.json": [
@@ -404,27 +280,6 @@
     "Texts": {
       "Chs": "卡米安运河等待区",
       "Eng": "Cumaean Canal Staging Area"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/80/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/60/Name",
-        "/62/ChildBranches/3/DefaultEvent/MoveToArea/Name",
-        "/62/ChildBranches/3/Name",
-        "/873/Name"
-      ],
-      "entities/exchanges.json": [
-        "/25/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "达哈",
-      "Eng": "Dahut"
     }
   },
   {
@@ -446,103 +301,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "entities/areas.json": [
-        "/7/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/0/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "德莫岛",
-      "Eng": "Demeaux Island"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/16/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/33/Name",
-        "/580/ChildBranches/34/Name"
-      ]
-    },
-    "Texts": {
-      "Eng": "Empire of Hands"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/13/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/1/Name",
-        "/662/Name"
-      ]
-    },
-    "Texts": {
-      "Eng": "Gaider's Mourn"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/71/Name"
-      ],
-      "entities/events.json": [
-        "/309/Name",
-        "/62/ChildBranches/6/DefaultEvent/MoveToArea/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "刚特极点",
-      "Eng": "Gant Pole"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/49/Name"
-      ],
-      "entities/events.json": [
-        "/528/ChildBranches/13/DefaultEvent/MoveToArea/Name",
-        "/528/ChildBranches/14/DefaultEvent/MoveToArea/Name",
-        "/528/ChildBranches/16/DefaultEvent/MoveToArea/Name",
-        "/580/ChildBranches/20/Name",
-        "/812/Name",
-        "/813/ChildBranches/3/DefaultEvent/MoveToArea/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "神落",
-      "Eng": "Godfall"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/15/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/42/Name",
-        "/664/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "宏伟晶洞",
-      "Eng": "Grand Geode"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
         "/47/Description"
       ],
       "entities/events.json": [
@@ -551,44 +309,6 @@
     },
     "Texts": {
       "Eng": "Here, the dark waters run down from the surface, from a brighter sea..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/74/Name"
-      ],
-      "entities/events.json": [
-        "/303/Name",
-        "/580/ChildBranches/59/Name",
-        "/62/ChildBranches/5/DefaultEvent/MoveToArea/Name",
-        "/62/ChildBranches/5/Name",
-        "/858/Name"
-      ],
-      "entities/exchanges.json": [
-        "/30/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "隐逸之地",
-      "Eng": "Hideaway"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/32/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/2/Name",
-        "/738/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "猎户塔楼",
-      "Eng": "Hunter's Keep"
     }
   },
   {
@@ -610,22 +330,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "entities/areas.json": [
-        "/18/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/49/Name",
-        "/694/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "农西奥",
-      "Eng": "Irem"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
         "/5/Name"
       ],
       "entities/events.json": [
@@ -635,21 +339,6 @@
     "Texts": {
       "Chs": "奇怪的人",
       "Eng": "Iron Republic"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/33/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/30/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "猫岛",
-      "Eng": "Isle of Cats"
     }
   },
   {
@@ -671,70 +360,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "entities/areas.json": [
-        "/19/Name"
-      ],
-      "entities/events.json": [
-        "/697/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "可汗的荣耀",
-      "Eng": "Khan's Glory"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/20/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/24/Name",
-        "/699/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "可汗之心",
-      "Eng": "Khan's Heart"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/21/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/43/Name",
-        "/622/ChildBranches/21/DefaultEvent/Name",
-        "/702/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "可汗之影",
-      "Eng": "Khan's Shadow"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/22/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/50/Name",
-        "/703/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "安忒",
-      "Eng": "Kingeater's Castle"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
         "/48/Name"
       ],
       "entities/events.json": [
@@ -744,28 +369,6 @@
     "Texts": {
       "Chs": "灯塔船",
       "Eng": "Light-Ship"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/72/Name"
-      ],
-      "entities/events.json": [
-        "/310/Name",
-        "/580/ChildBranches/63/Name",
-        "/62/ChildBranches/8/DefaultEvent/MoveToArea/Name",
-        "/62/ChildBranches/8/Name",
-        "/848/Name"
-      ],
-      "entities/exchanges.json": [
-        "/29/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "沉没的巴内特",
-      "Eng": "Low Barnet"
     }
   },
   {
@@ -821,21 +424,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "entities/areas.json": [
-        "/23/Name"
-      ],
-      "entities/events.json": [
-        "/705/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "帕默斯顿山",
-      "Eng": "Mount Palmerston"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "entities/events.json": [
         "/50/ChildBranches/10/Name"
       ],
@@ -846,113 +434,6 @@
     "Texts": {
       "Chs": "佚名的女儿",
       "Eng": "Nobody's Daughter"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/79/Name"
-      ],
-      "entities/events.json": [
-        "/307/Name",
-        "/580/ChildBranches/62/Name",
-        "/62/ChildBranches/7/DefaultEvent/MoveToArea/Name",
-        "/62/ChildBranches/7/Name",
-        "/869/Name"
-      ],
-      "entities/exchanges.json": [
-        "/23/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "旮旯",
-      "Eng": "Nook"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/24/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/36/Name",
-        "/707/Name",
-        "/779/ChildBranches/4/DefaultEvent/Name"
-      ],
-      "entities/exchanges.json": [
-        "/18/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "农西奥",
-      "Eng": "Nuncio"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/46/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/21/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "皮格莫特岛",
-      "Eng": "Pigmote Isle"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/events.json": [
-        "/580/ChildBranches/32/Name",
-        "/727/Name"
-      ],
-      "entities/exchanges.json": [
-        "/1/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "碎心国",
-      "Eng": "Polythreme"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/3/Name"
-      ],
-      "entities/events.json": [
-        "/208/Name",
-        "/580/ChildBranches/35/Name"
-      ],
-      "entities/qualities.json": [
-        "/233/AvailableAt"
-      ]
-    },
-    "Texts": {
-      "Eng": "Port Carnelian"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/25/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/4/Name",
-        "/709/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "达哈",
-      "Eng": "Port Cecil"
     }
   },
   {
@@ -974,63 +455,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "entities/areas.json": [
-        "/73/Name"
-      ],
-      "entities/events.json": [
-        "/62/ChildBranches/0/DefaultEvent/MoveToArea/Name",
-        "/850/Name"
-      ],
-      "entities/exchanges.json": [
-        "/28/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "玫瑰之门",
-      "Eng": "Rosegate"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/28/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/28/Name",
-        "/580/ChildBranches/29/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "救世主岩礁",
-      "Eng": "Saviour's Rocks"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/77/Name"
-      ],
-      "entities/events.json": [
-        "/305/Name",
-        "/580/ChildBranches/67/Name",
-        "/62/ChildBranches/10/DefaultEvent/MoveToArea/Name",
-        "/62/ChildBranches/10/Name",
-        "/864/Name"
-      ],
-      "entities/exchanges.json": [
-        "/24/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "骨雕馆",
-      "Eng": "Scrimshander"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
         "/62/Name"
       ],
       "entities/events.json": [
@@ -1041,21 +465,6 @@
     "Texts": {
       "Chs": "破碎城堡",
       "Eng": "Shattered Citadel"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/43/Name"
-      ],
-      "entities/events.json": [
-        "/779/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "牧羊人之岛",
-      "Eng": "Shepherd Isles"
     }
   },
   {
@@ -1109,21 +518,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "entities/areas.json": [
-        "/39/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/13/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "三号要塞",
-      "Eng": "Station III"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "entities/events.json": [
         "/431/Name"
       ],
@@ -1167,24 +561,6 @@
     "Texts": {
       "Chs": "深寻王的堡垒",
       "Eng": "The Fathomking's Hold"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/events.json": [
-        "/580/ChildBranches/61/Name",
-        "/62/ChildBranches/6/Name",
-        "/847/ChildBranches/1/DefaultEvent/Name",
-        "/847/Name"
-      ],
-      "entities/exchanges.json": [
-        "/20/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "可汗之心",
-      "Eng": "The Gant Pole"
     }
   },
   {
@@ -1366,23 +742,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "entities/areas.json": [
-        "/38/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/45/Name",
-        "/580/ChildBranches/46/Name",
-        "/580/ChildBranches/47/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "瓦尔查斯",
-      "Eng": "Varchas"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "entities/events.json": [
         "/577/ChildBranches/4/Name"
       ],
@@ -1393,76 +752,6 @@
     "Texts": {
       "Chs": "面纱值",
       "Eng": "Veils"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/34/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/31/Name",
-        "/759/Name",
-        "/779/ChildBranches/4/RareDefaultEvent/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "维瑟吉",
-      "Eng": "Visage"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/10/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/7/Name",
-        "/655/ChildBranches/3/Name",
-        "/655/Name"
-      ],
-      "entities/exchanges.json": [
-        "/8/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "何方",
-      "Eng": "Whither"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/54/Name"
-      ],
-      "entities/events.json": [
-        "/580/ChildBranches/44/Name",
-        "/823/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "智慧监狱",
-      "Eng": "Wisdom"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "entities/areas.json": [
-        "/78/Name"
-      ],
-      "entities/events.json": [
-        "/306/Name",
-        "/580/ChildBranches/65/Name",
-        "/62/ChildBranches/4/DefaultEvent/MoveToArea/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "船墟",
-      "Eng": "Wrack"
     }
   },
   {
