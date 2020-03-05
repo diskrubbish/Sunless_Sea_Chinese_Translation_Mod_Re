@@ -14,13 +14,13 @@ if platform == "win32":
     from os.path import normpath as normpath_old
 
 
-def step_1(json):
+def step_1(json,key):
     dict_1 = list()
     for i in json:
-        if "Teaser" in i and i["Teaser"] is not None:
+        if key in i and i[key] is not None:
             cache_1 = list()
             cache_1.append(i["Id"])
-            cache_1.append(i["Teaser"])
+            cache_1.append(i[key])
             dict_1.append(cache_1)
             """
                 if "RareDefaultEvent" in v and v["RareDefaultEvent"] is not None:
@@ -38,16 +38,13 @@ def step_1(json):
 
 if __name__ == "__main__":    
     target = json.loads(prepare(open(
-        "F:/sunlesssee/new/cn_translation/texts/entities/events.json.json", "r", "utf-8-sig")))
-    """
+        "F:/Sunless_Sea_Chinese_Translation_Mod_Re/translations/texts/entities/qualities.json.json", "r", "utf-8-sig")))
     old = json.loads(prepare(
-        open("F:/sunlesssee/cn_translation/entities/events.json", "r", "utf-8-sig")))
+        open("F:/Sunless_Sea_Data/cn_translation/entities/qualities.json", "r", "utf-8-sig")))
     new = json.loads(prepare(
-        open("F:/sunlesssee/Sunless Sea_bak/entities/events.json", "r", "utf-8-sig")))
-    """
-    """
-    old_data = step_1(old)
-    new_data = step_1(new)
+        open("F:/Sunless_Sea_Data/Sunless Sea_source_file/entities/qualities.json", "r", "utf-8-sig")))
+    old_data = step_1(old,"ChangeDescriptionText")
+    new_data = step_1(new,"ChangeDescriptionText")
     dict_2 = dict()
     for i in old_data:
         for v in new_data:
@@ -55,19 +52,16 @@ if __name__ == "__main__":
                 dict_2[v[1]] = i[1]
     
     for w in target:
-        if w["Texts"]["Eng"] in dict_2:
-            w["Texts"]["Chs"] = dict_2[w["Texts"]["Eng"]]
+        if "Chs"  in w["Texts"]:
+            pass
+        else:
+            if w["Texts"]["Eng"] in dict_2:
+                w["Texts"]["Chs"] = dict_2[w["Texts"]["Eng"]]
         ##if  w["Texts"]["Chs"] in w["Texts"] and w["Texts"]["Chs"] == w["Texts"]["Eng"]:
         ##    del w ["Texts"]["Chs"]
-    """
-    for w in target:
-        i =w ["Texts"]
-        v= (i["Chs"])
-        if i["Eng"]==v:
-            i=i.pop("Chs")
         ##if  w["Texts"]["Chs"] in w["Texts"] and w["Texts"]["Chs"] == w["Texts"]["Eng"]:
         ##    del w ["Texts"]["Chs"]
     f = open(
-        "F:/sunlesssee/new/cn_translation/texts/entities/events.json.json", "wb+", "utf-8")
+        "F:/Sunless_Sea_Chinese_Translation_Mod_Re/translations/texts/entities/qualities.json.json", "wb+", "utf-8")
     f.write(json.dumps(target, ensure_ascii=False, sort_keys=True, indent=2))
     f.close

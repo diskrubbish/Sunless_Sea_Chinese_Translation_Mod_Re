@@ -129,7 +129,7 @@ def sunlesssea_text_loader(un_dir, text_dir, target_dir):
         target_dir+'/'+"entities/exchanges.json", "wb+", "utf-8")
     qualities_mod = open(
         target_dir+'/'+"entities/qualities.json", "wb+", "utf-8")
-    Tiles_mod = open(target_dir+'/'+"entities/Tiles.json", "wb+", "utf-8")
+    Tiles_mod = open(target_dir+'/'+"geography/Tiles.json", "wb+", "utf-8")
     Associations_mod.write(json.dumps(
         Associations_text, ensure_ascii=False, sort_keys=True, indent=2))
     CombatAttacks_mod.write(json.dumps(

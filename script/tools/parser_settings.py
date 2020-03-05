@@ -9,8 +9,8 @@ foi = {
     "events.json": [".*/Name$",".*/Description$",".*Teaser$",".*ButtonText$"],
     "SpawnedEntities.json": [".*HumanName$"],
     "exchanges.json": [".*/Name$",".*/Description$"],
-    "qualities.json": [".*/Name$",".*/Description$",".*/AvailableAt$","./ChangeDescriptionText$"],
-    "Tiles.json": [".*HumanName$",".*/Description$",".*/Label$"],
+    "qualities.json": [".*/Name$",".*/Description$",".*/AvailableAt$",".*/ChangeDescriptionText$",".*/LevelDescriptionText$"],
+    "Tiles.json": [".*/HumanName$",".*/Description$",".*/Label$"],
 }
 files_of_interest = dict()
 for ext, poi in foi.items():
