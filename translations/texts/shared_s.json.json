@@ -625,7 +625,7 @@
       ]
     },
     "Texts": {
-      "Chs": "农西奥",
+      "Chs": "伊瑞暮",
       "Eng": "Irem"
     }
   },
@@ -1032,7 +1032,7 @@
       ]
     },
     "Texts": {
-      "Chs": "达哈",
+      "Chs": "塞西尔港",
       "Eng": "Port Cecil"
     }
   },
@@ -1601,6 +1601,7 @@
       ]
     },
     "Texts": {
+      "Chs": "酒杯",
       "Eng": "Wineglasses"
     }
   },
@@ -1654,6 +1655,7 @@
       ]
     },
     "Texts": {
+      "Chs": "墟船",
       "Eng": "Wreckship"
     }
   },
@@ -1671,7 +1673,7 @@
       ]
     },
     "Texts": {
-      "Chs": "Zeppelin",
+      "Chs": "飞艇",
       "Eng": "Zeppelin"
     }
   }

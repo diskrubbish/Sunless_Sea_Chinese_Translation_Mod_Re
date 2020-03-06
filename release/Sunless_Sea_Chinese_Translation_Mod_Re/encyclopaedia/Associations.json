@@ -68,7 +68,7 @@
         "Area": null,
         "AreaId": 105137,
         "MusicTrackName": "VictoryMusic",
-        "Name": "Wineglasses",
+        "Name": "酒杯",
         "PrefabName": "Wineglasses"
       },
       {
@@ -96,7 +96,7 @@
         "Area": null,
         "AreaId": 105141,
         "MusicTrackName": "VictoryMusic",
-        "Name": "Zeppelin",
+        "Name": "飞艇",
         "PrefabName": "Underwater"
       }
     ],

@@ -1,0 +1,4 @@
+将Sunless_Sea_Chinese_Translation_Mod_Re文件夹放入
+C:\Users\你的用户名\AppData\LocalLow\Failbetter Games\Sunless Sea\addon
+将Sunless.Game.dll和Sunless_Sea_Chinese_Translation_Mod_Re放入
+SteamLibrary\steamapps\common\SunlessSea\Managed

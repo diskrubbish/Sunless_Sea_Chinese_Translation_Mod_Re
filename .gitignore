@@ -2,6 +2,6 @@
 *.markup
 /mods
 
-
+/script/tools/__pycache__
 translations/translatedlabels.json
 translations/totallabels.json

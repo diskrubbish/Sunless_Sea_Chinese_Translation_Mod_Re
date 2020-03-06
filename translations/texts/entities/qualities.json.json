@@ -1076,7 +1076,7 @@
       ]
     },
     "Texts": {
-      "Chs": "10|去德莫岛~200|炮手完成了他的武器~100|带着封印和司命之卵去钢铁共和国~150|把封印带到心金属冶炼师那里,要塞 III~50|去东方的阿斯蒂沃~500|炮手被锁在了玫瑰园中",
+      "Chs": "10|去德莫岛~200|炮手完成了他的武器~100|带着封印和司命之卵去钢铁共和国~150|把封印带到心金属冶炼师那里,3号要塞~50|去东方的阿斯蒂沃~500|炮手被锁在了玫瑰园中",
       "Eng": "10|Travel to Demeaux Island~200|The Cannoneer has completed his masterwork~100|Take the Seal, and a Judgements' Egg, to the Iron Republic~150|Take the Seal to the heartmetal smith at Station III~50|Travel to Aestival, in the East~500|You have sacrificed the Cannoneer to Zaira"
     }
   },
@@ -3506,7 +3506,7 @@
       ]
     },
     "Texts": {
-      "Eng": "1|你正在恢复打捞.~0|S打捞完毕!",
+      "Chs": "1|你正在恢复打捞.~0|S打捞完毕!",
       "Eng": "1|You are recovering salvage.~0|Salvage complete!"
     }
   },
@@ -3998,6 +3998,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你参加了问候仪式.~2|Y你参加了炉火仪式.~3|你参加了盛宴仪式.~34|你参加了慰藉仪式." ,
       "Eng": "1|You have partaken in the Rite of Greeting.~2|You have partaken in the Rite of Hearths.~3|You have partaken in the Rite of Feasting.~34|You have partaken in the Rite of Solace."
     }
   },
@@ -4033,6 +4034,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你拥有了东方的印记",
       "Eng": "1|You have the Mark of the East"
     }
   },
@@ -4044,6 +4046,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你拥有了东方的印记.", 
       "Eng": "1|You have the Mark of the East."
     }
   },
@@ -4055,6 +4058,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你拥有了北方的伤痕",  
       "Eng": "1|You have the Scars of the North"
     }
   },
@@ -4066,6 +4070,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你拥有了北方的伤痕.",  
       "Eng": "1|You have the Scars of the North."
     }
   },
@@ -4077,6 +4082,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你拥有了南方的碰触",   
       "Eng": "1|You have the Touch of the South"
     }
   },
@@ -4088,6 +4094,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你拥有了南方的碰触.",   
       "Eng": "1|You have the Touch of the South."
     }
   },
@@ -4099,6 +4106,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你拥有了西方的烙印",    
       "Eng": "1|You have the Western Stigma"
     }
   },
@@ -4110,6 +4118,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你拥有了西方的烙印.",    
       "Eng": "1|You have the Western Stigma."
     }
   },
@@ -4158,7 +4167,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你尚未找到人选~5|The 暴躁的慈善家",
+      "Chs": "1|你尚未找到人选~5|暴躁的慈善家",
       "Eng": "1|You have yet to recruit one~5|The Fierce Philanthropist"
     }
   },
@@ -4254,6 +4263,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你现在有了可能: 伊瑞暮." ,
       "Eng": "1|You now have Maybe: Irem."
     }
   },
@@ -4265,6 +4275,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你现在有了可能: 可汗之影." , 
       "Eng": "1|You now have Maybe: Khan's Shadow."
     }
   },
@@ -4276,6 +4287,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你现在有了可能: 拿坡里." ,  
       "Eng": "1|You now have Maybe: Naples."
     }
   },
@@ -4287,6 +4299,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你现在有了可能: 不是紫丁香." ,   
       "Eng": "1|You now have Maybe: No Lilac."
     }
   },
@@ -4298,6 +4311,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你现在有了可能: 玛瑙港." ,    
       "Eng": "1|You now have Maybe: Port Carnelian."
     }
   },
@@ -4309,6 +4323,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你现在有了可能: 切洛内特." ,     
       "Eng": "1|You now have Maybe: The Chelonate."
     }
   },
@@ -4320,6 +4335,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你现在有了可能: 猫岛." ,      
       "Eng": "1|You now have Maybe: The Isle of Cats."
     }
   },
@@ -4331,6 +4347,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你现在有了可能: 何方.",
       "Eng": "1|You now have Maybe: Whither."
     }
   },
@@ -4342,6 +4359,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 一些牙齿.", 
       "Eng": "1|You now have a Trophy: A Collection of Teeth."
     }
   },
@@ -4354,6 +4372,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 一张全家福.",  
       "Eng": "1|You now have a Trophy: A Family Portrait."
     }
   },
@@ -4365,6 +4384,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 折叠的旗帜.",   
       "Eng": "1|You now have a Trophy: A Folded Flag."
     }
   },
@@ -4376,6 +4396,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 一封嘉奖信.",    
       "Eng": "1|You now have a Trophy: A Letter of Commendation."
     }
   },
@@ -4387,6 +4408,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 典型的怪物.",     
       "Eng": "1|You now have a Trophy: A Model Monster."
     }
   },
@@ -4398,6 +4420,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 死后的奖章.",      
       "Eng": "1|You now have a Trophy: A Posthumous Medal."
     }
   },
@@ -4409,6 +4432,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 一把破碎的珊瑚刀.",
       "Eng": "1|You now have a Trophy: A Shattered Coral Knife."
     }
   },
@@ -4420,6 +4444,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 海泽之歌的手稿.", 
       "Eng": "1|You now have a Trophy: An Autographed Copy of the Zong of the Zee."
     }
   },
@@ -4431,6 +4456,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 不可思议的餐厅账单.",
       "Eng": "1|You now have a Trophy: An Impossible Restaurant Bill."
     }
   },
@@ -4442,6 +4468,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 不完全是人类.", 
       "Eng": "1|You now have a Trophy: Not Quite Human."
     }
   },
@@ -4453,6 +4480,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 没有尽头.",  
       "Eng": "1|You now have a Trophy: Restless."
     }
   },
@@ -4464,6 +4492,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 最终之山.",   
       "Eng": "1|You now have a Trophy: Those Final Mountains."
     }
   },
@@ -4475,6 +4504,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 家庭圣经.",    
       "Eng": "1|You now have a Trophy: a Family Bible."
     }
   },
@@ -4486,6 +4516,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了一项纪念品: 伦敦的灯火.",     
       "Eng": "1|You now have a Trophy: the Lights of London."
     }
   },
@@ -4497,6 +4528,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了海泽之神: 盐神的注意.",
       "Eng": "1|You now have the Gods of the Zee: Salt's Attention."
     }
   },
@@ -4508,6 +4540,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了海泽之神: 石神的注意", 
       "Eng": "1|You now have the Gods of the Zee: Stone's Attention"
     }
   },
@@ -4519,6 +4552,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了海泽之神: 石神的注意.", 
       "Eng": "1|You now have the Gods of the Zee: Stone's Attention."
     }
   },
@@ -4530,6 +4564,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了海泽之神: 风暴神的注意", 
       "Eng": "1|You now have the Gods of the Zee: Storm's Attention"
     }
   },
@@ -4541,6 +4576,7 @@
       ]
     },
     "Texts": {
+      "Chs": "1|你获得了海泽之神: 风暴神的注意.",  
       "Eng": "1|You now have the Gods of the Zee: Storm's Attention."
     }
   },
@@ -4673,7 +4709,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你要去玛瑙港.~2|你要去 碎心国.~3|你要去 卡文迪许港.",
+      "Chs": "1|你要去玛瑙港.~2|你要去碎心国.~3|你要去卡文迪许港.",
       "Eng": "1|You're going to Port Carnelian.~2|You're going to Polythreme.~3|You're going to Port Cavendish."
     }
   },
@@ -4854,7 +4890,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|Your future investigations with the Heir will be easier.",
+      "Chs": "1|你以后和继承人一起调查会容易些.",
       "Eng": "1|Your future investigations with the Heir will be easier."
     }
   },
@@ -4998,7 +5034,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你对猎户塔楼的调查已经被海军部的记录办公室证实~1|你对猎户塔楼的调查已经被海军部的记录办公室证实",
+      "Chs": "1|你对猎户塔楼的调查已经被海军部的记录办公室证实",
       "Eng": "1|Your visit to Hunter's Keep has been confirmed by the Admiralty Records Office"
     }
   },
@@ -5070,7 +5106,6 @@
       ]
     },
     "Texts": {
-      "Chs": "1|one",
       "Eng": "1|one"
     }
   },
@@ -5082,7 +5117,7 @@
       ]
     },
     "Texts": {
-      "Chs": "200|炮手完成了他的武器~100|带着封印和司命之卵去钢铁共和国~150|把封印带到心金属冶炼师那里,要塞 III~10|去德莫岛~50|去东方的阿斯蒂沃~500|炮手被锁在了玫瑰园中",
+      "Chs": "200|炮手完成了他的武器~100|带着封印和司命之卵去钢铁共和国~150|把封印带到心金属冶炼师那里,3号要塞~10|去德莫岛~50|去东方的阿斯蒂沃~500|炮手被锁在了玫瑰园中",
       "Eng": "200|The Cannoneer has completed his masterwork~100|Take the Seal, and a Judgements' Egg, to the Iron Republic~150|Take the Seal to the heartmetal smith at Station III~10|Travel to Demeaux Island~50|Travel to Aestival, in the East~500|The Cannoneer is locked in the Rose Garden"
     }
   },
@@ -5670,7 +5705,7 @@
       ]
     },
     "Texts": {
-      "Chs": "3|你和平明王分享了个关于尊重的幻觉You\t~1|你有了个关于同伴关系的幻觉~2|你在平明王的幻觉中看到了什么关于敏捷的潜者的事情吗?\t",
+      "Chs": "3|你和平明王分享了个关于尊重的幻觉\t~1|你有了个关于同伴关系的幻觉~2|你在平明王的幻觉中看到了什么关于敏捷的潜者的事情吗?\t",
       "Eng": "3|You shared a vision of respect with the Fair King\t~1|You had a vision of a partnership~2|Have you seen something of the Sharp Driver in the Fair King?\t"
     }
   },
@@ -5802,7 +5837,7 @@
       ]
     },
     "Texts": {
-      "Chs": "4|An Absentee Aunt~5|An Eccentric Burglar~6|A Deranged Medium~1|A Disgruntled Naval Officer~2|A Masked Clay Man~3|An Enterprising Astronomer",
+      "Chs": "4|缺席的阿姨~5|古怪的窃贼~6|神经错乱的灵媒~1|心怀不满的海军军官~2|蒙面粘土人~3|积极进取的天文学家",
       "Eng": "4|An Absentee Aunt~5|An Eccentric Burglar~6|A Deranged Medium~1|A Disgruntled Naval Officer~2|A Masked Clay Man~3|An Enterprising Astronomer"
     }
   },
