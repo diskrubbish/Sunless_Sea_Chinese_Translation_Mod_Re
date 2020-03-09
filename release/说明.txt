@@ -1,4 +1,9 @@
-��Sunless_Sea_Chinese_Translation_Mod_Re�ļ��з���
-C:\Users\����û���\AppData\LocalLow\Failbetter Games\Sunless Sea\addon
-��Sunless.Game.dll��Sunless_Sea_Chinese_Translation_Mod_Re����
+本mod最佳兼容于STEAM版本2.2.6.3150的游戏，带潜艇dlc，GOG版暂时未测试，请谨慎使用
+使用方法：
+将Sunless_Sea_Chinese_Translation_Mod_Re文件夹放入
+C:\Users\你的用户名\AppData\LocalLow\Failbetter Games\Sunless Sea\addon
+将Sunless.Game.dll和Failbetter.Core.dll放入
 SteamLibrary\steamapps\common\SunlessSea\Managed
+请注意备份上述dll，以防bug毁存档。
+更新内容：
+v0.022：推进汉化，修改说明文件，谢谢贴吧用户@Rebirthfenix的提醒，我真的好粗心
