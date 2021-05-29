@@ -40,7 +40,6 @@
       ]
     },
     "Texts": {
-      "Chs": "...",
       "Eng": "..."
     }
   },
@@ -56,7 +55,6 @@
       ]
     },
     "Texts": {
-      "Chs": "奇怪的人",
       "Eng": "A Chequered Character"
     }
   },
@@ -71,7 +69,6 @@
       ]
     },
     "Texts": {
-      "Chs": "令人愉快的邀请",
       "Eng": "A Delightful Invitation"
     }
   },
@@ -86,7 +83,6 @@
       ]
     },
     "Texts": {
-      "Chs": "给猴子皇帝的礼物",
       "Eng": "A Gift for the Monkey Emperor"
     }
   },
@@ -101,7 +97,6 @@
       ]
     },
     "Texts": {
-      "Chs": "给海盗王的礼物",
       "Eng": "A Gift for the Pirate-King"
     }
   },
@@ -116,7 +111,6 @@
       ]
     },
     "Texts": {
-      "Chs": "帕默斯顿山",
       "Eng": "A Lump of Blue Scintillack"
     }
   },
@@ -131,7 +125,6 @@
       ]
     },
     "Texts": {
-      "Chs": "笑脸叔的补救",
       "Eng": "A Remedy for the Cheery Man"
     }
   },
@@ -147,7 +140,6 @@
       ]
     },
     "Texts": {
-      "Chs": "阴沉沉的女士",
       "Eng": "A Shady Sort"
     }
   },
@@ -162,7 +154,6 @@
       ]
     },
     "Texts": {
-      "Chs": "给船长的建议",
       "Eng": "ADVICE FOR CAPTAINS"
     }
   },
@@ -177,7 +168,6 @@
       ]
     },
     "Texts": {
-      "Chs": "修行的猴子",
       "Eng": "Ascetic Monkey"
     }
   },
@@ -193,7 +183,6 @@
       ]
     },
     "Texts": {
-      "Chs": "渴求之地平线",
       "Eng": "Avid Horizon"
     }
   },
@@ -208,7 +197,6 @@
       ]
     },
     "Texts": {
-      "Chs": "硫磺蜂鸣",
       "Eng": "Brimstone Buzzings"
     }
   },
@@ -223,7 +211,6 @@
       ]
     },
     "Texts": {
-      "Chs": "卡利戈级商用货船",
       "Eng": "Caligo-class Merchant Cruiser"
     }
   },
@@ -238,7 +225,6 @@
       ]
     },
     "Texts": {
-      "Chs": "迷人的财宝",
       "Eng": "Captivating Treasure"
     }
   },
@@ -253,7 +239,6 @@
       ]
     },
     "Texts": {
-      "Chs": "玛瑙港的放逐者",
       "Eng": "Carnelian Exile"
     }
   },
@@ -269,7 +254,6 @@
       ]
     },
     "Texts": {
-      "Chs": "光之礼拜堂",
       "Eng": "Chapel of Lights"
     }
   },
@@ -284,7 +268,6 @@
       ]
     },
     "Texts": {
-      "Chs": "卡米安运河等待区",
       "Eng": "Cumaean Canal Staging Area"
     }
   },
@@ -299,8 +282,21 @@
       ]
     },
     "Texts": {
-      "Chs": "黎明的法则",
       "Eng": "Dawn's Law"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/64/Name"
+      ],
+      "entities/events.json": [
+        "/166/ChildBranches/0/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Funeral"
     }
   },
   {
@@ -314,7 +310,6 @@
       ]
     },
     "Texts": {
-      "Chs": "在这里,地表黑暗的海水奔涌而下, 这些水是从有光照的海里来的...",
       "Eng": "Here, the dark waters run down from the surface, from a brighter sea..."
     }
   },
@@ -329,7 +324,6 @@
       ]
     },
     "Texts": {
-      "Chs": "黑色逐日者",
       "Eng": "Icarus in Black"
     }
   },
@@ -344,7 +338,6 @@
       ]
     },
     "Texts": {
-      "Chs": "奇怪的人",
       "Eng": "Iron Republic"
     }
   },
@@ -359,8 +352,25 @@
       ]
     },
     "Texts": {
-      "Chs": "司命之卵",
       "Eng": "Judgements' Egg"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/66/Name"
+      ],
+      "entities/events.json": [
+        "/636/ChildBranches/0/SuccessEvent/MoveToArea/Name",
+        "/636/ChildBranches/1/DefaultEvent/MoveToArea/Name",
+        "/636/ChildBranches/2/DefaultEvent/MoveToArea/Name",
+        "/636/ChildBranches/3/SuccessEvent/MoveToArea/Name",
+        "/636/ChildBranches/4/SuccessEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kingdom"
     }
   },
   {
@@ -374,7 +384,6 @@
       ]
     },
     "Texts": {
-      "Chs": "灯塔船",
       "Eng": "Light-Ship"
     }
   },
@@ -395,7 +404,6 @@
       ]
     },
     "Texts": {
-      "Chs": "红树学院",
       "Eng": "Mangrove College"
     }
   },
@@ -410,7 +418,6 @@
       ]
     },
     "Texts": {
-      "Chs": "某位的女儿",
       "Eng": "Maybe's Daughter"
     }
   },
@@ -425,7 +432,6 @@
       ]
     },
     "Texts": {
-      "Chs": "某位的竞争者",
       "Eng": "Maybe's Rival"
     }
   },
@@ -440,7 +446,6 @@
       ]
     },
     "Texts": {
-      "Chs": "佚名的女儿",
       "Eng": "Nobody's Daughter"
     }
   },
@@ -455,7 +460,6 @@
       ]
     },
     "Texts": {
-      "Chs": "最新资讯",
       "Eng": "Recent News"
     }
   },
@@ -471,7 +475,6 @@
       ]
     },
     "Texts": {
-      "Chs": "破碎城堡",
       "Eng": "Shattered Citadel"
     }
   },
@@ -486,7 +489,6 @@
       ]
     },
     "Texts": {
-      "Chs": "慰藉之果",
       "Eng": "Solacefruit"
     }
   },
@@ -504,7 +506,6 @@
       ]
     },
     "Texts": {
-      "Chs": "有时候 - 只是有时候 - 洞顶上会落下小块岩石. 你真应该高兴你脚下的岛屿落下的时候你没在这里.",
       "Eng": "Sometimes - just occasionally - bits of the roof fall off. Be glad you weren't here when this one did."
     }
   },
@@ -519,8 +520,21 @@
       ]
     },
     "Texts": {
-      "Chs": "苏瑟&库珀 长箱",
       "Eng": "Soothe & Cooper Long-Box"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/68/Name"
+      ],
+      "entities/events.json": [
+        "/547/ChildBranches/1/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stargate"
     }
   },
   {
@@ -534,7 +548,6 @@
       ]
     },
     "Texts": {
-      "Chs": "充满阳光的捕光镜匣",
       "Eng": "Sunlight-Filled Mirrorcatch Box"
     }
   },
@@ -551,7 +564,6 @@
       ]
     },
     "Texts": {
-      "Chs": "寒霜城的走廊",
       "Eng": "The Corridors of Frostfound"
     }
   },
@@ -567,7 +579,6 @@
       ]
     },
     "Texts": {
-      "Chs": "深寻王的堡垒",
       "Eng": "The Fathomking's Hold"
     }
   },
@@ -582,7 +593,6 @@
       ]
     },
     "Texts": {
-      "Chs": "地平线法典",
       "Eng": "The Horizon Codex"
     }
   },
@@ -597,7 +607,6 @@
       ]
     },
     "Texts": {
-      "Chs": "海盗诗人",
       "Eng": "The Pirate-Poet"
     }
   },
@@ -612,8 +621,22 @@
       ]
     },
     "Texts": {
-      "Chs": "雪孩子",
       "Eng": "The Snow Child"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/50/Name"
+      ],
+      "entities/events.json": [
+        "/810/ChildBranches/0/DefaultEvent/MoveToArea/Name",
+        "/832/ChildBranches/6/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Surface"
     }
   },
   {
@@ -630,7 +653,6 @@
       ]
     },
     "Texts": {
-      "Chs": "地下海",
       "Eng": "The Unterzee"
     }
   },
@@ -646,7 +668,6 @@
       ]
     },
     "Texts": {
-      "Chs": "幽深小径",
       "Eng": "The Wisp-Ways"
     }
   },
@@ -661,7 +682,6 @@
       ]
     },
     "Texts": {
-      "Chs": "可汗的荣耀",
       "Eng": "The Wreck of the Nocturne"
     }
   },
@@ -677,7 +697,6 @@
       ]
     },
     "Texts": {
-      "Chs": "有时,阳光如雨. 有时,雨如阳光.",
       "Eng": "The sun beats down like rain. Occasionally, the rain beats down like rain."
     }
   },
@@ -695,7 +714,6 @@
       ]
     },
     "Texts": {
-      "Chs": "地下深处的水域.",
       "Eng": "The waters beneath the Earth."
     }
   },
@@ -716,7 +734,6 @@
       ]
     },
     "Texts": {
-      "Chs": "智者与一些邪恶的人都到这里来寻求庇护, 这里的水果很丰富,树林也在毫无节制的生长着.",
       "Eng": "The wise and the wicked seek sanctuary here, where the fruits are plenty and the woods wild."
     }
   },
@@ -731,8 +748,21 @@
       ]
     },
     "Texts": {
-      "Chs": "死亡侨居地",
       "Eng": "Tomb-Colonies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/67/Name"
+      ],
+      "entities/events.json": [
+        "/226/ChildBranches/0/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Turn into a zee-monster"
     }
   },
   {
@@ -746,7 +776,6 @@
       ]
     },
     "Texts": {
-      "Chs": "碎鸦灯塔水下入口",
       "Eng": "Underwater entrance to Crow"
     }
   },
@@ -761,8 +790,37 @@
       ]
     },
     "Texts": {
-      "Chs": "面纱值",
       "Eng": "Veils"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/63/Name"
+      ],
+      "entities/events.json": [
+        "/814/ChildBranches/4/DefaultEvent/MoveToArea/Name",
+        "/832/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vienna"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/65/Name"
+      ],
+      "entities/events.json": [
+        "/172/ChildBranches/0/DefaultEvent/MoveToArea/Name",
+        "/172/ChildBranches/2/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wineglasses"
     }
   },
   {
@@ -776,7 +834,6 @@
       ]
     },
     "Texts": {
-      "Chs": "不幸的莫格",
       "Eng": "Wretched Mog"
     }
   },
@@ -791,7 +848,6 @@
       ]
     },
     "Texts": {
-      "Chs": "父亲的遗骨",
       "Eng": "Your Father's Bones"
     }
   },
@@ -806,8 +862,21 @@
       ]
     },
     "Texts": {
-      "Chs": "父亲的遗骨: 冰冷的痕迹",
       "Eng": "Your Father's Bones: A Cold Trail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/69/Name"
+      ],
+      "entities/events.json": [
+        "/678/ChildBranches/0/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zeppelin"
     }
   },
   {
@@ -823,7 +892,6 @@
       ]
     },
     "Texts": {
-      "Chs": "_REUSE",
       "Eng": "_REUSE"
     }
   }

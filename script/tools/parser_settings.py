@@ -1,16 +1,19 @@
 from re import compile as regex
 
 foi = {
-    "Associations.json": [".*/Name$",".*Tooltip",".*Description"],
+    "Associations.json": [".*/(LegacyUnlockQualities|JettisonEvents)/[0-9]+/(Name|Tooltip|Description)$"],
     "CombatAttacks.json": [".*/Description$"],
-    "CombatItems.json": [".*/Name$",".*/Description$"],
-    "Tutorials.json": [".*/Name$",".*/Description$"],
-    "areas.json": [".*/Name$",".*/Description$",".*MoveMessage$"],
-    "events.json": [".*/Name$",".*/Description$",".*Teaser$",".*ButtonText$"],
+    "CombatItems.json": [".*/(Name|Description)$"],
+    "exchanges.json": [".*/(Name|Description)$"],
     "SpawnedEntities.json": [".*HumanName$"],
-    "exchanges.json": [".*/Name$",".*/Description$"],
-    "qualities.json": [".*/Name$",".*/Description$",".*/AvailableAt$",".*/ChangeDescriptionText$",".*/LevelDescriptionText$"],
-    "Tiles.json": [".*/HumanName$",".*/Description$",".*/Label$"],
+    "Tutorials.json": [".*/(Name|Description)$"],
+    "areas.json": [".*/(Name|Description|MoveMessage)$"],
+    "events.json": [".*/(Name|Description|Teaser|ButtonText)$"],
+    "qualities.json": [".*/(Name|Description|AvailableAt|ChangeDescriptionText|LevelDescriptionText)$"],
+    "Tiles.json": [".*/(HumanName|Description|Label)$"],
+
+
+
 }
 files_of_interest = dict()
 for ext, poi in foi.items():

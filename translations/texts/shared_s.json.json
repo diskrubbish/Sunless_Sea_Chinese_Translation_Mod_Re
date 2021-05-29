@@ -441,24 +441,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/8/Name"
-      ],
-      "entities/areas.json": [
-        "/64/Name"
-      ],
-      "entities/events.json": [
-        "/166/ChildBranches/0/DefaultEvent/MoveToArea/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "葬礼",
-      "Eng": "Funeral"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "entities/areas.json": [
         "/13/Name"
       ],
@@ -702,28 +684,6 @@
     "Texts": {
       "Chs": "可汗之影",
       "Eng": "Khan's Shadow"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/10/Name"
-      ],
-      "entities/areas.json": [
-        "/66/Name"
-      ],
-      "entities/events.json": [
-        "/636/ChildBranches/0/SuccessEvent/MoveToArea/Name",
-        "/636/ChildBranches/1/DefaultEvent/MoveToArea/Name",
-        "/636/ChildBranches/2/DefaultEvent/MoveToArea/Name",
-        "/636/ChildBranches/3/SuccessEvent/MoveToArea/Name",
-        "/636/ChildBranches/4/SuccessEvent/MoveToArea/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "王国",
-      "Eng": "Kingdom"
     }
   },
   {
@@ -1178,24 +1138,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/12/Name"
-      ],
-      "entities/areas.json": [
-        "/68/Name"
-      ],
-      "entities/events.json": [
-        "/547/ChildBranches/1/DefaultEvent/MoveToArea/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "星门",
-      "Eng": "Stargate"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "entities/areas.json": [
         "/39/Name"
       ],
@@ -1378,25 +1320,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/1/Name"
-      ],
-      "entities/areas.json": [
-        "/50/Name"
-      ],
-      "entities/events.json": [
-        "/810/ChildBranches/0/DefaultEvent/MoveToArea/Name",
-        "/832/ChildBranches/6/DefaultEvent/MoveToArea/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "地表",
-      "Eng": "The Surface"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "entities/events.json": [
         "/580/ChildBranches/66/Name",
         "/843/Name"
@@ -1439,24 +1362,6 @@
     "Texts": {
       "Chs": "三角鬼",
       "Eng": "Triskelegant"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/11/Name"
-      ],
-      "entities/areas.json": [
-        "/67/Name"
-      ],
-      "entities/events.json": [
-        "/226/ChildBranches/0/DefaultEvent/MoveToArea/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "变成海怪",
-      "Eng": "Turn into a zee-monster"
     }
   },
   {
@@ -1527,25 +1432,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/7/Name"
-      ],
-      "entities/areas.json": [
-        "/63/Name"
-      ],
-      "entities/events.json": [
-        "/814/ChildBranches/4/DefaultEvent/MoveToArea/Name",
-        "/832/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "维也纳",
-      "Eng": "Vienna"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "entities/areas.json": [
         "/34/Name"
       ],
@@ -1584,25 +1470,6 @@
     "Texts": {
       "Chs": "何方",
       "Eng": "Whither"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/9/Name"
-      ],
-      "entities/areas.json": [
-        "/65/Name"
-      ],
-      "entities/events.json": [
-        "/172/ChildBranches/0/DefaultEvent/MoveToArea/Name",
-        "/172/ChildBranches/2/DefaultEvent/MoveToArea/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "酒杯",
-      "Eng": "Wineglasses"
     }
   },
   {
@@ -1657,24 +1524,6 @@
     "Texts": {
       "Chs": "墟船",
       "Eng": "Wreckship"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/13/Name"
-      ],
-      "entities/areas.json": [
-        "/69/Name"
-      ],
-      "entities/events.json": [
-        "/678/ChildBranches/0/DefaultEvent/MoveToArea/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "飞艇",
-      "Eng": "Zeppelin"
     }
   }
 ]

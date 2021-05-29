@@ -27,35 +27,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "encyclopaedia/Associations.json": [
-        "/0/TradeRoutes/1/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "AdamsWay > London",
-      "Eng": "AdamsWay > London"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Associations",
-      "Eng": "Associations"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
         "/0/LegacyUnlockQualities/7/Tooltip"
       ]
     },
     "Texts": {
-      "Chs": "Behold Her Ladyship.",
       "Eng": "Behold Her Ladyship."
     }
   },
@@ -79,32 +54,7 @@
       ]
     },
     "Texts": {
-      "Chs": "Captain! What are you thinking?",
       "Eng": "Captain! What are you thinking?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/TradeRoutes/2/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Carnelian > Khan",
-      "Eng": "Carnelian > Khan"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/TradeRoutes/6/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Carnelian > Venderbight",
-      "Eng": "Carnelian > Venderbight"
     }
   },
   {
@@ -127,7 +77,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Eject the Checquered Character",
       "Eng": "Eject the Checquered Character"
     }
   },
@@ -139,7 +88,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Eject the Delightful Adventuress",
       "Eng": "Eject the Delightful Adventuress"
     }
   },
@@ -151,7 +99,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Eject the Shady Sort",
       "Eng": "Eject the Shady Sort"
     }
   },
@@ -163,32 +110,7 @@
       ]
     },
     "Texts": {
-      "Chs": "Eject the Unsettling Sage",
       "Eng": "Eject the Unsettling Sage"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/0/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Fathomking",
-      "Eng": "Fathomking"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/UnlegacyableOfficers/3/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "GallEyed",
-      "Eng": "GallEyed"
     }
   },
   {
@@ -201,17 +123,6 @@
     "Texts": {
       "Chs": "去北方.",
       "Eng": "Go North."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/6/Name"
-      ]
-    },
-    "Texts": {
-      "Eng": "GoEast"
     }
   },
   {
@@ -234,7 +145,6 @@
       ]
     },
     "Texts": {
-      "Chs": "I don't _think_ so.",
       "Eng": "I don't _think_ so."
     }
   },
@@ -314,78 +224,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "encyclopaedia/Associations.json": [
-        "/0/TradeRoutes/8/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Khan > AdamsWay",
-      "Eng": "Khan > AdamsWay"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/TradeRoutes/7/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "London > Carnelian",
-      "Eng": "London > Carnelian"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/TradeRoutes/5/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "London > Khan",
-      "Eng": "London > Khan"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/TradeRoutes/0/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "London > Palmerston",
-      "Eng": "London > Palmerston"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/UnlegacyableOfficers/0/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Longshanks",
-      "Eng": "Longshanks"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/3/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Loss Legacy",
-      "Eng": "Loss Legacy"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
         "/0/LegacyUnlockQualities/6/Name"
       ]
     },
@@ -402,32 +240,7 @@
       ]
     },
     "Texts": {
-      "Chs": "No no no. We shall do... wonderful things together.",
       "Eng": "No no no. We shall do... wonderful things together."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/TradeRoutes/4/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Palmerston > Khan",
-      "Eng": "Palmerston > Khan"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/UnlegacyableOfficers/4/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Plausible",
-      "Eng": "Plausible"
     }
   },
   {
@@ -462,44 +275,7 @@
       ]
     },
     "Texts": {
-      "Chs": "Rise high and go east.",
       "Eng": "Rise high and go east."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/UnlegacyableOfficers/2/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "ShadyCook",
-      "Eng": "ShadyCook"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/4/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "ShatteredCitadel",
-      "Eng": "ShatteredCitadel"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/UnlegacyableOfficers/1/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Sly",
-      "Eng": "Sly"
     }
   },
   {
@@ -530,30 +306,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "encyclopaedia/Associations.json": [
-        "/0/TradeRoutes/3/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Venderbight > Palmerston",
-      "Eng": "Venderbight > Palmerston"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/Ambiences/2/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Victory Legacy",
-      "Eng": "Victory Legacy"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
         "/0/LegacyUnlockQualities/6/Tooltip"
       ]
     },
@@ -566,35 +318,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "encyclopaedia/Associations.json": [
-        "/0/Ambiences/5/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "Whispways",
-      "Eng": "Whispways"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
-        "/0/UnlegacyableOfficers/5/Name"
-      ]
-    },
-    "Texts": {
-      "Chs": "WhistfulDeviless",
-      "Eng": "WhistfulDeviless"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "encyclopaedia/Associations.json": [
         "/0/JettisonEvents/1/Tooltip"
       ]
     },
     "Texts": {
-      "Chs": "Wrong move!",
       "Eng": "Wrong move!"
     }
   },

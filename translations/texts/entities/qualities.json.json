@@ -1112,7 +1112,7 @@
       ]
     },
     "Texts": {
-      "Chs": "10|你为可汗的荣耀收集了安忒的信息.~20|你正在搜集安忒的锐舌内室情报, 并带给可汗的荣誉.~30|你将安忒的信息带给了可汗的荣耀.~40|你确实向可汗的荣耀报告了安忒的事情.", 
+      "Chs": "10|你为可汗的荣耀收集了安忒的信息.~20|你正在搜集安忒的锐舌内室情报, 并带给可汗的荣誉.~30|你将安忒的信息带给了可汗的荣耀.~40|你确实向可汗的荣耀报告了安忒的事情.",
       "Eng": "10|You are retrieving information from Anthe for Khan's Glory.~20|You are searching Anthe's sharp-tongued chambers for information to return to Khan's Glory.~30|You are returning information to Khan's Glory from Anthe.~40|You have reliably informed Khan's Glory about a matter in Anthe."
     }
   },
@@ -2446,7 +2446,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|石神的诅咒降临到了你的身上", 
+      "Chs": "1|石神的诅咒降临到了你的身上",
       "Eng": "1|Stone's Curse lies on you"
     }
   },
@@ -2458,7 +2458,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|石神的诅咒降临到了你的身上.", 
+      "Chs": "1|石神的诅咒降临到了你的身上.",
       "Eng": "1|Stone's Curse lies on you."
     }
   },
@@ -3446,7 +3446,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你们正在学习关于那些珍珠放逐者的知识.", 
+      "Chs": "1|你们正在学习关于那些珍珠放逐者的知识.",
       "Eng": "1|You are learning about the Nacreous Outcast."
     }
   },
@@ -3530,7 +3530,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你被看见了.", 
+      "Chs": "1|你被看见了.",
       "Eng": "1|You are seen."
     }
   },
@@ -3578,7 +3578,6 @@
       ]
     },
     "Texts": {
-      "Chs": "1|You can now acquire the Parabolan Panther mascot in Sunless Sea. ",
       "Eng": "1|You can now acquire the Parabolan Panther mascot in Sunless Sea. "
     }
   },
@@ -3782,7 +3781,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你有一个不讨人喜欢的弥撒.", 
+      "Chs": "1|你有一个不讨人喜欢的弥撒.",
       "Eng": "1|You have an Unprepossessing Mass."
     }
   },
@@ -3998,7 +3997,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你参加了问候仪式.~2|Y你参加了炉火仪式.~3|你参加了盛宴仪式.~34|你参加了慰藉仪式." ,
+      "Chs": "1|你参加了问候仪式.~2|Y你参加了炉火仪式.~3|你参加了盛宴仪式.~34|你参加了慰藉仪式.",
       "Eng": "1|You have partaken in the Rite of Greeting.~2|You have partaken in the Rite of Hearths.~3|You have partaken in the Rite of Feasting.~34|You have partaken in the Rite of Solace."
     }
   },
@@ -4046,7 +4045,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你拥有了东方的印记.", 
+      "Chs": "1|你拥有了东方的印记.",
       "Eng": "1|You have the Mark of the East."
     }
   },
@@ -4058,7 +4057,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你拥有了北方的伤痕",  
+      "Chs": "1|你拥有了北方的伤痕",
       "Eng": "1|You have the Scars of the North"
     }
   },
@@ -4070,7 +4069,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你拥有了北方的伤痕.",  
+      "Chs": "1|你拥有了北方的伤痕.",
       "Eng": "1|You have the Scars of the North."
     }
   },
@@ -4082,7 +4081,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你拥有了南方的碰触",   
+      "Chs": "1|你拥有了南方的碰触",
       "Eng": "1|You have the Touch of the South"
     }
   },
@@ -4094,7 +4093,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你拥有了南方的碰触.",   
+      "Chs": "1|你拥有了南方的碰触.",
       "Eng": "1|You have the Touch of the South."
     }
   },
@@ -4106,7 +4105,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你拥有了西方的烙印",    
+      "Chs": "1|你拥有了西方的烙印",
       "Eng": "1|You have the Western Stigma"
     }
   },
@@ -4118,7 +4117,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你拥有了西方的烙印.",    
+      "Chs": "1|你拥有了西方的烙印.",
       "Eng": "1|You have the Western Stigma."
     }
   },
@@ -4131,7 +4130,6 @@
       ]
     },
     "Texts": {
-      "Chs": "1|You have unlocked the Pirate-Poet in Sunless Sea!",
       "Eng": "1|You have unlocked the Pirate-Poet in Sunless Sea!"
     }
   },
@@ -4263,7 +4261,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你现在有了可能: 伊瑞暮." ,
+      "Chs": "1|你现在有了可能: 伊瑞暮.",
       "Eng": "1|You now have Maybe: Irem."
     }
   },
@@ -4275,7 +4273,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你现在有了可能: 可汗之影." , 
+      "Chs": "1|你现在有了可能: 可汗之影.",
       "Eng": "1|You now have Maybe: Khan's Shadow."
     }
   },
@@ -4287,7 +4285,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你现在有了可能: 拿坡里." ,  
+      "Chs": "1|你现在有了可能: 拿坡里.",
       "Eng": "1|You now have Maybe: Naples."
     }
   },
@@ -4299,7 +4297,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你现在有了可能: 不是紫丁香." ,   
+      "Chs": "1|你现在有了可能: 不是紫丁香.",
       "Eng": "1|You now have Maybe: No Lilac."
     }
   },
@@ -4311,7 +4309,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你现在有了可能: 玛瑙港." ,    
+      "Chs": "1|你现在有了可能: 玛瑙港.",
       "Eng": "1|You now have Maybe: Port Carnelian."
     }
   },
@@ -4323,7 +4321,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你现在有了可能: 切洛内特." ,     
+      "Chs": "1|你现在有了可能: 切洛内特.",
       "Eng": "1|You now have Maybe: The Chelonate."
     }
   },
@@ -4335,7 +4333,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你现在有了可能: 猫岛." ,      
+      "Chs": "1|你现在有了可能: 猫岛.",
       "Eng": "1|You now have Maybe: The Isle of Cats."
     }
   },
@@ -4359,7 +4357,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 一些牙齿.", 
+      "Chs": "1|你获得了一项纪念品: 一些牙齿.",
       "Eng": "1|You now have a Trophy: A Collection of Teeth."
     }
   },
@@ -4372,7 +4370,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 一张全家福.",  
+      "Chs": "1|你获得了一项纪念品: 一张全家福.",
       "Eng": "1|You now have a Trophy: A Family Portrait."
     }
   },
@@ -4384,7 +4382,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 折叠的旗帜.",   
+      "Chs": "1|你获得了一项纪念品: 折叠的旗帜.",
       "Eng": "1|You now have a Trophy: A Folded Flag."
     }
   },
@@ -4396,7 +4394,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 一封嘉奖信.",    
+      "Chs": "1|你获得了一项纪念品: 一封嘉奖信.",
       "Eng": "1|You now have a Trophy: A Letter of Commendation."
     }
   },
@@ -4408,7 +4406,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 典型的怪物.",     
+      "Chs": "1|你获得了一项纪念品: 典型的怪物.",
       "Eng": "1|You now have a Trophy: A Model Monster."
     }
   },
@@ -4420,7 +4418,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 死后的奖章.",      
+      "Chs": "1|你获得了一项纪念品: 死后的奖章.",
       "Eng": "1|You now have a Trophy: A Posthumous Medal."
     }
   },
@@ -4444,7 +4442,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 海泽之歌的手稿.", 
+      "Chs": "1|你获得了一项纪念品: 海泽之歌的手稿.",
       "Eng": "1|You now have a Trophy: An Autographed Copy of the Zong of the Zee."
     }
   },
@@ -4468,7 +4466,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 不完全是人类.", 
+      "Chs": "1|你获得了一项纪念品: 不完全是人类.",
       "Eng": "1|You now have a Trophy: Not Quite Human."
     }
   },
@@ -4480,7 +4478,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 没有尽头.",  
+      "Chs": "1|你获得了一项纪念品: 没有尽头.",
       "Eng": "1|You now have a Trophy: Restless."
     }
   },
@@ -4492,7 +4490,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 最终之山.",   
+      "Chs": "1|你获得了一项纪念品: 最终之山.",
       "Eng": "1|You now have a Trophy: Those Final Mountains."
     }
   },
@@ -4504,7 +4502,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 家庭圣经.",    
+      "Chs": "1|你获得了一项纪念品: 家庭圣经.",
       "Eng": "1|You now have a Trophy: a Family Bible."
     }
   },
@@ -4516,7 +4514,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了一项纪念品: 伦敦的灯火.",     
+      "Chs": "1|你获得了一项纪念品: 伦敦的灯火.",
       "Eng": "1|You now have a Trophy: the Lights of London."
     }
   },
@@ -4540,7 +4538,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了海泽之神: 石神的注意", 
+      "Chs": "1|你获得了海泽之神: 石神的注意",
       "Eng": "1|You now have the Gods of the Zee: Stone's Attention"
     }
   },
@@ -4552,7 +4550,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了海泽之神: 石神的注意.", 
+      "Chs": "1|你获得了海泽之神: 石神的注意.",
       "Eng": "1|You now have the Gods of the Zee: Stone's Attention."
     }
   },
@@ -4564,7 +4562,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了海泽之神: 风暴神的注意", 
+      "Chs": "1|你获得了海泽之神: 风暴神的注意",
       "Eng": "1|You now have the Gods of the Zee: Storm's Attention"
     }
   },
@@ -4576,7 +4574,7 @@
       ]
     },
     "Texts": {
-      "Chs": "1|你获得了海泽之神: 风暴神的注意.",  
+      "Chs": "1|你获得了海泽之神: 风暴神的注意.",
       "Eng": "1|You now have the Gods of the Zee: Storm's Attention."
     }
   },
@@ -6054,7 +6052,6 @@
       ]
     },
     "Texts": {
-      "Chs": "?",
       "Eng": "?"
     }
   },
@@ -8311,7 +8308,6 @@
       ]
     },
     "Texts": {
-      "Chs": "AK to add quality reqs and other mechanics.",
       "Eng": "AK to add quality reqs and other mechanics."
     }
   },
@@ -8323,7 +8319,6 @@
       ]
     },
     "Texts": {
-      "Chs": "AKContent",
       "Eng": "AKContent"
     }
   },
@@ -8335,7 +8330,6 @@
       ]
     },
     "Texts": {
-      "Chs": "AKMechanics",
       "Eng": "AKMechanics"
     }
   },
@@ -10445,7 +10439,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Content QA HAPPY",
       "Eng": "Content QA HAPPY"
     }
   },
@@ -10457,7 +10450,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Content QA please SS",
       "Eng": "Content QA please SS"
     }
   },
@@ -10757,7 +10749,6 @@
       ]
     },
     "Texts": {
-      "Chs": "DebugPPKill",
       "Eng": "DebugPPKill"
     }
   },
@@ -10888,7 +10879,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Design QA Happy SS",
       "Eng": "Design QA Happy SS"
     }
   },
@@ -10900,7 +10890,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Design QA Please SS",
       "Eng": "Design QA Please SS"
     }
   },
@@ -11943,7 +11932,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Failbetter has awarded this user Accredited Architect status",
       "Eng": "Failbetter has awarded this user Accredited Architect status"
     }
   },
@@ -13671,7 +13659,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Hull",
       "Eng": "Hull"
     }
   },
@@ -15483,7 +15470,6 @@
       ]
     },
     "Texts": {
-      "Chs": "MaxHull",
       "Eng": "MaxHull"
     }
   },
@@ -15495,7 +15481,6 @@
       ]
     },
     "Texts": {
-      "Chs": "MaxLife",
       "Eng": "MaxLife"
     }
   },
@@ -15699,7 +15684,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Mechanical QA HAPPY",
       "Eng": "Mechanical QA HAPPY"
     }
   },
@@ -15711,7 +15695,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Mechanical QA please",
       "Eng": "Mechanical QA please"
     }
   },
@@ -17452,7 +17435,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Play Sunless Sea to receive a Parabolan Kitten.",
       "Eng": "Play Sunless Sea to receive a Parabolan Kitten."
     }
   },
@@ -18364,7 +18346,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Reuse",
       "Eng": "Reuse"
     }
   },
@@ -18388,7 +18369,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Review HAPPY",
       "Eng": "Review HAPPY"
     }
   },
@@ -18400,7 +18380,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Review please!",
       "Eng": "Review please!"
     }
   },
@@ -18808,7 +18787,6 @@
       ]
     },
     "Texts": {
-      "Chs": "Saviour's Rocks: RC_SR_ShowCheats",
       "Eng": "Saviour's Rocks: RC_SR_ShowCheats"
     }
   },
@@ -23147,7 +23125,6 @@
       ]
     },
     "Texts": {
-      "Chs": "This content is structured but not yet written - AK to complete.",
       "Eng": "This content is structured but not yet written - AK to complete."
     }
   },
@@ -23219,7 +23196,6 @@
       ]
     },
     "Texts": {
-      "Chs": "This element is not yet implemented.",
       "Eng": "This element is not yet implemented."
     }
   },
@@ -23316,7 +23292,6 @@
       ]
     },
     "Texts": {
-      "Chs": "This is a placeholder for a storyline associated with a character throughline.",
       "Eng": "This is a placeholder for a storyline associated with a character throughline."
     }
   },
@@ -23340,7 +23315,6 @@
       ]
     },
     "Texts": {
-      "Chs": "This is not yet available.",
       "Eng": "This is not yet available."
     }
   },
@@ -25344,7 +25318,6 @@
       ]
     },
     "Texts": {
-      "Chs": "XHearts",
       "Eng": "XHearts"
     }
   },
@@ -25356,7 +25329,6 @@
       ]
     },
     "Texts": {
-      "Chs": "XIron",
       "Eng": "XIron"
     }
   },
@@ -25368,7 +25340,6 @@
       ]
     },
     "Texts": {
-      "Chs": "XMirrors",
       "Eng": "XMirrors"
     }
   },
@@ -25380,7 +25351,6 @@
       ]
     },
     "Texts": {
-      "Chs": "XPages",
       "Eng": "XPages"
     }
   },
@@ -26413,7 +26383,6 @@
       ]
     },
     "Texts": {
-      "Chs": "You have unlocked the Parabolan Panther mascot in Sunless Sea!",
       "Eng": "You have unlocked the Parabolan Panther mascot in Sunless Sea!"
     }
   },

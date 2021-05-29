@@ -1,21 +1,22 @@
 #!/usr/bin/python3
 
-from special_cases import specialSections
 from bisect import insort_left
-from parser_settings import files_of_interest
-from json import load, dump, loads
-from os import walk, makedirs, remove
-from multiprocessing import Pool
-from re import compile as regex
-from json_tools import prepare, field_by_path, list_field_paths
-from shared_path import getSharedPath
 from codecs import open as open_n_decode
-from os.path import join, dirname, exists, relpath, abspath, basename
+from json import dump, load, loads, dumps
+from multiprocessing import Pool
+from os import makedirs, remove, walk
+from os.path import abspath, basename, dirname, exists, join, relpath
+from re import compile as regex
 from sys import platform
 
+from patch_tool import trans_patch, to_a_list
 from ignore_file import ignore_filelist
+from blacklist import dir_blacklist, path_blacklist
+from json_tools import field_by_path, list_field_paths, prepare
+from parser_settings import files_of_interest
+from shared_path import getSharedPath
+from special_cases import specialSections
 from utils import get_answer
-
 if platform == "win32":
     from os.path import normpath as normpath_old
 
@@ -23,10 +24,10 @@ if platform == "win32":
         return normpath_old(path).replace('\\', '/')
 else:
     from os.path import normpath
-
 root_dir = "F:/Sunless_Sea_Data/Sunless Sea_source_file"
-prefix = "F:/Sunless_Sea_Chinese_Translation_Mod_Re/translations"
+prefix = "F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re/translations"
 texts_prefix = "texts"
+parse_process_number = 8
 sub_file = normpath(join(prefix, "substitutions.json"))
 
 glitchEmoteExtractor = regex("^([In]{,3}\s?[A-Za-z-]+\.)\s+(.*)")
@@ -65,32 +66,69 @@ specialSharedPaths = {
 }
 
 
+def chunk_parse(chunk, database, assets_dir):
+    for sec, val, fname, path in chunk:
+        if fname.replace('\\', '/').replace(root_dir, "") in path_blacklist.keys():
+            if path in path_blacklist[fname.replace('\\', '/').replace(root_dir, "")]:
+                continue
+        if sec not in database:
+            database[sec] = dict()
+        if val not in database[sec]:
+            database[sec][val] = dict()
+        filename = normpath(
+            relpath(abspath(fname), abspath(assets_dir)))
+        if filename not in database[sec][val]:
+            database[sec][val][filename] = list()
+        if path not in database[sec][val][filename]:
+            insort_left(database[sec][val][filename], path)
+    return database
+
+
 def parseFile(filename):
     chunk = list()
-    if basename(filename) not in ignore_filelist:
+    if basename(filename)not in ignore_filelist:
         print(basename(filename))
         with open_n_decode(filename, "r", "utf_8_sig") as f:
             try:
-                string = prepare(f)
-                jsondata = loads(string)
+                if basename(filename).endswith('.patch'):
+                    chunk.append("patch")
+                    if basename(filename) in dict.keys(patch_serialization):
+                        string = trans_patch(
+                            f, patch_serialization[basename(filename)])
+                    else:
+                        string = trans_patch(f)
+                    paths = to_a_list(string, 0)
+                else:
+                    string = prepare(f)
+                    jsondata = loads(string)
+                    paths = list_field_paths(jsondata)
             except:
                 print("Cannot parse " + filename)
+                try:
+                    problem_file = open(error_list_file, 'a')
+                    problem_file.writelines(
+                        filename.replace(root_dir, '')+'\n')
+                    problem_file.close()
+                except:
+                    pass
                 return []
-            paths = list_field_paths(jsondata)
+            filename_base = filename
+            if basename(filename).endswith('.patch'):
+                filename = filename.replace('.patch', "")
             dialog = dirname(filename).endswith("dialog")
-            for path in paths:
+            for i, path in enumerate(paths):
                 for k in files_of_interest.keys():
                     if filename.endswith(k) or k == "*":
                         for roi in files_of_interest[k]:
                             if roi.match(path) or dialog:
-                                val = field_by_path(jsondata, path)
+                                if basename(filename_base).endswith('.patch'):
+                                    val = to_a_list(string, 1)[i]
+                                else:
+                                    val = field_by_path(jsondata, path)
                                 if not type(val) is str:
-                                    if val is None:
-                                        pass
-                                    else:
-                                        print("File: " + filename)
-                                        print("Type of " + path +
-                                            " is not a string!")
+                                    print("File: " + filename)
+                                    print("Type of " + path +
+                                          " is not a string!")
                                     continue
                                 if val == "":
                                     continue
@@ -105,40 +143,38 @@ def parseFile(filename):
 
 def construct_db(assets_dir):
     print("Scanning assets at " + assets_dir)
-    db = dict()
-    db[""] = dict()
+    db = [{"": dict()}, {"": dict()}]
+    # db[""] =
     foi = list()
     endings = tuple(files_of_interest.keys())
     for subdir, dirs, files in walk(assets_dir):
         for thefile in files:
-            if thefile.endswith(endings):
+            if subdir.replace('\\', '/').replace(root_dir, "") in dir_blacklist:
+                break
+            if thefile.endswith(endings) or thefile.endswith(".patch"):
                 foi.append(normpath(join(subdir, thefile)))
-    with Pool(8) as p:
+    with Pool(parse_process_number) as p:
         r = p.imap_unordered(parseFile, foi)
         for chunk in r:
-            for sec, val, fname, path in chunk:
-                if sec not in db:
-                    db[sec] = dict()
-                if val not in db[sec]:
-                    db[sec][val] = dict()
-                filename = normpath(
-                    relpath(abspath(fname), abspath(assets_dir)))
-                if filename not in db[sec][val]:
-                    db[sec][val][filename] = list()
-                if path not in db[sec][val][filename]:
-                    insort_left(db[sec][val][filename], path)
+            if chunk == []:
+                continue
+            if chunk[0] == "patch":
+                del chunk[0]
+                chunk_parse(chunk, db[1], assets_dir)
+            else:
+                chunk_parse(chunk, db[0], assets_dir)
         return db
 
 
-def file_by_assets(assets_fname, field, substitutions):
+def file_by_assets(assets_fname, field, substitutions, header):
     if assets_fname in substitutions and field in substitutions[assets_fname]:
         return substitutions[assets_fname][field]
     else:
-        return normpath(join(texts_prefix, assets_fname)) + ".json"
+        return normpath(join(header, assets_fname)) + ".json"
 
 
 def process_label(combo):
-    label, files, oldsubs, section = combo
+    label, files, oldsubs, section, header = combo
     substitutions = dict()
     obj_file = normpath(getSharedPath(files.keys()))
     translation = dict()
@@ -155,14 +191,14 @@ def process_label(combo):
                 obj_file = normpath(specialSharedPaths[fieldend])
             if obj_file == '.':
                 obj_file = "wide_spread_fields"
-            filename = normpath(join(prefix, texts_prefix, obj_file + ".json"))
+            filename = normpath(join(prefix, header, obj_file + ".json"))
             if thefile != obj_file or fieldend in ["glitchEmotedText"]:
                 if thefile not in substitutions:
                     substitutions[thefile] = dict()
                 substitutions[thefile][field] = normpath(
                     relpath(filename, prefix))
             oldfile = normpath(
-                join(prefix, file_by_assets(thefile, field, oldsubs)))
+                join(prefix, file_by_assets(thefile, field, oldsubs, header)))
             if exists(oldfile):
                 olddata = []
                 try:
@@ -183,11 +219,12 @@ def process_label(combo):
     return (filename, translation, substitutions)
 
 
-def prepare_to_write(database):
+def prepare_to_write(database, sub_file, header):
     file_buffer = dict()
     substitutions = dict()
     oldsubs = dict()
-    print("Trying to merge with old data...")
+    header = header
+    print("Trying to merge with old "+header+" data...")
     try:
         with open_n_decode(sub_file, "r", 'utf-8') as f:
             oldsubs = load(f)
@@ -196,7 +233,7 @@ def prepare_to_write(database):
     for section, thedatabase in database.items():
         with Pool(8) as p:
             result = p.imap_unordered(process_label,
-                                      [(f, d, oldsubs, section) for f, d in thedatabase.items()], 40)
+                                      [(f, d, oldsubs, section, header) for f, d in thedatabase.items()], 40)
             for fn, js, sb in result:
                 for fs, flds in sb.items():
                     if fs not in substitutions:
@@ -235,9 +272,9 @@ def write_file(filename, content):
 
 
 # auto processing
-def final_write(file_buffer):
-    danglings = catch_danglings(join(prefix, "texts"), file_buffer)
-    print("These files will be deleted:")
+def final_write(file_buffer, header):
+    danglings = catch_danglings(join(prefix, header), file_buffer)
+    print("These "+header+" files will be deleted:")
     for d in danglings:
         print('  ' + d)
         print('Writing...')
@@ -267,16 +304,17 @@ def final_write(file_buffer):
     p.join()
 '''
 
-
+"""
 def extract_labels(root_dir, prefix):
     root_dir = root_dir
     prefix = prefix
     thedatabase = construct_db(root_dir)
     file_buffer = prepare_to_write(thedatabase)
     final_write(file_buffer)
+"""
 
 
 if __name__ == "__main__":
-    root_dir = "F:/Sunless_Sea_Data/Sunless Sea_source_file"
-    prefix = "F:/Sunless_Sea_Chinese_Translation_Mod_Re/translations"
-    extract_labels(root_dir, prefix)
+    thedatabase = construct_db(root_dir)
+    file_buffer = prepare_to_write(thedatabase[0], sub_file, texts_prefix)
+    final_write(file_buffer, texts_prefix)
