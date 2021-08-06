@@ -1,0 +1,340 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/0/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "不可破坏的遗嘱",
+      "Eng": "A Ironclad Will"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/1/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "继承人",
+      "Eng": "A Scion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/7/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Eng": "Behold Her Ladyship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/3/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "恶徒之书",
+      "Eng": "Boke of Sharps"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/JettisonEvents/0/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain! What are you thinking?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/5/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Chs": "将迷失的妹妹送去她的故乡.",
+      "Eng": "Carry a lost sister to her homeland."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/JettisonEvents/1/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eject the Checquered Character"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/JettisonEvents/3/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eject the Delightful Adventuress"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/JettisonEvents/0/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eject the Shady Sort"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/JettisonEvents/2/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eject the Unsettling Sage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/2/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Chs": "去北方.",
+      "Eng": "Go North."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/2/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "地平线法典",
+      "Eng": "Horizon Codex"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/JettisonEvents/3/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't _think_ so."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/5/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "提升你的初始 红心值 25.",
+      "Eng": "Increases your starting Hearts by +25."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/3/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "提升你的初始 钢铁值 25.",
+      "Eng": "Increases your starting Iron by +25."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/4/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "提升你的初始 镜子值 25.",
+      "Eng": "Increases your starting Mirrors by +25."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/7/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "提升你的初始 书页值 10.",
+      "Eng": "Increases your starting Pages by +10."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/2/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "提升你的初始 书页值 25.",
+      "Eng": "Increases your starting Pages by +25."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/6/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "提升你的初始 面纱值 25.",
+      "Eng": "Increases your starting Veils by +25."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/6/Name"
+      ]
+    },
+    "Texts": {
+      "Chs": "奇迹手册",
+      "Eng": "Manual of Miracles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/JettisonEvents/2/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Eng": "No no no. We shall do... wonderful things together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/1/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Chs": "养育一个孩子, 并带给其来自海泽的礼物.",
+      "Eng": "Raise a child, and bring it gifts from the zee."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/3/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Chs": "让无政府主义者统御.",
+      "Eng": "Raise the Anarchists to prominence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/4/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rise high and go east."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/1/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这一次, 你可以选择两项遗产.",
+      "Eng": "This time, you can choose two legacies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/0/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Chs": "升级你的住处并付钱订立遗嘱.",
+      "Eng": "Upgrade your Lodgings and purchase a Will."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/6/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Chs": "在被遗忘时, 找到那被遗忘之人.",
+      "Eng": "While forgotten, find one who is forgotten."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/JettisonEvents/1/Tooltip"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrong move!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/Associations.json": [
+        "/0/LegacyUnlockQualities/0/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "你的下一个人物会继承你的住处, 以及你存在那里的继承物.",
+      "Eng": "Your next character inherits your Lodgings, along with any Heirlooms you have stored there."
+    }
+  }
+]

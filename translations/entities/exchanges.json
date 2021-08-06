@@ -1,0 +1,938 @@
+[
+  {
+    "context": "",
+    "key": "2$Name",
+    "original": "London",
+    "translation": "伦敦"
+  },
+  {
+    "context": "",
+    "key": "2$Description",
+    "original": "Cargoes, treasures, weapons, secrets. Mischief.",
+    "translation": "货物,财宝,武器,秘密.还有骗局."
+  },
+  {
+    "context": "",
+    "key": "2|13%Shops$Name",
+    "original": "London",
+    "translation": "伦敦"
+  },
+  {
+    "context": "",
+    "key": "2|13%Shops$Description",
+    "original": "Cargoes, treasures, weapons, secrets. Mischief.",
+    "translation": "货物,财宝,武器,秘密.还有骗局."
+  },
+  {
+    "context": "",
+    "key": "2|14%Shops$Name",
+    "original": "London",
+    "translation": "伦敦"
+  },
+  {
+    "context": "",
+    "key": "2|14%Shops$Description",
+    "original": "Cargoes, treasures, weapons, secrets. Mischief.",
+    "translation": "货物,财宝,武器,秘密.还有骗局."
+  },
+  {
+    "context": "",
+    "key": "2|16%Shops$Name",
+    "original": "London",
+    "translation": "伦敦"
+  },
+  {
+    "context": "",
+    "key": "2|16%Shops$Description",
+    "original": "Cargoes, treasures, weapons, secrets. Mischief.",
+    "translation": "货物,财宝,武器,秘密.还有骗局."
+  },
+  {
+    "context": "",
+    "key": "2|33%Shops$Name",
+    "original": "London",
+    "translation": "伦敦"
+  },
+  {
+    "context": "",
+    "key": "2|33%Shops$Description",
+    "original": "Cargoes, treasures, weapons, secrets. Mischief.",
+    "translation": "货物,财宝,武器,秘密.还有骗局."
+  },
+  {
+    "context": "",
+    "key": "2|34%Shops$Name",
+    "original": "London",
+    "translation": "伦敦"
+  },
+  {
+    "context": "",
+    "key": "2|34%Shops$Description",
+    "original": "Cargoes, treasures, weapons, secrets. Mischief.",
+    "translation": "货物,财宝,武器,秘密.还有骗局."
+  },
+  {
+    "context": "",
+    "key": "2|35%Shops$Name",
+    "original": "London",
+    "translation": "伦敦"
+  },
+  {
+    "context": "",
+    "key": "2|35%Shops$Description",
+    "original": "Cargoes, treasures, weapons, secrets. Mischief.",
+    "translation": "货物,财宝,武器,秘密.还有骗局."
+  },
+  {
+    "context": "",
+    "key": "13$Name",
+    "original": "Polythreme",
+    "translation": "碎心国"
+  },
+  {
+    "context": "",
+    "key": "13$Description",
+    "original": "BUY. SELL.",
+    "translation": "买. 卖."
+  },
+  {
+    "context": "",
+    "key": "13|40%Shops$Name",
+    "original": "Polythreme",
+    "translation": "碎心国"
+  },
+  {
+    "context": "",
+    "key": "13|40%Shops$Description",
+    "original": "BUY. SELL.",
+    "translation": "买. 卖."
+  },
+  {
+    "context": "",
+    "key": "4$Name",
+    "original": "Port Carnelian Market",
+    "translation": "玛瑙港市场"
+  },
+  {
+    "context": "",
+    "key": "4$Description",
+    "original": "Not just sapphires. Although there are quite a lot of sapphires.",
+    "translation": "不只是蓝宝石.尽管这里卖的大多都是蓝宝石"
+  },
+  {
+    "context": "",
+    "key": "4|20%Shops$Name",
+    "original": "Port Carnelian Market",
+    "translation": "玛瑙港市场"
+  },
+  {
+    "context": "",
+    "key": "4|20%Shops$Description",
+    "original": "Not just sapphires. Although there are quite a lot of sapphires.",
+    "translation": "不只是蓝宝石.尽管这里卖的大多都是蓝宝石"
+  },
+  {
+    "context": "",
+    "key": "4|22%Shops$Name",
+    "original": "Port Carnelian Market",
+    "translation": "玛瑙港市场"
+  },
+  {
+    "context": "",
+    "key": "4|22%Shops$Description",
+    "original": "Not just sapphires. Although there are quite a lot of sapphires.",
+    "translation": "不只是蓝宝石.尽管这里卖的大多都是蓝宝石"
+  },
+  {
+    "context": "",
+    "key": "5$Name",
+    "original": "Adam's Way",
+    "translation": "亚当之路"
+  },
+  {
+    "context": "",
+    "key": "5$Description",
+    "original": "The gateway to the Continent's treasures.",
+    "translation": "通往古大陆藏宝地的大门。"
+  },
+  {
+    "context": "",
+    "key": "5|23%Shops$Name",
+    "original": "Adam's Way",
+    "translation": "亚当之路"
+  },
+  {
+    "context": "",
+    "key": "5|23%Shops$Description",
+    "original": "The gateway to the Continent's treasures.",
+    "translation": "通往古大陆藏宝地的大门。"
+  },
+  {
+    "context": "",
+    "key": "17$Name",
+    "original": "Market of Hungers",
+    "translation": "饥饿市场"
+  },
+  {
+    "context": "",
+    "key": "17$Description",
+    "original": "Use a MARKET OF HUNGERS choice under STORY to access more goods.",
+    "translation": "用故事的选择之一饥饿市场来寻找更多货物"
+  },
+  {
+    "context": "",
+    "key": "17|41%Shops$Name",
+    "original": "Market of Hungers",
+    "translation": "饥饿市场"
+  },
+  {
+    "context": "",
+    "key": "17|41%Shops$Description",
+    "original": "Use a MARKET OF HUNGERS choice under STORY to access more goods.",
+    "translation": "用故事的选择之一饥饿市场来寻找更多货物"
+  },
+  {
+    "context": "",
+    "key": "7$Name",
+    "original": "Tomb-Colonies",
+    "translation": "死亡侨居地"
+  },
+  {
+    "context": "",
+    "key": "7$Description",
+    "original": "Cobwebbed harbours of antique stone.",
+    "translation": "古老石头上缠满蜘蛛网的市场."
+  },
+  {
+    "context": "",
+    "key": "7|29%Shops$Name",
+    "original": "Tomb-Colonies",
+    "translation": "死亡侨居地"
+  },
+  {
+    "context": "",
+    "key": "7|29%Shops$Description",
+    "original": "Cobwebbed harbours of antique stone.",
+    "translation": "古老石头上缠满蜘蛛网的市场."
+  },
+  {
+    "context": "",
+    "key": "7|30%Shops$Name",
+    "original": "Tomb-Colonies",
+    "translation": "死亡侨居地"
+  },
+  {
+    "context": "",
+    "key": "7|30%Shops$Description",
+    "original": "Cobwebbed harbours of antique stone.",
+    "translation": "古老石头上缠满蜘蛛网的市场."
+  },
+  {
+    "context": "",
+    "key": "7|31%Shops$Name",
+    "original": "Tomb-Colonies",
+    "translation": "死亡侨居地"
+  },
+  {
+    "context": "",
+    "key": "7|31%Shops$Description",
+    "original": "Cobwebbed harbours of antique stone.",
+    "translation": "古老石头上缠满蜘蛛网的市场."
+  },
+  {
+    "context": "",
+    "key": "8$Name",
+    "original": "Scattered Stalls",
+    "translation": "散落的摊位"
+  },
+  {
+    "context": "",
+    "key": "8$Description",
+    "original": "Scattered stalls on the dock-side.",
+    "translation": "码头附近散落着许多小摊."
+  },
+  {
+    "context": "",
+    "key": "8|32%Shops$Name",
+    "original": "Scattered Stalls",
+    "translation": "散落的摊位"
+  },
+  {
+    "context": "",
+    "key": "8|32%Shops$Description",
+    "original": "Scattered stalls on the dock-side.",
+    "translation": "码头附近散落着许多小摊."
+  },
+  {
+    "context": "",
+    "key": "3$Name",
+    "original": "Nephrite Quarter",
+    "translation": "软玉区"
+  },
+  {
+    "context": "",
+    "key": "3|17%Shops$Name",
+    "original": "Nephrite Quarter",
+    "translation": "软玉区"
+  },
+  {
+    "context": "",
+    "key": "3|17%Shops$Description",
+    "original": null,
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "3|18%Shops$Name",
+    "original": "Nephrite Quarter",
+    "translation": "软玉区"
+  },
+  {
+    "context": "",
+    "key": "3|18%Shops$Description",
+    "original": null,
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "3|19%Shops$Name",
+    "original": "Nephrite Quarter",
+    "translation": "软玉区"
+  },
+  {
+    "context": "",
+    "key": "3|19%Shops$Description",
+    "original": null,
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "10$Name",
+    "original": "Whither",
+    "translation": "何方"
+  },
+  {
+    "context": "",
+    "key": "10$Description",
+    "original": "Where are questions born?",
+    "translation": "问题从哪里产生?"
+  },
+  {
+    "context": "",
+    "key": "10|37%Shops$Name",
+    "original": "Whither",
+    "translation": "何方"
+  },
+  {
+    "context": "",
+    "key": "10|37%Shops$Description",
+    "original": "Where are questions born?",
+    "translation": "问题从哪里产生?"
+  },
+  {
+    "context": "",
+    "key": "10|38%Shops$Name",
+    "original": "Whither",
+    "translation": "何方"
+  },
+  {
+    "context": "",
+    "key": "10|38%Shops$Description",
+    "original": "Where are questions born?",
+    "translation": "问题从哪里产生?"
+  },
+  {
+    "context": "",
+    "key": "12$Name",
+    "original": "Palmerston",
+    "translation": "帕默斯顿"
+  },
+  {
+    "context": "",
+    "key": "12|27%Shops$Name",
+    "original": "Palmerston",
+    "translation": "帕默斯顿"
+  },
+  {
+    "context": "",
+    "key": "12|27%Shops$Description",
+    "original": null,
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "12|39%Shops$Name",
+    "original": "Palmerston",
+    "translation": "帕默斯顿"
+  },
+  {
+    "context": "",
+    "key": "12|39%Shops$Description",
+    "original": null,
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "11$Name",
+    "original": "Corsair's Forest",
+    "translation": "海盗之林"
+  },
+  {
+    "context": "",
+    "key": "11$Description",
+    "original": "Loot for sale or rent.",
+    "translation": "战利品买卖与租借"
+  },
+  {
+    "context": "",
+    "key": "11|24%Shops$Name",
+    "original": "Corsair's Forest",
+    "translation": "海盗之林"
+  },
+  {
+    "context": "",
+    "key": "11|24%Shops$Description",
+    "original": "Loot for sale or rent.",
+    "translation": "战利品买卖与租借"
+  },
+  {
+    "context": "",
+    "key": "11|49%Shops$Name",
+    "original": "Corsair's Forest",
+    "translation": "海盗之林"
+  },
+  {
+    "context": "",
+    "key": "11|49%Shops$Description",
+    "original": "Loot for sale or rent.",
+    "translation": "战利品买卖与租借"
+  },
+  {
+    "context": "",
+    "key": "14$Name",
+    "original": "The Calvary Doctrine",
+    "translation": "骷髅地的信条"
+  },
+  {
+    "context": "",
+    "key": "14$Description",
+    "original": "Sacrifice what is needful, and gain that which is desirable.",
+    "translation": "牺牲需要的东西,得到想要的东西."
+  },
+  {
+    "context": "",
+    "key": "14|25%Shops$Name",
+    "original": "The Calvary Doctrine",
+    "translation": "骷髅地的信条"
+  },
+  {
+    "context": "",
+    "key": "14|25%Shops$Description",
+    "original": "Sacrifice what is needful, and gain that which is desirable.",
+    "translation": "牺牲需要的东西,得到想要的东西."
+  },
+  {
+    "context": "",
+    "key": "15$Name",
+    "original": "The Gesundheit Conspiracy",
+    "translation": "祝您健康阴谋集团"
+  },
+  {
+    "context": "",
+    "key": "15$Description",
+    "original": "You will be happy, and healthy. Nothing else remains.",
+    "translation": "你会变得幸福与健康.除此之外什么都得不到."
+  },
+  {
+    "context": "",
+    "key": "15|28%Shops$Name",
+    "original": "The Gesundheit Conspiracy",
+    "translation": "祝您健康阴谋集团"
+  },
+  {
+    "context": "",
+    "key": "15|28%Shops$Description",
+    "original": "You will be happy, and healthy. Nothing else remains.",
+    "translation": "你会变得幸福与健康.除此之外什么都得不到."
+  },
+  {
+    "context": "",
+    "key": "6$Name",
+    "original": "The Parliament of Flies",
+    "translation": "苍蝇议会"
+  },
+  {
+    "context": "",
+    "key": "6$Description",
+    "original": "Flies. Listen.",
+    "translation": "苍蝇. 听着."
+  },
+  {
+    "context": "",
+    "key": "6|26%Shops$Name",
+    "original": "The Parliament of Flies",
+    "translation": "苍蝇议会"
+  },
+  {
+    "context": "",
+    "key": "6|26%Shops$Description",
+    "original": "Flies. Listen.",
+    "translation": "苍蝇. 听着."
+  },
+  {
+    "context": "",
+    "key": "16$Name",
+    "original": "Expulsus",
+    "translation": "驱逐"
+  },
+  {
+    "context": "",
+    "key": "16$Description",
+    "original": "GIVE BONE TAKE SPIRIT",
+    "translation": "以骨换魂"
+  },
+  {
+    "context": "",
+    "key": "16|21%Shops$Name",
+    "original": "Expulsus",
+    "translation": "驱逐"
+  },
+  {
+    "context": "",
+    "key": "16|21%Shops$Description",
+    "original": "GIVE BONE TAKE SPIRIT",
+    "translation": "以骨换魂"
+  },
+  {
+    "context": "",
+    "key": "19$Name",
+    "original": "A Notch in the Shell",
+    "translation": "贝壳上的刻痕"
+  },
+  {
+    "context": "",
+    "key": "19$Description",
+    "original": "Skin-and-bone stalls crowd a narrow space.",
+    "translation": "皮革和骨头聚集在狭窄的空间里."
+  },
+  {
+    "context": "",
+    "key": "19|43%Shops$Name",
+    "original": "A Notch in the Shell",
+    "translation": "贝壳上的刻痕"
+  },
+  {
+    "context": "",
+    "key": "19|43%Shops$Description",
+    "original": "Skin-and-bone stalls crowd a narrow space.",
+    "translation": "皮革和骨头聚集在狭窄的空间里."
+  },
+  {
+    "context": "",
+    "key": "20$Name",
+    "original": "A Bountiful Exchange",
+    "translation": "慷慨的交易所"
+  },
+  {
+    "context": "",
+    "key": "20$Description",
+    "original": "How kind are the many-legged neighbours, to sell their gifts so cheaply!",
+    "translation": "这些多腿的邻居太善良了, 他们的东西卖的很便宜!"
+  },
+  {
+    "context": "",
+    "key": "20|44%Shops$Name",
+    "original": "A Bountiful Exchange",
+    "translation": "慷慨的交易所"
+  },
+  {
+    "context": "",
+    "key": "20|44%Shops$Description",
+    "original": "How kind are the many-legged neighbours, to sell their gifts so cheaply!",
+    "translation": "这些多腿的邻居太善良了, 他们的东西卖的很便宜!"
+  },
+  {
+    "context": "",
+    "key": "21$Name",
+    "original": "The Last Market",
+    "translation": "最后的市场"
+  },
+  {
+    "context": "",
+    "key": "21$Description",
+    "original": "Beyond this place, who knows?",
+    "translation": "比这还远的地方,有人去过吗?"
+  },
+  {
+    "context": "",
+    "key": "21|45%Shops$Name",
+    "original": "The Last Market",
+    "translation": "最后的市场"
+  },
+  {
+    "context": "",
+    "key": "21|45%Shops$Description",
+    "original": "Beyond this place, who knows?",
+    "translation": "比这还远的地方,有人去过吗?"
+  },
+  {
+    "context": "",
+    "key": "21|46%Shops$Name",
+    "original": "The Last Market",
+    "translation": "最后的市场"
+  },
+  {
+    "context": "",
+    "key": "21|46%Shops$Description",
+    "original": "Beyond this place, who knows?",
+    "translation": "比这还远的地方,有人去过吗?"
+  },
+  {
+    "context": "",
+    "key": "21|47%Shops$Name",
+    "original": "The Last Market",
+    "translation": "最后的市场"
+  },
+  {
+    "context": "",
+    "key": "21|47%Shops$Description",
+    "original": "Beyond this place, who knows?",
+    "translation": "比这还远的地方,有人去过吗?"
+  },
+  {
+    "context": "",
+    "key": "9$Name",
+    "original": "Nuncio",
+    "translation": "农西奥"
+  },
+  {
+    "context": "",
+    "key": "9$Description",
+    "original": "NUUUUNCIO!",
+    "translation": "农ooooo西奥!"
+  },
+  {
+    "context": "",
+    "key": "9|36%Shops$Name",
+    "original": "Nuncio",
+    "translation": "农西奥"
+  },
+  {
+    "context": "",
+    "key": "9|36%Shops$Description",
+    "original": "NUUUUNCIO!",
+    "translation": "农ooooo西奥!"
+  },
+  {
+    "context": "",
+    "key": "18$Name",
+    "original": "Freemarket",
+    "translation": "自由市场"
+  },
+  {
+    "context": "",
+    "key": "18$Description",
+    "original": "Trade unfettered by the Khanate's law.",
+    "translation": "不受汗国法律支配的自由交易"
+  },
+  {
+    "context": "",
+    "key": "18|42%Shops$Name",
+    "original": "Freemarket",
+    "translation": "自由市场"
+  },
+  {
+    "context": "",
+    "key": "18|42%Shops$Description",
+    "original": "Trade unfettered by the Khanate's law.",
+    "translation": "不受汗国法律支配的自由交易"
+  },
+  {
+    "context": "",
+    "key": "18|48%Shops$Name",
+    "original": "Freemarket",
+    "translation": "自由市场"
+  },
+  {
+    "context": "",
+    "key": "18|48%Shops$Description",
+    "original": "Trade unfettered by the Khanate's law.",
+    "translation": "不受汗国法律支配的自由交易"
+  },
+  {
+    "context": "",
+    "key": "30$Name",
+    "original": "The Gant Pole",
+    "translation": "可汗之心"
+  },
+  {
+    "context": "",
+    "key": "30$Description",
+    "original": "Where pocket-watches go to die.",
+    "translation": "怀表死去的地方."
+  },
+  {
+    "context": "",
+    "key": "30|58%Shops$Name",
+    "original": "The Gant Pole",
+    "translation": "可汗之心"
+  },
+  {
+    "context": "",
+    "key": "30|58%Shops$Description",
+    "original": "Where pocket-watches go to die.",
+    "translation": "怀表死去的地方."
+  },
+  {
+    "context": "",
+    "key": "30|59%Shops$Name",
+    "original": "The Gant Pole",
+    "translation": "可汗之心"
+  },
+  {
+    "context": "",
+    "key": "30|59%Shops$Description",
+    "original": "Where pocket-watches go to die.",
+    "translation": "怀表死去的地方."
+  },
+  {
+    "context": "",
+    "key": "22$Name",
+    "original": "The Fortas Kettle",
+    "translation": "水壶要塞"
+  },
+  {
+    "context": "",
+    "key": "22$Description",
+    "original": "A restrained research vessel.",
+    "translation": "被缚的考察船."
+  },
+  {
+    "context": "",
+    "key": "22|50%Shops$Name",
+    "original": "The Fortas Kettle",
+    "translation": "水壶要塞"
+  },
+  {
+    "context": "",
+    "key": "22|50%Shops$Description",
+    "original": "A restrained research vessel.",
+    "translation": "被缚的考察船."
+  },
+  {
+    "context": "",
+    "key": "23$Name",
+    "original": "Anthe",
+    "translation": "安忒"
+  },
+  {
+    "context": "",
+    "key": "23$Description",
+    "original": "A city of flowering crystal.",
+    "translation": "一座水晶花一般的城市."
+  },
+  {
+    "context": "",
+    "key": "23|51%Shops$Name",
+    "original": "Anthe",
+    "translation": "安忒"
+  },
+  {
+    "context": "",
+    "key": "23|51%Shops$Description",
+    "original": "A city of flowering crystal.",
+    "translation": "一座水晶花一般的城市."
+  },
+  {
+    "context": "",
+    "key": "24$Name",
+    "original": "Nook",
+    "translation": "旮旯"
+  },
+  {
+    "context": "",
+    "key": "24$Description",
+    "original": "Teeth.",
+    "translation": "牙."
+  },
+  {
+    "context": "",
+    "key": "24|52%Shops$Name",
+    "original": "Nook",
+    "translation": "旮旯"
+  },
+  {
+    "context": "",
+    "key": "24|52%Shops$Description",
+    "original": "Teeth.",
+    "translation": "牙."
+  },
+  {
+    "context": "",
+    "key": "26$Name",
+    "original": "Scrimshander",
+    "translation": "骨雕馆"
+  },
+  {
+    "context": "",
+    "key": "26$Description",
+    "original": "Ivory and historiography.",
+    "translation": "长牙和史书."
+  },
+  {
+    "context": "",
+    "key": "26|54%Shops$Name",
+    "original": "Scrimshander",
+    "translation": "骨雕馆"
+  },
+  {
+    "context": "",
+    "key": "26|54%Shops$Description",
+    "original": "Ivory and historiography.",
+    "translation": "长牙和史书."
+  },
+  {
+    "context": "",
+    "key": "27$Name",
+    "original": "Dahut",
+    "translation": "达哈"
+  },
+  {
+    "context": "",
+    "key": "27$Description",
+    "original": "Here: peace.",
+    "translation": "这里: 和平."
+  },
+  {
+    "context": "",
+    "key": "27|55%Shops$Name",
+    "original": "Dahut",
+    "translation": "达哈"
+  },
+  {
+    "context": "",
+    "key": "27|55%Shops$Description",
+    "original": "Here: peace.",
+    "translation": "这里: 和平."
+  },
+  {
+    "context": "",
+    "key": "29$Name",
+    "original": "Prospering Wrack",
+    "translation": "繁荣之墟"
+  },
+  {
+    "context": "",
+    "key": "29$Description",
+    "original": "A city of delights.",
+    "translation": "一座快乐的城市."
+  },
+  {
+    "context": "",
+    "key": "29|57%Shops$Name",
+    "original": "Prospering Wrack",
+    "translation": "繁荣之墟"
+  },
+  {
+    "context": "",
+    "key": "29|57%Shops$Description",
+    "original": "A city of delights.",
+    "translation": "一座快乐的城市."
+  },
+  {
+    "context": "",
+    "key": "28$Name",
+    "original": "Struggling Wrack",
+    "translation": "挣扎之墟"
+  },
+  {
+    "context": "",
+    "key": "28$Description",
+    "original": "A city of sallow wreckers.",
+    "translation": "一座充满了面色灰黄船难者的城市."
+  },
+  {
+    "context": "",
+    "key": "28|56%Shops$Name",
+    "original": "Struggling Wrack",
+    "translation": "挣扎之墟"
+  },
+  {
+    "context": "",
+    "key": "28|56%Shops$Description",
+    "original": "A city of sallow wreckers.",
+    "translation": "一座充满了面色灰黄船难者的城市."
+  },
+  {
+    "context": "",
+    "key": "31$Name",
+    "original": "Rosegate",
+    "translation": "玫瑰之门"
+  },
+  {
+    "context": "",
+    "key": "31$Description",
+    "original": "The finest cigar shop above or below the waves.",
+    "translation": "无论波浪之上还是波浪之下, 这里都是最好的烟草店."
+  },
+  {
+    "context": "",
+    "key": "31|60%Shops$Name",
+    "original": "Rosegate",
+    "translation": "玫瑰之门"
+  },
+  {
+    "context": "",
+    "key": "31|60%Shops$Description",
+    "original": "The finest cigar shop above or below the waves.",
+    "translation": "无论波浪之上还是波浪之下, 这里都是最好的烟草店."
+  },
+  {
+    "context": "",
+    "key": "32$Name",
+    "original": "Low Barnet",
+    "translation": "沉没的巴内特"
+  },
+  {
+    "context": "",
+    "key": "32$Description",
+    "original": "The bell still tolls.",
+    "translation": "钟声依旧."
+  },
+  {
+    "context": "",
+    "key": "32|61%Shops$Name",
+    "original": "Low Barnet",
+    "translation": "沉没的巴内特"
+  },
+  {
+    "context": "",
+    "key": "32|61%Shops$Description",
+    "original": "The bell still tolls.",
+    "translation": "钟声依旧."
+  },
+  {
+    "context": "",
+    "key": "25$Name",
+    "original": "Hideaway",
+    "translation": "隐逸之地"
+  },
+  {
+    "context": "",
+    "key": "25$Description",
+    "original": "A place of refuge.",
+    "translation": "一个避难之地."
+  },
+  {
+    "context": "",
+    "key": "25|53%Shops$Name",
+    "original": "Hideaway",
+    "translation": "隐逸之地"
+  },
+  {
+    "context": "",
+    "key": "25|53%Shops$Description",
+    "original": "A place of refuge.",
+    "translation": "一个避难之地."
+  }
+]

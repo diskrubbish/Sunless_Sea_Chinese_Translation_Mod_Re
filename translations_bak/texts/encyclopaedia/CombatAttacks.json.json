@@ -1,0 +1,31 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/CombatAttacks.json": [
+        "/0/Description",
+        "/1/Description",
+        "/2/Description",
+        "/46/Description",
+        "/47/Description",
+        "/48/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "对船只造成 {x} 伤害 对生物造成 {y} 伤害.",
+      "Eng": "Deals {x} damage against ships and {y} damage against creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "encyclopaedia/CombatAttacks.json": [
+        "/3/Description"
+      ]
+    },
+    "Texts": {
+      "Chs": "撞击. 对船只造成 {x} 伤害 对生物造成 {y} 伤害.",
+      "Eng": "Ramming attack. Deals {x} damage against ships and {y} damage against creatures."
+    }
+  }
+]

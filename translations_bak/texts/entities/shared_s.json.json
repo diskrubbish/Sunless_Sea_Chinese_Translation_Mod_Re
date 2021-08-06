@@ -1,0 +1,898 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/121/Teaser",
+        "/201/Teaser",
+        "/230/ChildBranches/0/DefaultEvent/Teaser",
+        "/231/ChildBranches/1/DefaultEvent/Teaser",
+        "/26/ChildBranches/0/RareSuccessEvent/Teaser",
+        "/26/ChildBranches/1/RareSuccessEvent/Teaser",
+        "/26/ChildBranches/2/RareSuccessEvent/Teaser",
+        "/26/ChildBranches/3/RareSuccessEvent/Teaser",
+        "/295/Description",
+        "/295/Teaser",
+        "/296/Description",
+        "/296/Teaser",
+        "/297/Description",
+        "/297/Teaser",
+        "/396/ChildBranches/0/DefaultEvent/Teaser",
+        "/397/ChildBranches/2/DefaultEvent/Teaser",
+        "/411/ChildBranches/0/DefaultEvent/Teaser",
+        "/447/ChildBranches/0/DefaultEvent/Teaser",
+        "/507/ChildBranches/1/RareDefaultEvent/Teaser",
+        "/570/ChildBranches/1/DefaultEvent/Teaser",
+        "/641/ChildBranches/0/RareSuccessEvent/Teaser",
+        "/668/ChildBranches/12/DefaultEvent/Teaser",
+        "/699/ChildBranches/14/DefaultEvent/Teaser",
+        "/699/ChildBranches/14/RareDefaultEvent/Teaser",
+        "/716/ChildBranches/3/DefaultEvent/Teaser",
+        "/716/ChildBranches/3/RareDefaultEvent/Teaser",
+        "/716/ChildBranches/3/RareSuccessEvent/Teaser",
+        "/716/ChildBranches/3/SuccessEvent/Teaser",
+        "/862/ChildBranches/4/DefaultEvent/Teaser",
+        "/863/ChildBranches/6/DefaultEvent/Teaser",
+        "/873/ChildBranches/13/SuccessEvent/Teaser"
+      ],
+      "entities/qualities.json": [
+        "/197/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/817/ChildBranches/0/DefaultEvent/Name",
+        "/817/ChildBranches/13/DefaultEvent/Name"
+      ],
+      "entities/qualities.json": [
+        "/5/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Chequered Character"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/123/Name"
+      ],
+      "entities/qualities.json": [
+        "/9/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Delightful Invitation"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/673/ChildBranches/1/Name"
+      ],
+      "entities/qualities.json": [
+        "/16/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Gift for the Monkey Emperor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/810/ChildBranches/5/Name"
+      ],
+      "entities/qualities.json": [
+        "/17/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Gift for the Pirate-King"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/207/ChildBranches/17/Name"
+      ],
+      "entities/qualities.json": [
+        "/23/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Lump of Blue Scintillack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/157/Name"
+      ],
+      "entities/qualities.json": [
+        "/97/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Remedy for the Cheery Man"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/817/ChildBranches/0/RareDefaultEvent/Name",
+        "/817/ChildBranches/13/RareDefaultEvent/Name"
+      ],
+      "entities/qualities.json": [
+        "/102/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Shady Sort"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/17/Name"
+      ],
+      "entities/qualities.json": [
+        "/118/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "ADVICE FOR CAPTAINS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/589/ChildBranches/1/Name"
+      ],
+      "entities/qualities.json": [
+        "/193/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ascetic Monkey"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/45/Name"
+      ],
+      "entities/events.json": [
+        "/580/ChildBranches/23/Name",
+        "/782/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avid Horizon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/207/ChildBranches/14/Name"
+      ],
+      "entities/qualities.json": [
+        "/208/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brimstone Buzzings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/72/ChildBranches/0/DefaultEvent/Name"
+      ],
+      "entities/qualities.json": [
+        "/211/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Caligo-class Merchant Cruiser"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/207/ChildBranches/11/Name"
+      ],
+      "entities/qualities.json": [
+        "/220/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captivating Treasure"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/577/ChildBranches/2/Name"
+      ],
+      "entities/qualities.json": [
+        "/224/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carnelian Exile"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/11/Name"
+      ],
+      "entities/events.json": [
+        "/580/ChildBranches/22/Name",
+        "/657/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chapel of Lights"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/47/Name"
+      ],
+      "entities/events.json": [
+        "/815/ChildBranches/1/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cumaean Canal Staging Area"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/664/ChildBranches/6/DefaultEvent/Name"
+      ],
+      "entities/qualities.json": [
+        "/258/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dawn's Law"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/64/Name"
+      ],
+      "entities/events.json": [
+        "/166/ChildBranches/0/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Funeral"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/47/Description"
+      ],
+      "entities/events.json": [
+        "/815/ChildBranches/1/DefaultEvent/MoveToArea/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here, the dark waters run down from the surface, from a brighter sea..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/216/ChildBranches/8/DefaultEvent/Name"
+      ],
+      "entities/qualities.json": [
+        "/378/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Icarus in Black"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/5/Name"
+      ],
+      "entities/events.json": [
+        "/216/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Republic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/207/ChildBranches/5/Name"
+      ],
+      "entities/qualities.json": [
+        "/400/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Judgements' Egg"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/66/Name"
+      ],
+      "entities/events.json": [
+        "/636/ChildBranches/0/SuccessEvent/MoveToArea/Name",
+        "/636/ChildBranches/1/DefaultEvent/MoveToArea/Name",
+        "/636/ChildBranches/2/DefaultEvent/MoveToArea/Name",
+        "/636/ChildBranches/3/SuccessEvent/MoveToArea/Name",
+        "/636/ChildBranches/4/SuccessEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kingdom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/48/Name"
+      ],
+      "entities/events.json": [
+        "/811/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-Ship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/52/Name"
+      ],
+      "entities/events.json": [
+        "/549/ChildBranches/12/DefaultEvent/MoveToArea/Name",
+        "/549/ChildBranches/13/DefaultEvent/MoveToArea/Name",
+        "/549/ChildBranches/14/DefaultEvent/MoveToArea/Name",
+        "/549/ChildBranches/15/DefaultEvent/MoveToArea/Name",
+        "/549/ChildBranches/16/DefaultEvent/MoveToArea/Name",
+        "/549/ChildBranches/17/DefaultEvent/MoveToArea/Name",
+        "/549/ChildBranches/4/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mangrove College"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/50/ChildBranches/6/Name"
+      ],
+      "entities/qualities.json": [
+        "/464/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maybe's Daughter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/50/ChildBranches/9/Name"
+      ],
+      "entities/qualities.json": [
+        "/465/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maybe's Rival"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/50/ChildBranches/10/Name"
+      ],
+      "entities/qualities.json": [
+        "/520/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nobody's Daughter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/3/ChildBranches/15/Name"
+      ],
+      "entities/qualities.json": [
+        "/628/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Recent News"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/62/Name"
+      ],
+      "entities/events.json": [
+        "/812/ChildBranches/0/DefaultEvent/MoveToArea/Name",
+        "/812/ChildBranches/6/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shattered Citadel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/549/ChildBranches/12/DefaultEvent/Name"
+      ],
+      "entities/qualities.json": [
+        "/699/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solacefruit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/49/Description"
+      ],
+      "entities/events.json": [
+        "/528/ChildBranches/13/DefaultEvent/MoveToArea/Description",
+        "/528/ChildBranches/14/DefaultEvent/MoveToArea/Description",
+        "/528/ChildBranches/16/DefaultEvent/MoveToArea/Description",
+        "/813/ChildBranches/3/DefaultEvent/MoveToArea/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sometimes - just occasionally - bits of the roof fall off. Be glad you weren't here when this one did."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/510/Name"
+      ],
+      "entities/qualities.json": [
+        "/701/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soothe & Cooper Long-Box"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/68/Name"
+      ],
+      "entities/events.json": [
+        "/547/ChildBranches/1/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stargate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/431/Name"
+      ],
+      "entities/qualities.json": [
+        "/715/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sunlight-Filled Mirrorcatch Box"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/60/Name"
+      ],
+      "entities/events.json": [
+        "/419/ChildBranches/1/DefaultEvent/MoveToArea/Name",
+        "/419/Name",
+        "/831/ChildBranches/1/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Corridors of Frostfound"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/26/Name"
+      ],
+      "entities/events.json": [
+        "/580/ChildBranches/41/Name",
+        "/710/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Fathomking's Hold"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/548/Name"
+      ],
+      "entities/qualities.json": [
+        "/800/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Horizon Codex"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/445/Name"
+      ],
+      "entities/qualities.json": [
+        "/812/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Pirate-Poet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/341/Name"
+      ],
+      "entities/qualities.json": [
+        "/820/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Snow Child"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/50/Name"
+      ],
+      "entities/events.json": [
+        "/810/ChildBranches/0/DefaultEvent/MoveToArea/Name",
+        "/832/ChildBranches/6/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Surface"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/8/Name"
+      ],
+      "entities/events.json": [
+        "/3/ChildBranches/10/DefaultEvent/MoveToArea/Name",
+        "/825/ChildBranches/0/DefaultEvent/MoveToArea/Name",
+        "/825/ChildBranches/1/DefaultEvent/MoveToArea/Name",
+        "/825/ChildBranches/2/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Unterzee"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/61/Name"
+      ],
+      "entities/events.json": [
+        "/549/Name",
+        "/817/ChildBranches/3/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Wisp-Ways"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/53/Name"
+      ],
+      "entities/events.json": [
+        "/822/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Wreck of the Nocturne"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/50/Description"
+      ],
+      "entities/events.json": [
+        "/810/ChildBranches/0/DefaultEvent/MoveToArea/Description",
+        "/832/ChildBranches/6/DefaultEvent/MoveToArea/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The sun beats down like rain. Occasionally, the rain beats down like rain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/8/Description"
+      ],
+      "entities/events.json": [
+        "/3/ChildBranches/10/DefaultEvent/MoveToArea/Description",
+        "/825/ChildBranches/0/DefaultEvent/MoveToArea/Description",
+        "/825/ChildBranches/1/DefaultEvent/MoveToArea/Description",
+        "/825/ChildBranches/2/DefaultEvent/MoveToArea/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The waters beneath the Earth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/52/Description"
+      ],
+      "entities/events.json": [
+        "/549/ChildBranches/12/DefaultEvent/MoveToArea/Description",
+        "/549/ChildBranches/13/DefaultEvent/MoveToArea/Description",
+        "/549/ChildBranches/14/DefaultEvent/MoveToArea/Description",
+        "/549/ChildBranches/15/DefaultEvent/MoveToArea/Description",
+        "/549/ChildBranches/16/DefaultEvent/MoveToArea/Description",
+        "/549/ChildBranches/17/DefaultEvent/MoveToArea/Description",
+        "/549/ChildBranches/4/DefaultEvent/MoveToArea/Description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The wise and the wicked seek sanctuary here, where the fruits are plenty and the woods wild."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/6/Name"
+      ],
+      "entities/exchanges.json": [
+        "/5/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tomb-Colonies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/67/Name"
+      ],
+      "entities/events.json": [
+        "/226/ChildBranches/0/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Turn into a zee-monster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/70/Name"
+      ],
+      "entities/events.json": [
+        "/62/ChildBranches/11/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Underwater entrance to Crow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/577/ChildBranches/4/Name"
+      ],
+      "entities/qualities.json": [
+        "/873/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Veils"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/63/Name"
+      ],
+      "entities/events.json": [
+        "/814/ChildBranches/4/DefaultEvent/MoveToArea/Name",
+        "/832/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vienna"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/65/Name"
+      ],
+      "entities/events.json": [
+        "/172/ChildBranches/0/DefaultEvent/MoveToArea/Name",
+        "/172/ChildBranches/2/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wineglasses"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/626/ChildBranches/2/Name"
+      ],
+      "entities/qualities.json": [
+        "/909/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wretched Mog"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/14/ChildBranches/1/Name"
+      ],
+      "entities/qualities.json": [
+        "/918/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your Father's Bones"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/204/Name"
+      ],
+      "entities/qualities.json": [
+        "/919/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your Father's Bones: A Cold Trail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/areas.json": [
+        "/69/Name"
+      ],
+      "entities/events.json": [
+        "/678/ChildBranches/0/DefaultEvent/MoveToArea/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zeppelin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "entities/events.json": [
+        "/452/Name",
+        "/651/Name"
+      ],
+      "entities/qualities.json": [
+        "/0/Name",
+        "/1/Name"
+      ]
+    },
+    "Texts": {
+      "Eng": "_REUSE"
+    }
+  }
+]
