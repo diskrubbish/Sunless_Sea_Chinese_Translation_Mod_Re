@@ -3,7 +3,7 @@
     "context": "",
     "key": "110434$Name",
     "original": "_REUSE",
-    "translation": "_REUSE"
+    "translation": ""
   },
   {
     "context": "",
@@ -15,7 +15,7 @@
     "context": "",
     "key": "127239$Name",
     "original": "_REUSE",
-    "translation": "_REUSE"
+    "translation": ""
   },
   {
     "context": "",
@@ -1503,25 +1503,25 @@
     "context": "",
     "key": "113440$Name",
     "original": "AKContent",
-    "translation": "AKContent"
+    "translation": ""
   },
   {
     "context": "",
     "key": "113440$Description",
     "original": "This content is structured but not yet written - AK to complete.",
-    "translation": "This content is structured but not yet written - AK to complete."
+    "translation": ""
   },
   {
     "context": "",
     "key": "110637$Name",
     "original": "AKMechanics",
-    "translation": "AKMechanics"
+    "translation": ""
   },
   {
     "context": "",
     "key": "110637$Description",
     "original": "AK to add quality reqs and other mechanics.",
-    "translation": "AK to add quality reqs and other mechanics."
+    "translation": ""
   },
   {
     "context": "",
@@ -2373,7 +2373,7 @@
     "context": "",
     "key": "103172$Description",
     "original": "...",
-    "translation": "..."
+    "translation": ""
   },
   {
     "context": "",
@@ -2871,7 +2871,7 @@
     "context": "",
     "key": "114681$Name",
     "original": "Content QA HAPPY",
-    "translation": "Content QA HAPPY"
+    "translation": ""
   },
   {
     "context": "",
@@ -2883,7 +2883,7 @@
     "context": "",
     "key": "114684$Name",
     "original": "Content QA please SS",
-    "translation": "Content QA please SS"
+    "translation": ""
   },
   {
     "context": "",
@@ -3123,7 +3123,7 @@
     "context": "",
     "key": "118481$Name",
     "original": "DebugPPKill",
-    "translation": "DebugPPKill"
+    "translation": ""
   },
   {
     "context": "",
@@ -3195,7 +3195,7 @@
     "context": "",
     "key": "126609$Name",
     "original": "Design QA Happy SS",
-    "translation": "Design QA Happy SS"
+    "translation": ""
   },
   {
     "context": "",
@@ -3207,7 +3207,7 @@
     "context": "",
     "key": "126608$Name",
     "original": "Design QA Please SS",
-    "translation": "Design QA Please SS"
+    "translation": ""
   },
   {
     "context": "",
@@ -4491,7 +4491,7 @@
     "context": "",
     "key": "102029$Name",
     "original": "Hull",
-    "translation": "Hull"
+    "translation": ""
   },
   {
     "context": "",
@@ -4845,7 +4845,7 @@
     "context": "",
     "key": "109033$Description",
     "original": "This is a placeholder for a storyline associated with a character throughline.",
-    "translation": "This is a placeholder for a storyline associated with a character throughline."
+    "translation": ""
   },
   {
     "context": "",
@@ -4857,7 +4857,7 @@
     "context": "",
     "key": "109061$Description",
     "original": "This element is not yet implemented.",
-    "translation": "This element is not yet implemented."
+    "translation": ""
   },
   {
     "context": "",
@@ -5451,7 +5451,7 @@
     "context": "",
     "key": "105361$Name",
     "original": "MaxHull",
-    "translation": "MaxHull"
+    "translation": ""
   },
   {
     "context": "",
@@ -5463,7 +5463,7 @@
     "context": "",
     "key": "110142$Name",
     "original": "MaxLife",
-    "translation": "MaxLife"
+    "translation": ""
   },
   {
     "context": "",
@@ -5595,7 +5595,7 @@
     "context": "",
     "key": "114682$Name",
     "original": "Mechanical QA HAPPY",
-    "translation": "Mechanical QA HAPPY"
+    "translation": ""
   },
   {
     "context": "",
@@ -5607,7 +5607,7 @@
     "context": "",
     "key": "114683$Name",
     "original": "Mechanical QA please",
-    "translation": "Mechanical QA please"
+    "translation": ""
   },
   {
     "context": "",
@@ -7563,7 +7563,7 @@
     "context": "",
     "key": "127612$Name",
     "original": "Reuse",
-    "translation": "Reuse"
+    "translation": ""
   },
   {
     "context": "",
@@ -7587,7 +7587,7 @@
     "context": "",
     "key": "124673$Name",
     "original": "Review HAPPY",
-    "translation": "Review HAPPY"
+    "translation": ""
   },
   {
     "context": "",
@@ -7599,7 +7599,7 @@
     "context": "",
     "key": "124672$Name",
     "original": "Review please!",
-    "translation": "Review please!"
+    "translation": ""
   },
   {
     "context": "",
@@ -7935,7 +7935,7 @@
     "context": "",
     "key": "113234$Name",
     "original": "Saviour's Rocks: RC_SR_ShowCheats",
-    "translation": "Saviour's Rocks: RC_SR_ShowCheats"
+    "translation": ""
   },
   {
     "context": "",
@@ -10923,7 +10923,7 @@
     "context": "",
     "key": "108911$Name",
     "original": "XHearts",
-    "translation": "XHearts"
+    "translation": ""
   },
   {
     "context": "",
@@ -10935,7 +10935,7 @@
     "context": "",
     "key": "108909$Name",
     "original": "XIron",
-    "translation": "XIron"
+    "translation": ""
   },
   {
     "context": "",
@@ -10947,7 +10947,7 @@
     "context": "",
     "key": "108908$Name",
     "original": "XMirrors",
-    "translation": "XMirrors"
+    "translation": ""
   },
   {
     "context": "",
@@ -10959,7 +10959,7 @@
     "context": "",
     "key": "108910$Name",
     "original": "XPages",
-    "translation": "XPages"
+    "translation": ""
   },
   {
     "context": "",
@@ -11265,7 +11265,7 @@
     "context": "",
     "key": "7053$Description",
     "original": "Failbetter has awarded this user Accredited Architect status",
-    "translation": "Failbetter has awarded this user Accredited Architect status"
+    "translation": ""
   },
   {
     "context": "",
@@ -11361,7 +11361,7 @@
     "context": "",
     "key": "110432$Description",
     "original": "You have unlocked the Parabolan Panther mascot in Sunless Sea!",
-    "translation": "You have unlocked the Parabolan Panther mascot in Sunless Sea!"
+    "translation": ""
   },
   {
     "context": "",
@@ -11373,7 +11373,7 @@
     "context": "",
     "key": "110558$Description",
     "original": "Play Sunless Sea to receive a Parabolan Kitten.",
-    "translation": "Play Sunless Sea to receive a Parabolan Kitten."
+    "translation": ""
   },
   {
     "context": "",

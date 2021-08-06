@@ -36,8 +36,8 @@ for subdir, dirs, files in walk(prefix):
         """
         if thefile.endswith(".json"):
             print(basename(normpath(join(subdir, thefile))))
-            
-            result = export_json(normpath(join(subdir, thefile)))
+
+            result = import_json(normpath(join(subdir, thefile))) #to-do
             if result is not None:
                 export_file = normpath(join(subdir, thefile)).replace(root_dir,prefix)
                 filedir = dirname(export_file)

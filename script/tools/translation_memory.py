@@ -24,6 +24,8 @@ def export_memory(path, memory_file):
                     if 'Chs' in jsondata[i]['Texts']:
                         if jsondata[i]['Texts']['Eng'] in memory.keys():
                             pass
+                        elif jsondata[i]['Texts']['Eng'] == jsondata[i]['Texts']['Chs']:
+                            pass
                         else:
                             memory[jsondata[i]['Texts']['Eng']
                                    ] = jsondata[i]['Texts']['Chs']
@@ -82,6 +84,6 @@ def import_memory_para(path, memory_file):
             f.close
 
 #ge_walk("F:/workplace/StarBound_-Mod_Misc_Chinese_Project/text/Project Knightfall","F:/workplace/StarBound_-Mod_Misc_Chinese_Project/text/Project Knightfall/memory.json")
-export_memory("F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re-101a18e40e5ad232315ba1201e5dfc0ac7a4a67b/translations","F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re/translations/memory.json")
+#export_memory("F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re-101a18e40e5ad232315ba1201e5dfc0ac7a4a67b/translations","F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re/translations/memory.json")
 import_memory_para("F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re/translations","F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re/translations/memory.json")
 

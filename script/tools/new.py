@@ -8,16 +8,7 @@ from os import makedirs, remove, walk
 from os.path import abspath, basename, dirname, exists, join, relpath
 from re import compile as regex
 from sys import platform
-
-from patch_tool import trans_patch, to_a_list
-from ignore_file import ignore_filelist
-from blacklist import dir_blacklist, path_blacklist
-from json_tools import field_by_path, list_field_paths, prepare
-from parser_settings import files_of_interest
-from shared_path import getSharedPath
-from special_cases import specialSections
-from utils import get_answer
-
+from json_tools import  prepare
 import traceback
 if platform == "win32":
     from os.path import normpath as normpath_old
@@ -27,7 +18,7 @@ if platform == "win32":
 else:
     from os.path import normpath
 root_dir = "F:/Sunless_Sea_Data/Sunless Sea_source_file"
-prefix = "F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re/translations1"
+prefix = "F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re/translations"
 
 
 def para_tranz(key, original, translation="", context=""):
@@ -36,7 +27,7 @@ def para_tranz(key, original, translation="", context=""):
     return result
 
 
-def import_json(file_path):#to-do
+def export_json(file_path):
     list = []
     with open_n_decode(file_path, "r", "utf_8_sig") as f:
         try:
@@ -109,32 +100,32 @@ def import_json(file_path):#to-do
                         for x in i["ChildBranches"]:
                             if x["Name"] != None:
                                 list.append(para_tranz(
-                                        str(i["Id"])+"|"+str(x["Id"])+"$Name", x["Name"]))
+                                        str(i["Id"])+"/"+str(x["Id"])+"$Name", x["Name"]))
                             if x["Description"] != None:
                                 list.append(para_tranz(
-                                        str(i["Id"])+"|"+str(x["Id"])+"$Description", x["Description"]))
+                                        str(i["Id"])+"/"+str(x["Id"])+"$Description", x["Description"]))
                             if x["SuccessEvent"] != None:
                                 y = x["SuccessEvent"]
                                 if y["Name"] != None:
                                     list.append(para_tranz(
-                                        str(i["Id"])+"|"+str(x["Id"])+"|"+str(y["Id"])+"%SuccessEvent$Name", y["Name"]))
-                                if x["Description"] != None:
+                                        str(i["Id"])+"/"+str(x["Id"])+"/"+str(y["Id"])+"%SuccessEvent$Name", y["Name"]))
+                                if y["Description"] != None:
                                     list.append(para_tranz(
-                                        str(i["Id"])+"|"+str(x["Id"])+"|"+str(y["Id"])+"%SuccessEvent$Description", y["Description"]))
+                                        str(i["Id"])+"/"+str(x["Id"])+"/"+str(y["Id"])+"%SuccessEvent$Description", y["Description"]))
                                 if y["Teaser"] != None:
                                     list.append(para_tranz(
-                                        str(i["Id"])+"|"+str(x["Id"])+"|"+str(y["Id"])+"%SuccessEvent$Teaser", y["Teaser"]))
+                                        str(i["Id"])+"/"+str(x["Id"])+"/"+str(y["Id"])+"%SuccessEvent$Teaser", y["Teaser"]))
                             if x["DefaultEvent"] != None:
                                 y = x["DefaultEvent"]
                                 if y["Name"] != None:
                                     list.append(para_tranz(
-                                        str(i["Id"])+"|"+str(x["Id"])+"|"+str(y["Id"])+"%DefaultEvent$Name", y["Name"]))
-                                if x["Description"] != None:
+                                        str(i["Id"])+"/"+str(x["Id"])+"/"+str(y["Id"])+"%DefaultEvent$Name", y["Name"]))
+                                if y["Description"] != None:
                                     list.append(para_tranz(
-                                        str(i["Id"])+"|"+str(x["Id"])+"|"+str(y["Id"])+"%DefaultEvent$Description", y["Description"]))
+                                        str(i["Id"])+"/"+str(x["Id"])+"/"+str(y["Id"])+"%DefaultEvent$Description", y["Description"]))
                                 if y["Teaser"] != None:
                                     list.append(para_tranz(
-                                        str(i["Id"])+"|"+str(x["Id"])+"|"+str(y["Id"])+"%DefaultEvent$Teaser", y["Teaser"]))
+                                        str(i["Id"])+"/"+str(x["Id"])+"/"+str(y["Id"])+"%DefaultEvent$Teaser", y["Teaser"]))
             elif basename(file_path) == "exchanges.json":
                 for i in jsondata:
                     if i["Name"] != None:
@@ -147,10 +138,10 @@ def import_json(file_path):#to-do
                         for x in i["Shops"]:
                             if x["Name"] != None:
                                 list.append(para_tranz(
-                                    str(i["Id"])+"|"+str(x["Id"])+"%Shops$Name", i["Name"]))
+                                    str(i["Id"])+"/"+str(x["Id"])+"%Shops$Name", x["Name"]))
                             if x["Description"] != None:
                                 list.append(para_tranz(
-                                    str(i["Id"])+"|"+str(x["Id"])+"%Shops$Description", i["Description"]))
+                                    str(i["Id"])+"/"+str(x["Id"])+"%Shops$Description", x["Description"]))
             elif basename(file_path) == "qualities.json":
                 for i in jsondata:
                     if i["Name"] != None:
