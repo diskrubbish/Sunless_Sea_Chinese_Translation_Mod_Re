@@ -1,302 +1,302 @@
 [
   {
-    "context": "",
     "key": "AuroralMegalops$HumanName",
     "original": "Auroral Megalops",
-    "translation": "极光蟹幼体"
+    "translation": "极光蟹幼体",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "BatSwarm$HumanName",
     "original": "Bat-Swarm",
-    "translation": "蝙蝠群"
+    "translation": "蝙蝠群",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "PirateSteamPinnace$HumanName",
     "original": "Pirate Steam-Pinnace",
-    "translation": "海盗蒸汽艇"
+    "translation": "海盗蒸汽艇",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Jillyfleur$HumanName",
     "original": "Jillyfleur",
-    "translation": "弗拉尔水母"
+    "translation": "弗拉尔水母",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "CrackSteamPinnace$HumanName",
     "original": "Crack Pirate Steam-Pinnace",
-    "translation": "精英海盗蒸汽艇"
+    "translation": "精英海盗蒸汽艇",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "PirateFrigate$HumanName",
     "original": "Pirate Frigate",
-    "translation": "海盗护卫舰"
+    "translation": "海盗护卫舰",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "BoundShark$HumanName",
     "original": "Bound-Shark",
-    "translation": "铁笼鲨"
+    "translation": "铁笼鲨",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "AnglerCrab$HumanName",
     "original": "Western Angler Crab",
-    "translation": "西方鮟鱇蟹"
+    "translation": "西方鮟鱇蟹",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "RatBarge$HumanName",
     "original": "Rat-Barge",
-    "translation": "老鼠运兵船"
+    "translation": "老鼠运兵船",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "UnfinishedPirates$HumanName",
     "original": "Unfinished Pirates",
-    "translation": "未完成者海盗"
+    "translation": "未完成者海盗",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "CrackPirateFrigate$HumanName",
     "original": "Crack Pirate Frigate",
-    "translation": "精英海盗护卫舰"
+    "translation": "精英海盗护卫舰",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "ParticularlyTormentedBoundShark$HumanName",
     "original": "Particularly Tormented Bound-Shark",
-    "translation": "受尽折磨的铁笼鲨"
+    "translation": "受尽折磨的铁笼鲨",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "AlbinoMoray$HumanName",
     "original": "Albino Moray",
-    "translation": "白化海鳗"
+    "translation": "白化海鳗",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Behemoustache$HumanName",
     "original": "Behemoustache",
-    "translation": "贝希摩须"
+    "translation": "贝希摩须",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "KhanateTrimaran$HumanName",
     "original": "Khanate War Trimaran",
-    "translation": "汗国三体战舰"
+    "translation": "汗国三体战舰",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "UnfinishedRevolutionaries$HumanName",
     "original": "Unfinished Revolutionaries",
-    "translation": "未完成者革命分子"
+    "translation": "未完成者革命分子",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "EasternAnglerCrab$HumanName",
     "original": "Eastern Angler Crab",
-    "translation": "东方鮟鱇蟹"
+    "translation": "东方鮟鱇蟹",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "FausticCorsair$HumanName",
     "original": "Faustic Corsair",
-    "translation": "浮士德海盗"
+    "translation": "浮士德海盗",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "GloriousFrigate$HumanName",
     "original": "Glorious Frigate",
-    "translation": "辉煌护卫舰"
+    "translation": "辉煌护卫舰",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Jillyfish$HumanName",
     "original": "Jillyfish",
-    "translation": "水母"
+    "translation": "水母",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Lifeberg$HumanName",
     "original": "Lifeberg",
-    "translation": "活冰山"
+    "translation": "活冰山",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "RepublicanDreadnought$HumanName",
     "original": "Republican Dreadnought",
-    "translation": "共和国无畏舰"
+    "translation": "共和国无畏舰",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "TyrantMoth$HumanName",
     "original": "Tyrant-Moth",
-    "translation": "暴君蛾"
+    "translation": "暴君蛾",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "BlueProphets$HumanName",
     "original": "Blue Prophets",
-    "translation": "蓝色先知"
+    "translation": "蓝色先知",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "MillinerBats$HumanName",
     "original": "Milliner Bats",
-    "translation": "衣帽商蝙蝠"
+    "translation": "衣帽商蝙蝠",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "GloriousDreadnought$HumanName",
     "original": "Glorious Dreadnought",
-    "translation": "辉煌无畏舰"
+    "translation": "辉煌无畏舰",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Soultaker$HumanName",
     "original": "Soultaker",
-    "translation": "捕魂者"
+    "translation": "捕魂者",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "ElderAnglerCrab$HumanName",
     "original": "Elder Angler Crab",
-    "translation": "年长鮟鱇蟹"
+    "translation": "年长鮟鱇蟹",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "LornFluke$HumanName",
     "original": "Lorn-Fluke",
-    "translation": "孤独锚爪海胆"
+    "translation": "孤独锚爪海胆",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "EaterOfNames$HumanName",
     "original": "Eater of Names",
-    "translation": "食名者"
+    "translation": "食名者",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "SavageLornFluke$HumanName",
     "original": "Savage Lorn-Fluke",
-    "translation": "狂野锚爪海胆"
+    "translation": "狂野锚爪海胆",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "MtNomad$HumanName",
     "original": "Mt Nomad",
-    "translation": "流浪之山"
+    "translation": "流浪之山",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "MidnightWhale$HumanName",
     "original": "Midnight Whale",
-    "translation": "午夜鲸"
+    "translation": "午夜鲸",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "TreeOfAges$HumanName",
     "original": "Tree of Ages",
-    "translation": "世纪之树"
+    "translation": "世纪之树",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "TraderTrampSteamer$HumanName",
     "original": "Tramp Steamer",
-    "translation": "货运轮船"
+    "translation": "货运轮船",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "TraderCaligo$HumanName",
     "original": "Caligo-class Cruiser",
-    "translation": "卡利戈级巡洋舰"
+    "translation": "卡利戈级巡洋舰",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Corvette$HumanName",
     "original": "Alcaeus-class Corvette",
-    "translation": "阿尔凯奥斯级护卫舰"
+    "translation": "阿尔凯奥斯级护卫舰",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Triskelegant$HumanName",
     "original": "Triskelegant",
-    "translation": "三角鬼"
+    "translation": "三角鬼",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Beloved$HumanName",
     "original": "Beloved",
-    "translation": "挚爱"
+    "translation": "挚爱",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "LornestFluke$HumanName",
     "original": "Lornest Fluke",
-    "translation": "最孤独的海胆"
+    "translation": "最孤独的海胆",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Thalatte$HumanName",
     "original": "Thalatte",
-    "translation": "塔络"
+    "translation": "塔络",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "DawnFluke$HumanName",
     "original": "Dawn Fluke",
-    "translation": "黎明海胆"
+    "translation": "黎明海胆",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Neither$HumanName",
     "original": "Neither",
-    "translation": "也不"
+    "translation": "也不",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Boundling$HumanName",
     "original": "Boundling",
-    "translation": "被缚者"
+    "translation": "被缚者",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "ConstantCompanion$HumanName",
     "original": "Constant Companion",
-    "translation": "挥之不去"
+    "translation": "挥之不去",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Undergalley$HumanName",
     "original": "Corsair Undergalley",
-    "translation": "海盗水底大船"
+    "translation": "海盗水底大船",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Putterpony$HumanName",
     "original": "Putterpony",
-    "translation": "游荡马驹"
+    "translation": "游荡马驹",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "Wreckship$HumanName",
     "original": "Wreckship",
-    "translation": "墟船"
+    "translation": "墟船",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "KhanateSubmarine$HumanName",
     "original": "Khanate Submarine",
-    "translation": "汗国潜艇"
+    "translation": "汗国潜艇",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "TheIrrepressible$HumanName",
     "original": "The Irrepressible",
-    "translation": "不驯号"
+    "translation": "不驯号",
+    "stage": 1
   }
 ]

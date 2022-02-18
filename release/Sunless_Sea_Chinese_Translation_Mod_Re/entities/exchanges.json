@@ -5348,7 +5348,7 @@
     ]
   },
   {
-    "Description": "买. 卖.",
+    "Description": "一手买进。一手卖出。",
     "Id": 13,
     "Image": "polythreme_port",
     "Name": "碎心国",
@@ -5710,7 +5710,7 @@
     ]
   },
   {
-    "Description": "不只是蓝宝石.尽管这里卖的大多都是蓝宝石",
+    "Description": "不只有蓝宝石。尽管这里卖的大多都是蓝宝石。",
     "Id": 4,
     "Image": "sapphire",
     "Name": "玛瑙港市场",
@@ -7125,7 +7125,7 @@
     ]
   },
   {
-    "Description": "用故事的选择之一饥饿市场来寻找更多货物",
+    "Description": "用“故事”的选择之一“饥饿市场”来寻找更多货物",
     "Id": 17,
     "Image": "delirium",
     "Name": "饥饿市场",
@@ -9297,7 +9297,7 @@
     ]
   },
   {
-    "Description": "问题从哪里产生?",
+    "Description": "问从何生？",
     "Id": 10,
     "Image": "whither_port",
     "Name": "何方",
@@ -10383,7 +10383,7 @@
     ]
   },
   {
-    "Description": "战利品买卖与租借",
+    "Description": "战利品买卖与租借。",
     "Id": 11,
     "Image": "corsairsforest_port",
     "Name": "海盗之林",
@@ -11266,7 +11266,7 @@
     ]
   },
   {
-    "Description": "牺牲需要的东西,得到想要的东西.",
+    "Description": "牲祭所需，换取所得。",
     "Id": 14,
     "Image": "hallowmass",
     "Name": "骷髅地的信条",
@@ -12075,7 +12075,7 @@
     ]
   },
   {
-    "Description": "苍蝇. 听着.",
+    "Description": "苍蝇们。听话。",
     "Id": 6,
     "Image": "blowfly",
     "Name": "苍蝇议会",
@@ -12607,7 +12607,7 @@
     ]
   },
   {
-    "Description": "以骨换魂",
+    "Description": "以 骨 换 魂",
     "Id": 16,
     "Image": "bloodstain",
     "Name": "驱逐",
@@ -13523,7 +13523,7 @@
     ]
   },
   {
-    "Description": "比这还远的地方,有人去过吗?",
+    "Description": "有人去过比这还远的地方吗？",
     "Id": 21,
     "Image": "aboard",
     "Name": "最后的市场",
@@ -15714,7 +15714,7 @@
     ]
   },
   {
-    "Description": "不受汗国法律支配的自由交易",
+    "Description": "不受汗国法律支配的自由交易。",
     "Id": 18,
     "Image": "khansshadow_port",
     "Name": "自由市场",
@@ -19778,7 +19778,7 @@
     ]
   },
   {
-    "Description": "这里: 和平.",
+    "Description": "此为：平和。",
     "Id": 27,
     "Image": "drownie_bearded",
     "Name": "达哈",
@@ -20225,7 +20225,7 @@
     ]
   },
   {
-    "Description": "一座快乐的城市.",
+    "Description": "欢娱之城。",
     "Id": 29,
     "Image": "fist",
     "Name": "繁荣之墟",
@@ -20842,7 +20842,7 @@
     ]
   },
   {
-    "Description": "一座充满了面色灰黄船难者的城市.",
+    "Description": "窘徒之城。",
     "Id": 28,
     "Image": "steal",
     "Name": "挣扎之墟",
@@ -21374,7 +21374,7 @@
     ]
   },
   {
-    "Description": "无论波浪之上还是波浪之下, 这里都是最好的烟草店.",
+    "Description": "潮上海下最好的烟草店。",
     "Id": 31,
     "Image": "fuel",
     "Name": "玫瑰之门",
@@ -21928,7 +21928,7 @@
     ]
   },
   {
-    "Description": "一个避难之地.",
+    "Description": "避难之地。",
     "Id": 25,
     "Image": "fog",
     "Name": "隐逸之地",

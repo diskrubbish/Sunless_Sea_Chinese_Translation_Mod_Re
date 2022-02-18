@@ -1,800 +1,1280 @@
 [
   {
-    "context": "",
     "key": "100321$Name",
     "original": "Fallen London",
-    "translation": "沦敦"
+    "translation": "沦敦",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100321$Description",
     "original": "FALLEN LONDON! Deep, dark and marvellous. All voyages start here: and this is where successful voyages end.",
-    "translation": "沦敦! 幽深, 黑暗而不可思议. 所有的航行从这里开始: 所有成功的航行在这里结束."
+    "translation": "沦敦! 幽深, 黑暗而不可思议. 所有的航行从这里开始: 所有成功的航行在这里结束.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100369$Name",
     "original": "REUSE",
-    "translation": ""
+    "translation": "REUSE",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100369$Description",
     "original": "Fallen London",
-    "translation": "沦敦"
+    "translation": "沦敦",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100370$Name",
     "original": "Sea of Voices",
-    "translation": "声音之海"
+    "translation": "声音之海",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100370$Description",
     "original": "Sea of Voices",
-    "translation": "声音之海"
+    "translation": "声音之海",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100371$Name",
     "original": "Port Carnelian",
-    "translation": "玛瑙港"
+    "translation": "玛瑙港",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100371$Description",
     "original": "Fallen London's sole Imperial possession. Treasure it.",
-    "translation": "伦敦最后的皇家殖民地. 珍重."
+    "translation": "伦敦最后的皇家殖民地. 珍重.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100372$Name",
     "original": "Adam's Way",
-    "translation": "亚当之路"
+    "translation": "亚当之路",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100372$Description",
     "original": "On a bed of monumental ruins, warehouses and waystations of shroom-timber rise.",
-    "translation": "在不朽的遗迹之上,有蘑菇木建立的仓库和驿站."
+    "translation": "在不朽的遗迹之上,有蘑菇木建立的仓库和驿站.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100373$Name",
     "original": "Iron Republic",
-    "translation": "奇怪的人"
+    "translation": "奇怪的人",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100373$Description",
     "original": "Hell's client-state. Be wary. Their laws are not the laws of Man or Nature.",
-    "translation": "地狱的傀儡国. 小心点. 他们的法规不适用于人类和自然本身."
+    "translation": "地狱的傀儡国. 小心点. 他们的法规不适用于人类和自然本身.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100374$Name",
     "original": "Tomb-Colonies",
-    "translation": "死亡侨居地"
+    "translation": "死亡侨居地",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100374$Description",
     "original": "Few die in Fallen London. They come here instead.",
-    "translation": "在沦敦, 死亡并非易事. 作为替代选择, 他们来到了这里."
+    "translation": "在沦敦, 死亡并非易事. 作为替代选择, 他们来到了这里.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100488$Name",
     "original": "Demeaux Island",
-    "translation": "德莫岛"
+    "translation": "德莫岛",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "100488$Description",
     "original": "A fervid forest of fungus.",
-    "translation": "一片炎热的真菌森林."
+    "translation": "一片炎热的真菌森林.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101925$Name",
     "original": "The Unterzee",
-    "translation": "地下海"
+    "translation": "海泽",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101925$Description",
     "original": "The waters beneath the Earth.",
-    "translation": "地下深处的水域."
+    "translation": "地下深处的水域.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101956$Name",
     "original": "Limbo",
-    "translation": "边境"
+    "translation": "边境",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101979$Name",
     "original": "Whither",
-    "translation": "何方"
+    "translation": "何方",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101979$Description",
     "original": "A chilly city beside a waste of salt.",
-    "translation": "一个盐滩旁的寒冷城市."
+    "translation": "一个盐滩旁的寒冷城市.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101980$Name",
     "original": "Chapel of Lights",
-    "translation": "光之礼拜堂"
+    "translation": "光之礼拜堂",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101980$Description",
     "original": "Do you hear music?",
-    "translation": "你听到了音乐没有?"
+    "translation": "你听到了音乐没有?",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101981$Name",
     "original": "Chelonate",
-    "translation": "切洛内特"
+    "translation": "切洛内特",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101981$Description",
     "original": "A shell as big as a wild dream?",
-    "translation": "一个和最荒诞不经的梦里出现的一样大的龟壳?"
+    "translation": "一个和最荒诞不经的梦里出现的一样大的龟壳?",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101982$Name",
     "original": "Gaider's Mourn",
-    "translation": "加德的哀悼"
+    "translation": "加德的哀悼",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101982$Description",
     "original": "Step carefully.",
-    "translation": "谨慎行事."
+    "translation": "谨慎行事.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101983$Name",
     "original": "Crying Heights",
-    "translation": "哭泣高地"
+    "translation": "哭泣高地",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101983$Description",
     "original": "A sweet wild scent and wilder cries.",
-    "translation": "甜蜜而荒芜的气味还有野外的哭声."
+    "translation": "甜蜜而荒芜的气味还有野外的哭声.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101984$Name",
     "original": "Grand Geode",
-    "translation": "宏伟晶洞"
+    "translation": "宏伟晶洞",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101984$Description",
     "original": "A distant song like a mirage.",
-    "translation": "远方的歌声就像海市蜃楼一样."
+    "translation": "远方的歌声就像海市蜃楼一样.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101985$Name",
     "original": "Empire of Hands",
-    "translation": "手掌帝国"
+    "translation": "手掌帝国",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101985$Description",
     "original": "The apes watch you hungrily.",
-    "translation": "猿猴们饥饿地看着你."
+    "translation": "猿猴们饥饿地看着你.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101986$Name",
     "original": "Featherhaven",
-    "translation": "羽毛港"
+    "translation": "羽毛港",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101986$Description",
     "original": "The rich unlovely tang of blood and bat-droppings.",
-    "translation": "充斥了讨厌的蝙蝠粪便和血液混合在一起的味道."
+    "translation": "充斥了讨厌的蝙蝠粪便和血液混合在一起的味道.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101987$Name",
     "original": "Irem",
-    "translation": "伊瑞暮"
+    "translation": "伊瑞暮",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101987$Description",
     "original": "None have ever spoken truthfully of this place.",
-    "translation": "从来都没人能真实的描述这个地方."
+    "translation": "从来都没人能真实的描述这个地方.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101988$Name",
     "original": "Khan's Glory",
-    "translation": "可汗的荣耀"
+    "translation": "可汗的荣耀",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101988$Description",
     "original": "A place of stately isolation",
-    "translation": "一个宏伟而孤立的地方."
+    "translation": "一个宏伟而孤立的地方.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101989$Name",
     "original": "Khan's Heart",
-    "translation": "可汗之心"
+    "translation": "可汗之心",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101989$Description",
     "original": "London's rival.",
-    "translation": "伦敦的对头."
+    "translation": "伦敦的对头.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101990$Name",
     "original": "Khan's Shadow",
-    "translation": "可汗之影"
+    "translation": "可汗之影",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101990$Description",
     "original": "The city that swam.",
-    "translation": "漂浮着的城市."
+    "translation": "漂浮着的城市.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101991$Name",
     "original": "Kingeater's Castle",
-    "translation": "噬王者的城堡"
+    "translation": "噬王者的城堡",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101991$Description",
     "original": "Echoes stalk you through the colonnades.",
-    "translation": "回声跟着你进入了柱廊."
+    "translation": "回声跟着你进入了柱廊.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101992$Name",
     "original": "Mount Palmerston",
-    "translation": "帕默斯顿山"
+    "translation": "帕默斯顿山",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101992$Description",
     "original": "Brimstone. Always brimstone.",
-    "translation": "硫磺, 全是硫磺."
+    "translation": "硫磺, 全是硫磺.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101993$Name",
     "original": "Nuncio",
-    "translation": "农西奥"
+    "translation": "农西奥",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101993$Description",
     "original": "DO NOT RETURN, SENDER.",
-    "translation": "信使, 勿归."
+    "translation": "信使, 勿归.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101994$Name",
     "original": "Port Cecil",
-    "translation": "塞西尔港"
+    "translation": "塞西尔港",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101994$Description",
     "original": "A sourceless silver glow. A haven for players of games.",
-    "translation": "没有光源,但是你确定这里发着银色的光.对游戏玩家来说这里是天堂."
+    "translation": "没有光源,但是你确定这里发着银色的光.对游戏玩家来说这里是天堂.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101996$Name",
     "original": "The Fathomking's Hold",
-    "translation": "深寻王的堡垒"
+    "translation": "深寻王的堡垒",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101996$Description",
     "original": "Lorkins Port: named for that most enterprising of Drownies. Phosphor-cells burn green. Somewhere below, the King waits.",
-    "translation": "洛林港:以最有上进心的溺亡者命名.磷光生物发着绿光. 在这下面的某处,王等待着."
+    "translation": "洛林港:以最有上进心的溺亡者命名.磷光生物发着绿光. 在这下面的某处,王等待着.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101997$Name",
     "original": "Salt Lions",
-    "translation": "盐狮"
+    "translation": "盐狮",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101997$Description",
     "original": "There is a vast sorrow in their empty eyes.",
-    "translation": "它们空洞的眼中是无尽的伤感."
+    "translation": "它们空洞的眼中是无尽的伤感.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101998$Name",
     "original": "Saviour's Rocks",
-    "translation": "救世主岩礁"
+    "translation": "救世主岩礁",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101998$Description",
     "original": "The sound of their constant motion is like pebbles on a beach...",
-    "translation": "它们移动时发出的持续不断的声音让你想到了海岸上的卵石..."
+    "translation": "它们移动时发出的持续不断的声音让你想到了海岸上的卵石。。。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101999$Name",
     "original": "Melting Isles",
-    "translation": "伤心群岛"
+    "translation": "伤心群岛",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "101999$Description",
     "original": "Treachery waits here.",
-    "translation": "背叛在这里等待着."
+    "translation": "背叛在这里等待着.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102000$Name",
     "original": "POLYTHREME",
-    "translation": "碎心国"
+    "translation": "碎心国",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102000$Description",
     "original": "HERE IS SCREAMING.",
-    "translation": "前有尖叫."
+    "translation": "前有尖叫.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102001$Name",
     "original": "Mutton Island",
-    "translation": "羊岛"
+    "translation": "羊岛",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102001$Description",
     "original": "Fires on the hillside...",
-    "translation": "山腰上有火光..."
+    "translation": "山腰上有火光...",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102002$Name",
     "original": "Hunter's Keep",
-    "translation": "猎户塔楼"
+    "translation": "猎户塔楼",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102002$Description",
     "original": "A quiet isle; a grand old house.",
-    "translation": "一个安静的岛屿;一幢古老的大屋."
+    "translation": "一个安静的岛屿;一幢古老的大屋.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102003$Name",
     "original": "Isle of Cats",
-    "translation": "猫岛"
+    "translation": "猫岛",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102003$Description",
     "original": "Where there are roses.",
-    "translation": "玫瑰盛开的地方."
+    "translation": "玫瑰盛开的地方.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102004$Name",
     "original": "Visage",
-    "translation": "维瑟吉"
+    "translation": "维瑟吉",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102004$Description",
     "original": "Hide your face! Hide all your faces.",
-    "translation": "遮住你的脸! 一点都不要露出来."
+    "translation": "遮住你的脸! 一点都不要露出来.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102005$Name",
     "original": "--?",
-    "translation": ""
+    "translation": "--?",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102005$Description",
     "original": "--?",
-    "translation": ""
+    "translation": "--?",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102006$Name",
     "original": "Knot",
-    "translation": "瘤节"
+    "translation": "瘤节",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102006$Description",
     "original": "Have you brought your gift of flesh?",
-    "translation": "你带了血肉的礼物吗?"
+    "translation": "你带了血肉的礼物吗?",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102133$Name",
     "original": "Dawn Machine",
-    "translation": "黎明机"
+    "translation": "黎明机",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102386$Name",
     "original": "Varchas",
-    "translation": "瓦尔查斯"
+    "translation": "瓦尔查斯",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102386$Description",
     "original": "The Mirrored City, where Light was always the Law...",
-    "translation": "镜子之城, 光在这里就是法律..."
+    "translation": "镜子之城, 光在这里就是法律。。。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102387$Name",
     "original": "Station III",
-    "translation": "三号要塞"
+    "translation": "三号要塞",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102387$Description",
     "original": "We may infer a Station I and a Station II. We may conjecture a Station IV.",
-    "translation": "我们能推测出来还有一号和二号要塞. 也许还有四号要塞."
+    "translation": "我们能推测出来还有一号和二号要塞. 也许还有四号要塞.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102388$Name",
     "original": "Robland",
-    "translation": "罗布兰"
+    "translation": "罗布兰",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102388$Description",
     "original": "[codename]",
-    "translation": ""
+    "translation": "[codename]",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102389$Name",
     "original": "---?",
-    "translation": ""
+    "translation": "---?",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102623$Name",
     "original": "Codex",
-    "translation": "法典岛"
+    "translation": "法典岛",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102623$Description",
     "original": "An isle of answers.",
-    "translation": "答案之岛."
+    "translation": "答案之岛.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102768$Name",
     "original": "Shepherd Isles",
-    "translation": "牧羊人之岛"
+    "translation": "牧羊人之岛",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102768$Description",
     "original": "Sheep, lichen, standing stones.",
-    "translation": "羊,青苔, 竖立的石头."
+    "translation": "羊,青苔, 竖立的石头.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102769$Name",
     "original": "Abbey Rock",
-    "translation": "修道院岩礁"
+    "translation": "修道院岩礁",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102769$Description",
     "original": "Here the grim Sisters lair.",
-    "translation": "冷酷的修女们在这里躲藏着."
+    "translation": "冷酷的修女们在这里躲藏着.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102784$Name",
     "original": "Avid Horizon",
-    "translation": "渴求之地平线"
+    "translation": "渴求之地平线",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102784$Description",
     "original": "This is the end.",
-    "translation": "这就是终结之地."
+    "translation": "这就是终结之地.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102804$Name",
     "original": "Pigmote Isle",
-    "translation": "皮格莫特岛"
+    "translation": "皮格莫特岛",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102804$Description",
     "original": "Two houses, both alike in dignity.",
-    "translation": "两栋房子,看起来都很庄严."
+    "translation": "两栋房子,看起来都很庄严.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102832$Name",
     "original": "Cumaean Canal Staging Area",
-    "translation": "卡米安运河等待区"
+    "translation": "卡米安运河等待区",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102832$Description",
     "original": "Here, the dark waters run down from the surface, from a brighter sea...",
-    "translation": "在这里,地表黑暗的海水奔涌而下, 这些水是从有光照的海里来的..."
+    "translation": "在这里,地表黑暗的海水奔涌而下, 这些水是从有光照的海里来的。。。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102849$Name",
     "original": "Light-Ship",
-    "translation": "灯塔船"
+    "translation": "灯塔船",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102849$Description",
     "original": "Far from home.",
-    "translation": "远离家乡."
+    "translation": "远离家乡.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102852$Name",
     "original": "Godfall",
-    "translation": "神落"
+    "translation": "神落",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102852$Description",
     "original": "Sometimes - just occasionally - bits of the roof fall off. Be glad you weren't here when this one did.",
-    "translation": "有时候 - 只是有时候 - 洞顶上会落下小块岩石. 你真应该高兴你脚下的岛屿落下的时候你没在这里."
+    "translation": "有时候 - 只是有时候 - 洞顶上会落下小块岩石. 你真应该高兴你脚下的岛屿落下的时候你没在这里.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102882$Name",
     "original": "The Surface",
-    "translation": "地表"
+    "translation": "地表",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102882$Description",
     "original": "The sun beats down like rain. Occasionally, the rain beats down like rain.",
-    "translation": "有时,阳光如雨. 有时,雨如阳光."
+    "translation": "有时,阳光如雨. 有时,雨如阳光.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102960$Name",
     "original": "Uttershroom",
-    "translation": "世纪之蕈"
+    "translation": "世纪之蕈",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "102960$Description",
     "original": "The queenly core of this spore-haunted sea.",
-    "translation": "这片被孢子侵染的海域中高贵的核心"
+    "translation": "这片被孢子侵染的海域中高贵的核心",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "103246$Name",
     "original": "Mangrove College",
-    "translation": "红树学院"
+    "translation": "红树学院",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "103246$Description",
     "original": "The wise and the wicked seek sanctuary here, where the fruits are plenty and the woods wild.",
-    "translation": "智者与一些邪恶的人都到这里来寻求庇护, 这里的水果很丰富,树林也在毫无节制的生长着."
+    "translation": "智者与一些邪恶的人都到这里来寻求庇护, 这里的水果很丰富,树林也在毫无节制的生长着.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "103869$Name",
     "original": "The Wreck of the Nocturne",
-    "translation": "可汗的荣耀"
+    "translation": "可汗的荣耀",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "103869$Description",
     "original": "Shrouded with shadows, wrapped with webs...",
-    "translation": "隐藏在阴影中,包裹在蛛网里..."
+    "translation": "隐藏在阴影中,包裹在蛛网里...",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "103958$Name",
     "original": "Wisdom",
-    "translation": "智慧监狱"
+    "translation": "智慧监狱",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "103958$Description",
     "original": "The prison walls are mercilessly steep.",
-    "translation": "监狱的高墙无情的插在海中."
+    "translation": "监狱的高墙无情的插在海中.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "104180$Name",
     "original": "The North",
-    "translation": "北方"
+    "translation": "北方",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "104181$Name",
     "original": "The East",
-    "translation": "东方"
+    "translation": "东方",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "104182$Name",
     "original": "The South-West",
-    "translation": "西南方"
+    "translation": "西南方",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "104204$Name",
     "original": "Aestival",
-    "translation": "阿斯蒂沃"
+    "translation": "阿斯蒂沃",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "104276$Name",
     "original": "Frostfound",
-    "translation": "寒霜城"
+    "translation": "寒霜城",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "104526$Name",
     "original": "The Corridors of Frostfound",
-    "translation": "寒霜城的走廊"
+    "translation": "寒霜城的走廊",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "104545$Name",
     "original": "The Wisp-Ways",
-    "translation": "幽深小径"
+    "translation": "幽深小径",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "104546$Name",
     "original": "Shattered Citadel",
-    "translation": "破碎城堡"
+    "translation": "破碎城堡",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "104588$Name",
     "original": "Vienna",
-    "translation": "维也纳"
+    "translation": "维也纳",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "105136$Name",
     "original": "Funeral",
-    "translation": "葬礼"
+    "translation": "葬礼",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "105137$Name",
     "original": "Wineglasses",
-    "translation": "酒杯"
+    "translation": "酒杯",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "105138$Name",
     "original": "Kingdom",
-    "translation": "王国"
+    "translation": "王国",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "105139$Name",
     "original": "Turn into a zee-monster",
-    "translation": "变成海怪"
+    "translation": "变成海怪",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "105140$Name",
     "original": "Stargate",
-    "translation": "星门"
+    "translation": "星门",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "105141$Name",
     "original": "Zeppelin",
-    "translation": "飞艇"
+    "translation": "飞艇",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107686$Name",
     "original": "Underwater entrance to Crow",
-    "translation": "碎鸦灯塔水下入口"
+    "translation": "碎鸦灯塔水下入口",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107687$Name",
     "original": "Gant Pole",
-    "translation": "刚特极点"
+    "translation": "刚特极点",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107688$Name",
     "original": "Low Barnet",
-    "translation": "沉没的巴内特"
+    "translation": "沉没的巴内特",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107689$Name",
     "original": "Rosegate",
-    "translation": "玫瑰之门"
+    "translation": "玫瑰之门",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107690$Name",
     "original": "Hideaway",
-    "translation": "隐逸之地"
+    "translation": "隐逸之地",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107691$Name",
     "original": "Aigul",
-    "translation": "爱古"
+    "translation": "爱古",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107692$Name",
     "original": "Anthe",
-    "translation": "安忒"
+    "translation": "安忒",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107693$Name",
     "original": "Scrimshander",
-    "translation": "骨雕馆"
+    "translation": "骨雕馆",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107694$Name",
     "original": "Wrack",
-    "translation": "船墟"
+    "translation": "船墟",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107695$Name",
     "original": "Nook",
-    "translation": "旮旯"
+    "translation": "旮旯",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "107696$Name",
     "original": "Dahut",
-    "translation": "达哈"
+    "translation": "达哈",
+    "stage": 1
+  },
+  {
+    "key": "100369$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "100370$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "100371$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "100372$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "100373$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "100374$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "100488$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "101925$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "101956$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "101979$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101980$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101981$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101982$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101983$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101984$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101985$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101986$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101987$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101988$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101989$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101990$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101991$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101992$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101993$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101994$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101996$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101997$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101998$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "101999$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "102000$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "102001$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "102002$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "102003$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "102004$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "102005$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "102006$MoveMessage",
+    "original": "You have entered harbour.",
+    "translation": "你已进港。",
+    "stage": 1
+  },
+  {
+    "key": "102133$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102386$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102387$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102388$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102389$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102623$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102768$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102769$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102784$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102804$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102832$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102849$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102852$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102882$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "102960$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "103246$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "103869$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "103958$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "104180$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "104181$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "104182$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "104204$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "104276$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "104526$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "104545$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "104546$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "104588$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "105136$MoveMessage",
+    "original": "An ending approaches...",
+    "translation": "临近结局...",
+    "stage": 0
+  },
+  {
+    "key": "105137$MoveMessage",
+    "original": "An ending approaches...",
+    "translation": "临近结局...",
+    "stage": 0
+  },
+  {
+    "key": "105138$MoveMessage",
+    "original": "An ending approaches...",
+    "translation": "临近结局...",
+    "stage": 0
+  },
+  {
+    "key": "105139$MoveMessage",
+    "original": "An ending approaches...",
+    "translation": "临近结局...",
+    "stage": 0
+  },
+  {
+    "key": "105140$MoveMessage",
+    "original": "An ending approaches...",
+    "translation": "临近结局...",
+    "stage": 0
+  },
+  {
+    "key": "105141$MoveMessage",
+    "original": "An ending approaches...",
+    "translation": "临近结局...",
+    "stage": 0
+  },
+  {
+    "key": "107686$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "107687$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "107688$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "107689$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "107690$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "107691$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "107692$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "107693$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "107694$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "107695$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
+  },
+  {
+    "key": "107696$MoveMessage",
+    "original": "You have moved to a new area",
+    "translation": "你移动到了新的地方",
+    "stage": 1
   }
 ]

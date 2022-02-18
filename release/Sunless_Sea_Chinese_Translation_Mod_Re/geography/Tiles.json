@@ -22,7 +22,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "深红色的浪花泛起.我们正在接近亚当之路, 那里流着光明之山的血.'.",
+        "Description": "深红色的浪花泛起。我们正在接近亚当之路, “流淌着光明山血之地”。",
         "FogRevealThreshold": 12,
         "HumanName": "亚当海角",
         "IsGeneric": false,
@@ -31,7 +31,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "亚当之路",
+            "Label": "利文斯頓角",
             "ParentTile": null,
             "Position": {
               "X": 740,
@@ -44,7 +44,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "黑狮鹫海峡",
+            "Label": "Darkgryphon Straits",
             "ParentTile": null,
             "Position": {
               "X": 744,
@@ -57,7 +57,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "神蜂之会",
+            "Label": "Apis Meet",
             "ParentTile": null,
             "Position": {
               "X": 363,
@@ -70,7 +70,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "加德納岩礁",
+            "Label": "Gardiner's Rock",
             "ParentTile": null,
             "Position": {
               "X": 385,
@@ -83,7 +83,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "利文斯頓角",
+            "Label": "Point Livingston",
             "ParentTile": null,
             "Position": {
               "X": 1235,
@@ -719,7 +719,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "北方海域.这是雪吗? 当你碰到它的时候,它化为无形的气体.你的船员集中在烟囱附近取暖.",
+        "Description": "北方海域。这是雪吗? 当你碰到它的时候,它化为无形的气体。你的船员集中在烟囱附近取暖。",
         "FogRevealThreshold": 12,
         "HumanName": "北方海岸",
         "IsGeneric": false,
@@ -728,7 +728,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "普克瑞治瞭望台",
+            "Label": "何方",
             "ParentTile": null,
             "Position": {
               "X": 1244,
@@ -741,7 +741,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "強納森鎮",
+            "Label": "Johannesson Town",
             "ParentTile": null,
             "Position": {
               "X": 282,
@@ -754,7 +754,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "奧丁森海峽",
+            "Label": "Odinson Straits",
             "ParentTile": null,
             "Position": {
               "X": 467,
@@ -767,7 +767,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "守望者拱門",
+            "Label": "Censor's Arch",
             "ParentTile": null,
             "Position": {
               "X": 820,
@@ -780,7 +780,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "安德加德港",
+            "Label": "Andergard Harbour",
             "ParentTile": null,
             "Position": {
               "X": 576,
@@ -793,7 +793,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "蒼白荒原",
+            "Label": "Pale Wastes",
             "ParentTile": null,
             "Position": {
               "X": 244,
@@ -806,7 +806,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "法典岛",
+            "Label": "Codex",
             "ParentTile": null,
             "Position": {
               "X": 1150,
@@ -819,7 +819,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "何方",
+            "Label": "Whither",
             "ParentTile": null,
             "Position": {
               "X": 663,
@@ -1079,7 +1079,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "发现来自苍白之地的活冰山!",
+            "Description": "Discovered the Lifebergs of the Pale Haunt!",
             "DiscoveryValue": 30,
             "Name": "BorealBerg",
             "ParentTile": null,
@@ -1100,7 +1100,7 @@
             "Subsurface": false
           },
           {
-            "Description": "发现来自苍白之地的活冰山!",
+            "Description": "Discovered the Lifebergs of the Pale Haunt!",
             "DiscoveryValue": 30,
             "Name": "BorealBerg",
             "ParentTile": null,
@@ -1621,7 +1621,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "玛瑙港",
+            "Label": "費爾騰漩渦",
             "ParentTile": null,
             "Position": {
               "X": 671,
@@ -1634,7 +1634,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "迪巴拉鎮",
+            "Label": "Dybala Town",
             "ParentTile": null,
             "Position": {
               "X": 224,
@@ -1647,7 +1647,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "洛麗亞絕壁",
+            "Label": "Rolias Bluff",
             "ParentTile": null,
             "Position": {
               "X": 531,
@@ -1660,7 +1660,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "圖書管理員岩洞",
+            "Label": "Librarian's Grotto",
             "ParentTile": null,
             "Position": {
               "X": 922,
@@ -1673,7 +1673,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "蕾娜漩渦",
+            "Label": "Rainer's Vortex",
             "ParentTile": null,
             "Position": {
               "X": 558,
@@ -1686,7 +1686,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "費爾騰漩渦",
+            "Label": "Velten's Vortex",
             "ParentTile": null,
             "Position": {
               "X": 895,
@@ -2212,7 +2212,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "海面上漂着另一只海兽的尸体.高度腐烂. 我们正在接近切洛内特.",
+        "Description": "海面上漂着另一只海兽的尸体。高度腐烂。 我们正在接近切洛内特。",
         "FogRevealThreshold": 0,
         "HumanName": "切洛内特",
         "IsGeneric": false,
@@ -2221,7 +2221,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "切洛内特",
+            "Label": "可汗之心",
             "ParentTile": null,
             "Position": {
               "X": 664,
@@ -2234,7 +2234,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "刚特极点",
+            "Label": "Gant Pole",
             "ParentTile": null,
             "Position": {
               "X": 542,
@@ -2247,7 +2247,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "撒查鎮",
+            "Label": "Sachatown",
             "ParentTile": null,
             "Position": {
               "X": 1031,
@@ -2260,7 +2260,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "沙貝爾港",
+            "Label": "Schabelport",
             "ParentTile": null,
             "Position": {
               "X": 666,
@@ -2273,7 +2273,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "普爾澤雅暗礁",
+            "Label": "Pourzia's Reef",
             "ParentTile": null,
             "Position": {
               "X": 280,
@@ -2286,7 +2286,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "圖斯勒海峽",
+            "Label": "Tusler's Channel",
             "ParentTile": null,
             "Position": {
               "X": 816,
@@ -2299,7 +2299,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "可汗之心",
+            "Label": "The Gant Pole",
             "ParentTile": null,
             "Position": {
               "X": 496,
@@ -2941,7 +2941,7 @@
           "World": null
         },
         "ChanceOfWeather": 10,
-        "Description": "远处若隐若现的石笋就像是伍夫斯托克港的起重机,但是远比那更巨大,更巨大. 这里就是海盗之林.我们的瞭望手提高了警惕.",
+        "Description": "远处若隐若现的石笋就像是伍夫斯托克港的起重机,但是远比那更巨大,更巨大。 这里就是海盗之林。我们的瞭望手提高了警惕。",
         "FogRevealThreshold": 0,
         "HumanName": "海盗之林",
         "IsGeneric": false,
@@ -2950,7 +2950,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "加德的哀悼",
+            "Label": "帕特里克的命運",
             "ParentTile": null,
             "Position": {
               "X": 981,
@@ -2963,7 +2963,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "波恩瓦德柱",
+            "Label": "Bournvadus Pillar",
             "ParentTile": null,
             "Position": {
               "X": 386,
@@ -2976,7 +2976,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "梅西長桿",
+            "Label": "Massey's Shaft",
             "ParentTile": null,
             "Position": {
               "X": 675,
@@ -2989,7 +2989,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "厄肯岩",
+            "Label": "Eeken Rock",
             "ParentTile": null,
             "Position": {
               "X": 1154,
@@ -3002,7 +3002,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "帕特里克的命運",
+            "Label": "Patrick's Lot",
             "ParentTile": null,
             "Position": {
               "X": 637,
@@ -3212,7 +3212,7 @@
             "Subsurface": false
           },
           {
-            "Description": "遭遇海盗之林的护卫舰!",
+            "Description": "Encountered the pirate fleets of the Corsair's Forest!",
             "DiscoveryValue": 20,
             "Name": "CorsairsFrigate",
             "ParentTile": null,
@@ -3602,7 +3602,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "哭泣高地",
+            "Label": "巴貝爾叢林",
             "ParentTile": null,
             "Position": {
               "X": 767,
@@ -3615,7 +3615,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "貝克爾灣",
+            "Label": "Becker Bight",
             "ParentTile": null,
             "Position": {
               "X": 1172,
@@ -3628,7 +3628,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "安德羅墨達礁",
+            "Label": "Andromeda's Rocks",
             "ParentTile": null,
             "Position": {
               "X": 736,
@@ -3641,7 +3641,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "魯本那契岩洞",
+            "Label": "Rubenach Grotto",
             "ParentTile": null,
             "Position": {
               "X": 1354,
@@ -3654,7 +3654,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "阿迪港",
+            "Label": "Port Addey",
             "ParentTile": null,
             "Position": {
               "X": 851,
@@ -3667,7 +3667,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "巴貝爾叢林",
+            "Label": "Bubel's Thicket",
             "ParentTile": null,
             "Position": {
               "X": 204,
@@ -4216,7 +4216,7 @@
           "World": null
         },
         "ChanceOfWeather": 10,
-        "Description": "小船在附近的海域聚集着. 船员都带着怀念的神情: 他们互相讲述着光明之海的老故事. 我们接近了卡米安运河,通向地表的路.",
+        "Description": "小船在附近的海域聚集着。 船员都带着怀念的神情: 他们互相讲述着光明之海的老故事。 我们接近了卡米安运河,通向地表的路。",
         "FogRevealThreshold": 12,
         "HumanName": "卡米安运河",
         "IsGeneric": false,
@@ -4225,7 +4225,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "吉亞諾蒂避風港",
+            "Label": "卡米安运河",
             "ParentTile": null,
             "Position": {
               "X": 700,
@@ -4238,7 +4238,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "艾伯丁之門",
+            "Label": "Albertine Gates",
             "ParentTile": null,
             "Position": {
               "X": 800,
@@ -4251,7 +4251,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "赫卡特琳拱門",
+            "Label": "Hekaterine's Arch",
             "ParentTile": null,
             "Position": {
               "X": 271,
@@ -4264,7 +4264,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "卡米安运河",
+            "Label": "The Cumaean Canal",
             "ParentTile": null,
             "Position": {
               "X": 714,
@@ -4432,7 +4432,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "你遭遇了在卡米安运河附近捕食的弗拉尔水母.",
+            "Description": "You have encountered the Jillyfleurs that prey on Cumaean shipping.",
             "DiscoveryValue": 20,
             "Name": "CumaeanJillyfleur",
             "ParentTile": null,
@@ -4453,7 +4453,7 @@
             "Subsurface": false
           },
           {
-            "Description": "发现卡米安运河的极光蟹幼体.",
+            "Description": "Discovered the Auroral Megalops of the Cumaean Canal.",
             "DiscoveryValue": 20,
             "Name": "CanalArchMegalops",
             "ParentTile": null,
@@ -4821,7 +4821,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "去甲板寻找带火花的锋利金属. 臭氧和电光萦绕在船的四周. 这里就是黎明边缘.",
+        "Description": "去甲板寻找带火花的锋利金属。 臭氧和电光萦绕在船的四周。 这里就是黎明边缘。",
         "FogRevealThreshold": 14,
         "HumanName": "黎明边境",
         "IsGeneric": false,
@@ -4830,7 +4830,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "宏伟晶洞",
+            "Label": "胡哲頓峭壁",
             "ParentTile": null,
             "Position": {
               "X": 704,
@@ -4843,7 +4843,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "黎明機器",
+            "Label": "The Dawn Machine",
             "ParentTile": null,
             "Position": {
               "X": 325,
@@ -4856,7 +4856,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "澤洛鎮",
+            "Label": "Zelo's Town",
             "ParentTile": null,
             "Position": {
               "X": 998,
@@ -4869,7 +4869,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "拉什米港",
+            "Label": "Runeshmi Port",
             "ParentTile": null,
             "Position": {
               "X": 145,
@@ -4882,7 +4882,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "科克里灣",
+            "Label": "Corkery Bay",
             "ParentTile": null,
             "Position": {
               "X": 169,
@@ -4895,7 +4895,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "巴爾什莫裂谷",
+            "Label": "The Barnsmore Gap",
             "ParentTile": null,
             "Position": {
               "X": 210,
@@ -4908,7 +4908,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "克萊爾城堡",
+            "Label": "Castle Clare",
             "ParentTile": null,
             "Position": {
               "X": 921,
@@ -4921,7 +4921,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "胡哲頓峭壁",
+            "Label": "Hodgerton's Bluff",
             "ParentTile": null,
             "Position": {
               "X": 299,
@@ -5232,7 +5232,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "你遭遇了辉煌护卫舰.",
+            "Description": "You have encountered the  Glorious Frigates.",
             "DiscoveryValue": 20,
             "Name": "DawnFrigate",
             "ParentTile": null,
@@ -5253,7 +5253,7 @@
             "Subsurface": false
           },
           {
-            "Description": "发现了辉煌无畏舰.",
+            "Description": "Discovered the Glorious Dreadnoughts.",
             "DiscoveryValue": 20,
             "Name": "DawnDreadnaught",
             "ParentTile": null,
@@ -5596,9 +5596,9 @@
           "World": null
         },
         "ChanceOfWeather": 0,
-        "Description": "离下面一英寻,离上面一英里.",
+        "Description": "Fathoms below, miles above.",
         "FogRevealThreshold": 0,
-        "HumanName": "普通的瓦片",
+        "HumanName": "A generic tile",
         "IsGeneric": false,
         "LabelData": [],
         "MaxPhenomPopulation": 0,
@@ -5661,16 +5661,16 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "在这里,狂野的空气和其他区域的空气混合在一起. 德莫之门,以在其中失踪的一名领航员命名. 他的遗骨是怎么来到下面的?",
+        "Description": "Here the wilder airs mingle with the airs of the near reaches. Demeaux's Gate, named for a navigator lost above. How did his bones come below?",
         "FogRevealThreshold": 0,
-        "HumanName": "德莫之门",
+        "HumanName": "Demeaux's Gate",
         "IsGeneric": false,
         "LabelData": [
           {
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "德莫岛",
+            "Label": "Demeaux Island",
             "ParentTile": null,
             "Position": {
               "X": 789,
@@ -5683,7 +5683,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "邦妮礁",
+            "Label": "Bonny Reefs",
             "ParentTile": null,
             "Position": {
               "X": 1284,
@@ -5696,7 +5696,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "鋼鐵和米斯里合作公司.真菌林場",
+            "Label": "Iron & Misery Co. Funging Station",
             "ParentTile": null,
             "Position": {
               "X": 732,
@@ -5709,7 +5709,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "穆迪之光",
+            "Label": "Moody's Light",
             "ParentTile": null,
             "Position": {
               "X": 204,
@@ -5722,7 +5722,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "帕威爾角",
+            "Label": "Purewal Point",
             "ParentTile": null,
             "Position": {
               "X": 158,
@@ -5735,7 +5735,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "夫斯基爾黯區",
+            "Label": "The Phosgene Bleaks",
             "ParentTile": null,
             "Position": {
               "X": 910,
@@ -6225,16 +6225,16 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "我们接近了手掌帝国.让我们抓紧自己的灵魂, 小心别让圣灵猿从我们身上把灵魂抓走.",
+        "Description": "We approach the Empire of Hands. Let us clasp our souls tight, lest the Pentecost Apes take them from us.",
         "FogRevealThreshold": 0,
-        "HumanName": "手掌帝国",
+        "HumanName": "The Empire of Hands",
         "IsGeneric": false,
         "LabelData": [
           {
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "手掌帝国",
+            "Label": "Empire of Hands",
             "ParentTile": null,
             "Position": {
               "X": 847,
@@ -6247,7 +6247,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "斯坦顿港",
+            "Label": "Port Stanton",
             "ParentTile": null,
             "Position": {
               "X": 842,
@@ -6260,7 +6260,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "灰烬地峡",
+            "Label": "Ash Isthmus",
             "ParentTile": null,
             "Position": {
               "X": 721,
@@ -6273,7 +6273,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "托里角",
+            "Label": "Torry Point",
             "ParentTile": null,
             "Position": {
               "X": 343,
@@ -6286,7 +6286,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "歐'科菲'灣流",
+            "Label": "O'Keefe's Drift",
             "ParentTile": null,
             "Position": {
               "X": 373,
@@ -6895,16 +6895,16 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "寒霜城, 宏伟而寒冷. 一座被谜语,问题和答案围攻的要塞.",
+        "Description": "Frostfound, vast and chilly. A fortress sieged by questions, answers, and riddles.",
         "FogRevealThreshold": 0,
-        "HumanName": "寒霜城",
+        "HumanName": "Frostfound",
         "IsGeneric": false,
         "LabelData": [
           {
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "梧桐拱門",
+            "Label": "Sycamore Arch",
             "ParentTile": null,
             "Position": {
               "X": 806,
@@ -6917,7 +6917,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "斯托塔德避風港",
+            "Label": "Stoddard's Haven",
             "ParentTile": null,
             "Position": {
               "X": 864,
@@ -6930,7 +6930,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "黑霧深淵",
+            "Label": "Achlys Abyss",
             "ParentTile": null,
             "Position": {
               "X": 1276,
@@ -6943,7 +6943,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "達斯沃勒湍流",
+            "Label": "Dathooley's Rage",
             "ParentTile": null,
             "Position": {
               "X": 213,
@@ -6956,7 +6956,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "寒霜城",
+            "Label": "Frostfound",
             "ParentTile": null,
             "Position": {
               "X": 553,
@@ -6969,7 +6969,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "炫光",
+            "Label": "Brite",
             "ParentTile": null,
             "Position": {
               "X": 1115,
@@ -6982,7 +6982,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "幽冥",
+            "Label": "Teneb",
             "ParentTile": null,
             "Position": {
               "X": 584,
@@ -7205,7 +7205,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "发现了来自寒霜城的活冰山!",
+            "Description": "Discovered the Lifebergs of Frostfound!",
             "DiscoveryValue": 30,
             "Name": "FrostfoundBerg",
             "ParentTile": null,
@@ -7453,7 +7453,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "一根无形的丝线拂过你的脸.空气正在提示蜘蛛你来了.",
+        "Description": "一根无形的丝线拂过你的脸。空气正在提示蜘蛛你来了。",
         "FogRevealThreshold": 0,
         "HumanName": "蛛网海峡",
         "IsGeneric": false,
@@ -7462,7 +7462,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "救世主岩礁",
+            "Label": "誕生地",
             "ParentTile": null,
             "Position": {
               "X": 522,
@@ -7475,7 +7475,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "阿恩岑深淵",
+            "Label": "The Arntzen Deep",
             "ParentTile": null,
             "Position": {
               "X": 1108,
@@ -7488,7 +7488,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "夜曲號殘骸",
+            "Label": "Wreck of the Nocturne",
             "ParentTile": null,
             "Position": {
               "X": 212,
@@ -7501,7 +7501,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "誕生地",
+            "Label": "The Nativity",
             "ParentTile": null,
             "Position": {
               "X": 1170,
@@ -8028,7 +8028,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "炽热的蒸汽从海中升腾而出. 时间退居一旁.你看到一名锅炉工的脖子上套上了绳圈,然后他的同伴把它殴打致死.我们正在钢铁共和国的烟幕之下.",
+        "Description": "炽热的蒸汽从海中升腾而出。 时间退居一旁。你看到一名锅炉工的脖子上套上了绳圈,然后他的同伴把它殴打致死。我们正在钢铁共和国的烟幕之下。",
         "FogRevealThreshold": 11,
         "HumanName": "钢铁共和国",
         "IsGeneric": false,
@@ -8037,7 +8037,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "钢铁共和国",
+            "Label": "馮 霍恩港",
             "ParentTile": null,
             "Position": {
               "X": 751,
@@ -8050,7 +8050,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "莫庫里烏斯海溝",
+            "Label": "The Mercurius Deep",
             "ParentTile": null,
             "Position": {
               "X": 1134,
@@ -8063,7 +8063,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "庫格爾斷崖",
+            "Label": "Cugel's Bluff",
             "ParentTile": null,
             "Position": {
               "X": 963,
@@ -8076,7 +8076,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "亞當的厄運",
+            "Label": "Adam's Doom",
             "ParentTile": null,
             "Position": {
               "X": 1114,
@@ -8089,7 +8089,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "馮 霍恩港",
+            "Label": "Van Horn Harbour",
             "ParentTile": null,
             "Position": {
               "X": 737,
@@ -8314,7 +8314,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "遭遇海盗之林的护卫舰!",
+            "Description": "You have encountered the Iron Republic Dreadnaughts.",
             "DiscoveryValue": 20,
             "Name": "IronRepublicDreadnaught",
             "ParentTile": null,
@@ -8335,7 +8335,7 @@
             "Subsurface": false
           },
           {
-            "Description": "发现来自钢铁共和国的未完成者革命分子.",
+            "Description": "Discovered the Unfinished Revolutionaries of the Iron Republic.",
             "DiscoveryValue": 20,
             "Name": "IronRepublicUnfinishedRevolutionaries",
             "ParentTile": null,
@@ -8625,16 +8625,16 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "水流因为其中漂浮的菌丝而变得迟钝. 紫色的蔬菜破土而出. 米瑟利加亚!",
+        "Description": "The water is sluggish with hyphal threads. Violet vegetable bulks break the surface. Myceligaea!",
         "FogRevealThreshold": 0,
-        "HumanName": "米瑟利加亚",
+        "HumanName": "Myceligaea",
         "IsGeneric": false,
         "LabelData": [
           {
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "世纪之蕈",
+            "Label": "The Uttershroom",
             "ParentTile": null,
             "Position": {
               "X": 768,
@@ -8647,7 +8647,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "米克號殘骸",
+            "Label": "Wreck of the Mikko",
             "ParentTile": null,
             "Position": {
               "X": 295,
@@ -9217,7 +9217,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "達根航路",
+            "Label": "安布羅斯角",
             "ParentTile": null,
             "Position": {
               "X": 1292,
@@ -9230,7 +9230,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "帕默斯顿山",
+            "Label": "Mount Palmerston",
             "ParentTile": null,
             "Position": {
               "X": 790,
@@ -9243,7 +9243,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "安忒",
+            "Label": "Anthe",
             "ParentTile": null,
             "Position": {
               "X": 980,
@@ -9256,7 +9256,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "帕默斯頓港",
+            "Label": "Port Palmerston",
             "ParentTile": null,
             "Position": {
               "X": 972,
@@ -9269,7 +9269,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "安布羅斯角",
+            "Label": "Ambrose Point",
             "ParentTile": null,
             "Position": {
               "X": 974,
@@ -9931,7 +9931,7 @@
           "World": null
         },
         "ChanceOfWeather": 0,
-        "Description": "从寒冰后方吹出了奇怪的暖流. 这里是石柱海, 伊瑞暮将会矗立的地方.谎言. 总是在这里游荡.",
+        "Description": "从寒冰后方吹出了奇怪的暖流。 这里是石柱海, 伊瑞暮将会矗立的地方。谎言。 总是在这里游荡。",
         "FogRevealThreshold": 0,
         "HumanName": "石柱海",
         "IsGeneric": false,
@@ -9940,7 +9940,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "伊瑞暮",
+            "Label": "蜘蛛裂谷",
             "ParentTile": null,
             "Position": {
               "X": 490,
@@ -9953,7 +9953,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "卡萊爾避風港",
+            "Label": "Carlisle's Haven",
             "ParentTile": null,
             "Position": {
               "X": 640,
@@ -9966,7 +9966,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "拉賽格海峽",
+            "Label": "Ruegsegger Straits",
             "ParentTile": null,
             "Position": {
               "X": 1012,
@@ -9979,7 +9979,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "斯萊克頓",
+            "Label": "Stryketon",
             "ParentTile": null,
             "Position": {
               "X": 1278,
@@ -9992,7 +9992,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "納布盧斯暗礁",
+            "Label": "Nablus Reef",
             "ParentTile": null,
             "Position": {
               "X": 566,
@@ -10005,7 +10005,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "蜘蛛裂谷",
+            "Label": "Weaver's Rift",
             "ParentTile": null,
             "Position": {
               "X": 800,
@@ -10366,16 +10366,16 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "珊瑚之源. 这些死去的彩虹在波浪下散发着微光,就像是在回应着上面的伪星.",
+        "Description": "The Principles of Coral. The corpse-rainbow glow from beneath the waves echoes the false-stars above.",
         "FogRevealThreshold": 0,
-        "HumanName": "珊瑚之源",
+        "HumanName": "The Principles of Coral",
         "IsGeneric": false,
         "LabelData": [
           {
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "塞西尔港",
+            "Label": "Port Cecil",
             "ParentTile": null,
             "Position": {
               "X": 640,
@@ -10388,7 +10388,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "陶氏沙洲",
+            "Label": "Dow's Ait",
             "ParentTile": null,
             "Position": {
               "X": 660,
@@ -10401,7 +10401,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "阿芙緹可之羽",
+            "Label": "Aphotic Quills",
             "ParentTile": null,
             "Position": {
               "X": 720,
@@ -10414,7 +10414,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "畢德明礁",
+            "Label": "Bidmead Reefs",
             "ParentTile": null,
             "Position": {
               "X": 331,
@@ -10427,7 +10427,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "布羅克礁",
+            "Label": "Brock's Reef",
             "ParentTile": null,
             "Position": {
               "X": 1215,
@@ -10440,7 +10440,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "斯科特礁",
+            "Label": "Scott's Reef",
             "ParentTile": null,
             "Position": {
               "X": 731,
@@ -10453,7 +10453,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "沃爾夫岡大帝號的殘骸",
+            "Label": "Wreck of the Emperor Wolfgang",
             "ParentTile": null,
             "Position": {
               "X": 1145,
@@ -10466,7 +10466,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "查特拉尼克瓣面",
+            "Label": "Chatranic Lobe",
             "ParentTile": null,
             "Position": {
               "X": 219,
@@ -10479,7 +10479,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "莊嚴複合體",
+            "Label": "Regal Complexus",
             "ParentTile": null,
             "Position": {
               "X": 245,
@@ -10492,7 +10492,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "伊倫特之回",
+            "Label": "Errant's Gyrus",
             "ParentTile": null,
             "Position": {
               "X": 294,
@@ -10505,7 +10505,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "諾克提克瓣面",
+            "Label": "Noctic Lobe",
             "ParentTile": null,
             "Position": {
               "X": 1198,
@@ -10659,7 +10659,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "发现了伊伦特海流的铁笼鲨!",
+            "Description": "Found the Bound-Sharks of Errant's Gyrus!",
             "DiscoveryValue": 20,
             "Name": "PrinciplesShark",
             "ParentTile": null,
@@ -10987,7 +10987,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "深尋王的城堡",
+            "Label": "伊利弗斯礁 ",
             "ParentTile": null,
             "Position": {
               "X": 665,
@@ -11000,7 +11000,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "爱古",
+            "Label": "Aigul",
             "ParentTile": null,
             "Position": {
               "X": 1010,
@@ -11013,7 +11013,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "洛林港",
+            "Label": "Lorkins Port",
             "ParentTile": null,
             "Position": {
               "X": 578,
@@ -11026,7 +11026,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "拉柯萊特礁",
+            "Label": "Luckwright's Reef",
             "ParentTile": null,
             "Position": {
               "X": 568,
@@ -11039,7 +11039,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "伊利弗斯礁 ",
+            "Label": "Elifaus Rift",
             "ParentTile": null,
             "Position": {
               "X": 1210,
@@ -11237,7 +11237,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "发现了许诺之海的孤独锚爪海胆!",
+            "Description": "Discovered the Lorn Flukes of the Promised Sea!",
             "DiscoveryValue": 30,
             "Name": "PromisedSeaFluke",
             "ParentTile": null,
@@ -11556,7 +11556,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "在船舱的角落里窜来窜去,叽叽喳喳.弓着背的小身影在甲板的围栏上移动着. 拉特西的空气为这些有害动物壮了胆.",
+        "Description": "在船舱的角落里窜来窜去,叽叽喳喳。弓着背的小身影在甲板的围栏上移动着。 拉特西的空气为这些有害动物壮了胆。",
         "FogRevealThreshold": 0,
         "HumanName": "拉特西",
         "IsGeneric": false,
@@ -11565,7 +11565,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "农西奥",
+            "Label": "旮旯",
             "ParentTile": null,
             "Position": {
               "X": 1098,
@@ -11578,7 +11578,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "格里克的手術刀",
+            "Label": "Geryk's Scalpel",
             "ParentTile": null,
             "Position": {
               "X": 597,
@@ -11591,7 +11591,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "芬克諾特漩渦",
+            "Label": "The Finknottle Vortex",
             "ParentTile": null,
             "Position": {
               "X": 1166,
@@ -11604,7 +11604,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "斯凱拉的終結",
+            "Label": "Skylar's End",
             "ParentTile": null,
             "Position": {
               "X": 544,
@@ -11617,7 +11617,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "麥克馬斯特避風港",
+            "Label": "McMaster's Haven",
             "ParentTile": null,
             "Position": {
               "X": 1139,
@@ -11630,7 +11630,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "旮旯",
+            "Label": "Nook",
             "ParentTile": null,
             "Position": {
               "X": 238,
@@ -12165,7 +12165,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "盐阶.这里是新汗国的领土,在伦敦陷落之前,他们的祖先就早已来到这里...",
+        "Description": "盐阶。这里是新汗国的领土,在伦敦陷落之前,他们的祖先就早已来到这里。。。",
         "FogRevealThreshold": 0,
         "HumanName": "盐阶",
         "IsGeneric": false,
@@ -12174,7 +12174,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "雪豹廳",
+            "Label": "流浪者避風港",
             "ParentTile": null,
             "Position": {
               "X": 245,
@@ -12187,7 +12187,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "鋼鐵區",
+            "Label": "Iron Quarter",
             "ParentTile": null,
             "Position": {
               "X": 806,
@@ -12200,7 +12200,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "先祖祠堂",
+            "Label": "House of Ancestors",
             "ParentTile": null,
             "Position": {
               "X": 829,
@@ -12213,7 +12213,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "鮭魚廳",
+            "Label": "Taimen",
             "ParentTile": null,
             "Position": {
               "X": 746,
@@ -12226,7 +12226,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "窩闊台大橋",
+            "Label": "Ogedei's Bridge",
             "ParentTile": null,
             "Position": {
               "X": 463,
@@ -12239,7 +12239,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "玄武廳",
+            "Label": "Tortoise",
             "ParentTile": null,
             "Position": {
               "X": 801,
@@ -12252,7 +12252,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "阿博若門",
+            "Label": "Abora Gate",
             "ParentTile": null,
             "Position": {
               "X": 531,
@@ -12265,7 +12265,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "可汗之門",
+            "Label": "Khan's Gate",
             "ParentTile": null,
             "Position": {
               "X": 803,
@@ -12278,7 +12278,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "赤銅區",
+            "Label": "Copper Quarter",
             "ParentTile": null,
             "Position": {
               "X": 218,
@@ -12291,7 +12291,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "蒼狼廳",
+            "Label": "Wolf",
             "ParentTile": null,
             "Position": {
               "X": 788,
@@ -12304,7 +12304,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "神雕廳",
+            "Label": "Eagle",
             "ParentTile": null,
             "Position": {
               "X": 307,
@@ -12317,7 +12317,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "软玉区",
+            "Label": "Nephrite Quarter",
             "ParentTile": null,
             "Position": {
               "X": 261,
@@ -12330,7 +12330,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "可汗之影",
+            "Label": "Khan's Shadow",
             "ParentTile": null,
             "Position": {
               "X": 1251,
@@ -12343,7 +12343,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "可汗之心",
+            "Label": "Khan's Heart",
             "ParentTile": null,
             "Position": {
               "X": 638,
@@ -12356,7 +12356,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "可汗的荣耀",
+            "Label": "Khan's Glory",
             "ParentTile": null,
             "Position": {
               "X": 479,
@@ -12369,7 +12369,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "青瓷區",
+            "Label": "Porcelain Quarter",
             "ParentTile": null,
             "Position": {
               "X": 151,
@@ -12382,7 +12382,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "流浪者避風港",
+            "Label": "Wanderer's Haven",
             "ParentTile": null,
             "Position": {
               "X": 1167,
@@ -12636,7 +12636,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "发现了汗国的三体大战舰.",
+            "Description": "Discovered the Trimarans of the Khanate.",
             "DiscoveryValue": 20,
             "Name": "SaltSteppesTrimaran",
             "ParentTile": null,
@@ -12657,7 +12657,7 @@
             "Subsurface": false
           },
           {
-            "Description": "发现了汗国的三体大战舰.",
+            "Description": "Discovered the Trimarans of the Khanate.",
             "DiscoveryValue": 20,
             "Name": "SaltSteppesTrimaran",
             "ParentTile": null,
@@ -12678,7 +12678,7 @@
             "Subsurface": false
           },
           {
-            "Description": "发现了汗国的三体大战舰.",
+            "Description": "Discovered the Trimarans of the Khanate.",
             "DiscoveryValue": 20,
             "Name": "SaltSteppesTrimaran",
             "ParentTile": null,
@@ -13462,16 +13462,16 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "秋日之海的迷雾会迷住你的眼睛,渗入你的心.你经常发现你会莫名其妙的开始流泪.",
+        "Description": "The mists of the Sea of Autumn get into the eyes, the heart. It is not unusual to find yourself in unsuspected tears.",
         "FogRevealThreshold": 0,
-        "HumanName": "秋日之海",
+        "HumanName": "The Sea of Autumns",
         "IsGeneric": false,
         "LabelData": [
           {
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "里皮ä哀雅角",
+            "Label": "Lipiäinen Point",
             "ParentTile": null,
             "Position": {
               "X": 1149,
@@ -13484,7 +13484,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "提格拉爾灣",
+            "Label": "Tiggelaar Bay",
             "ParentTile": null,
             "Position": {
               "X": 1167,
@@ -13497,7 +13497,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "红树学院",
+            "Label": "The Mangrove College",
             "ParentTile": null,
             "Position": {
               "X": 580,
@@ -13510,7 +13510,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "秋日群島",
+            "Label": "Autumn Islands",
             "ParentTile": null,
             "Position": {
               "X": 1189,
@@ -13523,7 +13523,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "吞噬群島",
+            "Label": "Swallowing Isles",
             "ParentTile": null,
             "Position": {
               "X": 1021,
@@ -13536,7 +13536,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "伤心群岛",
+            "Label": "Melting Isles",
             "ParentTile": null,
             "Position": {
               "X": 796,
@@ -14076,16 +14076,16 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "我们回避着莲花海里面的真菌垫叶. 那里有一座监狱, 被瘤节先知守护着...",
+        "Description": "We watch for fungal-pads in the Sea of Lilies. There is a prison here, guarded by knot-oracles...",
         "FogRevealThreshold": 0,
-        "HumanName": "莲花海",
+        "HumanName": "The Sea of Lilies",
         "IsGeneric": false,
         "LabelData": [
           {
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "蓮花海",
+            "Label": "Sea of Lilies",
             "ParentTile": null,
             "Position": {
               "X": 433,
@@ -14098,7 +14098,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "骨雕馆",
+            "Label": "Scrimshander",
             "ParentTile": null,
             "Position": {
               "X": 1009,
@@ -14111,7 +14111,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "納普密迪特港",
+            "Label": "Nuppmiddt Harbour",
             "ParentTile": null,
             "Position": {
               "X": 859,
@@ -14124,7 +14124,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "彼得森裂谷",
+            "Label": "Peterson's Rift",
             "ParentTile": null,
             "Position": {
               "X": 390,
@@ -14137,7 +14137,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "智慧监狱",
+            "Label": "Wisdom",
             "ParentTile": null,
             "Position": {
               "X": 654,
@@ -14629,7 +14629,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "我们驶入了雕像海.巨人们盯着我们.噬王者的城堡就在前面, 那些傻瓜们放弃他们的未来的地方.",
+        "Description": "我们驶入了雕像海。巨人们盯着我们。噬王者的城堡就在前面, 那些傻瓜们放弃他们的未来的地方。",
         "FogRevealThreshold": 10,
         "HumanName": "雕像海",
         "IsGeneric": false,
@@ -14638,7 +14638,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "噬王者的城堡",
+            "Label": "厄普頓",
             "ParentTile": null,
             "Position": {
               "X": 937,
@@ -14651,7 +14651,7 @@
             "Description": "",
             "DiscoveryValue": 150,
             "Important": false,
-            "Label": "彭寧頓",
+            "Label": "Pennington",
             "ParentTile": null,
             "Position": {
               "X": 1244,
@@ -14664,7 +14664,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "雕像海",
+            "Label": "Sea of Statues",
             "ParentTile": null,
             "Position": {
               "X": 507,
@@ -14677,7 +14677,7 @@
             "Description": "",
             "DiscoveryValue": 150,
             "Important": false,
-            "Label": "普塔切克之怒",
+            "Label": "Ptacek's Fury",
             "ParentTile": null,
             "Position": {
               "X": 1252,
@@ -14690,7 +14690,7 @@
             "Description": "",
             "DiscoveryValue": 150,
             "Important": false,
-            "Label": "维诺裂谷",
+            "Label": "Vinno's Rift",
             "ParentTile": null,
             "Position": {
               "X": 322,
@@ -14703,7 +14703,7 @@
             "Description": "",
             "DiscoveryValue": 150,
             "Important": false,
-            "Label": "班寧絕壁",
+            "Label": "Banning Bluff",
             "ParentTile": null,
             "Position": {
               "X": 888,
@@ -14716,7 +14716,7 @@
             "Description": "",
             "DiscoveryValue": 150,
             "Important": false,
-            "Label": "厄普頓",
+            "Label": "Upton",
             "ParentTile": null,
             "Position": {
               "X": 1156,
@@ -15265,16 +15265,16 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "'我们听到那些不会被淹没的声音.'这就是声音之海: 我们离碎心国很近了,在那里没有什么是真正死亡的.",
+        "Description": "'We hear those voices that will not be drowned.' This is the Sea of Voices: we are close to Polythreme, where nothing is truly dead.",
         "FogRevealThreshold": 0,
-        "HumanName": "声音之海",
+        "HumanName": "The Sea of Voices",
         "IsGeneric": false,
         "LabelData": [
           {
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "神落",
+            "Label": "Godfall",
             "ParentTile": null,
             "Position": {
               "X": 600,
@@ -15287,7 +15287,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "达哈",
+            "Label": "Dahut",
             "ParentTile": null,
             "Position": {
               "X": 631,
@@ -15300,7 +15300,7 @@
             "Description": "",
             "DiscoveryValue": 33,
             "Important": true,
-            "Label": "碎心国",
+            "Label": "Polythreme",
             "ParentTile": null,
             "Position": {
               "X": 1132,
@@ -15313,7 +15313,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "食慾之潮",
+            "Label": "Tides of Appetite",
             "ParentTile": null,
             "Position": {
               "X": 1113,
@@ -15326,7 +15326,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "安東尼娜深淵",
+            "Label": "The Antonine Abyss",
             "ParentTile": null,
             "Position": {
               "X": 369,
@@ -15339,7 +15339,7 @@
             "Description": "",
             "DiscoveryValue": 33,
             "Important": false,
-            "Label": "服從",
+            "Label": "Obey",
             "ParentTile": null,
             "Position": {
               "X": 1018,
@@ -15352,7 +15352,7 @@
             "Description": "",
             "DiscoveryValue": 33,
             "Important": false,
-            "Label": "忍耐",
+            "Label": "Endure",
             "ParentTile": null,
             "Position": {
               "X": 1252,
@@ -15365,7 +15365,7 @@
             "Description": "",
             "DiscoveryValue": 33,
             "Important": false,
-            "Label": "孤獨",
+            "Label": "Forlorn",
             "ParentTile": null,
             "Position": {
               "X": 1144,
@@ -15378,7 +15378,7 @@
             "Description": "",
             "DiscoveryValue": 33,
             "Important": false,
-            "Label": "混合",
+            "Label": "Commingle",
             "ParentTile": null,
             "Position": {
               "X": 1099,
@@ -15391,7 +15391,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "艾斯恰文",
+            "Label": "Aeschaven",
             "ParentTile": null,
             "Position": {
               "X": 544,
@@ -16119,16 +16119,16 @@
           "World": null
         },
         "ChanceOfWeather": 10,
-        "Description": "牧羊人湾流, 满是咸味的伦敦贫穷离岛, 隐士,修女和秘密交易的家乡.",
+        "Description": "Shepherd's Wash, the salty hinterland of London, home to hermits, nuns and shadowy business.",
         "FogRevealThreshold": 0,
-        "HumanName": "牧羊人湾流",
+        "HumanName": "Shepherd's Wash",
         "IsGeneric": false,
         "LabelData": [
           {
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "浮石島",
+            "Label": "Flitterstone Isle",
             "ParentTile": null,
             "Position": {
               "X": 514,
@@ -16141,7 +16141,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "索恩威爾圍場",
+            "Label": "Thornwell Croft",
             "ParentTile": null,
             "Position": {
               "X": 859,
@@ -16154,7 +16154,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "韋斯特格倫的爐火",
+            "Label": "Westergren's Fire",
             "ParentTile": null,
             "Position": {
               "X": 593,
@@ -16167,7 +16167,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "野狼裂谷",
+            "Label": "Wolf's Rift",
             "ParentTile": null,
             "Position": {
               "X": 982,
@@ -16180,7 +16180,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "原野港",
+            "Label": "Fieldhaven",
             "ParentTile": null,
             "Position": {
               "X": 768,
@@ -16193,7 +16193,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "倉庫 (A)",
+            "Label": "Depot (A)",
             "ParentTile": null,
             "Position": {
               "X": 1258,
@@ -16206,7 +16206,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "姐妹會",
+            "Label": "The Sisterhood",
             "ParentTile": null,
             "Position": {
               "X": 377,
@@ -16219,7 +16219,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "三号要塞",
+            "Label": "Station III",
             "ParentTile": null,
             "Position": {
               "X": 1232,
@@ -16232,7 +16232,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "修道院岩礁",
+            "Label": "Abbey Rock",
             "ParentTile": null,
             "Position": {
               "X": 450,
@@ -16245,7 +16245,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "牧羊人之岛",
+            "Label": "Shepherd Isles",
             "ParentTile": null,
             "Position": {
               "X": 771,
@@ -16816,7 +16816,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "臭蟲濕地",
+            "Label": "沉没的巴内特",
             "ParentTile": null,
             "Position": {
               "X": 635,
@@ -16829,7 +16829,7 @@
             "Description": "",
             "DiscoveryValue": 0,
             "Important": true,
-            "Label": "沦敦",
+            "Label": "Fallen London",
             "ParentTile": null,
             "Position": {
               "X": 548,
@@ -16842,7 +16842,7 @@
             "Description": "",
             "DiscoveryValue": 0,
             "Important": false,
-            "Label": "伍夫斯托克港",
+            "Label": "Wolfstack Docks",
             "ParentTile": null,
             "Position": {
               "X": 600,
@@ -16855,7 +16855,7 @@
             "Description": "",
             "DiscoveryValue": 2,
             "Important": false,
-            "Label": "危險生物處理部",
+            "Label": "Dept. of Menace Eradication",
             "ParentTile": null,
             "Position": {
               "X": 573,
@@ -16868,7 +16868,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "莫里海峽",
+            "Label": "Murray Straits",
             "ParentTile": null,
             "Position": {
               "X": 1052,
@@ -16881,7 +16881,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "羊岛",
+            "Label": "Mutton Island",
             "ParentTile": null,
             "Position": {
               "X": 1368,
@@ -16894,7 +16894,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "贵格避风港",
+            "Label": "Quaker's Haven",
             "ParentTile": null,
             "Position": {
               "X": 1347,
@@ -16907,7 +16907,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "巴德斯蒂文恩深淵",
+            "Label": "Badstevener's Abyss",
             "ParentTile": null,
             "Position": {
               "X": 1129,
@@ -16920,7 +16920,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "猎户塔楼",
+            "Label": "Hunter's Keep",
             "ParentTile": null,
             "Position": {
               "X": 1205,
@@ -16933,7 +16933,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "普利芬格荒原",
+            "Label": "Prickfinger Wastes",
             "ParentTile": null,
             "Position": {
               "X": 417,
@@ -16946,7 +16946,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "羅威納礁",
+            "Label": "Rowena's Rocks",
             "ParentTile": null,
             "Position": {
               "X": 1322,
@@ -16959,7 +16959,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "回聲巴扎",
+            "Label": "The Echo Bazaar",
             "ParentTile": null,
             "Position": {
               "X": 366,
@@ -16972,7 +16972,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "沉没的巴内特",
+            "Label": "Low Barnet",
             "ParentTile": null,
             "Position": {
               "X": 871,
@@ -16985,7 +16985,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "沉没的巴内特",
+            "Label": "Low Barnet",
             "ParentTile": null,
             "Position": {
               "X": 954,
@@ -17465,7 +17465,7 @@
             "SubsurfacePrefabName": ""
           },
           {
-            "Description": "一座宏伟的房子矗立在一个不起眼的小岛上 ",
+            "Description": "A grand house rises over a humble isle ",
             "DiscoveryValue": 10,
             "GleamValue": 1,
             "Name": "HuntersKeep",
@@ -17816,7 +17816,7 @@
             "SubsurfacePrefabName": "Generic/stally3_ZM"
           },
           {
-            "Description": "一座占位的城市,其高耸的特征在你面前模糊褪色, 一处奇迹的瞬间所在。",
+            "Description": "A Placeholder city, its towering features squint and fade before you, a wonder of momentary existance.",
             "DiscoveryValue": 0,
             "GleamValue": 0,
             "Name": "Low Barnet",
@@ -17858,7 +17858,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "一朵淡黄色的光组成的花朵出现在了南方的地平线上! 你靠近了瓦尔查斯, 镜之城.",
+        "Description": "一朵淡黄色的光组成的花朵出现在了南方的地平线上! 你靠近了瓦尔查斯, 镜之城。",
         "FogRevealThreshold": 10,
         "HumanName": "南方之壁",
         "IsGeneric": false,
@@ -17867,7 +17867,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "瓦尔查斯",
+            "Label": "浪子傑克石柱",
             "ParentTile": null,
             "Position": {
               "X": 784,
@@ -17880,7 +17880,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "厄爾東港",
+            "Label": "Port Erdonmez",
             "ParentTile": null,
             "Position": {
               "X": 945,
@@ -17893,7 +17893,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "浪子傑克石柱",
+            "Label": "Jack - a - Dandy Stack",
             "ParentTile": null,
             "Position": {
               "X": 874,
@@ -18473,7 +18473,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "上方的伪星看起来就像阴郁的玛瑙,就像老虎的眼睛.斯坦福的阔地, 以那个孩子被大猫叼走的可怜人命名.",
+        "Description": "上方的伪星看起来就像阴郁的玛瑙,就像老虎的眼睛。斯坦福的阔地, 以那个孩子被大猫叼走的可怜人命名。",
         "FogRevealThreshold": 0,
         "HumanName": "斯坦福的阔地",
         "IsGeneric": false,
@@ -18482,7 +18482,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "猫岛",
+            "Label": "玫瑰之门",
             "ParentTile": null,
             "Position": {
               "X": 652,
@@ -18495,7 +18495,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "玫瑰礁",
+            "Label": "Reef of Roses",
             "ParentTile": null,
             "Position": {
               "X": 1250,
@@ -18508,7 +18508,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "维瑟吉",
+            "Label": "Visage",
             "ParentTile": null,
             "Position": {
               "X": 337,
@@ -18521,7 +18521,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "繁榮之年",
+            "Label": "Flourishing - of - Years",
             "ParentTile": null,
             "Position": {
               "X": 424,
@@ -18534,7 +18534,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "卡波爾卡盆地",
+            "Label": "Kapalka Cove",
             "ParentTile": null,
             "Position": {
               "X": 381,
@@ -18547,7 +18547,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "卡文迪许港",
+            "Label": "Port Cavendish",
             "ParentTile": null,
             "Position": {
               "X": 650,
@@ -18560,7 +18560,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "彼得礁",
+            "Label": "Peter's Rocks",
             "ParentTile": null,
             "Position": {
               "X": 1234,
@@ -18573,7 +18573,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "阿芙羅克斯海峽",
+            "Label": "The Aferox Channel",
             "ParentTile": null,
             "Position": {
               "X": 1036,
@@ -18586,7 +18586,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "玫瑰之门",
+            "Label": "Rosegate",
             "ParentTile": null,
             "Position": {
               "X": 860,
@@ -19178,7 +19178,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "起了一阵似乎被烘烤过的微风, 虽然你知道这不可能,但是风里确实有远方沙漠的气味.你现在离盐狮很近了.",
+        "Description": "起了一阵似乎被烘烤过的微风, 虽然你知道这不可能,但是风里确实有远方沙漠的气味。你现在离盐狮很近了。",
         "FogRevealThreshold": 0,
         "HumanName": "石魂岛",
         "IsGeneric": false,
@@ -19187,7 +19187,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "盐狮",
+            "Label": "船墟",
             "ParentTile": null,
             "Position": {
               "X": 758,
@@ -19200,7 +19200,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "澤爾港",
+            "Label": "Zeel Port",
             "ParentTile": null,
             "Position": {
               "X": 760,
@@ -19213,7 +19213,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "維爾伯特深淵",
+            "Label": "Wilbert's Abyss",
             "ParentTile": null,
             "Position": {
               "X": 1134,
@@ -19226,7 +19226,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "船墟",
+            "Label": "Wrack",
             "ParentTile": null,
             "Position": {
               "X": 961,
@@ -19740,7 +19740,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "我们进入了风暴之骨.圣艾利吉乌斯让他的火焰在空中起舞, 在甲板上起舞. 我们能看见,在很远的地方,是碎鸦灯塔的光.",
+        "Description": "我们进入了风暴之骨。圣艾利吉乌斯让他的火焰在空中起舞, 在甲板上起舞。 我们能看见,在很远的地方,是碎鸦灯塔的光。",
         "FogRevealThreshold": 0,
         "HumanName": "风暴之骨",
         "IsGeneric": false,
@@ -19749,7 +19749,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "鸦下",
+            "Label": "崇義裂谷",
             "ParentTile": null,
             "Position": {
               "X": 770,
@@ -19762,7 +19762,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "碎鴉燈塔",
+            "Label": "The Ragged Crow",
             "ParentTile": null,
             "Position": {
               "X": 785,
@@ -19775,7 +19775,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "伊利法斯深淵",
+            "Label": "Elifaus Abyss",
             "ParentTile": null,
             "Position": {
               "X": 1151,
@@ -19788,7 +19788,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "崇義裂谷",
+            "Label": "Chong Yi Rift",
             "ParentTile": null,
             "Position": {
               "X": 252,
@@ -19977,7 +19977,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "发现了来自碎鸦灯塔的暴君蛾.",
+            "Description": "Discovered the Tyrant Moths of The Ragged Crow.",
             "DiscoveryValue": 20,
             "Name": "StormbonesMoth",
             "ParentTile": null,
@@ -20359,16 +20359,16 @@
           "World": null
         },
         "ChanceOfWeather": 0,
-        "Description": "现在我们进入了卡勒穆尼. 空气中是狂野和荣耀的气息.某种光.为什么水手们会害怕这地方?",
+        "Description": "And now we enter the Calumnies. There is a wild and glorious scent in the air. A kind of light. Why do zailors fear this place?",
         "FogRevealThreshold": 0,
-        "HumanName": "卡勒穆尼",
+        "HumanName": "The Calumnies",
         "IsGeneric": false,
         "LabelData": [
           {
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "克伯之路海灣",
+            "Label": "Cob's Way Bay",
             "ParentTile": null,
             "Position": {
               "X": 943,
@@ -20381,7 +20381,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "阿斯蒂沃",
+            "Label": "Aestival",
             "ParentTile": null,
             "Position": {
               "X": 913,
@@ -20394,7 +20394,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "南森絕壁",
+            "Label": "Nathan's Bluff",
             "ParentTile": null,
             "Position": {
               "X": 935,
@@ -20407,7 +20407,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "萊斯利港",
+            "Label": "Lesley's Harbour",
             "ParentTile": null,
             "Position": {
               "X": 878,
@@ -20420,7 +20420,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "阿扎里克深淵",
+            "Label": "The Azaquoric Abyss",
             "ParentTile": null,
             "Position": {
               "X": 347,
@@ -20433,7 +20433,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "尤恩之路",
+            "Label": "Ewan's Way",
             "ParentTile": null,
             "Position": {
               "X": 625,
@@ -20446,7 +20446,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "隐逸之地",
+            "Label": "Hideaway",
             "ParentTile": null,
             "Position": {
               "X": 1206,
@@ -20913,7 +20913,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "令人毛骨悚然的菌丝, 海草,不可名状的植物.我们进入了罗网.",
+        "Description": "令人毛骨悚然的菌丝, 海草,不可名状的植物。我们进入了罗网。",
         "FogRevealThreshold": 0,
         "HumanName": "罗网",
         "IsGeneric": false,
@@ -20922,7 +20922,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "鰻魚迷宮",
+            "Label": "聖徒避風港",
             "ParentTile": null,
             "Position": {
               "X": 551,
@@ -20935,7 +20935,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "杜布瓦大漩渦",
+            "Label": "The Dubois Maelstrom",
             "ParentTile": null,
             "Position": {
               "X": 1148,
@@ -20948,7 +20948,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "皮格莫特岛",
+            "Label": "Pigmote Isle",
             "ParentTile": null,
             "Position": {
               "X": 875,
@@ -20961,7 +20961,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "猴抓石礁",
+            "Label": "Lick-a-Monkey Crag",
             "ParentTile": null,
             "Position": {
               "X": 1190,
@@ -20974,7 +20974,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "巨蟹岩塊",
+            "Label": "Crabcake",
             "ParentTile": null,
             "Position": {
               "X": 389,
@@ -20987,7 +20987,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "聖徒避風港",
+            "Label": "Saints-Haven",
             "ParentTile": null,
             "Position": {
               "X": 1044,
@@ -21399,7 +21399,7 @@
           "World": null
         },
         "ChanceOfWeather": 10,
-        "Description": "尘埃, 回声: 就连空气也被黑暗浸染了. 这是死亡租界附近的水域.",
+        "Description": "尘埃, 回声: 就连空气也被黑暗浸染了。 这是死亡租界附近的水域。",
         "FogRevealThreshold": 12,
         "HumanName": "死亡租界",
         "IsGeneric": false,
@@ -21408,7 +21408,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "文登湾",
+            "Label": "哈珀渡口",
             "ParentTile": null,
             "Position": {
               "X": 685,
@@ -21421,7 +21421,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "戴維斯灣",
+            "Label": "Davies Bay",
             "ParentTile": null,
             "Position": {
               "X": 345,
@@ -21434,7 +21434,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "卡利薩角",
+            "Label": "Carissa's Point",
             "ParentTile": null,
             "Position": {
               "X": 757,
@@ -21447,7 +21447,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "霍恩曼的雄鹿厅",
+            "Label": "Horneman's Stag",
             "ParentTile": null,
             "Position": {
               "X": 952,
@@ -21460,7 +21460,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "塔納丘克",
+            "Label": "Tanah-Chook",
             "ParentTile": null,
             "Position": {
               "X": 1194,
@@ -21473,7 +21473,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "皮克特絕壁",
+            "Label": "Pickett's Bluff",
             "ParentTile": null,
             "Position": {
               "X": 400,
@@ -21486,7 +21486,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "黑淵",
+            "Label": "Cant's Abyss",
             "ParentTile": null,
             "Position": {
               "X": 1056,
@@ -21499,7 +21499,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "哈珀渡口",
+            "Label": "Harper's Ferry",
             "ParentTile": null,
             "Position": {
               "X": 243,
@@ -21695,7 +21695,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "发现了死亡租界附近的蝙蝠群.",
+            "Description": "Discovered the flocks of bats outside the Tomb Colonies.",
             "DiscoveryValue": 20,
             "Name": "TombPinnace",
             "ParentTile": null,
@@ -21716,7 +21716,7 @@
             "Subsurface": false
           },
           {
-            "Description": "发现了死亡租界附近的蝙蝠群.",
+            "Description": "Discovered the flocks of bats outside the Tomb Colonies.",
             "DiscoveryValue": 20,
             "Name": "TombBats",
             "ParentTile": null,
@@ -21737,7 +21737,7 @@
             "Subsurface": false
           },
           {
-            "Description": "发现了死亡租界附近的极光蟹幼体.",
+            "Description": "Discovered a group of Auroral Megalops outside the Tomb Colonies.",
             "DiscoveryValue": 20,
             "Name": "TombMegalops",
             "ParentTile": null,
@@ -21758,7 +21758,7 @@
             "Subsurface": false
           },
           {
-            "Description": "发现了死亡租界附近的蝙蝠群.",
+            "Description": "Discovered the flocks of bats outside the Tomb Colonies.",
             "DiscoveryValue": 20,
             "Name": "TombBats",
             "ParentTile": null,
@@ -21779,7 +21779,7 @@
             "Subsurface": false
           },
           {
-            "Description": "发现了死亡租界附近的蝙蝠群.",
+            "Description": "Discovered the flocks of bats outside the Tomb Colonies.",
             "DiscoveryValue": 20,
             "Name": "TombBats",
             "ParentTile": null,
@@ -22147,7 +22147,7 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "这里一定是虚空之隅.空气中有一些辐射发出的寒冷爆裂声. 向北方看去, 伪星陷入了黑暗之中.",
+        "Description": "这里一定是虚空之隅。空气中有一些辐射发出的寒冷爆裂声。向北方看去, 伪星陷入了黑暗之中。",
         "FogRevealThreshold": 0,
         "HumanName": "虚空之隅",
         "IsGeneric": false,
@@ -22156,7 +22156,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "渴求之地平線",
+            "Label": "奇西格漩渦",
             "ParentTile": null,
             "Position": {
               "X": 1240,
@@ -22169,7 +22169,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "光之禮拜堂",
+            "Label": "The Chapel of Lights",
             "ParentTile": null,
             "Position": {
               "X": 805,
@@ -22182,7 +22182,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "奇西格漩渦",
+            "Label": "The Kisigar Vortex",
             "ParentTile": null,
             "Position": {
               "X": 1207,
@@ -22454,7 +22454,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "发现流浪之山, 一座黑色的玻璃山，吞噬船只.",
+            "Description": "discovered Mt Nomad, the black glass mountain that eats ships.",
             "DiscoveryValue": 20,
             "Name": "MtNomad",
             "ParentTile": null,
@@ -22727,9 +22727,9 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "新水手不会注意到变化. 但是你感觉空气刺痛了你的皮肤. 某个地方有一些新的变化.",
+        "Description": "No landlubber would notice the change. But you feel the air prickle on your skin. Somewhere new.",
         "FogRevealThreshold": 0,
-        "HumanName": "黑暗的地下海",
+        "HumanName": "the dark Unterzee",
         "IsGeneric": false,
         "LabelData": [],
         "MaxPhenomPopulation": 0,
@@ -22892,7 +22892,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "遭遇蝙蝠群!",
+            "Description": "Encountered the colony of bats!",
             "DiscoveryValue": 20,
             "Name": "GenericBats",
             "ParentTile": null,
@@ -23170,9 +23170,9 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "在这里,一片黑暗的大海就像泛起波纹的玻璃,夹杂着一点洞顶的微光.",
+        "Description": "Here the slate-black sea is like rippled glass, spiked with light from the roof.",
         "FogRevealThreshold": 0,
-        "HumanName": "黑暗的地下海",
+        "HumanName": "The dark Unterzee",
         "IsGeneric": false,
         "LabelData": [],
         "MaxPhenomPopulation": 0,
@@ -23585,9 +23585,9 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "世界被看不见的丝线网住了. 你穿过了其中的一个.绷紧了它们, 这些绷紧的丝线能切开水果.",
+        "Description": "The world is webbed with invisible lines. You've crossed one. Tighten them, and it would split like a fruit.",
         "FogRevealThreshold": 0,
-        "HumanName": "黑暗的地下海",
+        "HumanName": "The dark Unterzee",
         "IsGeneric": false,
         "LabelData": [],
         "MaxPhenomPopulation": 0,
@@ -23722,7 +23722,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "遭遇水母!",
+            "Description": "Encountered a group of Jillyfleurs!",
             "DiscoveryValue": 20,
             "Name": "GenericJillyfleur",
             "ParentTile": null,
@@ -23743,7 +23743,7 @@
             "Subsurface": false
           },
           {
-            "Description": "遭遇蝙蝠群!",
+            "Description": "Encountered a group of bats!",
             "DiscoveryValue": 20,
             "Name": "GenericBats",
             "ParentTile": null,
@@ -24000,9 +24000,9 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "螺塔直指伪星之光.小心礁石.",
+        "Description": "Spined towers rear in the light of the false-stars. Ware reefs.",
         "FogRevealThreshold": 0,
-        "HumanName": "黑暗的地下海",
+        "HumanName": "The dark Unterzee",
         "IsGeneric": false,
         "LabelData": [],
         "MaxPhenomPopulation": 0,
@@ -24381,9 +24381,9 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "风带来了遥远圣歌的回响. 早已死去的牧师仍然在为这里计时.",
+        "Description": "The wind carries the echo of distant chants. Long-dead priests still count the hours in this place.",
         "FogRevealThreshold": 0,
-        "HumanName": "黑暗的地下海",
+        "HumanName": "The dark Unterzee",
         "IsGeneric": false,
         "LabelData": [],
         "MaxPhenomPopulation": 0,
@@ -24819,9 +24819,9 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "一阵突如其来的孢子雾气! 水手们打着喷嚏. 声音在粘稠的空气中回荡.",
+        "Description": "A sudden fog of spores! Zailors sneeze. The sound echoes flatly in the soupy air.",
         "FogRevealThreshold": 0,
-        "HumanName": "黑暗的地下海",
+        "HumanName": "The dark Unterzee",
         "IsGeneric": false,
         "LabelData": [],
         "MaxPhenomPopulation": 0,
@@ -25187,9 +25187,9 @@
           "World": null
         },
         "ChanceOfWeather": 0,
-        "Description": "有些被遗忘的东西还在这里.",
+        "Description": "Something forgotten is here.",
         "FogRevealThreshold": 0,
-        "HumanName": "黑暗的地下海",
+        "HumanName": "The dark Unterzee",
         "IsGeneric": false,
         "LabelData": [],
         "MaxPhenomPopulation": 0,
@@ -25357,9 +25357,9 @@
           "World": null
         },
         "ChanceOfWeather": 15,
-        "Description": "这里的海水有些温暖. 气泡浮起, 爆裂, 似乎是某种懒散的威胁. 地火永不安宁.",
+        "Description": "The zee here is warm. Bubbles rise and burst with lazy menace. The fire in the earth is restless.",
         "FogRevealThreshold": 0,
-        "HumanName": "黑暗的地下海",
+        "HumanName": "The dark Unterzee",
         "IsGeneric": false,
         "LabelData": [],
         "MaxPhenomPopulation": 0,

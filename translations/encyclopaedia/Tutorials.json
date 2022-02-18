@@ -1,410 +1,410 @@
 [
   {
-    "context": "",
     "key": "1$Name",
     "original": "Your journal!",
-    "translation": "你的日志!"
+    "translation": "你的日志!",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "1$Description",
     "original": "Objectives and story progress are on the right-hand side. Mouse over an icon or click on the category heading to see details.",
-    "translation": "物品与故事进程在右边.鼠标移动到图标上或者点击图标上的分类栏来查看细节."
+    "translation": "物品与故事进程在右边。鼠标移动到图标上或者点击图标上的分类栏来查看细节。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "2$Name",
     "original": "Your officers!",
-    "translation": "你的船官!"
+    "translation": "你的船官!",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "2$Description",
     "original": "Left-click and drag to assign officers, or right-click to speak to them. Assigned officers give ability bonuses.",
-    "translation": "左键点击并拖动来任命官员,或者右击来和他们交谈.任命船官能给你额外的能力加成."
+    "translation": "左键点击并拖动来任命官员,或者右击来和他们交谈。任命船官能给你额外的能力加成。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "3$Name",
     "original": "Shops",
-    "translation": "商店"
+    "translation": "商店",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "3$Description",
     "original": "Here you can buy fuel, supplies, ship equipment and trade goods. Shops are displayed on the left. Click on one to see its wares.",
-    "translation": "在这里你可以购买燃料,补给,船只装备和贸易货物.不同的店家显示在左边. 点击其中一个来查看其出售的物品."
+    "translation": "在这里你可以购买燃料,补给,船只装备和贸易货物。不同的店家显示在左边。 点击其中一个来查看其出售的物品。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "4$Name",
     "original": "Echoes",
-    "translation": "回声"
+    "translation": "回声",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "4$Description",
     "original": "London's currency is the Echo. To earn money, explore the map and bring back port reports and treasures. You can trade, too, but exploration and stories are much more profitable.",
-    "translation": "伦敦的货币是回声. 探索世界并带回港口报告和财宝来赚钱. 你同样可以进行贸易, 但是探索和故事通常更有利可图."
+    "translation": "伦敦的货币是回声。 探索世界并带回港口报告和财宝来赚钱。 你同样可以进行贸易, 但是探索和故事通常更有利可图。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "5$Name",
     "original": "Setting zail",
-    "translation": "起航"
+    "translation": "起航",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "5$Description",
     "original": "Click the launch button to leave port.",
-    "translation": "点击启动按钮来离开港口."
+    "translation": "点击启动按钮来离开港口.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "6$Name",
     "original": "Movement",
-    "translation": "移动"
+    "translation": "移动",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "6$Description",
     "original": "Use the WSAD keys to move. Tap W twice to reach max speed. Tap S to slow down or reverse. And use the A and D keys to steer.",
-    "translation": "使用 WSAD 键来移动. 点击 W 两次来全速前进. 点击 S 减速或倒车. 用 A 和 D 键进行转向."
+    "translation": "使用 WSAD 键来移动。 点击 W 两次来全速前进。 点击 S 减速或倒车。 用 A 和 D 键进行转向。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "7$Name",
     "original": "Terror",
-    "translation": "恐惧"
+    "translation": "恐惧",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "7$Description",
     "original": "When you see green running lights on the ship, you're in the dark, and your crew's terror will increase. Watch the pips on the terror indicator. It increases faster when you're far from land. Don't let it reach 100.",
-    "translation": "当你看到你的船附近有一圈绿光的时候,你的船正在黑暗中航行, 你船员的恐惧会增长. 注意左上角的恐惧指示器.它在你远离陆地的时候会很快增长. 不要让恐惧值达到 100."
+    "translation": "当你看到你的船附近有一圈绿光的时候,你的船正在黑暗中航行, 你船员的恐惧会增长。 注意左上角的恐惧指示器。它在你远离陆地的时候会很快增长。 不要让恐惧值达到 100。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "8$Name",
     "original": "Headlights",
-    "translation": "前灯"
+    "translation": "前灯",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "8$Description",
     "original": "Your prow light can be turned on or off. Leaving it on reduces the rate at which you gain Terror, but makes you more visible to enemies.",
-    "translation": "你的前灯可以打开或关闭.打开前灯能够减缓恐惧的增长 , 但是会让敌人更容易发现你."
+    "translation": "你的前灯可以打开或关闭。打开前灯能够减缓恐惧的增长 , 但是会让敌人更容易发现你。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "9$Name",
     "original": "Fragments",
-    "translation": "碎片"
+    "translation": "碎片",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "9$Description",
-    "original": "You receive Fragments when you discover new places. Acquire enough of them and you'll gain a Secret. \n\nYou can use Secrets to improve your captain's skills (by talking to Officers), or for some key stories.",
-    "translation": "当你发现新的地点的时候,你会得到碎片. 当你积累了足够的碎片你能得到一个秘密. \n\n你能够通过使用秘密来提高船长的技能 (通过和船官说话), 也是某些故事的关键."
+    "original": "You receive Fragments when you discover new places. Acquire enough of them and you'll gain a Secret. \\n\\nYou can use Secrets to improve your captain's skills (by talking to Officers), or for some key stories.",
+    "translation": "当你发现新的地点的时候,你会得到碎片。 当你积累了足够的碎片你能得到一个秘密。 \\n\\n你能够通过使用秘密来提高船长的技能 (通过和船官说话), 也是某些故事的关键。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "10$Name",
     "original": "Docking",
-    "translation": "停泊"
+    "translation": "停泊",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "10$Description",
     "original": "To visit this port, click the dock button.",
-    "translation": "使用停泊按键来访问港口."
+    "translation": "使用停泊按键来访问港口.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "11$Name",
     "original": "Secrets",
-    "translation": "秘密"
+    "translation": "秘密",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "11$Description",
     "original": "You can spend Secrets to improve your abilities. To do so, right-click on an officer to start a conversation.",
-    "translation": "你可以通过消耗秘密提高船长的技能.右击官员的头像与他们交谈,来找到相应选项."
+    "translation": "你可以通过消耗秘密提高船长的技能。右击官员的头像与他们交谈,来找到相应选项。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "12$Name",
     "original": "Something Awaits You",
-    "translation": "有什么事情在等着你"
+    "translation": "有什么事情在等着你",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "12$Description",
     "original": "After a short time at zee, a lamp icon will appear above the log book. It means that opportunities await you at the next port.",
-    "translation": "在海上航行一段时间后,在日志的上方会出现一个灯笼的图标. 这意味着下一个港口有新的机会等待着你."
+    "translation": "在海泽上航行一段时间后,日志的上方会出现一个灯笼的图标。 这意味着下一个港口有新的机遇等待着你。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "13$Name",
     "original": "Ports",
-    "translation": "港口"
+    "translation": "港口",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "13$Description",
     "original": "That circle of light is a port! Go there for stories.",
-    "translation": "一个圆形的光圈意味着可以停泊! 去那里寻找故事."
+    "translation": "一个圆形的光圈意味着可以停泊! 去那里寻找故事.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "14$Name",
     "original": "Zee-bat",
-    "translation": "海蝙蝠"
+    "translation": "海蝙蝠",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "14$Description",
     "original": "When you are far from land, click on the zee-bat icon. It will search for undiscovered locations nearby.",
-    "translation": "当你远离陆地的时候,点击海蝙蝠的图标. 它会自动搜索附近尚未探索的的地点."
+    "translation": "当你远离陆地的时候,点击海蝙蝠的图标。 它会自动搜索附近尚未探索的的地点。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "15$Name",
     "original": "Zee-bat ",
-    "translation": "海蝙蝠 "
+    "translation": "海蝙蝠 ",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "15$Description",
     "original": "Your zee-bat has discovered something! Click on the message to mark the location on your chart.",
-    "translation": "你的海蝙蝠发现了什么东西! 点击这条信息来在海图上标记位置."
+    "translation": "你的海蝙蝠发现了什么东西! 点击这条信息来在海图上标记位置。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "16$Name",
     "original": "Chart",
-    "translation": "海图"
+    "translation": "海图",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "16$Description",
     "original": "Click on the chart icon to view your discoveries so far.",
-    "translation": "点击海图的图标来查看你目前探索过的敌方."
+    "translation": "点击海图的图标来查看你目前探索过的敌方.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "17$Name",
     "original": "Keyboard shortcuts",
-    "translation": "键盘快捷键"
+    "translation": "键盘快捷键",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "17$Description",
     "original": "Most icons have keyboard shortcuts - mouse over to see them.",
-    "translation": "大多数的图标都有对应的键盘快捷键"
+    "translation": "大多数的图标都有对应的键盘快捷键",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "18$Name",
     "original": "Combat",
-    "translation": "战斗"
+    "translation": "战斗",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "18$Description",
-    "original": "You've encountered an opponent! The red arc shows the range of your deck gun. Keep the enemy in range while your crew works out a firing solution. \n\nThis will happen faster if you keep the enemy in your prow light. The deck gun will be highlighted as your crew make progress towards a firing solution. (Press space or close the tutorial to continue.)",
-    "translation": "你遭遇了敌人! 红色的扇形显示了你的甲板炮的射程.当你的船员瞄准时,保持敌人在射程内. \n\n如果你将敌人保持在前灯的光照下,瞄准过程会加快. 甲板武器的图标会在你的船员完成瞄准和装填之后高亮. (按空格或者关闭教程以继续.)"
+    "original": "You've encountered an opponent! The red arc shows the range of your deck gun. Keep the enemy in range while your crew works out a firing solution. \\n\\nThis will happen faster if you keep the enemy in your prow light. The deck gun will be highlighted as your crew make progress towards a firing solution. (Press space or close the tutorial to continue.)",
+    "translation": "你遭遇了敌人! 红色的扇形显示了你的甲板炮的射程。当你的船员瞄准时,保持敌人在射程内。 \\n\\n如果你将敌人保持在前灯的光照下,瞄准过程会加快。 甲板武器的图标会在你的船员完成瞄准和装填之后高亮。 (按空格或者关闭教程以继续。)",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "19$Name",
     "original": "Full power to the engines!",
-    "translation": "超载引擎!"
+    "translation": "超载引擎!",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "19$Description",
     "original": "If you ever need an extra turn of speed, clicking the full power icon will add another barrel of fuel to the engine. This is occasionally hazardous.",
-    "translation": "如果你需要额外的速度,点击全速前进键将会把额外的燃料加入引擎. 这有时候很危险."
+    "translation": "如果你需要额外的速度,点击全速前进键将会把额外的燃料加入引擎。 这有时候很危险。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "20$Name",
     "original": "Firing solution",
-    "translation": "开火过程"
+    "translation": "开火过程",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "20$Description",
     "original": "Your firing solution is ready! To attack your opponent, click on the deck weapon.",
-    "translation": "你已经准备好开火! 要攻击你的敌人,点击甲板武器."
+    "translation": "你已经准备好开火! 要攻击你的敌人,点击甲板武器.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "21$Name",
     "original": "Claiming your prize",
-    "translation": "拾取战利品"
+    "translation": "拾取战利品",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "21$Description",
     "original": "Congratulations! You've defeated your opponent. Move to the site of their demise to salvage something.",
-    "translation": "祝贺你! 你击败了敌人. 移动到它们被击败的位置来检查有什么东西剩余下."
+    "translation": "祝贺你! 你击败了敌人。 移动到它们被击败的位置来检查有什么东西剩余下。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "22$Name",
     "original": "Hull Damage",
-    "translation": "结构伤害"
+    "translation": "结构伤害",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "22$Description",
     "original": "Your hull is damaged! You can repair it in London's drydocks, or at zee by clicking the repair button. Repairs at zee are slow and consume supplies.",
-    "translation": "你的船受到了结构损伤! 你可以在伦敦的干船坞里修复, 或者在海中使用修理按键. 灾害中修理很慢而且需要消耗补给."
+    "translation": "你的船受到了结构损伤! 你可以在伦敦的干船坞里修复, 或者在海中使用修理按键。 在海上修理得很慢并且需要消耗补给。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "23$Name",
     "original": "Supplies",
-    "translation": "补给"
+    "translation": "补给",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "23$Description",
     "original": "You're low on supplies. Once you run out your crew will begin to starve. You can buy more in certain ports.",
-    "translation": "你现在缺少补给. 一旦你的补给用尽,你的船员会开始挨饿. 你能在特定的港口购买补给."
+    "translation": "你现在缺少补给。 一旦你的补给用尽,你的船员会开始挨饿。 你能在特定的港口购买补给。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "24$Name",
     "original": "Fuel",
-    "translation": "燃料"
+    "translation": "燃料",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "24$Description",
     "original": "You're low on fuel. Buy more before you run out, or you will be stranded in the dark.",
-    "translation": "你现在缺少燃料. 在耗尽前购买更多的燃料, 否则你会永远留在黑暗中."
+    "translation": "你现在缺少燃料. 在耗尽前购买更多的燃料, 否则你会永远留在黑暗中.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "25$Name",
     "original": "Crew",
-    "translation": "船员"
+    "translation": "船员",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "25$Description",
     "original": "You've lost a crew member. Lose too many and your speed will be reduced; lose them all and you too will die. You can always engage more in London, and sometimes other ports.",
-    "translation": "你失去了一名船员.损失太多船员会让你的船无法全速前进 ;船员损失殆尽则你也会死亡. 你一直可以再伦敦雇佣更多的船员,有时候在其他的港口你也能雇到一些船员."
+    "translation": "你失去了一名船员。损失太多船员会让你的船无法全速前进 ;船员损失殆尽则你也会死亡。 你一直可以再伦敦雇佣更多的船员,有时候在其他的港口你也能雇到一些船员。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "26$Name",
     "original": "Terror ",
-    "translation": "恐惧 "
+    "translation": "恐惧 ",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "26$Description",
     "original": "Your crew's terror is reaching dangerous levels. You can lower it in certain ports, and slow its rise by staying close to land and keeping your prow light on.",
-    "translation": "你船员的恐惧已经到达十分危险的等级.你能在特定的港口降低恐惧, 呆在离岸足够近的地方并且打开前灯能够阻止恐惧继续增长."
+    "translation": "你船员的恐惧已经到达十分危险的等级。你能在特定的港口降低恐惧, 呆在离岸足够近的地方并且打开前灯能够阻止恐惧继续增长。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "27$Name",
     "original": "Damage",
-    "translation": "伤害"
+    "translation": "伤害",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "27$Description",
     "original": "Careful! Your hull just took damage from a collision. If you have trouble steering around rocks, try slowing down or going backwards with the S key.",
-    "translation": "小心! 你的船体在碰撞中受到损伤.如果你感到难以避开礁石 , 试试减速或者倒车."
+    "translation": "小心! 你的船体在碰撞中受到损伤。如果你感到难以避开礁石 , 试试减速或者倒车。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "28$Name",
     "original": "Hold",
-    "translation": "货仓"
+    "translation": "货仓",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "28$Description",
     "original": "Your hold is almost full. If you exceed your maximum cargo capacity while outside port, you'll have to throw some overboard.",
-    "translation": "你的货舱几乎满了. 如果你在港口之外装满了货仓, 你就需要扔掉其中的一些东西."
+    "translation": "你的货舱几乎满了. 如果你在港口之外装满了货仓, 你就需要扔掉其中的一些东西.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "29$Name",
     "original": "Hull Damage ",
-    "translation": "船体伤害"
+    "translation": "船体伤害",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "29$Description",
     "original": "Your hull is below half strength! Enemy attacks may now do additional damage to your terror, crew, or supplies.",
-    "translation": "你的结构还剩不到一半! 敌人的攻击现在会增加你的恐惧,甚至直接伤害到你的船员和补给."
+    "translation": "你的结构还剩不到一半! 敌人的攻击现在会增加你的恐惧,甚至直接伤害到你的船员和补给。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "30$Name",
     "original": "Horn",
-    "translation": "汽笛"
+    "translation": "汽笛",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "30$Description",
     "original": "Pressing the H key will blow your horn. This has no useful function, and may provoke nearby zee-beasts or hostile vessels.",
-    "translation": "按H键来鸣响汽笛. 这通常没什么用, 而且有可能激怒附近的海兽或者敌对的舰船."
+    "translation": "按H键来鸣响汽笛. 这通常没什么用, 而且有可能激怒附近的海兽或者敌对的舰船.",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "31$Name",
     "original": "Such wealth!",
-    "translation": "这么多财富!"
+    "translation": "这么多财富!",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "31$Description",
     "original": "You've earned enough Echoes to buy better equipment for your ship! Click on the shops tab. A new engine or deck weapon would be a good first purchase.",
-    "translation": "你已经赚了足够的钱,现在你可以升级你的船上装备!点击商店面板.最好先买一个新的引擎或者甲板武器."
+    "translation": "你已经赚了足够的钱,现在你可以升级你的船上装备!点击商店面板。最好先买一个新的引擎或者甲板武器。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "32$Name",
     "original": "Well provisioned",
-    "translation": "充分补给"
+    "translation": "充分补给",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "32$Description",
     "original": "You are now well provisioned! Try venturing further from London. The risks are greater, but so are the rewards.",
-    "translation": "你现在得到了充分的补给! 试着航向远离伦敦的地方 . 风险越高,收益就会越高."
+    "translation": "你现在得到了充分的补给! 试着航向远离伦敦的地方 。 风险越高,收益就会越高。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "33$Name",
     "original": "Submerging",
-    "translation": "潜水"
+    "translation": "潜水",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "33$Description",
     "original": "You're now the proud owner of a zubmersible ship! Use the 'Submerge' button to convert your ship into a zubmarine. Use the same button when underwater to resurface.",
-    "translation": "你现在是一名值得骄傲的潜水船船主! 使用 '下潜' 键来将你的船变形为潜水艇. 用同一按键进行上浮."
+    "translation": "你现在是一名值得骄傲的潜水船船主! 使用 '下潜' 键来将你的船变形为潜水艇。 用同一按键进行上浮。",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "34$Name",
     "original": "Sonar",
-    "translation": "声呐"
+    "translation": "声呐",
+    "stage": 1
   },
   {
-    "context": "",
     "key": "34$Description",
     "original": "Sonar lets you see beneath the zee. When underwater, it highlights nearby obstacles, discoveries and creatures with a dim blue glow. You'll have to get closer to find out what they are",
-    "translation": "声呐让你可以看到水下的周围环境. 在水下,声呐可以让周围的障碍物及生物以暗蓝色荧光显示. 你需要靠近到一定距离才能确定那到底是什么"
+    "translation": "声呐让你可以看到水下的周围环境. 在水下,声呐可以让周围的障碍物及生物以暗蓝色荧光显示. 你需要靠近到一定距离才能确定那到底是什么",
+    "stage": 1
   }
 ]
