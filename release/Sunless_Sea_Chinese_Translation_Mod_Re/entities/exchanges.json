@@ -3,7 +3,7 @@
     "Description": "货物,财宝,武器,秘密.还有骗局.",
     "Id": 2,
     "Image": "fallenlondon_port",
-    "Name": "伦敦",
+    "Name": "沦敦",
     "SettingIds": [
       100233,
       101295
@@ -1287,7 +1287,7 @@
             "SellPrice": 22
           }
         ],
-        "Description": "[小交易商通过零售交易的形式很难盈利,建议寻找其他的方式赚取]",
+        "Description": "Trading in common goods will only earn slim profits. Seek other opportunities.\n",
         "Exchange": null,
         "Id": 13,
         "Image": "wolfstackdocks_port",
@@ -2488,11 +2488,11 @@
             "SellPrice": 0
           }
         ],
-        "Description": "[功率更大的引擎会消耗更多燃料,但是会提升速度-尤其是那些巨大的缓慢船只.]",
+        "Description": "[功率更大的引擎会消耗更多燃料,但是会提升速度-对那些巨大的缓慢船只而言必不可少.]",
         "Exchange": null,
         "Id": 14,
         "Image": "chap8",
-        "Name": "钢铁和米斯里合作公司",
+        "Name": "钢铁与苦难合作公司",
         "Ordering": 4,
         "UnlockCost": []
       },
@@ -3604,7 +3604,7 @@
             "SellPrice": 150
           }
         ],
-        "Description": "卡罗先生找到了那些本应出售给皇家海军,却因为海军预算问题没能出售的装备的用处",
+        "Description": "卡罗先生找到了那些本应出售给皇家海军,却因为海军预算问题没能出售的装备的用处.",
         "Exchange": null,
         "Id": 16,
         "Image": "genericmale1",
@@ -4295,7 +4295,7 @@
             "SellPrice": 300
           }
         ],
-        "Description": "极度快活的火焰先生,制造了那些最可怕但是至少经过了严格测试的设备.",
+        "Description": "极度快活的火焰先生,制造了那些最为可怕但是至少经过了严格测试的设备.",
         "Exchange": null,
         "Id": 33,
         "Image": "master2",
@@ -5699,7 +5699,7 @@
             "SellPrice": 150
           }
         ],
-        "Description": "带东西来.",
+        "Description": "<b>带东西来.</b>",
         "Exchange": null,
         "Id": 40,
         "Image": "clayman6",
@@ -5710,7 +5710,7 @@
     ]
   },
   {
-    "Description": "不只有蓝宝石。尽管这里卖的大多都是蓝宝石。",
+    "Description": "不只有蓝宝石。尽管这里尽是蓝宝石。",
     "Id": 4,
     "Image": "sapphire",
     "Name": "玛瑙港市场",
@@ -6061,7 +6061,7 @@
             "SellPrice": 1
           }
         ],
-        "Description": "摊位和伍夫斯托克几乎一样. 声音也很相似.但是气味相差的实在太多.",
+        "Description": "和伍夫斯托克几乎一样的摊位, 一样的嘈杂.但是气味相差地实在太多.",
         "Exchange": null,
         "Id": 20,
         "Image": "banknotes",
@@ -6508,7 +6508,7 @@
     ]
   },
   {
-    "Description": "通往古大陆藏宝地的大门。",
+    "Description": "通往古大陆宝藏的大门。",
     "Id": 5,
     "Image": "mountainglow",
     "Name": "亚当之路",
@@ -7114,7 +7114,7 @@
             "SellPrice": 1200
           }
         ],
-        "Description": "门上的牌子写着: 已得到与凡人进行贸易的许可",
+        "Description": "门上的牌子写着: <b>已得到与凡人进行贸易的许可</b>",
         "Exchange": null,
         "Id": 23,
         "Image": "bohogirl7",
@@ -7221,7 +7221,7 @@
             "SellPrice": 0
           }
         ],
-        "Description": "市场总是出售燃料.用市场故事线来寻找更多货物.",
+        "Description": "市场总是出售燃料.用<b>市场</b>故事线来寻找更多货物.",
         "Exchange": null,
         "Id": 41,
         "Image": "volcano",
@@ -7232,10 +7232,10 @@
     ]
   },
   {
-    "Description": "古老石头上缠满蜘蛛网的市场.",
+    "Description": "古老石头上缠满蛛网的港湾.",
     "Id": 7,
     "Image": "venderbight",
-    "Name": "死亡侨居地",
+    "Name": "死亡租界",
     "SettingIds": [
       100266
     ],
@@ -7668,7 +7668,7 @@
             "SellPrice": 1
           }
         ],
-        "Description": "这里,包扎得很正式的死亡侨民商人们用古老而冰冷的硬币换取光明的东西.",
+        "Description": "这里,包扎正式的死亡侨民商人们用古老而冰冷的硬币换取光明的东西.",
         "Exchange": null,
         "Id": 29,
         "Image": "banknotes",
@@ -8023,7 +8023,7 @@
         "Exchange": null,
         "Id": 30,
         "Image": "ruins2",
-        "Name": "空洞的寺庙",
+        "Name": "空洞寺庙",
         "Ordering": 0,
         "UnlockCost": []
       },
@@ -8115,11 +8115,11 @@
             "SellPrice": 15
           }
         ],
-        "Description": "你有死亡侨民?放在这里,我们会付给你钱.",
+        "Description": "你有死亡侨民?丢在这里,我们会付钱.",
         "Exchange": null,
         "Id": 31,
         "Image": "coffin",
-        "Name": "阴森的房间",
+        "Name": "阴森廊厅",
         "Ordering": 0,
         "UnlockCost": []
       }
@@ -9180,7 +9180,7 @@
             "SellPrice": 300
           }
         ],
-        "Description": "你可以高价买到美丽的蓝色羽毛.它们的颜色就像早已失去的天空; 还能买到些新鲜的李子.",
+        "Description": "你可以高价买到如同失落的天空一样蔚蓝的羽毛;还有其他令人垂涎之物.",
         "Exchange": null,
         "Id": 17,
         "Image": "khansheart_port",
@@ -9914,7 +9914,7 @@
             "SellPrice": 100
           }
         ],
-        "Description": "标语上写着: 请用骨头.店主会用兽类的肉来换取你的故事,或者买那些象牙色的骨头.",
+        "Description": "标语上写着: <b>请用骨头</b>.店主会用兽类的肉来换取你的故事,或者买那些象牙色的骨头.",
         "Exchange": null,
         "Id": 38,
         "Image": "passerby",
@@ -10276,7 +10276,7 @@
             "SellPrice": 1
           }
         ],
-        "Description": "挖掘工具,遗物和文物!还有美味滋滋汤.",
+        "Description": "器物,遗物和文物!还有美味滋滋汤.",
         "Exchange": null,
         "Id": 27,
         "Image": "dig",
@@ -11255,7 +11255,7 @@
             "SellPrice": 625
           }
         ],
-        "Description": "当然你可以在这里出售那些非法商品.当然你也别期望能有个合理的价格.",
+        "Description": "你当然可以在这里出售那些非法商品.你当然也别期望能有个合理的价格.",
         "Exchange": null,
         "Id": 49,
         "Image": "greeneye",
@@ -11617,7 +11617,7 @@
             "SellPrice": 0
           }
         ],
-        "Description": "咖啡和燃料从龙奶子上滴下来. ",
+        "Description": "咖啡和燃料从龙兽奶嘴上滴下来. ",
         "Exchange": null,
         "Id": 25,
         "Image": "sunderedsea",
@@ -11631,7 +11631,7 @@
     "Description": "你会变得幸福与健康.除此之外什么都得不到.",
     "Id": 15,
     "Image": "bread",
-    "Name": "祝您健康阴谋集团",
+    "Name": "祝您健康阴谋会",
     "SettingIds": [
       102459
     ],
@@ -12075,7 +12075,7 @@
     ]
   },
   {
-    "Description": "苍蝇们。听话。",
+    "Description": "苍蝇们。听。",
     "Id": 6,
     "Image": "blowfly",
     "Name": "苍蝇议会",
@@ -13516,7 +13516,7 @@
         "Exchange": null,
         "Id": 44,
         "Image": "spidersilk",
-        "Name": "纺织工之光",
+        "Name": "织匠之悦",
         "Ordering": 0,
         "UnlockCost": []
       }
@@ -14824,7 +14824,7 @@
         "Exchange": null,
         "Id": 46,
         "Image": "boat_basic",
-        "Name": "入口",
+        "Name": "门槛",
         "Ordering": 0,
         "UnlockCost": []
       },
@@ -15522,7 +15522,7 @@
     ]
   },
   {
-    "Description": "农ooooo西奥!",
+    "Description": "农——西奥!",
     "Id": 9,
     "Image": "scutteringcompany",
     "Name": "农西奥",
@@ -16855,7 +16855,7 @@
     "Description": "怀表死去的地方.",
     "Id": 30,
     "Image": "carcass",
-    "Name": "可汗之心",
+    "Name": "刚特极点",
     "SettingIds": [
       106126
     ],
@@ -17118,7 +17118,7 @@
             "SellPrice": 0
           }
         ],
-        "Description": "一名当地商人来此寻求荣耀. 他现在开始以向任何他能找到的顾客出售那些没腐烂到那种程度的肉谋生.",
+        "Description": "一名天真的商人来此寻求荣耀. 他现在开始以向任何他能找到的顾客出售那些没腐烂到那种程度的肉谋生.",
         "Exchange": null,
         "Id": 58,
         "Image": "servant",
@@ -19065,7 +19065,7 @@
             "SellPrice": 53
           }
         ],
-        "Description": "零星的几团贸易商, 走私者, 还有购物者.",
+        "Description": "零星的几群贸易商, 走私者, 还有购物者.",
         "Exchange": null,
         "Id": 52,
         "Image": "cudgeltooth",
@@ -19767,11 +19767,11 @@
             "SellPrice": 250
           }
         ],
-        "Description": "历史是神圣的, 但是长牙没那么神圣.",
+        "Description": "历史不容侵犯, 长牙尚能干涉.",
         "Exchange": null,
         "Id": 54,
         "Image": "skull",
-        "Name": "剩余者",
+        "Name": "残余",
         "Ordering": 0,
         "UnlockCost": []
       }
@@ -20835,7 +20835,7 @@
         "Exchange": null,
         "Id": 57,
         "Image": "iron",
-        "Name": "船体收割",
+        "Name": "船体丰收",
         "Ordering": 0,
         "UnlockCost": []
       }
@@ -21367,7 +21367,7 @@
         "Exchange": null,
         "Id": 56,
         "Image": "iron",
-        "Name": "船体收割",
+        "Name": "船体丰收",
         "Ordering": 0,
         "UnlockCost": []
       }
@@ -21736,10 +21736,10 @@
     ]
   },
   {
-    "Description": "钟声依旧.",
+    "Description": "鸣钟咚隆.",
     "Id": 32,
     "Image": "church",
-    "Name": "沉没的巴内特",
+    "Name": "沉没的巴尼特",
     "SettingIds": [
       106136
     ],

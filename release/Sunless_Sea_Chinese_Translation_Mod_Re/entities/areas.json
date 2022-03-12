@@ -48,7 +48,7 @@
     "World": null
   },
   {
-    "Description": "伦敦最后的皇家殖民地. 珍重.",
+    "Description": "沦敦最后的皇家殖民地. 请珍重.",
     "HideName": false,
     "Id": 100371,
     "ImageName": "portcarnelian_port",
@@ -64,7 +64,7 @@
     "World": null
   },
   {
-    "Description": "在不朽的遗迹之上,有蘑菇木建立的仓库和驿站.",
+    "Description": "在不朽的遗迹之上,蘑菇木建立的仓库和驿站拔地而起.",
     "HideName": false,
     "Id": 100372,
     "ImageName": "adamscape_port",
@@ -88,7 +88,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你移动到了新的地方",
-    "Name": "奇怪的人",
+    "Name": "钢铁共和国",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,
@@ -104,7 +104,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你移动到了新的地方",
-    "Name": "死亡侨居地",
+    "Name": "死亡租界",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,
@@ -176,7 +176,7 @@
     "World": null
   },
   {
-    "Description": "你听到了音乐没有?",
+    "Description": "你听到了音乐么?",
     "HideName": false,
     "Id": 101980,
     "ImageName": "chapeloflights_port",
@@ -192,7 +192,7 @@
     "World": null
   },
   {
-    "Description": "一个和最荒诞不经的梦里出现的一样大的龟壳?",
+    "Description": "这是最荒诞的梦里才会有的大号龟壳？",
     "HideName": false,
     "Id": 101981,
     "ImageName": "chelonate_port",
@@ -200,7 +200,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你已进港。",
-    "Name": "切洛内特",
+    "Name": "鳌阜",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,
@@ -208,7 +208,7 @@
     "World": null
   },
   {
-    "Description": "谨慎行事.",
+    "Description": "谨言慎行.",
     "HideName": false,
     "Id": 101982,
     "ImageName": "corsairsforest_port",
@@ -224,7 +224,7 @@
     "World": null
   },
   {
-    "Description": "甜蜜而荒芜的气味还有野外的哭声.",
+    "Description": "甜蜜而狂乱的芬芳，以及更加狂乱的哭喊.",
     "HideName": false,
     "Id": 101983,
     "ImageName": "wolfstack",
@@ -240,7 +240,7 @@
     "World": null
   },
   {
-    "Description": "远方的歌声就像海市蜃楼一样.",
+    "Description": "蜃景般的遥远歌谣.",
     "HideName": false,
     "Id": 101984,
     "ImageName": "grandgeode_port",
@@ -304,7 +304,7 @@
     "World": null
   },
   {
-    "Description": "一个宏伟而孤立的地方.",
+    "Description": "宏伟孤绝之地.",
     "HideName": false,
     "Id": 101988,
     "ImageName": "khansglory_port",
@@ -320,7 +320,7 @@
     "World": null
   },
   {
-    "Description": "伦敦的对头.",
+    "Description": "沦敦的对头.",
     "HideName": false,
     "Id": 101989,
     "ImageName": "khansheart_port",
@@ -336,7 +336,7 @@
     "World": null
   },
   {
-    "Description": "漂浮着的城市.",
+    "Description": "漂浮之城.",
     "HideName": false,
     "Id": 101990,
     "ImageName": "khansshadow_port",
@@ -384,7 +384,7 @@
     "World": null
   },
   {
-    "Description": "信使, 勿归.",
+    "Description": "<b>有来, 无回.</b>",
     "HideName": false,
     "Id": 101993,
     "ImageName": "nuncio_port",
@@ -400,7 +400,7 @@
     "World": null
   },
   {
-    "Description": "没有光源,但是你确定这里发着银色的光.对游戏玩家来说这里是天堂.",
+    "Description": "无源的银光.棋手的天堂.",
     "HideName": false,
     "Id": 101994,
     "ImageName": "principlesofcoral_port",
@@ -416,7 +416,7 @@
     "World": null
   },
   {
-    "Description": "洛林港:以最有上进心的溺亡者命名.磷光生物发着绿光. 在这下面的某处,王等待着.",
+    "Description": "洛林港:以最有上进心的溺亡者命名. 磷光生物发着绿光. 而在其下, 王静候着.",
     "HideName": false,
     "Id": 101996,
     "ImageName": "fathomkingshold_port",
@@ -448,7 +448,7 @@
     "World": null
   },
   {
-    "Description": "它们移动时发出的持续不断的声音让你想到了海岸上的卵石。。。",
+    "Description": "它们移动时发出的持续不断的声音让你想到了沙滩上的卵石...",
     "HideName": false,
     "Id": 101998,
     "ImageName": "gossamerway_port",
@@ -600,7 +600,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你移动到了新的地方",
-    "Name": "黎明机",
+    "Name": "黎明机器",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,
@@ -608,7 +608,7 @@
     "World": null
   },
   {
-    "Description": "镜子之城, 光在这里就是法律。。。",
+    "Description": "镜子之城, 在这里，光就是法律...",
     "HideName": false,
     "Id": 102386,
     "ImageName": "varchas_port",
@@ -616,7 +616,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你移动到了新的地方",
-    "Name": "瓦尔查斯",
+    "Name": "缚遮娑",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,
@@ -736,7 +736,7 @@
     "World": null
   },
   {
-    "Description": "两栋房子,看起来都很庄严.",
+    "Description": "两股势力, 分庭抗礼.",
     "HideName": false,
     "Id": 102804,
     "ImageName": "generic_port",
@@ -752,7 +752,7 @@
     "World": null
   },
   {
-    "Description": "在这里,地表黑暗的海水奔涌而下, 这些水是从有光照的海里来的。。。",
+    "Description": "在这里,地表黑暗的海水奔涌而下, 它们自一片更光明的海中而来...",
     "HideName": false,
     "Id": 102832,
     "ImageName": "cumaeancanal_port",
@@ -800,7 +800,7 @@
     "World": null
   },
   {
-    "Description": "有时,阳光如雨. 有时,雨如阳光.",
+    "Description": "阳光如雨. 有时,雨如阳光.",
     "HideName": false,
     "Id": 102882,
     "ImageName": "generic_port",
@@ -816,7 +816,7 @@
     "World": null
   },
   {
-    "Description": "这片被孢子侵染的海域中高贵的核心",
+    "Description": "这片被孢子侵染的海域中高贵的核心.",
     "HideName": false,
     "Id": 102960,
     "ImageName": "uttershroom_port",
@@ -832,7 +832,7 @@
     "World": null
   },
   {
-    "Description": "智者与一些邪恶的人都到这里来寻求庇护, 这里的水果很丰富,树林也在毫无节制的生长着.",
+    "Description": "水果丰富,树丛杂生,智者与恶人都到这里寻求庇护,",
     "HideName": false,
     "Id": 103246,
     "ImageName": "generic_port",
@@ -856,7 +856,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你移动到了新的地方",
-    "Name": "可汗的荣耀",
+    "Name": "夜曲号残骸",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,
@@ -936,7 +936,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你移动到了新的地方",
-    "Name": "阿斯蒂沃",
+    "Name": "夏宴岛",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,
@@ -1160,7 +1160,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你移动到了新的地方",
-    "Name": "沉没的巴内特",
+    "Name": "沉没的巴尼特",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,

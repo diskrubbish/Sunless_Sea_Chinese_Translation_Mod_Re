@@ -1,662 +1,1886 @@
 [
   {
+    "context": "",
     "key": "AdamsCape$HumanName",
     "original": "Adam's Cape",
-    "translation": "亚当海角",
-    "stage": 1
+    "translation": "亚当海角"
   },
   {
+    "context": "",
     "key": "AdamsCape$Description",
     "original": "A carmine tint to the waves. We're approaching Adam's Way, 'where flows the Mountain's blood'.",
-    "translation": "深红色的浪花泛起。我们正在接近亚当之路, “流淌着光明山血之地”。",
-    "stage": 1
+    "translation": "深红色的浪花泛起. 我们正在接近亚当之路, \"光明之山淌血之地\"."
   },
   {
-    "key": "AdamsCape%LabelData$Label",
+    "context": "",
+    "key": "AdamsCape/Adam's Way%LabelData$Label",
     "original": "Adam's Way",
-    "translation": "利文斯頓角",
-    "stage": 1
+    "translation": "亚当之路"
   },
   {
+    "context": "",
+    "key": "AdamsCape/Darkgryphon Straits%LabelData$Label",
+    "original": "Darkgryphon Straits",
+    "translation": "黑狮鹫海峡"
+  },
+  {
+    "context": "",
+    "key": "AdamsCape/Apis Meet%LabelData$Label",
+    "original": "Apis Meet",
+    "translation": "神蜂之会"
+  },
+  {
+    "context": "",
+    "key": "AdamsCape/Gardiner's Rock%LabelData$Label",
+    "original": "Gardiner's Rock",
+    "translation": "加德納岩礁"
+  },
+  {
+    "context": "",
+    "key": "AdamsCape/Point Livingston%LabelData$Label",
+    "original": "Point Livingston",
+    "translation": "利文斯顿角"
+  },
+  {
+    "context": "",
     "key": "BorealReach$HumanName",
     "original": "The Boreal Reach",
-    "translation": "北方海岸",
-    "stage": 1
+    "translation": "北方海域"
   },
   {
+    "context": "",
     "key": "BorealReach$Description",
     "original": "Boreal Reach. Is this snow? Touch it, and it puffs to vapour. Your crew huddles close to the warmth of pipe and funnel.",
-    "translation": "北方海域。这是雪吗? 当你碰到它的时候,它化为无形的气体。你的船员集中在烟囱附近取暖。",
-    "stage": 1
+    "translation": "北方海域. 这是雪吗? 它一碰就化为了缕缕无形的气体. 你的船员集中在烟囱附近取暖."
   },
   {
-    "key": "BorealReach%LabelData$Label",
+    "context": "",
+    "key": "BorealReach/Puckeridge's Lookout%LabelData$Label",
     "original": "Puckeridge's Lookout",
-    "translation": "何方",
-    "stage": 1
+    "translation": "普克瑞治瞭望台"
   },
   {
+    "context": "",
+    "key": "BorealReach/Johannesson Town%LabelData$Label",
+    "original": "Johannesson Town",
+    "translation": "约翰逊镇"
+  },
+  {
+    "context": "",
+    "key": "BorealReach/Odinson Straits%LabelData$Label",
+    "original": "Odinson Straits",
+    "translation": "奥丁森海峡"
+  },
+  {
+    "context": "",
+    "key": "BorealReach/Censor's Arch%LabelData$Label",
+    "original": "Censor's Arch",
+    "translation": "守望者拱门"
+  },
+  {
+    "context": "",
+    "key": "BorealReach/Andergard Harbour%LabelData$Label",
+    "original": "Andergard Harbour",
+    "translation": "安德加德港"
+  },
+  {
+    "context": "",
+    "key": "BorealReach/Pale Wastes%LabelData$Label",
+    "original": "Pale Wastes",
+    "translation": "苍白荒原"
+  },
+  {
+    "context": "",
+    "key": "BorealReach/Codex%LabelData$Label",
+    "original": "Codex",
+    "translation": "法典岛"
+  },
+  {
+    "context": "",
+    "key": "BorealReach/Whither%LabelData$Label",
+    "original": "Whither",
+    "translation": "何方"
+  },
+  {
+    "context": "",
     "key": "CarnelianCoast$HumanName",
     "original": "The Carnelian Coast",
-    "translation": "玛瑙港",
-    "stage": 1
+    "translation": "玛瑙港"
   },
   {
+    "context": "",
     "key": "CarnelianCoast$Description",
     "original": "The Carnelian Coast. Far to the South, the Neath-roof glimmers above the Mountain of Light.",
-    "translation": "玛瑙港.遥远南方的小镇,洞顶在光明之山上反射着微光.",
-    "stage": 1
+    "translation": "玛瑙港.遥远南方的小镇,洞顶反射着光明之山的微光."
   },
   {
-    "key": "CarnelianCoast%LabelData$Label",
+    "context": "",
+    "key": "CarnelianCoast/Port Carnelian%LabelData$Label",
     "original": "Port Carnelian",
-    "translation": "費爾騰漩渦",
-    "stage": 1
+    "translation": "玛瑙港"
   },
   {
+    "context": "",
+    "key": "CarnelianCoast/Dybala Town%LabelData$Label",
+    "original": "Dybala Town",
+    "translation": "迪巴拉镇"
+  },
+  {
+    "context": "",
+    "key": "CarnelianCoast/Rolias Bluff%LabelData$Label",
+    "original": "Rolias Bluff",
+    "translation": "罗力亚斯绝壁"
+  },
+  {
+    "context": "",
+    "key": "CarnelianCoast/Librarian's Grotto%LabelData$Label",
+    "original": "Librarian's Grotto",
+    "translation": "佣书人岩洞"
+  },
+  {
+    "context": "",
+    "key": "CarnelianCoast/Rainer's Vortex%LabelData$Label",
+    "original": "Rainer's Vortex",
+    "translation": "蕾娜漩涡"
+  },
+  {
+    "context": "",
+    "key": "CarnelianCoast/Velten's Vortex%LabelData$Label",
+    "original": "Velten's Vortex",
+    "translation": "费尔腾漩涡"
+  },
+  {
+    "context": "",
     "key": "Chelonate$HumanName",
     "original": "The Chelonate",
-    "translation": "切洛内特",
-    "stage": 1
+    "translation": "鳌阜"
   },
   {
+    "context": "",
     "key": "Chelonate$Description",
     "original": "Another zee-beast corpse afloat. So much carrion. We approach the Chelonate.",
-    "translation": "海面上漂着另一只海兽的尸体。高度腐烂。 我们正在接近切洛内特。",
-    "stage": 1
+    "translation": "又一只海兽的浮尸. 如此多的腐肉. 我们接近了鳌阜."
   },
   {
-    "key": "Chelonate%LabelData$Label",
+    "context": "",
+    "key": "Chelonate/The Chelonate%LabelData$Label",
     "original": "The Chelonate",
-    "translation": "可汗之心",
-    "stage": 1
+    "translation": "鳌阜"
   },
   {
+    "context": "",
+    "key": "Chelonate/Gant Pole%LabelData$Label",
+    "original": "Gant Pole",
+    "translation": "刚特极点"
+  },
+  {
+    "context": "",
+    "key": "Chelonate/Sachatown%LabelData$Label",
+    "original": "Sachatown",
+    "translation": "撒查镇"
+  },
+  {
+    "context": "",
+    "key": "Chelonate/Schabelport%LabelData$Label",
+    "original": "Schabelport",
+    "translation": "沙贝尔港"
+  },
+  {
+    "context": "",
+    "key": "Chelonate/Pourzia's Reef%LabelData$Label",
+    "original": "Pourzia's Reef",
+    "translation": "普尔泽雅暗礁"
+  },
+  {
+    "context": "",
+    "key": "Chelonate/Tusler's Channel%LabelData$Label",
+    "original": "Tusler's Channel",
+    "translation": "图斯勒海峡"
+  },
+  {
+    "context": "",
+    "key": "Chelonate/The Gant Pole%LabelData$Label",
+    "original": "The Gant Pole",
+    "translation": "刚特极点"
+  },
+  {
+    "context": "",
     "key": "CorsairsForest$HumanName",
     "original": "Corsairs Forest",
-    "translation": "海盗之林",
-    "stage": 1
+    "translation": "海盗之林"
   },
   {
+    "context": "",
     "key": "CorsairsForest$Description",
     "original": "Stalagmites loom in the distance like the cranes of Wolfstack Docks, but vaster, vaster. The Corsair's Forest. Our lookouts are watchful.",
-    "translation": "远处若隐若现的石笋就像是伍夫斯托克港的起重机,但是远比那更巨大,更巨大。 这里就是海盗之林。我们的瞭望手提高了警惕。",
-    "stage": 1
+    "translation": "远处若隐若现的石笋就像是伍夫斯托克港的起重机, 但是远比那巨大, 更加巨大. 这里就是海盗之林. 我们的瞭望手提高了警惕."
   },
   {
-    "key": "CorsairsForest%LabelData$Label",
+    "context": "",
+    "key": "CorsairsForest/Gaider's Mourn%LabelData$Label",
     "original": "Gaider's Mourn",
-    "translation": "帕特里克的命運",
-    "stage": 1
+    "translation": "加德的哀悼"
   },
   {
+    "context": "",
+    "key": "CorsairsForest/Bournvadus Pillar%LabelData$Label",
+    "original": "Bournvadus Pillar",
+    "translation": "波恩瓦德柱"
+  },
+  {
+    "context": "",
+    "key": "CorsairsForest/Massey's Shaft%LabelData$Label",
+    "original": "Massey's Shaft",
+    "translation": "梅西长杆"
+  },
+  {
+    "context": "",
+    "key": "CorsairsForest/Eeken Rock%LabelData$Label",
+    "original": "Eeken Rock",
+    "translation": "厄肯岩"
+  },
+  {
+    "context": "",
+    "key": "CorsairsForest/Patrick's Lot%LabelData$Label",
+    "original": "Patrick's Lot",
+    "translation": "帕特里克的命运"
+  },
+  {
+    "context": "",
     "key": "CryingHeights$HumanName",
     "original": "The Crying Heights",
-    "translation": "哭泣高地",
-    "stage": 1
+    "translation": "哭泣高地"
   },
   {
+    "context": "",
     "key": "CryingHeights$Description",
     "original": "The Crying Heights, where the Blue Prophets call the names of those about to die.",
-    "translation": "哭泣高地, 蓝色先知呼唤死者之名的地方.",
-    "stage": 1
+    "translation": "哭泣高地, 蓝色先知呼唤将死者之名的地方."
   },
   {
-    "key": "CryingHeights%LabelData$Label",
+    "context": "",
+    "key": "CryingHeights/Crying Heights%LabelData$Label",
     "original": "Crying Heights",
-    "translation": "巴貝爾叢林",
-    "stage": 1
+    "translation": "哭泣高地"
   },
   {
+    "context": "",
+    "key": "CryingHeights/Becker Bight%LabelData$Label",
+    "original": "Becker Bight",
+    "translation": "贝克尔湾"
+  },
+  {
+    "context": "",
+    "key": "CryingHeights/Andromeda's Rocks%LabelData$Label",
+    "original": "Andromeda's Rocks",
+    "translation": "安卓莫达岩"
+  },
+  {
+    "context": "",
+    "key": "CryingHeights/Rubenach Grotto%LabelData$Label",
+    "original": "Rubenach Grotto",
+    "translation": "魯本那契岩洞"
+  },
+  {
+    "context": "",
+    "key": "CryingHeights/Port Addey%LabelData$Label",
+    "original": "Port Addey",
+    "translation": "阿迪港"
+  },
+  {
+    "context": "",
+    "key": "CryingHeights/Bubel's Thicket%LabelData$Label",
+    "original": "Bubel's Thicket",
+    "translation": "巴贝尔丛林"
+  },
+  {
+    "context": "",
     "key": "CumaeanCanal$HumanName",
     "original": "Cumaean Canal",
-    "translation": "卡米安运河",
-    "stage": 1
+    "translation": "卡米安运河"
   },
   {
+    "context": "",
     "key": "CumaeanCanal$Description",
     "original": "Little ships throng the waters here. The crew grow wistful: they swap old stories of sunlit sea. We draw near to the Cumaean Canal, the way to the Surface.",
-    "translation": "小船在附近的海域聚集着。 船员都带着怀念的神情: 他们互相讲述着光明之海的老故事。 我们接近了卡米安运河,通向地表的路。",
-    "stage": 1
+    "translation": "小船在附近的海域聚集. 船员都带着怀念的神情: 他们互相讲述着光明之海的老故事. 我们接近了卡米安运河, 通向地表的路."
   },
   {
-    "key": "CumaeanCanal%LabelData$Label",
+    "context": "",
+    "key": "CumaeanCanal/Giannotti Harbour%LabelData$Label",
     "original": "Giannotti Harbour",
-    "translation": "卡米安运河",
-    "stage": 1
+    "translation": "吉亚诺蒂港"
   },
   {
+    "context": "",
+    "key": "CumaeanCanal/Albertine Gates%LabelData$Label",
+    "original": "Albertine Gates",
+    "translation": "艾伯丁之门"
+  },
+  {
+    "context": "",
+    "key": "CumaeanCanal/Hekaterine's Arch%LabelData$Label",
+    "original": "Hekaterine's Arch",
+    "translation": "赫卡特琳拱门"
+  },
+  {
+    "context": "",
+    "key": "CumaeanCanal/The Cumaean Canal%LabelData$Label",
+    "original": "The Cumaean Canal",
+    "translation": "卡米安运河"
+  },
+  {
+    "context": "",
     "key": "DawnsEdge$HumanName",
     "original": "Dawn's Edge",
-    "translation": "黎明边境",
-    "stage": 1
+    "translation": "黎明边境"
   },
   {
+    "context": "",
     "key": "DawnsEdge$Description",
     "original": "Came on deck to find the metal sharp with sparks. Ozonal coronas haunt the ship. This is Dawn's Edge.",
-    "translation": "去甲板寻找带火花的锋利金属。 臭氧和电光萦绕在船的四周。 这里就是黎明边缘。",
-    "stage": 1
+    "translation": "去甲板寻找带火花的金属. 臭氧和电光萦绕在船的四周. 这里就是黎明边缘."
   },
   {
-    "key": "DawnsEdge%LabelData$Label",
+    "context": "",
+    "key": "DawnsEdge/Grand Geode%LabelData$Label",
     "original": "Grand Geode",
-    "translation": "胡哲頓峭壁",
-    "stage": 1
+    "translation": "宏伟晶洞"
   },
   {
+    "context": "",
+    "key": "DawnsEdge/The Dawn Machine%LabelData$Label",
+    "original": "The Dawn Machine",
+    "translation": "黎明机器"
+  },
+  {
+    "context": "",
+    "key": "DawnsEdge/Zelo's Town%LabelData$Label",
+    "original": "Zelo's Town",
+    "translation": "泽洛镇"
+  },
+  {
+    "context": "",
+    "key": "DawnsEdge/Runeshmi Port%LabelData$Label",
+    "original": "Runeshmi Port",
+    "translation": "如尼施密港"
+  },
+  {
+    "context": "",
+    "key": "DawnsEdge/Corkery Bay%LabelData$Label",
+    "original": "Corkery Bay",
+    "translation": "科克里湾"
+  },
+  {
+    "context": "",
+    "key": "DawnsEdge/The Barnsmore Gap%LabelData$Label",
+    "original": "The Barnsmore Gap",
+    "translation": "巴尔什莫裂谷"
+  },
+  {
+    "context": "",
+    "key": "DawnsEdge/Castle Clare%LabelData$Label",
+    "original": "Castle Clare",
+    "translation": "克莱尔城堡"
+  },
+  {
+    "context": "",
+    "key": "DawnsEdge/Hodgerton's Bluff%LabelData$Label",
+    "original": "Hodgerton's Bluff",
+    "translation": "胡哲顿峭壁"
+  },
+  {
+    "context": "",
     "key": "Deconstruction$HumanName",
     "original": "A generic tile",
-    "translation": "普通的瓦片",
-    "stage": 1
+    "translation": "普通的地块"
   },
   {
+    "context": "",
     "key": "Deconstruction$Description",
     "original": "Fathoms below, miles above.",
-    "translation": "离下面一英寻,离上面一英里.",
-    "stage": 1
+    "translation": "几寻之上，数里之下"
   },
   {
+    "context": "",
     "key": "DemeauxsGate$HumanName",
     "original": "Demeaux's Gate",
-    "translation": "德莫之门",
-    "stage": 1
+    "translation": "德莫之门"
   },
   {
+    "context": "",
     "key": "DemeauxsGate$Description",
     "original": "Here the wilder airs mingle with the airs of the near reaches. Demeaux's Gate, named for a navigator lost above. How did his bones come below?",
-    "translation": "在这里,狂野的空气和其他区域的空气混合在一起。 德莫之门,以在其中失踪的一名领航员命名。 他的遗骨是怎么来到下面的?",
-    "stage": 1
+    "translation": "在这里, 狂野的空气和其他区域的空气混合在一起. 德莫之门, 以在上方失踪的一名领航员命名. 他的遗骨是怎么来到下面的?"
   },
   {
-    "key": "DemeauxsGate%LabelData$Label",
+    "context": "",
+    "key": "DemeauxsGate/Demeaux Island%LabelData$Label",
     "original": "Demeaux Island",
-    "translation": "夫斯基爾黯區",
-    "stage": 1
+    "translation": "德莫岛"
   },
   {
+    "context": "",
+    "key": "DemeauxsGate/Bonny Reefs%LabelData$Label",
+    "original": "Bonny Reefs",
+    "translation": "邦妮礁"
+  },
+  {
+    "context": "",
+    "key": "DemeauxsGate/Iron & Misery Co. Funging Station%LabelData$Label",
+    "original": "Iron & Misery Co. Funging Station",
+    "translation": "钢铁与苦难合作公司真菌林场"
+  },
+  {
+    "context": "",
+    "key": "DemeauxsGate/Moody's Light%LabelData$Label",
+    "original": "Moody's Light",
+    "translation": "穆迪之光"
+  },
+  {
+    "context": "",
+    "key": "DemeauxsGate/Purewal Point%LabelData$Label",
+    "original": "Purewal Point",
+    "translation": "帕威尔角"
+  },
+  {
+    "context": "",
+    "key": "DemeauxsGate/The Phosgene Bleaks%LabelData$Label",
+    "original": "The Phosgene Bleaks",
+    "translation": "夫斯基尔黯区"
+  },
+  {
+    "context": "",
     "key": "EmpireOfHands$HumanName",
     "original": "The Empire of Hands",
-    "translation": "手掌帝国",
-    "stage": 1
+    "translation": "手掌帝国"
   },
   {
+    "context": "",
     "key": "EmpireOfHands$Description",
     "original": "We approach the Empire of Hands. Let us clasp our souls tight, lest the Pentecost Apes take them from us.",
-    "translation": "我们接近了手掌帝国。让我们抓紧自己的灵魂, 小心别让圣灵猿从我们身上把灵魂抓走。",
-    "stage": 1
+    "translation": "我们接近了手掌帝国. 抓紧自己的灵魂, 小心别让圣灵猿把灵魂从我们身上抓走了."
   },
   {
-    "key": "EmpireOfHands%LabelData$Label",
+    "context": "",
+    "key": "EmpireOfHands/Empire of Hands%LabelData$Label",
     "original": "Empire of Hands",
-    "translation": "歐'科菲'灣流",
-    "stage": 1
+    "translation": "手掌帝国"
   },
   {
+    "context": "",
+    "key": "EmpireOfHands/Port Stanton%LabelData$Label",
+    "original": "Port Stanton",
+    "translation": "斯坦顿港"
+  },
+  {
+    "context": "",
+    "key": "EmpireOfHands/Ash Isthmus%LabelData$Label",
+    "original": "Ash Isthmus",
+    "translation": "灰烬地峡"
+  },
+  {
+    "context": "",
+    "key": "EmpireOfHands/Torry Point%LabelData$Label",
+    "original": "Torry Point",
+    "translation": "托里角"
+  },
+  {
+    "context": "",
+    "key": "EmpireOfHands/O'Keefe's Drift%LabelData$Label",
+    "original": "O'Keefe's Drift",
+    "translation": "欧'科菲湾流"
+  },
+  {
+    "context": "",
     "key": "Frostfound$HumanName",
     "original": "Frostfound",
-    "translation": "寒霜城",
-    "stage": 1
+    "translation": "寒霜城"
   },
   {
+    "context": "",
     "key": "Frostfound$Description",
     "original": "Frostfound, vast and chilly. A fortress sieged by questions, answers, and riddles.",
-    "translation": "寒霜城, 宏伟而寒冷. 一座被谜语,问题和答案围攻的要塞.",
-    "stage": 1
+    "translation": "寒霜城, 庞大而冷峻. 一座被谜语,问题和答案围攻的要塞."
   },
   {
-    "key": "Frostfound%LabelData$Label",
+    "context": "",
+    "key": "Frostfound/Sycamore Arch%LabelData$Label",
     "original": "Sycamore Arch",
-    "translation": "幽冥",
-    "stage": 1
+    "translation": "梧桐拱门"
   },
   {
+    "context": "",
+    "key": "Frostfound/Stoddard's Haven%LabelData$Label",
+    "original": "Stoddard's Haven",
+    "translation": "斯托塔德避风港"
+  },
+  {
+    "context": "",
+    "key": "Frostfound/Achlys Abyss%LabelData$Label",
+    "original": "Achlys Abyss",
+    "translation": "黑翳深渊"
+  },
+  {
+    "context": "",
+    "key": "Frostfound/Dathooley's Rage%LabelData$Label",
+    "original": "Dathooley's Rage",
+    "translation": "达索利湍流"
+  },
+  {
+    "context": "",
+    "key": "Frostfound/Frostfound%LabelData$Label",
+    "original": "Frostfound",
+    "translation": "寒霜城"
+  },
+  {
+    "context": "",
+    "key": "Frostfound/Brite%LabelData$Label",
+    "original": "Brite",
+    "translation": "炫光"
+  },
+  {
+    "context": "",
+    "key": "Frostfound/Teneb%LabelData$Label",
+    "original": "Teneb",
+    "translation": "幽冥"
+  },
+  {
+    "context": "",
     "key": "GossamerWay$HumanName",
     "original": "Gossamer Way",
-    "translation": "蛛网海峡",
-    "stage": 1
+    "translation": "蛛网海峡"
   },
   {
+    "context": "",
     "key": "GossamerWay$Description",
     "original": "A floating strand of web caresses your face. The air hints at spiders.",
-    "translation": "一根无形的丝线拂过你的脸。空气正在提示蜘蛛你来了。",
-    "stage": 1
+    "translation": "一根无形的丝线拂过你的脸. 空气正提示蜘蛛, 你来了."
   },
   {
-    "key": "GossamerWay%LabelData$Label",
+    "context": "",
+    "key": "GossamerWay/Saviour's Rocks%LabelData$Label",
     "original": "Saviour's Rocks",
-    "translation": "誕生地",
-    "stage": 1
+    "translation": "救世主岩礁"
   },
   {
+    "context": "",
+    "key": "GossamerWay/The Arntzen Deep%LabelData$Label",
+    "original": "The Arntzen Deep",
+    "translation": "阿恩岑深渊"
+  },
+  {
+    "context": "",
+    "key": "GossamerWay/Wreck of the Nocturne%LabelData$Label",
+    "original": "Wreck of the Nocturne",
+    "translation": "夜曲号残骸"
+  },
+  {
+    "context": "",
+    "key": "GossamerWay/The Nativity%LabelData$Label",
+    "original": "The Nativity",
+    "translation": "诞生地"
+  },
+  {
+    "context": "",
     "key": "IronRepublic$HumanName",
     "original": "The Iron Republic",
-    "translation": "钢铁共和国",
-    "stage": 1
+    "translation": "钢铁共和国"
   },
   {
+    "context": "",
     "key": "IronRepublic$Description",
     "original": "Sizzling vapours rise from the sea. Time slips sideways. A coil of rope has stung a stoker, and his fellows beat it to death. We are under the hand of the Iron Republic.",
-    "translation": "炽热的蒸汽从海中升腾而出。 时间退居一旁。你看到一名锅炉工的脖子上套上了绳圈,然后他的同伴把它殴打致死。我们正在钢铁共和国的烟幕之下。",
-    "stage": 1
+    "translation": "炽热的蒸汽从海中升腾而出. 时间退居一旁. 你看到一个绳圈缠住了锅炉工, 然后他的同伴把它殴打致死. 我们正在钢铁共和国的烟幕之下."
   },
   {
-    "key": "IronRepublic%LabelData$Label",
+    "context": "",
+    "key": "IronRepublic/The Iron Republic%LabelData$Label",
     "original": "The Iron Republic",
-    "translation": "馮 霍恩港",
-    "stage": 1
+    "translation": "钢铁共和国"
   },
   {
+    "context": "",
+    "key": "IronRepublic/The Mercurius Deep%LabelData$Label",
+    "original": "The Mercurius Deep",
+    "translation": "梅屈里厄斯海沟"
+  },
+  {
+    "context": "",
+    "key": "IronRepublic/Cugel's Bluff%LabelData$Label",
+    "original": "Cugel's Bluff",
+    "translation": "庫格尔崖"
+  },
+  {
+    "context": "",
+    "key": "IronRepublic/Adam's Doom%LabelData$Label",
+    "original": "Adam's Doom",
+    "translation": "亞當的厄運"
+  },
+  {
+    "context": "",
+    "key": "IronRepublic/Van Horn Harbour%LabelData$Label",
+    "original": "Van Horn Harbour",
+    "translation": "馮 霍恩港"
+  },
+  {
+    "context": "",
     "key": "Myceligaea$HumanName",
     "original": "Myceligaea",
-    "translation": "米瑟利加亚",
-    "stage": 1
+    "translation": "米瑟利加亚"
   },
   {
+    "context": "",
     "key": "Myceligaea$Description",
     "original": "The water is sluggish with hyphal threads. Violet vegetable bulks break the surface. Myceligaea!",
-    "translation": "水流因为其中漂浮的菌丝而变得迟钝。 紫色的蔬菜破土而出。 米瑟利加亚!",
-    "stage": 1
+    "translation": "水流因为其中漂浮的菌丝而变得迟钝. 紫色的植物破土而出. 米瑟利加亚!"
   },
   {
-    "key": "Myceligaea%LabelData$Label",
+    "context": "",
+    "key": "Myceligaea/The Uttershroom%LabelData$Label",
     "original": "The Uttershroom",
-    "translation": "米克號殘骸",
-    "stage": 1
+    "translation": "世紀之蕈"
   },
   {
+    "context": "",
+    "key": "Myceligaea/Wreck of the Mikko%LabelData$Label",
+    "original": "Wreck of the Mikko",
+    "translation": "米克號殘骸"
+  },
+  {
+    "context": "",
     "key": "PalmerstonsReach$HumanName",
     "original": "Palmerston's Reach",
-    "translation": "帕默斯顿海域",
-    "stage": 1
+    "translation": "帕默斯顿海域"
   },
   {
+    "context": "",
     "key": "PalmerstonsReach$Description",
     "original": "Palmerston's Reach. There is brimstone on the wind.",
-    "translation": "帕默斯顿海域. 风中有硫磺的气味.",
-    "stage": 1
+    "translation": "帕默斯顿海域. 风中有硫磺的气味."
   },
   {
-    "key": "PalmerstonsReach%LabelData$Label",
+    "context": "",
+    "key": "PalmerstonsReach/Duggan's Maw%LabelData$Label",
     "original": "Duggan's Maw",
-    "translation": "安布羅斯角",
-    "stage": 1
+    "translation": "達根航路"
   },
   {
+    "context": "",
+    "key": "PalmerstonsReach/Mount Palmerston%LabelData$Label",
+    "original": "Mount Palmerston",
+    "translation": "帕默斯頓山"
+  },
+  {
+    "context": "",
+    "key": "PalmerstonsReach/Anthe%LabelData$Label",
+    "original": "Anthe",
+    "translation": "安忒"
+  },
+  {
+    "context": "",
+    "key": "PalmerstonsReach/Port Palmerston%LabelData$Label",
+    "original": "Port Palmerston",
+    "translation": "帕默斯頓港"
+  },
+  {
+    "context": "",
+    "key": "PalmerstonsReach/Ambrose Point%LabelData$Label",
+    "original": "Ambrose Point",
+    "translation": "安布羅斯角"
+  },
+  {
+    "context": "",
     "key": "PillaredSea$HumanName",
     "original": "Pillared Sea",
-    "translation": "石柱海",
-    "stage": 1
+    "translation": "柱之海"
   },
   {
+    "context": "",
     "key": "PillaredSea$Description",
     "original": "Strange puffs of warmth from the air behind the ice. This is the Pillared Sea, where Irem will lie. Lies. Has always lain.",
-    "translation": "从寒冰后方吹出了奇怪的暖流。 这里是石柱海, 伊瑞暮将会矗立的地方。谎言。 总是在这里游荡。",
-    "stage": 1
+    "translation": "冰后吹来了怪异的暖风. 这里是柱之海, 伊瑞暮将坐落之地, 伊瑞暮已坐落之地."
   },
   {
-    "key": "PillaredSea%LabelData$Label",
+    "context": "",
+    "key": "PillaredSea/Irem%LabelData$Label",
     "original": "Irem",
-    "translation": "蜘蛛裂谷",
-    "stage": 1
+    "translation": "伊瑞暮"
   },
   {
+    "context": "",
+    "key": "PillaredSea/Carlisle's Haven%LabelData$Label",
+    "original": "Carlisle's Haven",
+    "translation": "卡萊爾避風港"
+  },
+  {
+    "context": "",
+    "key": "PillaredSea/Ruegsegger Straits%LabelData$Label",
+    "original": "Ruegsegger Straits",
+    "translation": "拉賽格海峽"
+  },
+  {
+    "context": "",
+    "key": "PillaredSea/Stryketon%LabelData$Label",
+    "original": "Stryketon",
+    "translation": "斯萊克頓"
+  },
+  {
+    "context": "",
+    "key": "PillaredSea/Nablus Reef%LabelData$Label",
+    "original": "Nablus Reef",
+    "translation": "納布盧斯暗礁"
+  },
+  {
+    "context": "",
+    "key": "PillaredSea/Weaver's Rift%LabelData$Label",
+    "original": "Weaver's Rift",
+    "translation": "蜘蛛裂谷"
+  },
+  {
+    "context": "",
     "key": "PrinciplesOfCoral$HumanName",
     "original": "The Principles of Coral",
-    "translation": "珊瑚之源",
-    "stage": 1
+    "translation": "珊瑚之源"
   },
   {
+    "context": "",
     "key": "PrinciplesOfCoral$Description",
     "original": "The Principles of Coral. The corpse-rainbow glow from beneath the waves echoes the false-stars above.",
-    "translation": "珊瑚之源。 这些死去的彩虹在波浪下散发着微光,就像是在回应着上面的伪星。",
-    "stage": 1
+    "translation": "珊瑚之源. 这些死去的彩虹在波浪下散发着微光, 就像是在回应着上空的伪星."
   },
   {
-    "key": "PrinciplesOfCoral%LabelData$Label",
+    "context": "",
+    "key": "PrinciplesOfCoral/Port Cecil%LabelData$Label",
     "original": "Port Cecil",
-    "translation": "諾克提克瓣面",
-    "stage": 1
+    "translation": "塞西爾港"
   },
   {
+    "context": "",
+    "key": "PrinciplesOfCoral/Dow's Ait%LabelData$Label",
+    "original": "Dow's Ait",
+    "translation": "陶氏沙洲"
+  },
+  {
+    "context": "",
+    "key": "PrinciplesOfCoral/Aphotic Quills%LabelData$Label",
+    "original": "Aphotic Quills",
+    "translation": "阿芙緹可之羽"
+  },
+  {
+    "context": "",
+    "key": "PrinciplesOfCoral/Bidmead Reefs%LabelData$Label",
+    "original": "Bidmead Reefs",
+    "translation": "畢德明礁"
+  },
+  {
+    "context": "",
+    "key": "PrinciplesOfCoral/Brock's Reef%LabelData$Label",
+    "original": "Brock's Reef",
+    "translation": "布羅克礁"
+  },
+  {
+    "context": "",
+    "key": "PrinciplesOfCoral/Scott's Reef%LabelData$Label",
+    "original": "Scott's Reef",
+    "translation": "斯科特礁"
+  },
+  {
+    "context": "",
+    "key": "PrinciplesOfCoral/Wreck of the Emperor Wolfgang%LabelData$Label",
+    "original": "Wreck of the Emperor Wolfgang",
+    "translation": "沃爾夫岡大帝號的殘骸"
+  },
+  {
+    "context": "",
+    "key": "PrinciplesOfCoral/Chatranic Lobe%LabelData$Label",
+    "original": "Chatranic Lobe",
+    "translation": "查特拉尼克瓣面"
+  },
+  {
+    "context": "",
+    "key": "PrinciplesOfCoral/Regal Complexus%LabelData$Label",
+    "original": "Regal Complexus",
+    "translation": "莊嚴複合體"
+  },
+  {
+    "context": "",
+    "key": "PrinciplesOfCoral/Errant's Gyrus%LabelData$Label",
+    "original": "Errant's Gyrus",
+    "translation": "伊倫特之回"
+  },
+  {
+    "context": "",
+    "key": "PrinciplesOfCoral/Noctic Lobe%LabelData$Label",
+    "original": "Noctic Lobe",
+    "translation": "諾克提克瓣面"
+  },
+  {
+    "context": "",
     "key": "PromisedSea$HumanName",
     "original": "The Promised Sea",
-    "translation": "许诺之海",
-    "stage": 1
+    "translation": "许诺之海"
   },
   {
+    "context": "",
     "key": "PromisedSea$Description",
     "original": "The Promised Sea. All through this place, the song of the Drownies lies shivering-sweet along the wind.",
-    "translation": "许诺之海. 总是这里, 关于溺亡者们谎言的歌声随着风飘荡着.",
-    "stage": 1
+    "translation": "许诺之海. 在这里的每一处, 溺亡者的歌声随风飘荡着."
   },
   {
-    "key": "PromisedSea%LabelData$Label",
+    "context": "",
+    "key": "PromisedSea/Fathomking's Hold%LabelData$Label",
     "original": "Fathomking's Hold",
-    "translation": "伊利弗斯礁 ",
-    "stage": 1
+    "translation": "深尋王的城堡"
   },
   {
+    "context": "",
+    "key": "PromisedSea/Aigul%LabelData$Label",
+    "original": "Aigul",
+    "translation": "愛古"
+  },
+  {
+    "context": "",
+    "key": "PromisedSea/Lorkins Port%LabelData$Label",
+    "original": "Lorkins Port",
+    "translation": "洛林港"
+  },
+  {
+    "context": "",
+    "key": "PromisedSea/Luckwright's Reef%LabelData$Label",
+    "original": "Luckwright's Reef",
+    "translation": "拉柯萊特礁"
+  },
+  {
+    "context": "",
+    "key": "PromisedSea/Elifaus Rift%LabelData$Label",
+    "original": "Elifaus Rift",
+    "translation": "伊利弗斯礁"
+  },
+  {
+    "context": "",
     "key": "Rattsey$HumanName",
     "original": "Rattsey",
-    "translation": "拉特西",
-    "stage": 1
+    "translation": "鼠塞"
   },
   {
+    "context": "",
     "key": "Rattsey$Description",
     "original": "Scuttering and chittering in the corners of the hold. Humped shapes on the deck rail. Rattsey air emboldens vermin.",
-    "translation": "在船舱的角落里窜来窜去,叽叽喳喳。弓着背的小身影在甲板的围栏上移动着。 拉特西的空气为这些有害动物壮了胆。",
-    "stage": 1
+    "translation": "在船舱的角落里窜来窜去, 叽叽喳喳. 弓着背的小身影在甲板的围栏上移动着. 鼠塞的空气为这些有害动物壮了胆."
   },
   {
-    "key": "Rattsey%LabelData$Label",
+    "context": "",
+    "key": "Rattsey/Nuncio%LabelData$Label",
     "original": "Nuncio",
-    "translation": "旮旯",
-    "stage": 1
+    "translation": "農西奧"
   },
   {
+    "context": "",
+    "key": "Rattsey/Geryk's Scalpel%LabelData$Label",
+    "original": "Geryk's Scalpel",
+    "translation": "格里克的手術刀"
+  },
+  {
+    "context": "",
+    "key": "Rattsey/The Finknottle Vortex%LabelData$Label",
+    "original": "The Finknottle Vortex",
+    "translation": "芬克諾特漩渦"
+  },
+  {
+    "context": "",
+    "key": "Rattsey/Skylar's End%LabelData$Label",
+    "original": "Skylar's End",
+    "translation": "斯凱拉的終結"
+  },
+  {
+    "context": "",
+    "key": "Rattsey/McMaster's Haven%LabelData$Label",
+    "original": "McMaster's Haven",
+    "translation": "麦克马斯特避风港"
+  },
+  {
+    "context": "",
+    "key": "Rattsey/Nook%LabelData$Label",
+    "original": "Nook",
+    "translation": "旮旯"
+  },
+  {
+    "context": "",
     "key": "SaltSteppes$HumanName",
     "original": "Salt Steppes",
-    "translation": "盐阶",
-    "stage": 1
+    "translation": "盐阶"
   },
   {
+    "context": "",
     "key": "SaltSteppes$Description",
     "original": "The Salt Steppes. This is the domain of the New Khanate, whose ancestors came here long before London fell...",
-    "translation": "盐阶。这里是新汗国的领土,在伦敦陷落之前,他们的祖先就早已来到这里。。。",
-    "stage": 1
+    "translation": "盐阶. 这里是新汗国的领土, 在沦敦陷落之前, 他们的祖先就已来到这里..."
   },
   {
-    "key": "SaltSteppes%LabelData$Label",
+    "context": "",
+    "key": "SaltSteppes/Leopard%LabelData$Label",
     "original": "Leopard",
-    "translation": "流浪者避風港",
-    "stage": 1
+    "translation": "雪豹廳"
   },
   {
+    "context": "",
+    "key": "SaltSteppes/Iron Quarter%LabelData$Label",
+    "original": "Iron Quarter",
+    "translation": "鋼鐵區"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/House of Ancestors%LabelData$Label",
+    "original": "House of Ancestors",
+    "translation": "先祖祠堂"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Taimen%LabelData$Label",
+    "original": "Taimen",
+    "translation": "鮭魚廳"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Ogedei's Bridge%LabelData$Label",
+    "original": "Ogedei's Bridge",
+    "translation": "窩闊台大橋"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Tortoise%LabelData$Label",
+    "original": "Tortoise",
+    "translation": "玄武廳"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Abora Gate%LabelData$Label",
+    "original": "Abora Gate",
+    "translation": "阿博若門"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Khan's Gate%LabelData$Label",
+    "original": "Khan's Gate",
+    "translation": "可汗之門"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Copper Quarter%LabelData$Label",
+    "original": "Copper Quarter",
+    "translation": "赤銅區"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Wolf%LabelData$Label",
+    "original": "Wolf",
+    "translation": "蒼狼廳"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Eagle%LabelData$Label",
+    "original": "Eagle",
+    "translation": "神雕廳"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Nephrite Quarter%LabelData$Label",
+    "original": "Nephrite Quarter",
+    "translation": "軟玉區"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Khan's Shadow%LabelData$Label",
+    "original": "Khan's Shadow",
+    "translation": "可汗之影"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Khan's Heart%LabelData$Label",
+    "original": "Khan's Heart",
+    "translation": "可汗之心"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Khan's Glory%LabelData$Label",
+    "original": "Khan's Glory",
+    "translation": "可汗的荣耀"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Porcelain Quarter%LabelData$Label",
+    "original": "Porcelain Quarter",
+    "translation": "青瓷区"
+  },
+  {
+    "context": "",
+    "key": "SaltSteppes/Wanderer's Haven%LabelData$Label",
+    "original": "Wanderer's Haven",
+    "translation": "流浪者避风港"
+  },
+  {
+    "context": "",
     "key": "SeaOfAutumns$HumanName",
     "original": "The Sea of Autumns",
-    "translation": "秋日之海",
-    "stage": 1
+    "translation": "秋日之海"
   },
   {
+    "context": "",
     "key": "SeaOfAutumns$Description",
     "original": "The mists of the Sea of Autumn get into the eyes, the heart. It is not unusual to find yourself in unsuspected tears.",
-    "translation": "秋日之海的迷雾会迷住你的眼睛,渗入你的心。你经常发现你会莫名其妙的开始流泪。",
-    "stage": 1
+    "translation": "秋日之海的迷雾会迷住你的眼睛, 渗入你的心. 你发现自己会经常莫名地开始流泪."
   },
   {
-    "key": "SeaOfAutumns%LabelData$Label",
+    "context": "",
+    "key": "SeaOfAutumns/Lipiäinen Point%LabelData$Label",
     "original": "Lipiäinen Point",
-    "translation": "伤心群岛",
-    "stage": 1
+    "translation": "里皮埃尔角"
   },
   {
+    "context": "",
+    "key": "SeaOfAutumns/Tiggelaar Bay%LabelData$Label",
+    "original": "Tiggelaar Bay",
+    "translation": "提格拉尔湾"
+  },
+  {
+    "context": "",
+    "key": "SeaOfAutumns/The Mangrove College%LabelData$Label",
+    "original": "The Mangrove College",
+    "translation": "红树学院"
+  },
+  {
+    "context": "",
+    "key": "SeaOfAutumns/Autumn Islands%LabelData$Label",
+    "original": "Autumn Islands",
+    "translation": "秋日群岛"
+  },
+  {
+    "context": "",
+    "key": "SeaOfAutumns/Swallowing Isles%LabelData$Label",
+    "original": "Swallowing Isles",
+    "translation": "吞噬群岛"
+  },
+  {
+    "context": "",
+    "key": "SeaOfAutumns/Melting Isles%LabelData$Label",
+    "original": "Melting Isles",
+    "translation": "伤心群岛"
+  },
+  {
+    "context": "",
     "key": "SeaOfLilies$HumanName",
     "original": "The Sea of Lilies",
-    "translation": "莲花海",
-    "stage": 1
+    "translation": "莲花海"
   },
   {
+    "context": "",
     "key": "SeaOfLilies$Description",
     "original": "We watch for fungal-pads in the Sea of Lilies. There is a prison here, guarded by knot-oracles...",
-    "translation": "我们回避着莲花海里面的真菌垫叶。 那里有一座监狱, 被瘤节先知守护着。。。",
-    "stage": 1
+    "translation": "我们回避着莲花海里面的真菌垫叶. 那里有一座监狱, 被瘤节先知守护着..."
   },
   {
-    "key": "SeaOfLilies%LabelData$Label",
+    "context": "",
+    "key": "SeaOfLilies/Sea of Lilies%LabelData$Label",
     "original": "Sea of Lilies",
-    "translation": "智慧监狱",
-    "stage": 1
+    "translation": "莲花海"
   },
   {
+    "context": "",
+    "key": "SeaOfLilies/Scrimshander%LabelData$Label",
+    "original": "Scrimshander",
+    "translation": "骨雕馆"
+  },
+  {
+    "context": "",
+    "key": "SeaOfLilies/Nuppmiddt Harbour%LabelData$Label",
+    "original": "Nuppmiddt Harbour",
+    "translation": "纳普密迪特港"
+  },
+  {
+    "context": "",
+    "key": "SeaOfLilies/Peterson's Rift%LabelData$Label",
+    "original": "Peterson's Rift",
+    "translation": "彼得森裂谷"
+  },
+  {
+    "context": "",
+    "key": "SeaOfLilies/Wisdom%LabelData$Label",
+    "original": "Wisdom",
+    "translation": "智慧监狱"
+  },
+  {
+    "context": "",
     "key": "SeaOfStatues$HumanName",
     "original": "Sea of Statues",
-    "translation": "雕像海",
-    "stage": 1
+    "translation": "雕像海"
   },
   {
+    "context": "",
     "key": "SeaOfStatues$Description",
     "original": "We have entered the Sea of Statues. Giants gape at us. Kingeater's Castle rises ahead, where fools give up their future.",
-    "translation": "我们驶入了雕像海。巨人们盯着我们。噬王者的城堡就在前面, 那些傻瓜们放弃他们的未来的地方。",
-    "stage": 1
+    "translation": "我们驶入了雕像海. 巨人正盯着我们. 噬王者的城堡, 愚者放弃他们未来的地方, 就在前面."
   },
   {
-    "key": "SeaOfStatues%LabelData$Label",
+    "context": "",
+    "key": "SeaOfStatues/Kingeater's Castle%LabelData$Label",
     "original": "Kingeater's Castle",
-    "translation": "厄普頓",
-    "stage": 1
+    "translation": "噬王者城堡"
   },
   {
+    "context": "",
+    "key": "SeaOfStatues/Pennington%LabelData$Label",
+    "original": "Pennington",
+    "translation": "彭宁顿"
+  },
+  {
+    "context": "",
+    "key": "SeaOfStatues/Sea of Statues%LabelData$Label",
+    "original": "Sea of Statues",
+    "translation": "雕像海"
+  },
+  {
+    "context": "",
+    "key": "SeaOfStatues/Ptacek's Fury%LabelData$Label",
+    "original": "Ptacek's Fury",
+    "translation": "普塔切克之怒"
+  },
+  {
+    "context": "",
+    "key": "SeaOfStatues/Vinno's Rift%LabelData$Label",
+    "original": "Vinno's Rift",
+    "translation": "维诺裂谷"
+  },
+  {
+    "context": "",
+    "key": "SeaOfStatues/Banning Bluff%LabelData$Label",
+    "original": "Banning Bluff",
+    "translation": "班宁绝壁"
+  },
+  {
+    "context": "",
+    "key": "SeaOfStatues/Upton%LabelData$Label",
+    "original": "Upton",
+    "translation": "厄普顿"
+  },
+  {
+    "context": "",
     "key": "SeaOfVoices$HumanName",
     "original": "The Sea of Voices",
-    "translation": "声音之海",
-    "stage": 1
+    "translation": "声音之海"
   },
   {
+    "context": "",
     "key": "SeaOfVoices$Description",
     "original": "'We hear those voices that will not be drowned.' This is the Sea of Voices: we are close to Polythreme, where nothing is truly dead.",
-    "translation": "'我们听到那些不会被淹没的声音。'这就是声音之海: 我们离碎心国很近了,在那里没有什么是真正死亡的。",
-    "stage": 1
+    "translation": "'我们听到那些不会被淹没的声音.' 这就是声音之海: 我们离碎心国很近了, 在那里没有什么是真正死去的."
   },
   {
-    "key": "SeaOfVoices%LabelData$Label",
+    "context": "",
+    "key": "SeaOfVoices/Godfall%LabelData$Label",
     "original": "Godfall",
-    "translation": "艾斯恰文",
-    "stage": 1
+    "translation": "神落"
   },
   {
+    "context": "",
+    "key": "SeaOfVoices/Dahut%LabelData$Label",
+    "original": "Dahut",
+    "translation": "达哈"
+  },
+  {
+    "context": "",
+    "key": "SeaOfVoices/Polythreme%LabelData$Label",
+    "original": "Polythreme",
+    "translation": "碎心国"
+  },
+  {
+    "context": "",
+    "key": "SeaOfVoices/Tides of Appetite%LabelData$Label",
+    "original": "Tides of Appetite",
+    "translation": "食欲之潮"
+  },
+  {
+    "context": "",
+    "key": "SeaOfVoices/The Antonine Abyss%LabelData$Label",
+    "original": "The Antonine Abyss",
+    "translation": "安东尼娜深渊"
+  },
+  {
+    "context": "",
+    "key": "SeaOfVoices/Obey%LabelData$Label",
+    "original": "Obey",
+    "translation": "服从"
+  },
+  {
+    "context": "",
+    "key": "SeaOfVoices/Endure%LabelData$Label",
+    "original": "Endure",
+    "translation": "忍耐"
+  },
+  {
+    "context": "",
+    "key": "SeaOfVoices/Forlorn%LabelData$Label",
+    "original": "Forlorn",
+    "translation": "孤独"
+  },
+  {
+    "context": "",
+    "key": "SeaOfVoices/Commingle%LabelData$Label",
+    "original": "Commingle",
+    "translation": "混合"
+  },
+  {
+    "context": "",
+    "key": "SeaOfVoices/Aeschaven%LabelData$Label",
+    "original": "Aeschaven",
+    "translation": "艾斯恰文"
+  },
+  {
+    "context": "",
     "key": "SeaOfWings$HumanName",
     "original": "Sea of Wings",
-    "translation": "羽毛海",
-    "stage": 1
+    "translation": "羽翼海"
   },
   {
+    "context": "",
     "key": "SeaOfWings$Description",
     "original": "Milliner-bats perch on the funnel, gaudy with stolen plumage. This must be the Feathered Sea.",
-    "translation": "贩帽人蝙蝠栖息在漏斗状的地形中,用偷来的羽毛装饰自己.这里一定是羽毛海.",
-    "stage": 1
+    "translation": "贩帽人蝙蝠栖息在漏斗状的地形中,用偷来的羽毛装饰自己.这里一定是羽毛海."
   },
   {
+    "context": "",
     "key": "ShepherdsWash$HumanName",
     "original": "Shepherd's Wash",
-    "translation": "牧羊人湾流",
-    "stage": 1
+    "translation": "牧羊人湾流"
   },
   {
+    "context": "",
     "key": "ShepherdsWash$Description",
     "original": "Shepherd's Wash, the salty hinterland of London, home to hermits, nuns and shadowy business.",
-    "translation": "牧羊人湾流, 满是咸味的伦敦贫穷离岛, 隐士,修女和秘密交易的家乡。",
-    "stage": 1
+    "translation": "牧羊人湾流, 满是咸味的沦敦贫穷离岛, 隐士,修女和秘密交易的家乡."
   },
   {
-    "key": "ShepherdsWash%LabelData$Label",
+    "context": "",
+    "key": "ShepherdsWash/Flitterstone Isle%LabelData$Label",
     "original": "Flitterstone Isle",
-    "translation": "牧羊人之岛",
-    "stage": 1
+    "translation": "浮石岛"
   },
   {
+    "context": "",
+    "key": "ShepherdsWash/Thornwell Croft%LabelData$Label",
+    "original": "Thornwell Croft",
+    "translation": "索恩威尔围场"
+  },
+  {
+    "context": "",
+    "key": "ShepherdsWash/Westergren's Fire%LabelData$Label",
+    "original": "Westergren's Fire",
+    "translation": "韦斯特格伦之火"
+  },
+  {
+    "context": "",
+    "key": "ShepherdsWash/Wolf's Rift%LabelData$Label",
+    "original": "Wolf's Rift",
+    "translation": "野狼裂谷"
+  },
+  {
+    "context": "",
+    "key": "ShepherdsWash/Fieldhaven%LabelData$Label",
+    "original": "Fieldhaven",
+    "translation": "原野港"
+  },
+  {
+    "context": "",
+    "key": "ShepherdsWash/Depot (A)%LabelData$Label",
+    "original": "Depot (A)",
+    "translation": "仓库 (A)"
+  },
+  {
+    "context": "",
+    "key": "ShepherdsWash/The Sisterhood%LabelData$Label",
+    "original": "The Sisterhood",
+    "translation": "姐妹会"
+  },
+  {
+    "context": "",
+    "key": "ShepherdsWash/Station III%LabelData$Label",
+    "original": "Station III",
+    "translation": "三号要塞"
+  },
+  {
+    "context": "",
+    "key": "ShepherdsWash/Abbey Rock%LabelData$Label",
+    "original": "Abbey Rock",
+    "translation": "修道院岩礁"
+  },
+  {
+    "context": "",
+    "key": "ShepherdsWash/Shepherd Isles%LabelData$Label",
+    "original": "Shepherd Isles",
+    "translation": "牧羊人之岛"
+  },
+  {
+    "context": "",
     "key": "SouthernArchipelago$HumanName",
     "original": "Southern Archipelago",
-    "translation": "南方群岛",
-    "stage": 1
+    "translation": "南方群岛"
   },
   {
+    "context": "",
     "key": "SouthernArchipelago$Description",
     "original": "Home waters. Zailors dawdle at the rail, watching for the lights of London.",
-    "translation": "家乡的水域. 水手们趴在栏杆上,寻找伦敦的灯火.",
-    "stage": 1
+    "translation": "家乡的水域. 水手们趴在栏杆上,寻找沦敦的灯火."
   },
   {
-    "key": "SouthernArchipelago%LabelData$Label",
+    "context": "",
+    "key": "SouthernArchipelago/Bugsby's Marshes%LabelData$Label",
     "original": "Bugsby's Marshes",
-    "translation": "沉没的巴内特",
-    "stage": 1
+    "translation": "臭虫湿地"
   },
   {
+    "context": "",
+    "key": "SouthernArchipelago/Fallen London%LabelData$Label",
+    "original": "Fallen London",
+    "translation": "沦敦"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Wolfstack Docks%LabelData$Label",
+    "original": "Wolfstack Docks",
+    "translation": "伍夫斯托克港"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Dept. of Menace Eradication%LabelData$Label",
+    "original": "Dept. of Menace Eradication",
+    "translation": "危险生物处理部"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Murray Straits%LabelData$Label",
+    "original": "Murray Straits",
+    "translation": "莫里海峡"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Mutton Island%LabelData$Label",
+    "original": "Mutton Island",
+    "translation": "羊岛"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Quaker's Haven%LabelData$Label",
+    "original": "Quaker's Haven",
+    "translation": "贵格避风港"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Badstevener's Abyss%LabelData$Label",
+    "original": "Badstevener's Abyss",
+    "translation": "巴德斯蒂文恩深渊"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Hunter's Keep%LabelData$Label",
+    "original": "Hunter's Keep",
+    "translation": "猎户塔楼"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Prickfinger Wastes%LabelData$Label",
+    "original": "Prickfinger Wastes",
+    "translation": "普利芬格荒原"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Rowena's Rocks%LabelData$Label",
+    "original": "Rowena's Rocks",
+    "translation": "罗威纳岩礁"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/The Echo Bazaar%LabelData$Label",
+    "original": "The Echo Bazaar",
+    "translation": "回声巴扎"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Low Barnet%LabelData$Label",
+    "original": "Low Barnet",
+    "translation": "沉没的巴尼特"
+  },
+  {
+    "context": "",
+    "key": "SouthernArchipelago/Low Barnet%LabelData$Label",
+    "original": "Low Barnet",
+    "translation": "沉没的巴尼特"
+  },
+  {
+    "context": "",
     "key": "SouthernWall$HumanName",
     "original": "The Southern Wall",
-    "translation": "南方之壁",
-    "stage": 1
+    "translation": "南方之壁"
   },
   {
+    "context": "",
     "key": "SouthernWall$Description",
     "original": "A buttery bloom of light on the southern horizon! You approach Varchas, the Mirrored City.",
-    "translation": "一朵淡黄色的光组成的花朵出现在了南方的地平线上! 你靠近了瓦尔查斯, 镜之城。",
-    "stage": 1
+    "translation": "淡黄色的光在南方的地平线上绽放! 你靠近了镜之城缚遮娑."
   },
   {
-    "key": "SouthernWall%LabelData$Label",
+    "context": "",
+    "key": "SouthernWall/Varchas%LabelData$Label",
     "original": "Varchas",
-    "translation": "浪子傑克石柱",
-    "stage": 1
+    "translation": "缚遮娑"
   },
   {
+    "context": "",
+    "key": "SouthernWall/Port Erdonmez%LabelData$Label",
+    "original": "Port Erdonmez",
+    "translation": "厄尔东港"
+  },
+  {
+    "context": "",
+    "key": "SouthernWall/Jack - a - Dandy Stack%LabelData$Label",
+    "original": "Jack - a - Dandy Stack",
+    "translation": "浪子杰克石柱"
+  },
+  {
+    "context": "",
     "key": "SouthernWallTiling$HumanName",
     "original": "The Southern Wall (Tiling version)",
-    "translation": "南方之壁",
-    "stage": 1
+    "translation": "南方之壁(地块版本)"
   },
   {
+    "context": "",
     "key": "SouthernWallTiling$Description",
     "original": "This part of the Unterzee (The Southern Wall) has not yet been created!",
-    "translation": "一朵淡黄色的光组成的花朵出现在了南方的地平线上! 你靠近了瓦尔查斯, 镜之城.",
-    "stage": 2
+    "translation": "一朵淡黄色的光组成的花朵出现在了南方的地平线上! 你靠近了缚遮娑, 镜之城."
   },
   {
+    "context": "",
     "key": "StamfordsExpanse$HumanName",
     "original": "Stamford's Expanse",
-    "translation": "斯坦福的阔地",
-    "stage": 1
+    "translation": "斯坦福的阔地"
   },
   {
+    "context": "",
     "key": "StamfordsExpanse$Description",
     "original": "The false-stars above are feral amber, like tigers' eyes. Stamford's Expanse, named for one who lost his child to cats.",
-    "translation": "上方的伪星看起来就像阴郁的玛瑙,就像老虎的眼睛。斯坦福的阔地, 以那个孩子被大猫叼走的可怜人命名。",
-    "stage": 1
+    "translation": "上空的伪星呈现出琥珀色, 就像老虎的眼睛.  斯坦福阔地, 以那个孩子被大猫叼走的可怜人命名."
   },
   {
-    "key": "StamfordsExpanse%LabelData$Label",
+    "context": "",
+    "key": "StamfordsExpanse/Isle of Cats%LabelData$Label",
     "original": "Isle of Cats",
-    "translation": "玫瑰之门",
-    "stage": 1
+    "translation": "猫岛"
   },
   {
+    "context": "",
+    "key": "StamfordsExpanse/Reef of Roses%LabelData$Label",
+    "original": "Reef of Roses",
+    "translation": "玫瑰礁"
+  },
+  {
+    "context": "",
+    "key": "StamfordsExpanse/Visage%LabelData$Label",
+    "original": "Visage",
+    "translation": "维瑟吉"
+  },
+  {
+    "context": "",
+    "key": "StamfordsExpanse/Flourishing - of - Years%LabelData$Label",
+    "original": "Flourishing - of - Years",
+    "translation": "繁荣之年"
+  },
+  {
+    "context": "",
+    "key": "StamfordsExpanse/Kapalka Cove%LabelData$Label",
+    "original": "Kapalka Cove",
+    "translation": "卡波尔卡盆地"
+  },
+  {
+    "context": "",
+    "key": "StamfordsExpanse/Port Cavendish%LabelData$Label",
+    "original": "Port Cavendish",
+    "translation": "卡文迪许港"
+  },
+  {
+    "context": "",
+    "key": "StamfordsExpanse/Peter's Rocks%LabelData$Label",
+    "original": "Peter's Rocks",
+    "translation": "彼得礁"
+  },
+  {
+    "context": "",
+    "key": "StamfordsExpanse/The Aferox Channel%LabelData$Label",
+    "original": "The Aferox Channel",
+    "translation": "阿芙罗克斯海峡"
+  },
+  {
+    "context": "",
+    "key": "StamfordsExpanse/Rosegate%LabelData$Label",
+    "original": "Rosegate",
+    "translation": "玫瑰之门"
+  },
+  {
+    "context": "",
     "key": "StonesoulIsles$HumanName",
     "original": "Stonesoul Isles",
-    "translation": "石魂岛",
-    "stage": 1
+    "translation": "石魂岛"
   },
   {
+    "context": "",
     "key": "StonesoulIsles$Description",
     "original": "A baked breeze rises, the improbable scent of stone out of some distant desert. You are close to the Salt Lions.",
-    "translation": "起了一阵似乎被烘烤过的微风, 虽然你知道这不可能,但是风里确实有远方沙漠的气味。你现在离盐狮很近了。",
-    "stage": 1
+    "translation": "起了一阵似乎被烘烤过的微风, 虽然你知道这不可能, 但是风里确实有远方沙漠的气味. 你离盐狮很近了."
   },
   {
-    "key": "StonesoulIsles%LabelData$Label",
+    "context": "",
+    "key": "StonesoulIsles/The Salt Lions%LabelData$Label",
     "original": "The Salt Lions",
-    "translation": "船墟",
-    "stage": 1
+    "translation": "盐狮"
   },
   {
+    "context": "",
+    "key": "StonesoulIsles/Zeel Port%LabelData$Label",
+    "original": "Zeel Port",
+    "translation": "泽尔港"
+  },
+  {
+    "context": "",
+    "key": "StonesoulIsles/Wilbert's Abyss%LabelData$Label",
+    "original": "Wilbert's Abyss",
+    "translation": "威尔伯特深渊"
+  },
+  {
+    "context": "",
+    "key": "StonesoulIsles/Wrack%LabelData$Label",
+    "original": "Wrack",
+    "translation": "船墟"
+  },
+  {
+    "context": "",
     "key": "Stormbones$HumanName",
     "original": "Stormbones",
-    "translation": "风暴之骨",
-    "stage": 1
+    "translation": "风暴之骨"
   },
   {
+    "context": "",
     "key": "Stormbones$Description",
     "original": "We enter Stormbones. St Eligius sends his fire to dance in the air, on deck. Very far away we see the great light of the Ragged Crow.",
-    "translation": "我们进入了风暴之骨。圣艾利吉乌斯让他的火焰在空中起舞, 在甲板上起舞。 我们能看见,在很远的地方,是碎鸦灯塔的光。",
-    "stage": 1
+    "translation": "我们进入了风暴之骨. 圣艾利吉乌斯让他的火焰在空中起舞, 在甲板上起舞. 远远的, 我们看到了碎鸦灯塔的光."
   },
   {
-    "key": "Stormbones%LabelData$Label",
+    "context": "",
+    "key": "Stormbones/The Undercrow%LabelData$Label",
     "original": "The Undercrow",
-    "translation": "崇義裂谷",
-    "stage": 1
+    "translation": "鸦下"
   },
   {
+    "context": "",
+    "key": "Stormbones/The Ragged Crow%LabelData$Label",
+    "original": "The Ragged Crow",
+    "translation": "碎鸦灯塔"
+  },
+  {
+    "context": "",
+    "key": "Stormbones/Elifaus Abyss%LabelData$Label",
+    "original": "Elifaus Abyss",
+    "translation": "伊利法斯深渊"
+  },
+  {
+    "context": "",
+    "key": "Stormbones/Chong Yi Rift%LabelData$Label",
+    "original": "Chong Yi Rift",
+    "translation": "崇义裂谷"
+  },
+  {
+    "context": "",
     "key": "TheCalumnies$HumanName",
     "original": "The Calumnies",
-    "translation": "卡勒穆尼",
-    "stage": 1
+    "translation": "卡勒穆尼"
   },
   {
+    "context": "",
     "key": "TheCalumnies$Description",
     "original": "And now we enter the Calumnies. There is a wild and glorious scent in the air. A kind of light. Why do zailors fear this place?",
-    "translation": "现在我们进入了卡勒穆尼. 空气中是狂野和荣耀的气息.某种光.为什么水手们会害怕这地方?",
-    "stage": 1
+    "translation": "现在我们进入了卡勒穆尼. 空气中是狂野和荣耀的气息.某种光.为什么水手们会害怕这地方?"
   },
   {
-    "key": "TheCalumnies%LabelData$Label",
+    "context": "",
+    "key": "TheCalumnies/Cob's Way Bay%LabelData$Label",
     "original": "Cob's Way Bay",
-    "translation": "隐逸之地",
-    "stage": 1
+    "translation": "克伯之路海湾"
   },
   {
+    "context": "",
+    "key": "TheCalumnies/Aestival%LabelData$Label",
+    "original": "Aestival",
+    "translation": "夏宴岛"
+  },
+  {
+    "context": "",
+    "key": "TheCalumnies/Nathan's Bluff%LabelData$Label",
+    "original": "Nathan's Bluff",
+    "translation": "南森绝壁"
+  },
+  {
+    "context": "",
+    "key": "TheCalumnies/Lesley's Harbour%LabelData$Label",
+    "original": "Lesley's Harbour",
+    "translation": "莱斯利港"
+  },
+  {
+    "context": "",
+    "key": "TheCalumnies/The Azaquoric Abyss%LabelData$Label",
+    "original": "The Azaquoric Abyss",
+    "translation": "阿扎里克深渊"
+  },
+  {
+    "context": "",
+    "key": "TheCalumnies/Ewan's Way%LabelData$Label",
+    "original": "Ewan's Way",
+    "translation": "尤恩之路"
+  },
+  {
+    "context": "",
+    "key": "TheCalumnies/Hideaway%LabelData$Label",
+    "original": "Hideaway",
+    "translation": "隐逸之地"
+  },
+  {
+    "context": "",
     "key": "TheSnares$HumanName",
     "original": "The Snares",
-    "translation": "罗网",
-    "stage": 1
+    "translation": "罗网"
   },
   {
+    "context": "",
     "key": "TheSnares$Description",
     "original": "Creeping tendrils of fungus, zee-weed, unnamable flora. We enter the Snares.",
-    "translation": "令人毛骨悚然的菌丝, 海草,不可名状的植物。我们进入了罗网。",
-    "stage": 1
+    "translation": "令人毛骨悚然的菌丝, 海草, 不可名状的植物. 我们进入了罗网."
   },
   {
-    "key": "TheSnares%LabelData$Label",
+    "context": "",
+    "key": "TheSnares/Labyrinth of Eels%LabelData$Label",
     "original": "Labyrinth of Eels",
-    "translation": "聖徒避風港",
-    "stage": 1
+    "translation": "鳗鱼迷宫"
   },
   {
+    "context": "",
+    "key": "TheSnares/The Dubois Maelstrom%LabelData$Label",
+    "original": "The Dubois Maelstrom",
+    "translation": "杜布瓦大漩涡"
+  },
+  {
+    "context": "",
+    "key": "TheSnares/Pigmote Isle%LabelData$Label",
+    "original": "Pigmote Isle",
+    "translation": "皮格莫特岛"
+  },
+  {
+    "context": "",
+    "key": "TheSnares/Lick-a-Monkey Crag%LabelData$Label",
+    "original": "Lick-a-Monkey Crag",
+    "translation": "猴爪石礁"
+  },
+  {
+    "context": "",
+    "key": "TheSnares/Crabcake%LabelData$Label",
+    "original": "Crabcake",
+    "translation": "巨蟹岩块"
+  },
+  {
+    "context": "",
+    "key": "TheSnares/Saints-Haven%LabelData$Label",
+    "original": "Saints-Haven",
+    "translation": "聖徒避风港"
+  },
+  {
+    "context": "",
     "key": "TombColonies$HumanName",
     "original": "The Tomb Colonies",
-    "translation": "死亡租界",
-    "stage": 1
+    "translation": "死亡租界"
   },
   {
+    "context": "",
     "key": "TombColonies$Description",
     "original": "Dust, echoes: even a sepia tint to the air. These are the waters around the Tomb-Colonies.",
-    "translation": "尘埃, 回声: 就连空气也被黑暗浸染了。 这是死亡租界附近的水域。",
-    "stage": 1
+    "translation": "尘烟, 回声: 就连空气也被黑暗浸染了. 这是死亡租界附近的水域."
   },
   {
-    "key": "TombColonies%LabelData$Label",
+    "context": "",
+    "key": "TombColonies/Venderbight%LabelData$Label",
     "original": "Venderbight",
-    "translation": "哈珀渡口",
-    "stage": 1
+    "translation": "文登湾"
   },
   {
+    "context": "",
+    "key": "TombColonies/Davies Bay%LabelData$Label",
+    "original": "Davies Bay",
+    "translation": "戴维斯湾"
+  },
+  {
+    "context": "",
+    "key": "TombColonies/Carissa's Point%LabelData$Label",
+    "original": "Carissa's Point",
+    "translation": "卡利萨角"
+  },
+  {
+    "context": "",
+    "key": "TombColonies/Horneman's Stag%LabelData$Label",
+    "original": "Horneman's Stag",
+    "translation": "霍恩曼的雄鹿厅"
+  },
+  {
+    "context": "",
+    "key": "TombColonies/Tanah-Chook%LabelData$Label",
+    "original": "Tanah-Chook",
+    "translation": "塔纳丘克"
+  },
+  {
+    "context": "",
+    "key": "TombColonies/Pickett's Bluff%LabelData$Label",
+    "original": "Pickett's Bluff",
+    "translation": "皮克特绝壁"
+  },
+  {
+    "context": "",
+    "key": "TombColonies/Cant's Abyss%LabelData$Label",
+    "original": "Cant's Abyss",
+    "translation": "黑渊"
+  },
+  {
+    "context": "",
+    "key": "TombColonies/Harper's Ferry%LabelData$Label",
+    "original": "Harper's Ferry",
+    "translation": "哈珀渡口"
+  },
+  {
+    "context": "",
     "key": "VoidsApproach$HumanName",
     "original": "Void's Approach",
-    "translation": "虚空之隅",
-    "stage": 1
+    "translation": "虚空之隅"
   },
   {
+    "context": "",
     "key": "VoidsApproach$Description",
     "original": "This must be Void's Approach. The air crackles with frosty radiations. To the North, the false-stars fail in the darkness.",
-    "translation": "这里一定是虚空之隅。空气中有一些辐射发出的寒冷爆裂声。向北方看去, 伪星陷入了黑暗之中。",
-    "stage": 1
+    "translation": "这里一定是虚空之隅. 严寒辐射下空气劈啪作响. 向北看去, 伪星陷入了黑暗之中."
   },
   {
-    "key": "VoidsApproach%LabelData$Label",
+    "context": "",
+    "key": "VoidsApproach/The Avid Horizon%LabelData$Label",
     "original": "The Avid Horizon",
-    "translation": "奇西格漩渦",
-    "stage": 1
+    "translation": "渴求之地平线"
   },
   {
+    "context": "",
+    "key": "VoidsApproach/The Chapel of Lights%LabelData$Label",
+    "original": "The Chapel of Lights",
+    "translation": "光之礼拜堂"
+  },
+  {
+    "context": "",
+    "key": "VoidsApproach/The Kisigar Vortex%LabelData$Label",
+    "original": "The Kisigar Vortex",
+    "translation": "奇西格漩涡"
+  },
+  {
+    "context": "",
     "key": "GenericTiles$HumanName",
     "original": "the dark Unterzee",
-    "translation": "黑暗的海泽",
-    "stage": 1
+    "translation": "黑暗的海泽"
   },
   {
+    "context": "",
     "key": "GenericTiles$Description",
     "original": "No landlubber would notice the change. But you feel the air prickle on your skin. Somewhere new.",
-    "translation": "这里的海水有些温暖. 气泡浮起, 爆裂, 似乎是某种懒散的威胁. 地火永不安宁.",
-    "stage": 1
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$HumanName",
+    "original": "The dark Unterzee",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$Description",
+    "original": "Here the slate-black sea is like rippled glass, spiked with light from the roof.",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$HumanName",
+    "original": "The dark Unterzee",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$Description",
+    "original": "The world is webbed with invisible lines. You've crossed one. Tighten them, and it would split like a fruit.",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$HumanName",
+    "original": "The dark Unterzee",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$Description",
+    "original": "Spined towers rear in the light of the false-stars. Ware reefs.",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$HumanName",
+    "original": "The dark Unterzee",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$Description",
+    "original": "The wind carries the echo of distant chants. Long-dead priests still count the hours in this place.",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$HumanName",
+    "original": "The dark Unterzee",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$Description",
+    "original": "A sudden fog of spores! Zailors sneeze. The sound echoes flatly in the soupy air.",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$HumanName",
+    "original": "The dark Unterzee",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$Description",
+    "original": "Something forgotten is here.",
+    "translation": "一些被遗忘的东西还在这里."
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$HumanName",
+    "original": "The dark Unterzee",
+    "translation": ""
+  },
+  {
+    "context": "",
+    "key": "GenericTiles$Description",
+    "original": "The zee here is warm. Bubbles rise and burst with lazy menace. The fire in the earth is restless.",
+    "translation": ""
   }
 ]

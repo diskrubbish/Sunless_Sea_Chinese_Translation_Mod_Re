@@ -166,6 +166,8 @@ def export_json(file_path):
                                     str(i["Id"])+"/"+str(x["Id"])+"%Shops$Description", x["Description"]))
             elif basename(file_path) == "qualities.json":
                 for i in jsondata:
+                    if i ["Tag"] in ["Ship Equipment Slot","Ship Conditions"]:
+                        continue
                     if i["Name"] != None:
                         list.append(para_tranz(
                             str(i["Id"])+"$Name", i["Name"]))
@@ -188,8 +190,8 @@ def export_json(file_path):
                             if x["LabelData"] != None:
                                 for y in x["LabelData"]:
                                     if y["Label"] != None:
-                                        list.append(para_tranz(
-                                            str(i["Name"])+"%"+"LabelData$Label", y["Label"]))
+                                        list.append(para_tranz
+                                                    (str(i["Name"])+"/" +str(y["Label"])+"%"+"LabelData$Label", y["Label"]))
             else:
                 return None
     return list

@@ -25,55 +25,55 @@ def export_json(prefix,root_dir,dump_dir,file_path):
                 result = raw_data
                 if basename(file_path) == "Associations.json":
                     for data in jsondata:
-                        if data ["translation"] != "" and data ["translation"] != data["original"]:
+                        if data ["translation"].replace("\\n","\n") != "" and data ["translation"].replace("\\n","\n") != data["original"]:
                             temp = re.search("(.*)##(.*)\$(.*)&(.*)",data["key"])
                             for i in range(len(raw_data[0][temp.group(4)])):
                                 if raw_data[0][temp.group(4)][i][temp.group(3)] == temp.group(1) :
                                         if temp.group(4) == "Ambiences":
                                             if str(raw_data[0][temp.group(4)][i]["AreaId"]) == temp.group(2):
-                                                result[0][temp.group(4)][i][temp.group(3)] = data ["translation"]
+                                                result[0][temp.group(4)][i][temp.group(3)] = data ["translation"].replace("\\n","\n")
                                                 continue
                                         elif temp.group(4) == "JettisonEvents" or temp.group(4) == "UnlegacyableOfficers":
                                             if str(raw_data[0][temp.group(4)][i]["QualityId"]) == temp.group(2):
-                                                result[0][temp.group(4)][i][temp.group(3)] = data ["translation"]
+                                                result[0][temp.group(4)][i][temp.group(3)] = data ["translation"].replace("\\n","\n")
                                                 continue
                                         elif temp.group(4) == "LegacyUnlockQualities":
                                             if str(raw_data[0][temp.group(4)][i]["Order"]) == temp.group(2):
-                                                result[0][temp.group(4)][i][temp.group(3)] = data ["translation"]
+                                                result[0][temp.group(4)][i][temp.group(3)] = data ["translation"].replace("\\n","\n")
                                                 continue                                                                           
                 elif basename(file_path) in ["CombatAttacks.json","SpawnedEntities.json"]:
                     for data in jsondata:
-                        if data ["translation"] != "" and data ["translation"] != data["original"]:
+                        if data ["translation"].replace("\\n","\n") != "" and data ["translation"].replace("\\n","\n") != data["original"]:
                             temp = re.search("(.*)\$(.*)",data["key"])
                             for i in range(len(raw_data)):
                                 if raw_data[i]["Name"] == temp.group(1):
-                                        result[i][temp.group(2)] = data ["translation"] 
+                                        result[i][temp.group(2)] = data ["translation"].replace("\\n","\n") 
                                         continue                                
                 elif basename(file_path) in ["Tutorials.json","areas.json","qualities.json"]:
                     for data in jsondata:
-                        if data ["translation"] != "" and data ["translation"] != data["original"]:
+                        if data ["translation"].replace("\\n","\n") != "" and data ["translation"].replace("\\n","\n") != data["original"]:
                             temp = re.search("(.*)\$(.*)",data["key"])
                             for i in range(len(raw_data)):
                                 if str(raw_data[i]["Id"]) == temp.group(1):
-                                        result[i][temp.group(2)] = data ["translation"]  
+                                        result[i][temp.group(2)] = data ["translation"].replace("\\n","\n")  
                                         continue
                 elif basename(file_path) == "events.json":
                     for data in jsondata:
-                        if data ["translation"] != "" and data ["translation"] != data["original"]:
+                        if data ["translation"].replace("\\n","\n") != "" and data ["translation"].replace("\\n","\n") != data["original"]:
                             temp = re.search("(.*)\$(.*)",data["key"])
                             if temp.group(1).endswith("%SuccessEvent") is False and temp.group(1).endswith("%DefaultEvent") is False and temp.group(1).endswith("%RareDefaultEvent") is False and temp.group(1).endswith("%MoveToArea") is False:
                                 path = temp.group(1).split("/")
                                 if len(path)==1:
                                         for i in range(len(raw_data)):
                                             if str(raw_data[i]["Id"]) == path[0]:
-                                                result[i][temp.group(2)] = data ["translation"]  
+                                                result[i][temp.group(2)] = data ["translation"].replace("\\n","\n")  
                                                 continue
                                 elif len(path)==2:
                                         for i in range(len(raw_data)):
                                             if str(raw_data[i]["Id"]) == path[0]:
                                                 for x in range(len(raw_data[i]["ChildBranches"])):
                                                     if str(raw_data[i]["ChildBranches"][x]["Id"]) == path[1]:
-                                                        result[i]["ChildBranches"][x][temp.group(2)] = data ["translation"]  
+                                                        result[i]["ChildBranches"][x][temp.group(2)] = data ["translation"].replace("\\n","\n")  
                                                 continue
                             else:
                                 temp2 = re.search("(.*)\%(.*)",temp.group(1))
@@ -84,22 +84,22 @@ def export_json(prefix,root_dir,dump_dir,file_path):
                                                 for x in range(len(raw_data[i]["ChildBranches"])):
                                                     if str(raw_data[i]["ChildBranches"][x]["Id"]) == path[1]:
                                                         if str(raw_data[i]["ChildBranches"][x][temp2.group(2)]["Id"]) == path[2]:
-                                                                result[i]["ChildBranches"][x][temp2.group(2)][temp.group(2)] = data ["translation"]
+                                                                result[i]["ChildBranches"][x][temp2.group(2)][temp.group(2)] = data ["translation"].replace("\\n","\n")
                                 elif len(path)==4 and temp2.group(2) == "MoveToArea":
                                         for i in range(len(raw_data)):
                                             if str(raw_data[i]["Id"]) == path[0]:
                                                 for x in range(len(raw_data[i]["ChildBranches"])):
                                                     if str(raw_data[i]["ChildBranches"][x]["Id"]) == path[1] :
                                                         if str(raw_data[i]["ChildBranches"][x]["DefaultEvent"]["Id"]) == path[2] and str(raw_data[i]["ChildBranches"][x]["DefaultEvent"]["MoveToAreaId"]) == path[3]:
-                                                                result[i]["ChildBranches"][x]["DefaultEvent"]["MoveToArea"][temp.group(2)] = data ["translation"]
+                                                                result[i]["ChildBranches"][x]["DefaultEvent"]["MoveToArea"][temp.group(2)] = data ["translation"].replace("\\n","\n")
                 elif basename(file_path) == "exchanges.json":
                     for data in jsondata:
-                        if data ["translation"] != "" and data ["translation"] != data["original"]:
+                        if data ["translation"].replace("\\n","\n") != "" and data ["translation"].replace("\\n","\n") != data["original"]:
                             temp = re.search("(.*)\$(.*)",data["key"])
                             if temp.group(1).endswith("%Shops") is False:
                                 for i in range(len(raw_data)):
                                         if str(raw_data[i]["Id"]) == temp.group(1):
-                                            result[i][temp.group(2)] = data ["translation"]  
+                                            result[i][temp.group(2)] = data ["translation"].replace("\\n","\n")  
                                             continue   
                             else:
                                 temp2 = re.search("(.*)\%(.*)",temp.group(1))
@@ -109,26 +109,28 @@ def export_json(prefix,root_dir,dump_dir,file_path):
                                             if str(raw_data[i]["Id"]) == path[0]:
                                                 for x in range(len(raw_data[i]["Shops"])):
                                                     if str(raw_data[i]["Shops"][x]["Id"]) == path[1]:
-                                                        result[i]["Shops"][x][temp.group(2)] = data ["translation"]  
+                                                        result[i]["Shops"][x][temp.group(2)] = data ["translation"].replace("\\n","\n")  
                                                 continue
                 elif basename(file_path) == "Tiles.json":
                     for data in jsondata:
-                        if data ["translation"] != "" and data ["translation"] != data["original"]:
+                        if data ["translation"].replace("\\n","\n") != "" and data ["translation"].replace("\\n","\n") != data["original"]:
                             temp = re.search("(.*)\$(.*)",data["key"])
                             if temp.group(1).endswith("%"+"LabelData") is False:
                                 for i in range(len(raw_data)):
                                         for x in range(len(raw_data[i]["Tiles"])):
                                             if str(raw_data[i]["Tiles"][x]["Name"]) == temp.group(1):
-                                                result[i]["Tiles"][x][temp.group(2)] = data ["translation"]  
+                                                result[i]["Tiles"][x][temp.group(2)] = data ["translation"].replace("\\n","\n")  
                                                 continue
                             else:
                                 temp2 = re.search("(.*)\%(.*)",temp.group(1))
-                                for i in range(len(raw_data)):
+                                path = temp2.group(1).split("/")
+                                if len(path)==2:
+                                    for i in range(len(raw_data)):
                                         for x in range(len(raw_data[i]["Tiles"])):
-                                            if raw_data[i]["Tiles"][x]["Name"] == temp2.group(1):
+                                            if raw_data[i]["Tiles"][x]["Name"] == path[0]:
                                                 for y in range(len(raw_data[i]["Tiles"][x]["LabelData"])):
-                                                    if raw_data[i]["Tiles"][x]["LabelData"][y][temp.group(2)] == data["original"]:
-                                                        result[i]["Tiles"][x]["LabelData"][y][temp.group(2)] = data ["translation"]
+                                                    if raw_data[i]["Tiles"][x]["LabelData"][y][temp.group(2)] == path[1]:
+                                                        result[i]["Tiles"][x]["LabelData"][y][temp.group(2)] = data ["translation"].replace("\\n","\n")
                                                     continue
                             
                                                  
@@ -143,10 +145,10 @@ def export_json(prefix,root_dir,dump_dir,file_path):
                 return None
     return result
     
-export_json(prefix,root_dir,dump_dir,"F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re/translations/geography/Tiles.json") 
+#export_json(prefix,root_dir,dump_dir,"F:/workplace/Sunless_Sea_Chinese_Translation_Mod_Re/translations/entities/qualities.json") 
 if __name__ == '__main__':
     print("Exporting mod...")
     for subdir, dirs, files in walk(prefix):
         for thefile in files:
             if thefile.endswith(".json"):
-                result = export_json(prefix,root_dir,dump_dir,normpath(join(subdir, thefile)))            
+                result = export_json(prefix,root_dir,dump_dir,normpath(join(subdir, thefile)))

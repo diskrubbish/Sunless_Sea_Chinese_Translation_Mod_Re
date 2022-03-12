@@ -117,10 +117,10 @@
         "Name": "驱逐令人不安的贤者",
         "Quality": null,
         "QualityId": 109347,
-        "Tooltip": "不不不。我们应该一起做……很棒的东西"
+        "Tooltip": "不不不. 我们应该一起做……很棒的东西."
       },
       {
-        "Name": "赶走令人愉快的女冒险家",
+        "Name": "赶走愉悦的女冒险家",
         "Quality": null,
         "QualityId": 114766,
         "Tooltip": "我不这么认为"
@@ -131,7 +131,7 @@
         "AdditionalLegaciesAllowed": 0,
         "Description": "你的下一个人物会继承你的住处，以及你存在那里的继承物。",
         "IncreaseLevel": 0,
-        "Name": "不可破坏的遗嘱",
+        "Name": "具有法律效应的遗嘱",
         "Order": 1,
         "QualityToIncrease": null,
         "QualityToIncreaseId": 0,
@@ -147,25 +147,25 @@
         "Order": 2,
         "QualityToIncrease": null,
         "QualityToIncreaseId": 0,
-        "Tooltip": "养育一个孩子, 并带给其来自海泽的礼物。",
+        "Tooltip": "养育一个孩子, 并带给其来自海泽的礼物.",
         "UnlockQuality": null,
         "UnlockQualityId": 114230
       },
       {
         "AdditionalLegaciesAllowed": 0,
-        "Description": "提升你的初始 书页值 25.",
+        "Description": "你的初始<b>书页值</b>提升25点。",
         "IncreaseLevel": 25,
         "Name": "地平线法典",
         "Order": 3,
         "QualityToIncrease": null,
         "QualityToIncreaseId": 102898,
-        "Tooltip": "去北方。",
+        "Tooltip": "去北方.",
         "UnlockQuality": null,
         "UnlockQualityId": 113320
       },
       {
         "AdditionalLegaciesAllowed": 0,
-        "Description": "提升你的初始 钢铁值 25.",
+        "Description": "你的初始<b>钢铁值</b>提升25点。",
         "IncreaseLevel": 25,
         "Name": "恶徒之书",
         "Order": 4,
@@ -177,49 +177,49 @@
       },
       {
         "AdditionalLegaciesAllowed": 0,
-        "Description": "提升你的初始 镜子值 25.",
+        "Description": "你的初始<b>镜子值</b>提升25点。",
         "IncreaseLevel": 25,
         "Name": "旅行中的光",
         "Order": 5,
         "QualityToIncrease": null,
         "QualityToIncreaseId": 102895,
-        "Tooltip": "升高并且往东走",
+        "Tooltip": "攀升并且往东走",
         "UnlockQuality": null,
         "UnlockQualityId": 114084
       },
       {
         "AdditionalLegaciesAllowed": 0,
-        "Description": "提升你的初始 红心值 25.",
+        "Description": "你的初始<b>红心值</b>提升25点。",
         "IncreaseLevel": 25,
         "Name": "红色之梦",
         "Order": 6,
         "QualityToIncrease": null,
         "QualityToIncreaseId": 102897,
-        "Tooltip": "将迷失的妹妹送去她的故乡。",
+        "Tooltip": "将迷失的妹妹送去她的故乡.",
         "UnlockQuality": null,
         "UnlockQualityId": 114086
       },
       {
         "AdditionalLegaciesAllowed": 0,
-        "Description": "提升你的初始 面纱值 25.",
+        "Description": "你的初始<b>面纱值</b>提升25点。",
         "IncreaseLevel": 25,
         "Name": "奇迹手册",
         "Order": 7,
         "QualityToIncrease": null,
         "QualityToIncreaseId": 102896,
-        "Tooltip": "在被遗忘时, 找到那被遗忘之人。",
+        "Tooltip": "在被遗忘时, 找到那被遗忘之人.",
         "UnlockQuality": null,
         "UnlockQualityId": 114087
       },
       {
         "AdditionalLegaciesAllowed": 0,
-        "Description": "提升你的初始 书页值 10.",
+        "Description": "你的初始<b>书页值</b>提升10点。",
         "IncreaseLevel": 10,
-        "Name": "她心脏的黑色轮廓",
+        "Name": "她心脏的轮廓",
         "Order": 8,
         "QualityToIncrease": null,
         "QualityToIncreaseId": 102898,
-        "Tooltip": "注视女士",
+        "Tooltip": "目睹女士.",
         "UnlockQuality": null,
         "UnlockQualityId": 128853
       }
@@ -310,7 +310,7 @@
     ],
     "UnlegacyableOfficers": [
       {
-        "Name": "长脚",
+        "Name": "长腿",
         "Quality": null,
         "QualityId": 107458
       },

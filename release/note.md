@@ -19,3 +19,7 @@ SteamLibrary\steamapps\common\SunlessSea\Managed
 v0.022：推进汉化，修改说明文件，谢谢贴吧用户@Rebirthfenix的提醒，我真的好粗心
 
 v0.1：基本更新完毕，感谢各位的支持与帮助！dll汉化暂时不提供，bug有点多。
+
+v0.11：修复了换行符和装备不显示的bug。
+
+v0.12 校对，整理，更新一波，感谢@Oracle404 和 @Carpenter-MK1

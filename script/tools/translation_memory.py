@@ -65,7 +65,7 @@ def import_memory_para(path, memory_file):
     memory = json.loads(prepare(open(memory_file, "r", "utf-8")))
     for path, d, filelist in walk(path):
         for filename in filelist:
-            if basename(filename) in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt", "_metadata", "_previewimage", "memory.json"]:
+            if basename(filename) in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt", "_metadata", "_previewimage", "memory.json","translations_bak.zip"]:
                 continue
             i = join_path(path, filename)
             print(basename(i))

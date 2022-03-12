@@ -1,314 +1,314 @@
 [
   {
+    "context": "",
     "key": "Fathomking##101996$Name&Ambiences",
     "original": "Fathomking",
-    "translation": "深寻王",
-    "stage": 1
+    "translation": "深寻王"
   },
   {
+    "context": "",
     "key": "The Surface##102882$Name&Ambiences",
     "original": "The Surface",
-    "translation": "地表",
-    "stage": 1
+    "translation": "地表"
   },
   {
+    "context": "",
     "key": "Victory Legacy##0$Name&Ambiences",
     "original": "Victory Legacy",
-    "translation": "胜利遗产",
-    "stage": 1
+    "translation": "胜利遗产"
   },
   {
+    "context": "",
     "key": "Loss Legacy##0$Name&Ambiences",
     "original": "Loss Legacy",
-    "translation": "损失遗产",
-    "stage": 1
+    "translation": "损失遗产"
   },
   {
+    "context": "",
     "key": "ShatteredCitadel##104546$Name&Ambiences",
     "original": "ShatteredCitadel",
-    "translation": "破碎城堡",
-    "stage": 1
+    "translation": "破碎城堡"
   },
   {
+    "context": "",
     "key": "Whispways##104545$Name&Ambiences",
     "original": "Whispways",
-    "translation": "低语小径",
-    "stage": 1
+    "translation": "低语小径"
   },
   {
+    "context": "",
     "key": "GoEast##104181$Name&Ambiences",
     "original": "GoEast",
-    "translation": "向东",
-    "stage": 1
+    "translation": "向东"
   },
   {
+    "context": "",
     "key": "Vienna##104588$Name&Ambiences",
     "original": "Vienna",
-    "translation": "维也纳",
-    "stage": 1
+    "translation": "维也纳"
   },
   {
+    "context": "",
     "key": "Funeral##105136$Name&Ambiences",
     "original": "Funeral",
-    "translation": "葬礼",
-    "stage": 1
+    "translation": "葬礼"
   },
   {
+    "context": "",
     "key": "Wineglasses##105137$Name&Ambiences",
     "original": "Wineglasses",
-    "translation": "酒杯",
-    "stage": 1
+    "translation": "酒杯"
   },
   {
+    "context": "",
     "key": "Kingdom##105138$Name&Ambiences",
     "original": "Kingdom",
-    "translation": "王国",
-    "stage": 1
+    "translation": "王国"
   },
   {
+    "context": "",
     "key": "Turn into a zee-monster##105139$Name&Ambiences",
     "original": "Turn into a zee-monster",
-    "translation": "变成海怪",
-    "stage": 1
+    "translation": "变成海怪"
   },
   {
+    "context": "",
     "key": "Stargate##105140$Name&Ambiences",
     "original": "Stargate",
-    "translation": "星门",
-    "stage": 1
+    "translation": "星门"
   },
   {
+    "context": "",
     "key": "Zeppelin##105141$Name&Ambiences",
     "original": "Zeppelin",
-    "translation": "飞艇",
-    "stage": 1
+    "translation": "飞艇"
   },
   {
+    "context": "",
     "key": "Eject the Shady Sort##111745$Name&JettisonEvents",
     "original": "Eject the Shady Sort",
-    "translation": "驱逐阴沉沉的女士",
-    "stage": 1
+    "translation": "驱逐阴沉沉的女士"
   },
   {
+    "context": "",
     "key": "Captain! What are you thinking?##111745$Tooltip&JettisonEvents",
     "original": "Captain! What are you thinking?",
-    "translation": "船长！你在想什么？",
-    "stage": 1
+    "translation": "船长！你在想什么？"
   },
   {
+    "context": "",
     "key": "Eject the Checquered Character##112728$Name&JettisonEvents",
     "original": "Eject the Checquered Character",
-    "translation": "赶走这个奇怪的人",
-    "stage": 1
+    "translation": "赶走这个奇怪的人"
   },
   {
+    "context": "",
     "key": "Wrong move!##112728$Tooltip&JettisonEvents",
     "original": "Wrong move!",
-    "translation": "错误的举动！",
-    "stage": 1
+    "translation": "错误的举动！"
   },
   {
+    "context": "",
     "key": "Eject the Unsettling Sage##109347$Name&JettisonEvents",
     "original": "Eject the Unsettling Sage",
-    "translation": "驱逐令人不安的贤者",
-    "stage": 1
+    "translation": "驱逐令人不安的贤者"
   },
   {
+    "context": "",
     "key": "No no no. We shall do... wonderful things together.##109347$Tooltip&JettisonEvents",
     "original": "No no no. We shall do... wonderful things together.",
-    "translation": "不不不。我们应该一起做……很棒的东西",
-    "stage": 1
+    "translation": "不不不. 我们应该一起做……很棒的东西."
   },
   {
+    "context": "",
     "key": "Eject the Delightful Adventuress##114766$Name&JettisonEvents",
     "original": "Eject the Delightful Adventuress",
-    "translation": "赶走令人愉快的女冒险家",
-    "stage": 1
+    "translation": "赶走愉悦的女冒险家"
   },
   {
+    "context": "",
     "key": "I don't _think_ so.##114766$Tooltip&JettisonEvents",
     "original": "I don't _think_ so.",
-    "translation": "我不这么认为",
-    "stage": 1
+    "translation": "我不这么认为"
   },
   {
+    "context": "",
     "key": "A Ironclad Will##1$Name&LegacyUnlockQualities",
     "original": "A Ironclad Will",
-    "translation": "不可破坏的遗嘱",
-    "stage": 1
+    "translation": "具有法律效应的遗嘱"
   },
   {
-    "key": "Upgrade your Lodgings and purchase a Will.##1$Tooltip&LegacyUnlockQualities",
-    "original": "Upgrade your Lodgings and purchase a Will.",
-    "translation": "升级你的住处并付钱订立遗嘱.",
-    "stage": 1
-  },
-  {
-    "key": "A Scion##2$Name&LegacyUnlockQualities",
-    "original": "A Scion",
-    "translation": "继承人",
-    "stage": 1
-  },
-  {
-    "key": "Raise a child, and bring it gifts from the zee.##2$Tooltip&LegacyUnlockQualities",
-    "original": "Raise a child, and bring it gifts from the zee.",
-    "translation": "养育一个孩子, 并带给其来自海泽的礼物。",
-    "stage": 1
-  },
-  {
-    "key": "Horizon Codex##3$Name&LegacyUnlockQualities",
-    "original": "Horizon Codex",
-    "translation": "地平线法典",
-    "stage": 1
-  },
-  {
-    "key": "Go North.##3$Tooltip&LegacyUnlockQualities",
-    "original": "Go North.",
-    "translation": "去北方。",
-    "stage": 1
-  },
-  {
-    "key": "Boke of Sharps##4$Name&LegacyUnlockQualities",
-    "original": "Boke of Sharps",
-    "translation": "恶徒之书",
-    "stage": 1
-  },
-  {
-    "key": "Raise the Anarchists to prominence.##4$Tooltip&LegacyUnlockQualities",
-    "original": "Raise the Anarchists to prominence.",
-    "translation": "让无政府主义者统御.",
-    "stage": 1
-  },
-  {
-    "key": "A Travelling Light##5$Name&LegacyUnlockQualities",
-    "original": "A Travelling Light",
-    "translation": "旅行中的光",
-    "stage": 1
-  },
-  {
-    "key": "Rise high and go east.##5$Tooltip&LegacyUnlockQualities",
-    "original": "Rise high and go east.",
-    "translation": "升高并且往东走",
-    "stage": 1
-  },
-  {
-    "key": "A Dream of Red##6$Name&LegacyUnlockQualities",
-    "original": "A Dream of Red",
-    "translation": "红色之梦",
-    "stage": 1
-  },
-  {
-    "key": "Carry a lost sister to her homeland.##6$Tooltip&LegacyUnlockQualities",
-    "original": "Carry a lost sister to her homeland.",
-    "translation": "将迷失的妹妹送去她的故乡。",
-    "stage": 1
-  },
-  {
-    "key": "Manual of Miracles##7$Name&LegacyUnlockQualities",
-    "original": "Manual of Miracles",
-    "translation": "奇迹手册",
-    "stage": 1
-  },
-  {
-    "key": "While forgotten, find one who is forgotten.##7$Tooltip&LegacyUnlockQualities",
-    "original": "While forgotten, find one who is forgotten.",
-    "translation": "在被遗忘时, 找到那被遗忘之人。",
-    "stage": 1
-  },
-  {
-    "key": "An Adumbration of Her Heart##8$Name&LegacyUnlockQualities",
-    "original": "An Adumbration of Her Heart",
-    "translation": "她心脏的黑色轮廓",
-    "stage": 1
-  },
-  {
-    "key": "Behold Her Ladyship.##8$Tooltip&LegacyUnlockQualities",
-    "original": "Behold Her Ladyship.",
-    "translation": "注视女士",
-    "stage": 1
-  },
-  {
-    "key": "Longshanks##107458$Name&UnlegacyableOfficers",
-    "original": "Longshanks",
-    "translation": "长脚",
-    "stage": 1
-  },
-  {
-    "key": "Sly##107459$Name&UnlegacyableOfficers",
-    "original": "Sly",
-    "translation": "诡秘",
-    "stage": 1
-  },
-  {
-    "key": "ShadyCook##107460$Name&UnlegacyableOfficers",
-    "original": "ShadyCook",
-    "translation": "阴暗的厨师",
-    "stage": 1
-  },
-  {
-    "key": "GallEyed##107461$Name&UnlegacyableOfficers",
-    "original": "GallEyed",
-    "translation": "怒目而视的",
-    "stage": 1
-  },
-  {
-    "key": "Plausible##107462$Name&UnlegacyableOfficers",
-    "original": "Plausible",
-    "translation": "模棱两可的",
-    "stage": 1
-  },
-  {
-    "key": "WhistfulDeviless##109475$Name&UnlegacyableOfficers",
-    "original": "WhistfulDeviless",
-    "translation": "怅然若失的女恶魔",
-    "stage": 1
-  },
-  {
+    "context": "",
     "key": "Your next character inherits your Lodgings, along with any Heirlooms you have stored there.##1$Description&LegacyUnlockQualities",
     "original": "Your next character inherits your Lodgings, along with any Heirlooms you have stored there.",
-    "translation": "你的下一个人物会继承你的住处，以及你存在那里的继承物。",
-    "stage": 1
+    "translation": "你的下一个人物会继承你的住处，以及你存在那里的继承物。"
   },
   {
+    "context": "",
+    "key": "Upgrade your Lodgings and purchase a Will.##1$Tooltip&LegacyUnlockQualities",
+    "original": "Upgrade your Lodgings and purchase a Will.",
+    "translation": "升级你的住处并付钱订立遗嘱."
+  },
+  {
+    "context": "",
+    "key": "A Scion##2$Name&LegacyUnlockQualities",
+    "original": "A Scion",
+    "translation": "继承人"
+  },
+  {
+    "context": "",
     "key": "This time, you can choose two legacies.##2$Description&LegacyUnlockQualities",
     "original": "This time, you can choose two legacies.",
-    "translation": "这一次，你可以选择两项遗产。",
-    "stage": 1
+    "translation": "这一次，你可以选择两项遗产。"
   },
   {
+    "context": "",
+    "key": "Raise a child, and bring it gifts from the zee.##2$Tooltip&LegacyUnlockQualities",
+    "original": "Raise a child, and bring it gifts from the zee.",
+    "translation": "养育一个孩子, 并带给其来自海泽的礼物."
+  },
+  {
+    "context": "",
+    "key": "Horizon Codex##3$Name&LegacyUnlockQualities",
+    "original": "Horizon Codex",
+    "translation": "地平线法典"
+  },
+  {
+    "context": "",
     "key": "Increases your starting Pages by +25.##3$Description&LegacyUnlockQualities",
     "original": "Increases your starting Pages by +25.",
-    "translation": "提升你的初始 书页值 25.",
-    "stage": 1
+    "translation": "你的初始<b>书页值</b>提升25点。"
   },
   {
+    "context": "",
+    "key": "Go North.##3$Tooltip&LegacyUnlockQualities",
+    "original": "Go North.",
+    "translation": "去北方."
+  },
+  {
+    "context": "",
+    "key": "Boke of Sharps##4$Name&LegacyUnlockQualities",
+    "original": "Boke of Sharps",
+    "translation": "恶徒之书"
+  },
+  {
+    "context": "",
     "key": "Increases your starting Iron by +25.##4$Description&LegacyUnlockQualities",
     "original": "Increases your starting Iron by +25.",
-    "translation": "提升你的初始 钢铁值 25.",
-    "stage": 1
+    "translation": "你的初始<b>钢铁值</b>提升25点。"
   },
   {
+    "context": "",
+    "key": "Raise the Anarchists to prominence.##4$Tooltip&LegacyUnlockQualities",
+    "original": "Raise the Anarchists to prominence.",
+    "translation": "让无政府主义者统御."
+  },
+  {
+    "context": "",
+    "key": "A Travelling Light##5$Name&LegacyUnlockQualities",
+    "original": "A Travelling Light",
+    "translation": "旅行中的光"
+  },
+  {
+    "context": "",
     "key": "Increases your starting Mirrors by +25.##5$Description&LegacyUnlockQualities",
     "original": "Increases your starting Mirrors by +25.",
-    "translation": "提升你的初始 镜子值 25.",
-    "stage": 1
+    "translation": "你的初始<b>镜子值</b>提升25点。"
   },
   {
+    "context": "",
+    "key": "Rise high and go east.##5$Tooltip&LegacyUnlockQualities",
+    "original": "Rise high and go east.",
+    "translation": "攀升并且往东走"
+  },
+  {
+    "context": "",
+    "key": "A Dream of Red##6$Name&LegacyUnlockQualities",
+    "original": "A Dream of Red",
+    "translation": "红色之梦"
+  },
+  {
+    "context": "",
     "key": "Increases your starting Hearts by +25.##6$Description&LegacyUnlockQualities",
     "original": "Increases your starting Hearts by +25.",
-    "translation": "提升你的初始 红心值 25.",
-    "stage": 1
+    "translation": "你的初始<b>红心值</b>提升25点。"
   },
   {
+    "context": "",
+    "key": "Carry a lost sister to her homeland.##6$Tooltip&LegacyUnlockQualities",
+    "original": "Carry a lost sister to her homeland.",
+    "translation": "将迷失的妹妹送去她的故乡."
+  },
+  {
+    "context": "",
+    "key": "Manual of Miracles##7$Name&LegacyUnlockQualities",
+    "original": "Manual of Miracles",
+    "translation": "奇迹手册"
+  },
+  {
+    "context": "",
     "key": "Increases your starting Veils by +25.##7$Description&LegacyUnlockQualities",
     "original": "Increases your starting Veils by +25.",
-    "translation": "提升你的初始 面纱值 25.",
-    "stage": 1
+    "translation": "你的初始<b>面纱值</b>提升25点。"
   },
   {
+    "context": "",
+    "key": "While forgotten, find one who is forgotten.##7$Tooltip&LegacyUnlockQualities",
+    "original": "While forgotten, find one who is forgotten.",
+    "translation": "在被遗忘时, 找到那被遗忘之人."
+  },
+  {
+    "context": "",
+    "key": "An Adumbration of Her Heart##8$Name&LegacyUnlockQualities",
+    "original": "An Adumbration of Her Heart",
+    "translation": "她心脏的轮廓"
+  },
+  {
+    "context": "",
     "key": "Increases your starting Pages by +10.##8$Description&LegacyUnlockQualities",
     "original": "Increases your starting Pages by +10.",
-    "translation": "提升你的初始 书页值 10.",
-    "stage": 1
+    "translation": "你的初始<b>书页值</b>提升10点。"
+  },
+  {
+    "context": "",
+    "key": "Behold Her Ladyship.##8$Tooltip&LegacyUnlockQualities",
+    "original": "Behold Her Ladyship.",
+    "translation": "目睹女士."
+  },
+  {
+    "context": "",
+    "key": "Longshanks##107458$Name&UnlegacyableOfficers",
+    "original": "Longshanks",
+    "translation": "长腿"
+  },
+  {
+    "context": "",
+    "key": "Sly##107459$Name&UnlegacyableOfficers",
+    "original": "Sly",
+    "translation": "诡秘"
+  },
+  {
+    "context": "",
+    "key": "ShadyCook##107460$Name&UnlegacyableOfficers",
+    "original": "ShadyCook",
+    "translation": "阴暗的厨师"
+  },
+  {
+    "context": "",
+    "key": "GallEyed##107461$Name&UnlegacyableOfficers",
+    "original": "GallEyed",
+    "translation": "怒目而视的"
+  },
+  {
+    "context": "",
+    "key": "Plausible##107462$Name&UnlegacyableOfficers",
+    "original": "Plausible",
+    "translation": "模棱两可的"
+  },
+  {
+    "context": "",
+    "key": "WhistfulDeviless##109475$Name&UnlegacyableOfficers",
+    "original": "WhistfulDeviless",
+    "translation": "怅然若失的女恶魔"
   }
 ]

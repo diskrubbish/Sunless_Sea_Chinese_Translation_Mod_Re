@@ -1,44 +1,44 @@
 [
   {
+    "context": "",
     "key": "ForwardSalvo$Description",
     "original": "Deals {x} damage against ships and {y} damage against creatures.",
-    "translation": "对船只造成 {x} 伤害 对生物造成 {y} 伤害。",
-    "stage": 1
+    "translation": "对船只造成 {x} 伤害并对对生物造成 {y} 伤害."
   },
   {
+    "context": "",
     "key": "DeckSalvo$Description",
     "original": "Deals {x} damage against ships and {y} damage against creatures.",
-    "translation": "对船只造成 {x} 伤害 对生物造成 {y} 伤害.",
-    "stage": 1
+    "translation": "对船只造成 {x} 伤害并对对生物造成 {y} 伤害."
   },
   {
+    "context": "",
     "key": "AftSalvo$Description",
     "original": "Deals {x} damage against ships and {y} damage against creatures.",
-    "translation": "对船只造成 {x} 伤害 对生物造成 {y} 伤害。",
-    "stage": 1
+    "translation": "对船只造成 {x} 伤害并对对生物造成 {y} 伤害."
   },
   {
+    "context": "",
     "key": "RammingAttack$Description",
     "original": "Ramming attack. Deals {x} damage against ships and {y} damage against creatures.",
-    "translation": "撞击。 对船只造成 {x} 伤害 对生物造成 {y} 伤害。",
-    "stage": 1
+    "translation": "冲撞攻击. 对船只造成 {x} 伤害并对生物造成 {y} 伤害."
   },
   {
+    "context": "",
     "key": "Reproach$Description",
     "original": "Deals {x} damage against ships and {y} damage against creatures.",
-    "translation": "对船只造成 {x} 伤害 对生物造成 {y} 伤害.",
-    "stage": 1
+    "translation": "对船只造成 {x} 伤害并对对生物造成 {y} 伤害."
   },
   {
+    "context": "",
     "key": "Denunciation$Description",
     "original": "Deals {x} damage against ships and {y} damage against creatures.",
-    "translation": "对船只造成 {x} 伤害 对生物造成 {y} 伤害。",
-    "stage": 1
+    "translation": "对船只造成 {x} 伤害并对对生物造成 {y} 伤害."
   },
   {
+    "context": "",
     "key": "Hellthrasher$Description",
     "original": "Deals {x} damage against ships and {y} damage against creatures.",
-    "translation": "对船只造成 {x} 伤害 对生物造成 {y} 伤害.",
-    "stage": 1
+    "translation": "对船只造成 {x} 伤害并对对生物造成 {y} 伤害."
   }
 ]
