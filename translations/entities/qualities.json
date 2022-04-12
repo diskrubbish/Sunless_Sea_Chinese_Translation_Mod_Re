@@ -1,12 +1,6 @@
 [
   {
     "context": "",
-    "key": "127239$Name",
-    "original": "_REUSE",
-    "translation": "_REUSE"
-  },
-  {
-    "context": "",
     "key": "127239$Description",
     "original": "You have visited a house that worships stories.",
     "translation": "你去过一所崇尚故事的房屋."
@@ -85,15 +79,15 @@
   },
   {
     "context": "",
-    "key": "125687$Name",
-    "original": "A Crotchety Tobacconist - REDUNDANT",
-    "translation": "古怪的烟草匠 - 冗余"
+    "key": "125709$AvailableAt",
+    "original": "Aigul",
+    "translation": "爱古"
   },
   {
     "context": "",
-    "key": "125687$Description",
-    "original": "",
-    "translation": ""
+    "key": "125687$Name",
+    "original": "A Crotchety Tobacconist - REDUNDANT",
+    "translation": "古怪的烟草匠 - 冗余"
   },
   {
     "context": "",
@@ -124,12 +118,6 @@
     "key": "127295$Name",
     "original": "A Discovery! ",
     "translation": "发现! "
-  },
-  {
-    "context": "",
-    "key": "127295$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -172,12 +160,6 @@
     "key": "114670$Name",
     "original": "A Gift for the Monkey Emperor",
     "translation": "给猴子皇帝的礼物"
-  },
-  {
-    "context": "",
-    "key": "114670$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -325,6 +307,12 @@
   },
   {
     "context": "",
+    "key": "128434$AvailableAt",
+    "original": "The Cladery Heir can do this surgery.",
+    "translation": "覆叶的继承人可以完成这项手术."
+  },
+  {
+    "context": "",
     "key": "109508$Name",
     "original": "A New Face",
     "translation": "新面孔"
@@ -369,13 +357,13 @@
     "context": "",
     "key": "111179$Name",
     "original": "A Page from 'The Neathbow': Gant",
-    "translation": "'地虹'书卷的一页: 刚特灰"
+    "translation": "'地虹'书卷的一页: 枯寂褐"
   },
   {
     "context": "",
     "key": "111179$Description",
     "original": "\"G is lost in GANT, which remains when all other colours are eaten. Gant can be found where shadows are myriad.\"",
-    "translation": "\"G消逝于<b>刚特灰</b>中, 是所有其他颜色被吞噬后所剩下的遗骸. 刚特灰可以在无尽的阴影中找到.\""
+    "translation": "\"G消逝于<b>枯槁褐</b>, 是所有其他颜色被吞噬后所剩下的遗骸. 枯槁褐可以在无尽的阴影中找到.\""
   },
   {
     "context": "",
@@ -387,7 +375,7 @@
     "context": "",
     "key": "111180$Description",
     "original": "\"I is for IRRIGO. No one remembers why. Irrigo colours the forgotten corners of home.\"",
-    "translation": "\"I代表<b>没齿紫</b>.没人记得为什么.没齿紫为家中被遗忘的角落染色.\""
+    "translation": "\"I代表了<b>没齿紫</b>.没人记得为什么.没齿紫为家中被遗忘的角落染色.\""
   },
   {
     "context": "",
@@ -423,7 +411,7 @@
     "context": "",
     "key": "111181$Description",
     "original": "\"Behind your mirror, V names VIRIC, the colour of shallow sleep.\"\r\n",
-    "translation": ""
+    "translation": "\"在你的镜子之中, V 代表<b>琉璃绿</b>, 半梦半醒的颜色.\"\\n"
   },
   {
     "context": "",
@@ -471,7 +459,7 @@
     "context": "",
     "key": "109515$Description",
     "original": "A study of a clearing amid trees that do not grow in the Neath, of a zee-captain smashing the image of a painted serpent. The zee-captain's crew look on calmly. A forked tongue is visible in one's open mouth. The painting is tinted everywhere with viric - the greenish colour of shallow sleep, which cannot be seen on the surface of the world.\r\nYou are the zee-captain in the painting; you are also the painter.",
-    "translation": ""
+    "translation": "一幅关于林中空地的画作, 画中的树木不可能生长在尼斯; 一幅关于船长撕毁画着大蛇的画像的画作, 船员在旁边平静地观看着. 其中一人口中分叉的舌头清晰可见. 绘画上被涂满了琉璃绿 - 半梦半醒的颜色, 这种颜色在地面无法看到. \\n你即是画中的船长; 你亦是画外的绘者."
   },
   {
     "context": "",
@@ -523,6 +511,12 @@
   },
   {
     "context": "",
+    "key": "125706$AvailableAt",
+    "original": "Aigul",
+    "translation": "爱古"
+  },
+  {
+    "context": "",
     "key": "127569$Name",
     "original": "A Port Report: Anthe",
     "translation": "港口报告: 安忒"
@@ -532,6 +526,12 @@
     "key": "127569$Description",
     "original": "A report of the doings in the flourishing port.",
     "translation": "一份关于那盛开的港口中诸多事务的报告."
+  },
+  {
+    "context": "",
+    "key": "127569$AvailableAt",
+    "original": "Acquire at Anthe",
+    "translation": "安忒所得"
   },
   {
     "context": "",
@@ -568,6 +568,12 @@
     "key": "126411$Description",
     "original": "A description of how things stand at Dahut.",
     "translation": "一份关于达哈城中实际情况的报告."
+  },
+  {
+    "context": "",
+    "key": "126411$AvailableAt",
+    "original": "This must be assembled at Dahut.",
+    "translation": "这必须在达哈组装."
   },
   {
     "context": "",
@@ -760,6 +766,12 @@
     "key": "127128$Description",
     "original": "Some truth may be gleaned amidst exaggeration and falsehood.",
     "translation": "在谎言与夸大之词中一定隐藏着些许真相."
+  },
+  {
+    "context": "",
+    "key": "127128$AvailableAt",
+    "original": "This must be assembled at Low Barnet.",
+    "translation": "这必须在沉没的巴尼特组装."
   },
   {
     "context": "",
@@ -969,7 +981,7 @@
     "context": "",
     "key": "126763$Name",
     "original": "A Port Report: The Gant Pole",
-    "translation": "港口报告: 刚特极点"
+    "translation": "港口报告: 枯寂极点"
   },
   {
     "context": "",
@@ -1089,7 +1101,7 @@
     "context": "",
     "key": "113267$Name",
     "original": "A Port Report: Visage",
-    "translation": "港口报告: 维瑟吉"
+    "translation": "港口报告: 面容岛"
   },
   {
     "context": "",
@@ -1207,6 +1219,12 @@
   },
   {
     "context": "",
+    "key": "115315$AvailableAt",
+    "original": "The picture of a small blonde baby is inside.",
+    "translation": "里面是一个金发婴儿的相片."
+  },
+  {
+    "context": "",
     "key": "110135$Name",
     "original": "A Serpent-Trap",
     "translation": "捕蛇陷阱"
@@ -1243,6 +1261,12 @@
   },
   {
     "context": "",
+    "key": "126413$AvailableAt",
+    "original": "One may record the song in Wrack.",
+    "translation": "这首歌能在船墟记录."
+  },
+  {
+    "context": "",
     "key": "231$Name",
     "original": "a stranger",
     "translation": "一个陌生人"
@@ -1270,12 +1294,6 @@
     "key": "127296$Name",
     "original": "A Wreck",
     "translation": "一艘沉船"
-  },
-  {
-    "context": "",
-    "key": "127296$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -1449,7 +1467,7 @@
     "context": "",
     "key": "102969$Description",
     "original": "How do they speak to you?",
-    "translation": "他们怎么称呼你?"
+    "translation": "他们该怎么称呼你?"
   },
   {
     "context": "",
@@ -1483,6 +1501,12 @@
   },
   {
     "context": "",
+    "key": "125703$AvailableAt",
+    "original": "Gain acquaintance at Aigul.",
+    "translation": "在爱古的熟人"
+  },
+  {
+    "context": "",
     "key": "125703$LevelDescriptionText",
     "original": "20|Seen them through at least one mission~30|Learned some of their deeper secrets~40|Old acquaintances~50|Asked an important question~60|Persuaded the First Mate to abandon Aigul~5|Gained hospitality through a gift of Solacefruits~10|Observed the formation of spines",
     "translation": "20|至少看他们执行一个任务~30|了解关于他们的一些更深的秘密~40|故人~50|问一个重要的问题~60|说服大副放弃爱古~5|通过慰藉之果获得欢迎~10|观察尖刺的信息"
@@ -1498,6 +1522,12 @@
     "key": "125704$Description",
     "original": "The Imperious Sister has asked you to investigate the regrets of her Brother.",
     "translation": "威严的姐姐要求你调查他弟弟的悔恨."
+  },
+  {
+    "context": "",
+    "key": "125704$AvailableAt",
+    "original": "Gain at Mount Palmerston or Scrimshander, continue at Aigul.",
+    "translation": "在骨雕馆或帕默斯顿山获得后,回到爱古以继续."
   },
   {
     "context": "",
@@ -1519,6 +1549,12 @@
   },
   {
     "context": "",
+    "key": "125708$AvailableAt",
+    "original": "Aigul",
+    "translation": "爱古"
+  },
+  {
+    "context": "",
     "key": "125705$Name",
     "original": "Aigul: Knowledge of the First Mate's Question",
     "translation": "爱古: 关于大副问题的知识"
@@ -1531,6 +1567,12 @@
   },
   {
     "context": "",
+    "key": "125705$AvailableAt",
+    "original": "Aigul",
+    "translation": "爱古"
+  },
+  {
+    "context": "",
     "key": "125707$Name",
     "original": "Aigul: Needle of Fortas",
     "translation": "爱古: 棘刺要塞"
@@ -1540,6 +1582,12 @@
     "key": "125707$Description",
     "original": "Expressions of the First Mate's grief at exploring the bitterness of Aigul.",
     "translation": "大副探索爱古苦恨时的悔恨具现."
+  },
+  {
+    "context": "",
+    "key": "125707$AvailableAt",
+    "original": "Aigul",
+    "translation": "爱古"
   },
   {
     "context": "",
@@ -1582,12 +1630,6 @@
     "key": "111067$Name",
     "original": "Almost Safe",
     "translation": "几乎安全了"
-  },
-  {
-    "context": "",
-    "key": "111067$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -1749,7 +1791,7 @@
     "context": "",
     "key": "128593$Description",
     "original": "Who will command the Seven's fleets?",
-    "translation": "谁来统治七人团的舰队"
+    "translation": "谁来统治七人团的舰队?"
   },
   {
     "context": "",
@@ -1845,7 +1887,7 @@
     "context": "",
     "key": "128596$Name",
     "original": "Ambition: the Seven, Anew",
-    "translation": "志向:  七人团, 重振"
+    "translation": "志向:  七人团, 再起"
   },
   {
     "context": "",
@@ -1947,7 +1989,7 @@
     "context": "",
     "key": "115831$Description",
     "original": "They won't cure the Brisk Campaigner, but perhaps they'll grant her a little more time. ",
-    "translation": "这不会治愈敏锐的军医, 但是也许这能让她撑更长时间. "
+    "translation": "这无法治愈活泼的军医,  但也许能让她撑更长时间. "
   },
   {
     "context": "",
@@ -2037,7 +2079,7 @@
     "context": "",
     "key": "110363$Description",
     "original": "The Blind Bruiser attends to business on the dock.\r\n",
-    "translation": ""
+    "translation": "盲眼壮汉想要说些什么."
   },
   {
     "context": "",
@@ -2053,12 +2095,6 @@
   },
   {
     "context": "",
-    "key": "127661$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "127661$LevelDescriptionText",
     "original": "1|The remains of countless stories surround you",
     "translation": "1|无尽故事的残骸包围着你"
@@ -2068,12 +2104,6 @@
     "key": "127718$Name",
     "original": "Another Day: Inside a Wreck ",
     "translation": "新的一天: 在残骸中 "
-  },
-  {
-    "context": "",
-    "key": "127718$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -2092,12 +2122,6 @@
     "key": "110654$Name",
     "original": "Another Day: Nasty Things in the Dark",
     "translation": "新的一天: 黑暗中的秽物"
-  },
-  {
-    "context": "",
-    "key": "110654$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -2233,6 +2257,12 @@
   },
   {
     "context": "",
+    "key": "128391$AvailableAt",
+    "original": "Anthe",
+    "translation": "安忒"
+  },
+  {
+    "context": "",
     "key": "128391$LevelDescriptionText",
     "original": "1|Hard-tongued",
     "translation": "1|硬舌头"
@@ -2248,6 +2278,12 @@
     "key": "128407$Description",
     "original": "Have you used your sharpness to enhance a particular skill?",
     "translation": "你是否使用晶化来强化特别的技能?"
+  },
+  {
+    "context": "",
+    "key": "128407$AvailableAt",
+    "original": "Only long work at Anthe will gain you an Anthean advantage.",
+    "translation": "只有在安忒长时间的付出才会给你安忒的优势."
   },
   {
     "context": "",
@@ -2281,6 +2317,12 @@
   },
   {
     "context": "",
+    "key": "128392$AvailableAt",
+    "original": "Anthe",
+    "translation": "安忒"
+  },
+  {
+    "context": "",
     "key": "128392$LevelDescriptionText",
     "original": "1|Barb-lunged",
     "translation": "1|肺刺"
@@ -2296,6 +2338,12 @@
     "key": "128395$Description",
     "original": "How much sharpness can you endure?",
     "translation": "你可以忍受多少晶化?"
+  },
+  {
+    "context": "",
+    "key": "128395$AvailableAt",
+    "original": "Cultivate this at Anthe.",
+    "translation": "在安忒培育."
   },
   {
     "context": "",
@@ -2317,6 +2365,12 @@
   },
   {
     "context": "",
+    "key": "128396$AvailableAt",
+    "original": "Found at Anthe.",
+    "translation": "在安忒发现."
+  },
+  {
+    "context": "",
     "key": "128396$LevelDescriptionText",
     "original": "1|Transparent",
     "translation": "1|透明"
@@ -2332,6 +2386,12 @@
     "key": "128423$Description",
     "original": "Rosina's Onlookers are now infected with animescence, and haunt the place.",
     "translation": "罗西娜的观众们现在已经被燃魂病感染, 并开始在此徘徊."
+  },
+  {
+    "context": "",
+    "key": "128423$AvailableAt",
+    "original": "Acquired at Anthe.",
+    "translation": "安忒所得"
   },
   {
     "context": "",
@@ -2353,6 +2413,12 @@
   },
   {
     "context": "",
+    "key": "127570$AvailableAt",
+    "original": "Gain in the first chamber of Anthe",
+    "translation": "自安忒的第一内室中获得"
+  },
+  {
+    "context": "",
     "key": "127570$LevelDescriptionText",
     "original": "1|Crystal-livered",
     "translation": "1|水晶肝脏"
@@ -2368,6 +2434,12 @@
     "key": "127575$Description",
     "original": "A report for Khan's Glory",
     "translation": "为可汗的荣耀准备的报告"
+  },
+  {
+    "context": "",
+    "key": "127575$AvailableAt",
+    "original": "Begin at Khan's Glory and continue at Anthe.",
+    "translation": "从可汗的荣耀开始，在安忒继续。"
   },
   {
     "context": "",
@@ -2389,6 +2461,12 @@
   },
   {
     "context": "",
+    "key": "128394$AvailableAt",
+    "original": "Anthe",
+    "translation": "安忒"
+  },
+  {
+    "context": "",
     "key": "128394$LevelDescriptionText",
     "original": "1|Bristle-groined",
     "translation": "1|带刺的腹部"
@@ -2407,15 +2485,21 @@
   },
   {
     "context": "",
+    "key": "128398$AvailableAt",
+    "original": "Anthe provides the opportunity of sharpness.",
+    "translation": "安忒提供了锐利的机会。"
+  },
+  {
+    "context": "",
     "key": "126778$Name",
     "original": "Anthe: Polythreme Exile",
     "translation": "安忒: 碎心国的放逐者"
   },
   {
     "context": "",
-    "key": "126778$Description",
-    "original": "",
-    "translation": ""
+    "key": "126778$AvailableAt",
+    "original": "Anthe",
+    "translation": "安忒"
   },
   {
     "context": "",
@@ -2437,6 +2521,12 @@
   },
   {
     "context": "",
+    "key": "128484$AvailableAt",
+    "original": "Anthe",
+    "translation": "安忒"
+  },
+  {
+    "context": "",
     "key": "128484$LevelDescriptionText",
     "original": "1|You've seen the outer chambers of Anthe and learned what the place is.",
     "translation": "1|你已经见过了安忒的外室, 并且知道了这里是什么地方."
@@ -2452,6 +2542,12 @@
     "key": "127574$Description",
     "original": "How well do you know Rosina?",
     "translation": "你对罗欣娜了解多少?"
+  },
+  {
+    "context": "",
+    "key": "127574$AvailableAt",
+    "original": "Interact with Rosina at Anthe.",
+    "translation": "在安忒与罗欣娜接触"
   },
   {
     "context": "",
@@ -2485,6 +2581,12 @@
   },
   {
     "context": "",
+    "key": "126435$AvailableAt",
+    "original": "Rosina's health alters depending on events at Anthe.",
+    "translation": "罗欣娜的健康状况取决于安忒的事件。"
+  },
+  {
+    "context": "",
     "key": "126435$LevelDescriptionText",
     "original": "0|Extremely ill~3|Heating quickly~6|Feverish~9|A bit warm~10|Almost stable~17|Nearly recovered~11|Showing signs of improvement~14|Almost cool",
     "translation": "0|极度重病~3|温度骤升~6|发热~9|有点热~10|几乎稳定下来~17|接近康复~11|好转迹象~14|几乎熄灭"
@@ -2499,7 +2601,13 @@
     "context": "",
     "key": "127568$Description",
     "original": "Gained in the first chamber of Anthe.",
-    "translation": "获得安忒的第一内腔."
+    "translation": "自安忒的第一内室中得到."
+  },
+  {
+    "context": "",
+    "key": "127568$AvailableAt",
+    "original": "Anthe",
+    "translation": "安忒"
   },
   {
     "context": "",
@@ -2518,6 +2626,12 @@
     "key": "128393$Description",
     "original": "Is your skeleton as keen as it could be?",
     "translation": "你的颅骨迷人到不行了吗?"
+  },
+  {
+    "context": "",
+    "key": "128393$AvailableAt",
+    "original": "Anthe",
+    "translation": "安忒"
   },
   {
     "context": "",
@@ -2541,7 +2655,7 @@
     "context": "",
     "key": "114085$Name",
     "original": "Approved Romantic Literature",
-    "translation": "已审查浪漫小说"
+    "translation": "已审查的浪漫小说"
   },
   {
     "context": "",
@@ -2557,15 +2671,9 @@
   },
   {
     "context": "",
-    "key": "102996$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "114712$Name",
     "original": "At Last: Salt's Song",
-    "translation": "最后: 盐神的歌"
+    "translation": "最后: 盐神之歌"
   },
   {
     "context": "",
@@ -2577,7 +2685,7 @@
     "context": "",
     "key": "117205$Name",
     "original": "At Last: the Threshold",
-    "translation": "最后: 那个极限"
+    "translation": "最后: 门槛"
   },
   {
     "context": "",
@@ -2653,6 +2761,12 @@
   },
   {
     "context": "",
+    "key": "102994$AvailableAt",
+    "original": "He may sometimes be found in the Tomb-Colonies",
+    "translation": "他有时会出现在死亡租界"
+  },
+  {
+    "context": "",
     "key": "128942$Name",
     "original": "Beheld",
     "translation": "注视"
@@ -2691,7 +2805,7 @@
     "context": "",
     "key": "107140$Description",
     "original": "\"Like a lane of beams athwart the sea,\r\nThro' all the circle of the golden year!\" [An effective device for seeking enemies.]",
-    "translation": ""
+    "translation": "\"就像一道横梁跨越海泽,\\n横跨所有黄金年代!\" [一件对寻找敌人非常有用的设备.]"
   },
   {
     "context": "",
@@ -2733,13 +2847,19 @@
     "context": "",
     "key": "102991$Name",
     "original": "Brisk Campaigner",
-    "translation": "敏感的军医"
+    "translation": "活泼的军医"
   },
   {
     "context": "",
     "key": "102991$Description",
     "original": "She's marched with armies and cured generals. Don't annoy her.",
     "translation": "她曾给将军们看病, 也曾和军队一起行军. 千万别惹她."
+  },
+  {
+    "context": "",
+    "key": "102991$AvailableAt",
+    "original": "Sometimes available for hire in London.",
+    "translation": "有时可在沦敦雇佣。"
   },
   {
     "context": "",
@@ -2841,7 +2961,7 @@
     "context": "",
     "key": "110531$Name",
     "original": "Caminus Yards Pneumatic Ratsender",
-    "translation": "卡米努斯验证型 气动老鼠传输机"
+    "translation": "卡米努斯验证型 气动运鼠机"
   },
   {
     "context": "",
@@ -2859,7 +2979,7 @@
     "context": "",
     "key": "108975$Description",
     "original": "You'll look away, eventually. [If you've made an Ironclad Will, you can convert these into Heirlooms for your successor.]",
-    "translation": "你最终会移开视线. [如果你已经订立了遗嘱,你能把这个东西变成留给后继者的遗物.]"
+    "translation": "你终会将视线移开. [如果你已经订立了遗嘱,你能把这个东西变成留给后继者的遗物.]"
   },
   {
     "context": "",
@@ -2877,13 +2997,13 @@
     "context": "",
     "key": "127973$Name",
     "original": "Cargo of Answers ",
-    "translation": "解明货箱"
+    "translation": "一舱答案"
   },
   {
     "context": "",
     "key": "127973$Description",
     "original": "This bone bears an account of the Chelonate's great turtle and its death. It challenges established history. It should be delivered to Scrimshander.",
-    "translation": ""
+    "translation": "这块骨头承载着对鳌阜的大海龟及其死亡的描述. 它的存在能撼动历史. 你可以将其送到骨雕馆."
   },
   {
     "context": "",
@@ -2895,7 +3015,13 @@
     "context": "",
     "key": "102990$Description",
     "original": "Soft-spoken and a little mystical. How much does she see?",
-    "translation": "嗓音柔美, 略显神秘. 她看到了多少?"
+    "translation": "嗓音柔美, 略显神秘. 而她又阅过了多少?"
+  },
+  {
+    "context": "",
+    "key": "102990$AvailableAt",
+    "original": "Sometimes available for hire in London.",
+    "translation": "有时可在沦敦雇佣。"
   },
   {
     "context": "",
@@ -2929,12 +3055,6 @@
   },
   {
     "context": "",
-    "key": "102770$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "127581$Name",
     "original": "Cladery Heir",
     "translation": "覆叶的继承人"
@@ -2959,6 +3079,12 @@
   },
   {
     "context": "",
+    "key": "127691$AvailableAt",
+    "original": "To be found in various places where the Cladery Heir may perform surgeries.",
+    "translation": "在覆叶的继承人可能进行手术的各个港口获得。"
+  },
+  {
+    "context": "",
     "key": "128215$Name",
     "original": "Cladery Treatment: Cumaean Locks",
     "translation": "覆叶的手术: 卡米安船闸"
@@ -2971,6 +3097,12 @@
   },
   {
     "context": "",
+    "key": "128215$AvailableAt",
+    "original": "This can be found at the Cumaean Canal Staging Area.",
+    "translation": "这个可以在卡米安运河等待区发现."
+  },
+  {
+    "context": "",
     "key": "128214$Name",
     "original": "Cladery Treatment: Irem",
     "translation": "覆叶的手术: 伊瑞暮"
@@ -2980,6 +3112,12 @@
     "key": "128214$Description",
     "original": "Has the Cladery Heir performed a treatment at Irem?",
     "translation": "覆叶的继承人在伊瑞暮进行了手术吗?"
+  },
+  {
+    "context": "",
+    "key": "128214$AvailableAt",
+    "original": "The treatment will occur at Irem.",
+    "translation": "该治疗将在伊瑞暮进行。"
   },
   {
     "context": "",
@@ -3007,6 +3145,12 @@
   },
   {
     "context": "",
+    "key": "128213$AvailableAt",
+    "original": "Port Carnelian",
+    "translation": "玛瑙港"
+  },
+  {
+    "context": "",
     "key": "111613$Name",
     "original": "Clay Man, Marked for London",
     "translation": "粘土人, 预定去往沦敦"
@@ -3021,7 +3165,7 @@
     "context": "",
     "key": "128351$Name",
     "original": "Closing Chapters",
-    "translation": "最后章节"
+    "translation": "结尾章节"
   },
   {
     "context": "",
@@ -3039,7 +3183,7 @@
     "context": "",
     "key": "109652$Name",
     "original": "Colossal Fluke-Core",
-    "translation": "巨大的锚爪海胆"
+    "translation": "巨大的锚爪核心"
   },
   {
     "context": "",
@@ -3079,20 +3223,8 @@
   },
   {
     "context": "",
-    "key": "114681$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "114684$Name",
     "original": "Content QA please SS",
-    "translation": ""
-  },
-  {
-    "context": "",
-    "key": "114684$Description",
-    "original": "",
     "translation": ""
   },
   {
@@ -3100,12 +3232,6 @@
     "key": "102771$Name",
     "original": "Cook",
     "translation": "厨师"
-  },
-  {
-    "context": "",
-    "key": "102771$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -3229,6 +3355,12 @@
   },
   {
     "context": "",
+    "key": "126405$AvailableAt",
+    "original": "This ability can be earned at Dahut or in a few other places.",
+    "translation": "这项技能可以在达哈或其他几个地方学习."
+  },
+  {
+    "context": "",
     "key": "126406$Name",
     "original": "Dahut: Enthralment",
     "translation": "达哈: 沉溺"
@@ -3238,6 +3370,12 @@
     "key": "126406$Description",
     "original": "The depth of your commitment to the beauty of Dahut.",
     "translation": "你对达哈之美的沉迷深度."
+  },
+  {
+    "context": "",
+    "key": "126406$AvailableAt",
+    "original": "Increase this at Dahut, through interaction there.",
+    "translation": "通过在达哈的互动增加这一项."
   },
   {
     "context": "",
@@ -3253,6 +3391,12 @@
   },
   {
     "context": "",
+    "key": "126407$AvailableAt",
+    "original": "Progress this at Dahut, or reset it by leaving and returning when Something Awaits You.",
+    "translation": "在达哈取得进展，或者通过离开并在有什么等着你时返回来重置它。"
+  },
+  {
+    "context": "",
     "key": "126629$Name",
     "original": "Dahut: Seeking a Prisoner of Dahut",
     "translation": "达哈: 寻找一名达哈的囚犯"
@@ -3262,6 +3406,12 @@
     "key": "126629$Description",
     "original": "You've been asked to find a certain person imprisoned in Dahut.",
     "translation": "你被要求找到一名在达哈被囚禁的人."
+  },
+  {
+    "context": "",
+    "key": "126629$AvailableAt",
+    "original": "Wrack begins this story and Dahut continues it.",
+    "translation": "在船墟开始这个故事，在达哈继续。"
   },
   {
     "context": "",
@@ -3297,12 +3447,6 @@
     "context": "",
     "key": "118481$Name",
     "original": "DebugPPKill",
-    "translation": ""
-  },
-  {
-    "context": "",
-    "key": "118481$Description",
-    "original": "",
     "translation": ""
   },
   {
@@ -3361,20 +3505,8 @@
   },
   {
     "context": "",
-    "key": "126609$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "126608$Name",
     "original": "Design QA Please SS",
-    "translation": ""
-  },
-  {
-    "context": "",
-    "key": "126608$Description",
-    "original": "",
     "translation": ""
   },
   {
@@ -3477,7 +3609,7 @@
     "context": "",
     "key": "115052$Description",
     "original": "'The Monster-Hunter winnows the lesser terrors from the true. She has slain That Which Makes Light in the Deeps, eaten its flesh in remembrance of certain Feasts of the Zee, and fashioned her weapon from its remains. She was human, once.' \r\nBut this Monster-Hunter is ready for a glorious ending. Icarus in Black awaits.",
-    "translation": ""
+    "translation": "'怪物猎人能找到并筛选出那些现实中的恐怖生物. 她已经屠灭了深渊中发出光的生物, 在对海泽盛宴的回忆中吃掉了它的血肉, 用它的尸骨做成了武器. 她曾经是个人类. ' \\n但是这位怪物猎人已经为辉煌的结局做好了准备. 黑色逐日者正在等待着."
   },
   {
     "context": "",
@@ -3523,6 +3655,12 @@
   },
   {
     "context": "",
+    "key": "126628$AvailableAt",
+    "original": "Acquired at Dahut under certain circumstances.",
+    "translation": "在某些情况下，在达哈获得。"
+  },
+  {
+    "context": "",
     "key": "126415$Name",
     "original": "Drownie Love-song",
     "translation": "溺亡者情歌"
@@ -3535,6 +3673,12 @@
   },
   {
     "context": "",
+    "key": "126415$AvailableAt",
+    "original": "Found at Dahut.",
+    "translation": "在达哈找到."
+  },
+  {
+    "context": "",
     "key": "126416$Name",
     "original": "Drownie Song in Counterpoint",
     "translation": "和声溺亡者之歌"
@@ -3544,6 +3688,12 @@
     "key": "126416$Description",
     "original": "A song of isolation and belonging, of greatness and humility.",
     "translation": "关于孤立和归属的歌, 同样歌颂了伟大之物和人性."
+  },
+  {
+    "context": "",
+    "key": "126416$AvailableAt",
+    "original": "Attained at a price in Dahut.",
+    "translation": "在达哈付出代价以得到."
   },
   {
     "context": "",
@@ -3634,12 +3784,6 @@
     "key": "114666$Name",
     "original": "Empire of Hands: Explored Ash Isthmus",
     "translation": "手掌帝国: 探索灰烬地峡"
-  },
-  {
-    "context": "",
-    "key": "114666$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -3763,6 +3907,12 @@
   },
   {
     "context": "",
+    "key": "115504$AvailableAt",
+    "original": "If you dare to use this, take it to Fallen London",
+    "translation": "如果你敢于使用这个，就把它带去沦敦"
+  },
+  {
+    "context": "",
     "key": "114769$Name",
     "original": "Empire of Hands: The Zeppelin - Fuel",
     "translation": "手掌帝国: 飞艇 - 燃料"
@@ -3817,21 +3967,9 @@
   },
   {
     "context": "",
-    "key": "114977$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "114978$Name",
     "original": "Empire of Hands: Treasure Valley Y",
     "translation": "手掌帝国: 财宝谷 Y"
-  },
-  {
-    "context": "",
-    "key": "114978$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -3859,6 +3997,12 @@
   },
   {
     "context": "",
+    "key": "114891$AvailableAt",
+    "original": "Raise it by trading, supplying the Zeppelin, or amusing the fickle Pentecost Apes.",
+    "translation": "通过交易、供应大飞艇或取悦善变的圣灵猿来筹集资金。"
+  },
+  {
+    "context": "",
     "key": "115025$Name",
     "original": "Empty Mirrorcatch Box",
     "translation": "空的捕光镜匣"
@@ -3880,6 +4024,12 @@
     "key": "118475$Description",
     "original": "You have a rival at zee.",
     "translation": "你在海泽里有对手了."
+  },
+  {
+    "context": "",
+    "key": "118475$AvailableAt",
+    "original": "She hunts far from London, picking off both other pirates and travellers who zailed too far.",
+    "translation": "她在离沦敦很远的地方狩猎，既狩猎其他海盗，也狩猎那些走得太远的旅行者。"
   },
   {
     "context": "",
@@ -3915,7 +4065,7 @@
     "context": "",
     "key": "127496$LevelDescriptionText",
     "original": "1| You can trade Zee-Ztories, Stygian Ivory, Outlandish Artefacts, or Extraordinary Implications to increase this.",
-    "translation": "1| 你可以交易海泽故事, 阴暗黑骨, 异域工艺品, 或者非凡的暗示来提升这个值."
+    "translation": "1| 你可以交易海泽轶事, 阴暗黑骨, 异域工艺品, 或者非凡的暗示来提升这个值."
   },
   {
     "context": "",
@@ -3940,6 +4090,12 @@
     "key": "110149$Description",
     "original": "Thick plates of bone have developed over the orbits, as if to hide or protect them. They are smooth and cold to the touch. Irrigo light glimmers in the line of the jaw.",
     "translation": "眼眶被厚厚的骨板覆盖, 就好像是要把眼眶隐藏或保护起来. 它们摸起来又光滑又冰冷. 没齿紫色的光芒从它颚骨的缝隙处溢出."
+  },
+  {
+    "context": "",
+    "key": "110149$AvailableAt",
+    "original": "These can be found in the Forgotten Quarter of London, which the Genial Magician can open for you.",
+    "translation": "这些东西可以在伦敦的被遗忘的区域找到，亲切的魔术师可以为你打开那儿。"
   },
   {
     "context": "",
@@ -4089,19 +4245,13 @@
     "context": "",
     "key": "102017$Description",
     "original": "A hundred dreams in every barrel.",
-    "translation": "每一桶里都有一百个梦."
+    "translation": "每一桶都饱含美梦."
   },
   {
     "context": "",
     "key": "102769$Name",
     "original": "First Officer",
     "translation": "大副"
-  },
-  {
-    "context": "",
-    "key": "102769$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -4126,6 +4276,12 @@
     "key": "110233$Description",
     "original": "We've all made mistakes. If only those mistakes could be left in the dark.",
     "translation": "我们都会犯错. 如果那些错误能留在黑暗中多好."
+  },
+  {
+    "context": "",
+    "key": "110233$AvailableAt",
+    "original": "Purchase these at Mrs Plenty's Shipside Provisioners.",
+    "translation": "在普朗蒂太太的杂货供应处购买这些东西。"
   },
   {
     "context": "",
@@ -4167,7 +4323,7 @@
     "context": "",
     "key": "126765$Name",
     "original": "Gant Pole: A Barrel of Rancid Flesh",
-    "translation": "刚特极点:一桶腐肉"
+    "translation": "枯寂极点:一桶腐肉"
   },
   {
     "context": "",
@@ -4179,7 +4335,7 @@
     "context": "",
     "key": "126884$Name",
     "original": "Gant Pole: A Message From The Dead",
-    "translation": "刚特极点: 死者的信"
+    "translation": "枯寂极点: 死者的信"
   },
   {
     "context": "",
@@ -4197,7 +4353,7 @@
     "context": "",
     "key": "126772$Name",
     "original": "Gant Pole: A Secret In Bones And Blood",
-    "translation": "刚特极点: 血与骨的秘密"
+    "translation": "枯寂极点: 血与骨的秘密"
   },
   {
     "context": "",
@@ -4209,7 +4365,7 @@
     "context": "",
     "key": "126762$Name",
     "original": "Gant Pole: A Trade in Flesh",
-    "translation": "刚特极点: 血肉交易"
+    "translation": "枯寂极点: 血肉交易"
   },
   {
     "context": "",
@@ -4221,13 +4377,13 @@
     "context": "",
     "key": "126762$LevelDescriptionText",
     "original": "1|The Redolent Fleshmerchant has requested 'meath' from the Gant Pole~10|The Redolent Fleshmerchant is out of business",
-    "translation": "1|芳香的血肉商人需要从刚特极点带来的 '肉' ~10|芳香的血肉商人停止营业"
+    "translation": "1|芳香的血肉商人需要从枯寂极点带来的 '肉' ~10|芳香的血肉商人停止营业"
   },
   {
     "context": "",
     "key": "126760$Name",
     "original": "Gant Pole: A Witness to Nothing",
-    "translation": "刚特极点: 见证虚无"
+    "translation": "枯寂极点: 见证虚无"
   },
   {
     "context": "",
@@ -4239,13 +4395,13 @@
     "context": "",
     "key": "126760$LevelDescriptionText",
     "original": "1|The Sixth Witness asked you to visit the Gant Pole~2|You have the answer for the Sixth Witness at Kingeater's Castle~3|The Seventh Witness has looked East from Kingeater's Castle",
-    "translation": "1|第六名见证者要求你造访刚特极点~2|你得到了给第六名观察者的噬王者城堡的回答~3|第七名观察者开始向噬王者城堡以东看"
+    "translation": "1|第六名见证者要求你造访枯寂极点~2|你得到了给第六名观察者的噬王者城堡的回答~3|第七名观察者开始向噬王者城堡以东看"
   },
   {
     "context": "",
     "key": "126759$Name",
     "original": "Gant Pole: An Apprenticeship in Haruspicy",
-    "translation": "刚特极点: 肠卜师的学徒"
+    "translation": "枯寂极点: 肠卜师的学徒"
   },
   {
     "context": "",
@@ -4263,7 +4419,7 @@
     "context": "",
     "key": "126883$Name",
     "original": "Gant Pole: Corridors Of The Heart",
-    "translation": "刚特极点: 心之走廊"
+    "translation": "枯寂极点: 心之走廊"
   },
   {
     "context": "",
@@ -4275,7 +4431,7 @@
     "context": "",
     "key": "126771$Name",
     "original": "Gant Pole: Elbow Deep In The Nearly Dead",
-    "translation": "刚特极点: 深入近死者"
+    "translation": "枯寂极点: 深入近死者"
   },
   {
     "context": "",
@@ -4287,7 +4443,7 @@
     "context": "",
     "key": "126774$Name",
     "original": "Gant Pole: Final Breaths",
-    "translation": "刚特极点: 最后呼吸"
+    "translation": "枯寂极点: 最后呼吸"
   },
   {
     "context": "",
@@ -4299,7 +4455,7 @@
     "context": "",
     "key": "126775$Name",
     "original": "Gant Pole: Lost In The Darkness",
-    "translation": "刚特极点: 迷失在黑暗中"
+    "translation": "枯寂极点: 迷失在黑暗中"
   },
   {
     "context": "",
@@ -4311,13 +4467,13 @@
     "context": "",
     "key": "126775$LevelDescriptionText",
     "original": "1|The echo of silver writing glimmers in the darkness. \"IT TORE OUT THE HEART. THE SHAME REMAINED.\"~2|A scowling pirate cleans his teeth with a dagger. The Gant Pole's depths are a fine place to hide, for those who can find it.~3|The tunnel twists into three directions. You lick your finger. The slight breeze guides your feet.~4|A gust of fetid air rushes through the tunnel. The heart shudders for a moment.~6|Slivers of calcified heart rain down from the cracked ventricle roof.~7|This ventricle narrows to a tight gap. Fossilised fat deposits crack under your feet.~8|The light of your candle flickers. In the darkness behind you, footsteps.~9|A group of Old Zailors sits in a circle, tearing strips off a recently arrived whale with their rotten teeth.~10|One of the Fading Haruspex's disciples scurries past, arms weighed down with supplies from deeper in the Gant Pole.~11|A gentle hum guides your feet forwards. Your eyes feel heavy. Somewhere here is a place you can sleep. You have earned your rest. There is no need to awaken.~12|You brush your hand against the rippled edges of the tunnel. Another ventricle. Was it flesh before it was stone?~13|You pass an encampment of zailors. They stare at you, refusing to talk. You move onwards and deeper into the Heart.~14|Water drips from a crack in the roof. You taste it. Stale and stagnant. Brine aftertaste. Still better than thirst.~15|In the distance, someone whistles a zee-shanty. It might be you.~16|The echo of silver writing glimmers in the darkness. \"REJOICE, FOR THE END ALWAYS COMES.\"~17|You pass a wall covered in chalk-malks. Whether they mark days, years, or something else, whoever made them has been here for a very long time.~18|For a moment, you see a glow in the distance. It fades as soon as you look up.~20|Every tunnel twists and turns. Is a little treasure really so much to ask for in such a grim place?~5|Down this tunnel, you pass one of the Old Zailors writing something on the wall. In the light, it is invisible. In the darkness, illegible.~19|You pass a shack made of hide. The owner sleeps inside, gently breathing despite the polished bone of his skeleton visible through the decay and great chunks of devoured flesh. He cackles to himself about something in his dream, rolls over, and begins to snore.",
-    "translation": "1|银色字迹的微光在黑暗中闪烁着. \"它撕裂了心. 耻辱依旧在.\"~2|一个皱眉的海盗用匕首清洁他的牙齿. 刚特极点的深处对于那些能找到它的人而言是一个隐藏的好地方.~3|隧道向三个方向旋转着, 你舔舔手指, 微风在你脚边吹拂.~4|一阵清新空气冲过隧道 心脏颤抖了一会儿..~6|钙化的心脏碎片从顶部如雨般坠落.~7|心室变窄了. 石化的脂肪堆积在你的脚边~8|烛光颤抖着.在你身后的黑暗中, 有些脚步声.~9|一群老水手围坐一团, 用腐烂的牙齿撕咬着一只刚来的鲸鱼.~10|一名肠卜者的学徒快步通过 手中提着来自刚特极点深处的补给品.~11|一阵温和的低哼引导你向前，但是你的眼皮变得沉重。附近有个可以睡觉的地方, 你可以休息, 没必要醒来.~12|你用手拂过隧道的锯齿状边缘, 另一个心室, 那些石头曾经全是血肉吗?~13|你经过了一个水手的营地. 他们看着你, 拒绝说话. 你继续向心脏深处前进.~14|水滴从顶部裂缝处滴落, 你尝了尝, 很污秽, 很咸, 就连回味也充满了卤水味. 不过还是比口渴的感觉好.~15|远处有些人吹着口哨, 旋律是水手们的船歌. 它可能是你.~16|银色字迹的微光在黑暗中闪烁着. \"為終將到來的結局, 舉杯慶祝吧.\"~17|你经过了一面有着白垩记号的墙壁. 无论那记号记录的是日, 月, 年, 还是什么其他的东西, 记录的东西一定在这里呆了很长很长时间.~18|某一瞬间, 你看到了一丝来自远方的微光. 但当你细看, 它又消失了. ~20|每条隧道都扭曲旋转着. 在这样黑暗的地方要求一点点财宝真的很过分吗?~5|沿隧道向下走, 你经过了一名正在墙上写着什么的老水手. 在光照下, 它消失了, 只剩下黑暗, 只剩下不可辨认的黑暗.~19|你经过了一座毛皮搭的小屋, 主人在里睡觉, 轻轻呼吸着.尽管你透过大块血肉都能看到他被抛光的颅骨. 他在梦中咯咯说着什么, 然后翻了个身,开始打呼噜."
+    "translation": "1|银色字迹的微光在黑暗中闪烁着. \"它撕裂了心. 耻辱依旧在.\"~2|一个皱眉的海盗用匕首清洁他的牙齿. 枯寂极点的深处对于那些能找到它的人而言是一个隐藏的好地方.~3|隧道向三个方向旋转着, 你舔舔手指, 微风在你脚边吹拂.~4|一阵清新空气冲过隧道 心脏颤抖了一会儿..~6|钙化的心脏碎片从顶部如雨般坠落.~7|心室变窄了. 石化的脂肪堆积在你的脚边~8|烛光颤抖着.在你身后的黑暗中, 有些脚步声.~9|一群老水手围坐一团, 用腐烂的牙齿撕咬着一只刚来的鲸鱼.~10|一名肠卜者的学徒快步通过 手中提着来自枯寂极点深处的补给品.~11|一阵温和的低哼引导你向前，但是你的眼皮变得沉重。附近有个可以睡觉的地方, 你可以休息, 没必要醒来.~12|你用手拂过隧道的锯齿状边缘, 另一个心室, 那些石头曾经全是血肉吗?~13|你经过了一个水手的营地. 他们看着你, 拒绝说话. 你继续向心脏深处前进.~14|水滴从顶部裂缝处滴落, 你尝了尝, 很污秽, 很咸, 就连回味也充满了卤水味. 不过还是比口渴的感觉好.~15|远处有些人吹着口哨, 旋律是水手们的船歌. 它可能是你.~16|银色字迹的微光在黑暗中闪烁着. <b>\"敬终将到来的结局\"</b>~17|你经过了一面有着白垩记号的墙壁. 无论那记号记录的是日, 月, 年, 还是什么其他的东西, 记录的东西一定在这里呆了很长很长时间.~18|某一瞬间, 你看到了一丝来自远方的微光. 但当你细看, 它又消失了. ~20|每条隧道都扭曲旋转着. 在这样黑暗的地方要求一点点财宝真的很过分吗?~5|沿隧道向下走, 你经过了一名正在墙上写着什么的老水手. 在光照下, 它消失了, 只剩下黑暗, 只剩下不可辨认的黑暗.~19|你经过了一座毛皮搭的小屋, 主人在里睡觉, 轻轻呼吸着.尽管你透过大块血肉都能看到他被抛光的颅骨. 他在梦中咯咯说着什么, 然后翻了个身,开始打呼噜."
   },
   {
     "context": "",
     "key": "126785$Name",
     "original": "Gant Pole: Portents of the Deep",
-    "translation": "刚特极点: 深处的预兆"
+    "translation": "枯寂极点: 深处的预兆"
   },
   {
     "context": "",
@@ -4335,13 +4491,13 @@
     "context": "",
     "key": "126770$Name",
     "original": "Gant Pole: Something Ends",
-    "translation": "刚特极点: 一些东西的结局"
+    "translation": "枯寂极点: 一些东西的结局"
   },
   {
     "context": "",
     "key": "126770$Description",
     "original": "A beast of the zee has gone to the Gant Pole.",
-    "translation": "一个海兽去了刚特极点."
+    "translation": "一个海兽去了枯寂极点."
   },
   {
     "context": "",
@@ -4353,7 +4509,7 @@
     "context": "",
     "key": "126773$Name",
     "original": "Gant Pole: The Fading Haruspex",
-    "translation": "刚特极点: 逐渐消失的肠卜师"
+    "translation": "枯寂极点: 逐渐消失的肠卜师"
   },
   {
     "context": "",
@@ -4365,7 +4521,7 @@
     "context": "",
     "key": "126758$Name",
     "original": "Gant Pole: The Fading Haruspex",
-    "translation": "刚特极点: 逐渐消失的肠卜师"
+    "translation": "枯寂极点: 逐渐消失的肠卜师"
   },
   {
     "context": "",
@@ -4383,7 +4539,7 @@
     "context": "",
     "key": "126761$Name",
     "original": "Gant Pole: The Secrets Old Zailors Keep",
-    "translation": "刚特极点: 秘密水手据点"
+    "translation": "枯寂极点: 秘密水手据点"
   },
   {
     "context": "",
@@ -4399,21 +4555,9 @@
   },
   {
     "context": "",
-    "key": "102985$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
-    "key": "108063$Name",
-    "original": "Gleam",
-    "translation": "微光"
-  },
-  {
-    "context": "",
-    "key": "108063$Description",
-    "original": "",
-    "translation": ""
+    "key": "102985$AvailableAt",
+    "original": "Sometimes available for hire in London.",
+    "translation": "有时可在沦敦雇佣。"
   },
   {
     "context": "",
@@ -4432,12 +4576,6 @@
     "key": "102775$Name",
     "original": "Gunnery Officer",
     "translation": "炮手"
-  },
-  {
-    "context": "",
-    "key": "102775$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -4474,6 +4612,12 @@
     "key": "102984$Description",
     "original": "Earnest, learned, prone to jump at loud noises.",
     "translation": "认真, 博学, 有突然发出噪声的倾向."
+  },
+  {
+    "context": "",
+    "key": "102984$AvailableAt",
+    "original": "Sometimes available for hire in London.",
+    "translation": "有时可在沦敦雇佣。"
   },
   {
     "context": "",
@@ -4552,12 +4696,6 @@
     "key": "126178$Name",
     "original": "Hideaway: Hideaway Refugees",
     "translation": "隐逸之地: 隐逸地的难民"
-  },
-  {
-    "context": "",
-    "key": "126178$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -4653,7 +4791,7 @@
     "context": "",
     "key": "126606$Name",
     "original": "Hideaway: Wary of You",
-    "translation": "隐逸之地: 对你的堤防"
+    "translation": "隐逸之地: 对你的提防"
   },
   {
     "context": "",
@@ -4729,6 +4867,12 @@
   },
   {
     "context": "",
+    "key": "995$AvailableAt",
+    "original": "This choice is not yet available! It will be, some day.",
+    "translation": "这个选项暂时不可用! 但是未来它会开放."
+  },
+  {
+    "context": "",
     "key": "638$Name",
     "original": "In the Lead",
     "translation": "领先"
@@ -4791,7 +4935,7 @@
     "context": "",
     "key": "115930$Name",
     "original": "Intriguing Snippet",
-    "translation": "有趣的片段"
+    "translation": "有趣片段"
   },
   {
     "context": "",
@@ -4921,6 +5065,12 @@
   },
   {
     "context": "",
+    "key": "102988$AvailableAt",
+    "original": "Sometimes available for hire in London.",
+    "translation": "有时可在沦敦雇佣。"
+  },
+  {
+    "context": "",
     "key": "113381$Name",
     "original": "Isle of Cats: Isery's Patronage",
     "translation": "猫岛: 伊瑟琳的赞助"
@@ -5047,6 +5197,12 @@
   },
   {
     "context": "",
+    "key": "109033$AvailableAt",
+    "original": "This is a placeholder for a storyline associated with a character throughline.",
+    "translation": ""
+  },
+  {
+    "context": "",
     "key": "109061$Name",
     "original": "Key of Histories",
     "translation": "史之匙"
@@ -5056,6 +5212,12 @@
     "key": "109061$Description",
     "original": "This element is not yet implemented.",
     "translation": ""
+  },
+  {
+    "context": "",
+    "key": "109061$AvailableAt",
+    "original": "This is not yet available.",
+    "translation": "这个暂时不可用"
   },
   {
     "context": "",
@@ -5337,7 +5499,7 @@
     "context": "",
     "key": "111694$Name",
     "original": "Learning About: The Brisk Campaigner",
-    "translation": "了解事实: 敏锐的军医"
+    "translation": "了解事实: 活泼的军医"
   },
   {
     "context": "",
@@ -5349,7 +5511,7 @@
     "context": "",
     "key": "111694$LevelDescriptionText",
     "original": "1|You've cracked the Brisk Campaigner's reserve~2|You've seen the Brisk Campaigner collapse~3|You've elected to help the Brisk Campaigner find what she needs~50|The Brisk Campaigner has recovered~100|You won't see the Campaigner again~90|The Campaigner ended your affair.~101|The Campaigner has become your viceroy. ",
-    "translation": "1|你打破了敏感的军医的沉默~2|你看到了敏感的军医的崩溃~3|你选择帮助敏感的军医寻找她需要的东西~50|敏感的军医已经痊愈~100|你不会再见到军医了~90|军医结束了和你的感情."
+    "translation": "1|你打破了活泼的军医的沉默~2|你看到了活泼的军医的崩溃~3|你选择帮助活泼的军医寻找她需要的东西~50|活泼的军医已经痊愈~100|你不会再见到军医了~90|军医结束了和你的感情."
   },
   {
     "context": "",
@@ -5677,6 +5839,12 @@
   },
   {
     "context": "",
+    "key": "127258$AvailableAt",
+    "original": "Raise this as high as seven by telling stories at Low Barnet.",
+    "translation": "通过在沉没的巴尼特讲故事，把这个数字提高到7。"
+  },
+  {
+    "context": "",
     "key": "127206$Name",
     "original": "Low Barnet: Wandering Parson",
     "translation": "沉没的巴尼特: 云游牧师"
@@ -5728,12 +5896,6 @@
     "key": "102774$Name",
     "original": "Mascot",
     "translation": "吉祥物"
-  },
-  {
-    "context": "",
-    "key": "102774$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -5875,20 +6037,8 @@
   },
   {
     "context": "",
-    "key": "114682$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "114683$Name",
     "original": "Mechanical QA please",
-    "translation": ""
-  },
-  {
-    "context": "",
-    "key": "114683$Description",
-    "original": "",
     "translation": ""
   },
   {
@@ -6009,13 +6159,13 @@
     "context": "",
     "key": "118968$Description",
     "original": "How did the Glory meet its end? The Scrimshaw Chronicler told you that the tale can be found on history's beach.",
-    "translation": "荣耀的结局是什么? 骨雕记录者告诉你那些故事都能在历史的海滩上找到."
+    "translation": "荣耀的结局是什么? 骨雕纪事者告诉你那些故事都能在历史的海滩上找到."
   },
   {
     "context": "",
     "key": "118968$LevelDescriptionText",
     "original": "1|The Scrimshaw Chronicler has asked you to seek the tale of the Glory's death \"on history's beach\"~20|You told the Chronicler how the Glory died~10|You know how the Glory died~40|You invented a tale of the Glory's death~50|The Chronicler left the Chelonate with you, forever~60|You lied to the Chronicler... and he will not forget it. Your association is over",
-    "translation": "1|骨雕记录者要求你寻找荣耀死亡的故事 \"在历史的沙滩上\"~20|你告诉了记录者荣耀的死亡~10|你知道了荣耀是怎么死的~40|你发现了荣耀之死的故事~50|记录者和你一起离开了鳌阜,永远~60|你欺骗了记录者... 他不会忘记你.你们的联系结束了"
+    "translation": "1|骨雕纪事者要求你寻找荣耀死亡的故事 \"在历史的沙滩上\"~20|你告诉了纪事者荣耀的死亡~10|你知道了荣耀是怎么死的~40|你发现了荣耀之死的故事~50|纪事者和你一起离开了鳌阜,永远~60|你欺骗了纪事者... 他不会忘记你.你们的联系结束了"
   },
   {
     "context": "",
@@ -6163,12 +6313,6 @@
   },
   {
     "context": "",
-    "key": "105970$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "105970$LevelDescriptionText",
     "original": "1|Watched",
     "translation": "1|注视"
@@ -6196,12 +6340,6 @@
     "key": "105972$Name",
     "original": "Menaces: Nightmare's Strength",
     "translation": "威胁:梦魇之力"
-  },
-  {
-    "context": "",
-    "key": "105972$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -6256,12 +6394,6 @@
     "key": "117204$Name",
     "original": "Menaces: Yearning, Burning",
     "translation": "威胁: 渴望, 燃烧"
-  },
-  {
-    "context": "",
-    "key": "117204$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -6697,6 +6829,12 @@
   },
   {
     "context": "",
+    "key": "128350$AvailableAt",
+    "original": "The effects of prolonged stays in Nook can be reduced in Aigul, where memories are sacrificed.",
+    "translation": "在旮旯长期停留的影响可以在爱古减少，在那里，记忆会被牺牲。"
+  },
+  {
+    "context": "",
     "key": "128350$LevelDescriptionText",
     "original": "15|If you stayed any longer, you would never leave",
     "translation": "15|如果你逗留再长一点, 你就永远离不开了"
@@ -6766,6 +6904,12 @@
     "key": "128349$Description",
     "original": "The more of it you breathe, the less you remember air.",
     "translation": "你呼吸越多, 你对空气的记忆就越少."
+  },
+  {
+    "context": "",
+    "key": "128349$AvailableAt",
+    "original": "This increases as you do more in Nook. But the more you do in Nook, the more Nook will change you.",
+    "translation": "你在旮旯度过的时间越久，这项属性会越多；但与此同时，旮旯也越会改变你."
   },
   {
     "context": "",
@@ -7023,7 +7167,7 @@
     "context": "",
     "key": "115961$LevelDescriptionText",
     "original": "1|Take one Element of Dawn, one Casket of Sapphires, and forty units of Stygian Ivory, along with the Mechanic's Secret and the Unsettling Sage, to Kingeater's Castle.",
-    "translation": "1|获取一个黎明元素, 一箱蓝宝石, 四十份阴暗黑骨, 还需要机械式的秘密和令人不安的贤者, 最后去往噬王者城堡."
+    "translation": "1|获取一个黎明元素, 一箱蓝宝石, 四十份阴暗黑骨, 还需要机械师的秘密和不安的贤者, 最后去往噬王者城堡."
   },
   {
     "context": "",
@@ -7036,6 +7180,12 @@
     "key": "113395$Description",
     "original": "Even Pirate-Kings like their courtesies",
     "translation": "即使是海盗王也会很受用这些礼节"
+  },
+  {
+    "context": "",
+    "key": "113395$AvailableAt",
+    "original": "Your Patron suggested the Cumaean Canal. ",
+    "translation": "你的赞助人建议去卡米安运河。"
   },
   {
     "context": "",
@@ -7281,13 +7431,13 @@
     "context": "",
     "key": "120962$Description",
     "original": "Two houses, alike in dignity. Not that this is saying much, mind.",
-    "translation": "两股势力, 并驾齐驱. 想来也没什么大不了的."
+    "translation": "两股势力, 分庭抗礼. 想来也没什么大不了的."
   },
   {
     "context": "",
     "key": "120962$LevelDescriptionText",
     "original": "1|Cavia~2|Murinia~51|United Cavia~52|United Murinia~61|Cavia (Fighting For Independence)~62|Murinia (Fighting For Independence)~21|Cavia and Visage~22|Murinia and Visage~32|Murinia and His Complexity~95|You have been banished from Pigmote Isle~99|Pigmote has fallen~31|Cavia and His Complexity",
-    "translation": "1|豚鼠维亚~2|鼠尼亚~51|豚鼠合众国~52|啮齿合众国~61|豚鼠维亚 (为独立而战)~62|鼠尼亚 (为独立而战)~21|豚鼠维亚和维瑟吉~22|鼠尼亚和维瑟吉~32|鼠尼亚和错综复杂的王~95|你已经被皮格莫特岛放逐~99|皮格莫特岛已经沦陷"
+    "translation": "1|豚鼠维亚~2|鼠尼亚~51|豚鼠合众国~52|啮齿合众国~61|豚鼠维亚 (为独立而战)~62|鼠尼亚 (为独立而战)~21|豚鼠维亚和面容岛~22|鼠尼亚和面容岛~32|鼠尼亚和错综复杂的王~95|你已经被皮格莫特岛放逐~99|皮格莫特岛已经沦陷"
   },
   {
     "context": "",
@@ -7399,6 +7549,12 @@
   },
   {
     "context": "",
+    "key": "102987$AvailableAt",
+    "original": "Sometimes available for hire in London.",
+    "translation": "有时可在沦敦雇佣。"
+  },
+  {
+    "context": "",
     "key": "108907$Name",
     "original": "Price Unpaid",
     "translation": "未付的报酬"
@@ -7413,13 +7569,13 @@
     "context": "",
     "key": "112814$Name",
     "original": "Principles' End: A Fluke-Core",
-    "translation": "珊瑚之源的结局:一个海胆核心"
+    "translation": "珊瑚之源的结局:一个锚爪核心"
   },
   {
     "context": "",
     "key": "112814$Description",
     "original": "\"And bring me a Fluke-Core. For my Kin.\"",
-    "translation": "\"带给我一枚海胆的核心, 为了我的亲王.\""
+    "translation": "\"带给我一枚锚爪的核心, 为了我的亲王.\""
   },
   {
     "context": "",
@@ -7525,6 +7681,12 @@
   },
   {
     "context": "",
+    "key": "126434$AvailableAt",
+    "original": "The Prisoner is imprisoned at Dahut.",
+    "translation": "囚犯被关押在达哈。"
+  },
+  {
+    "context": "",
     "key": "116008$Name",
     "original": "Propagation: a Light-Ship",
     "translation": "播种: 灯塔船"
@@ -7582,6 +7744,12 @@
     "key": "127572$Description",
     "original": "You've sown blemmigans at Anthe.",
     "translation": "你在安忒放下了真菌虫."
+  },
+  {
+    "context": "",
+    "key": "127572$AvailableAt",
+    "original": "Anthe",
+    "translation": "安忒"
   },
   {
     "context": "",
@@ -7795,12 +7963,6 @@
   },
   {
     "context": "",
-    "key": "111598$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "126005$Name",
     "original": "Propagation: Rosegate",
     "translation": "播种: 玫瑰之门"
@@ -7899,7 +8061,7 @@
     "context": "",
     "key": "126627$Name",
     "original": "Propagation: The Gant Pole",
-    "translation": "播种: 刚特极点"
+    "translation": "播种: 枯寂极点"
   },
   {
     "context": "",
@@ -7995,13 +8157,13 @@
     "context": "",
     "key": "115505$Name",
     "original": "Propagation: Visage",
-    "translation": "播种: 维瑟吉"
+    "translation": "播种: 面容岛"
   },
   {
     "context": "",
     "key": "115505$Description",
     "original": "You've sown blemmigans on Visage. It can hardly make the place any stranger.",
-    "translation": "你在维瑟吉放下了真菌虫. 它很难让这个地方变得更陌生."
+    "translation": "你在面容岛放下了真菌虫. 反正它也不会让这个地方变得更怪异."
   },
   {
     "context": "",
@@ -8055,7 +8217,7 @@
     "context": "",
     "key": "105971$Name",
     "original": "Restful Night",
-    "translation": "安静的一晚"
+    "translation": "一夜安眠"
   },
   {
     "context": "",
@@ -8068,12 +8230,6 @@
     "key": "127612$Name",
     "original": "Reuse",
     "translation": "再次使用"
-  },
-  {
-    "context": "",
-    "key": "127612$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -8095,20 +8251,8 @@
   },
   {
     "context": "",
-    "key": "124673$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "124672$Name",
     "original": "Review please!",
-    "translation": ""
-  },
-  {
-    "context": "",
-    "key": "124672$Description",
-    "original": "",
     "translation": ""
   },
   {
@@ -8341,6 +8485,12 @@
   },
   {
     "context": "",
+    "key": "116010$AvailableAt",
+    "original": "Hunt Blue Prophets or Milliner-Bats to find these.",
+    "translation": "猎杀蓝色先知或是衣帽商蝙蝠以找到这些东西."
+  },
+  {
+    "context": "",
     "key": "128553$Name",
     "original": "Ruby Writing",
     "translation": "红宝石色的写作"
@@ -8443,12 +8593,6 @@
   },
   {
     "context": "",
-    "key": "123503$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "123503$LevelDescriptionText",
     "original": "2|Chione~3|Loki~4|Boreas~5|Winter~6|Snegurochka~7|Elliot~8|Rose~1|Snow Child",
     "translation": "2|喀俄涅~3|洛基~4|玻瑞阿斯~5|冬日~6|雪涅吉什卡~7|艾略特~8|玫瑰~1|雪孩子"
@@ -8479,12 +8623,6 @@
   },
   {
     "context": "",
-    "key": "127297$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "113240$Name",
     "original": "Saviour's Rocks: At the Festival of Silk",
     "translation": "救世主岩礁: 在丝物盛会上"
@@ -8505,7 +8643,7 @@
     "context": "",
     "key": "113232$Name",
     "original": "Saviour's Rocks: Avaricious Lorn-Fluke's Will",
-    "translation": "救世主岩礁: 贪婪的锚爪海胆的愿望"
+    "translation": "救世主岩礁: 贪婪的孤独锚爪的愿望"
   },
   {
     "context": "",
@@ -8547,12 +8685,6 @@
     "context": "",
     "key": "113234$Name",
     "original": "Saviour's Rocks: RC_SR_ShowCheats",
-    "translation": ""
-  },
-  {
-    "context": "",
-    "key": "113234$Description",
-    "original": "",
     "translation": ""
   },
   {
@@ -8673,7 +8805,7 @@
     "context": "",
     "key": "128505$Description",
     "original": "She had a reason for coming to Scrimshander. And she has a reason for travelling to the Gant Pole. She's almost sure of it. ",
-    "translation": "她有要去骨雕馆的理由. 她也有个理由要去刚特极点. 她几乎已经下定了决心. "
+    "translation": "她有要去骨雕馆的理由. 她也有个理由要去枯寂极点. 她几乎已经下定了决心. "
   },
   {
     "context": "",
@@ -8733,7 +8865,7 @@
     "context": "",
     "key": "129449$Name",
     "original": "Scrimshander: Delivering a Cargo of Answers",
-    "translation": "骨雕馆: 递送解明货箱"
+    "translation": "骨雕馆: 递送一舱答案"
   },
   {
     "context": "",
@@ -8745,7 +8877,7 @@
     "context": "",
     "key": "129449$LevelDescriptionText",
     "original": "1|You gave the Cargo of Answers to the Drownies~2|You gave the Cargo of Answers to the Chelonates~3|You have accepted a task to go to the Fathomking~5|You counselled the Fathomking to strike the Chelonate from his songs~6|You have settled the history of the Cargo of Answers~7|You are to accompany a monk to the archives~8|You sealed the monk, and the Cargo of Answers, into a forgotten vault~9|You uncovered an alternate history of the Chelonate~10|You have settled the history of the Cargo of Answers~4|You counselled the Fathomking to make public the Chelonate's shameful history",
-    "translation": "1|你把解明货箱送给了溺亡者~2|你把解明货箱送去了鳌阜~3|你接受了去往深寻王处的任务~5|你劝说深寻王用歌声袭击鳌阜~6|你已经解决了解明货箱的历史~7|你要去陪伴牙案库的僧侣~8|你把僧侣和解明货箱封在了被遗忘的密室中~9|你发现了鳌阜历史的另一版本~10|你已经解决了解明货箱的历史~4|你劝说深寻王公开鳌阜那可耻的历史"
+    "translation": "1|你把那舱答案送给了溺亡者~2|你把那舱答案送去了鳌阜~3|你接受了去往深寻王处的任务~5|你劝说深寻王用歌声袭击鳌阜~6|你已经解决了那舱答案的历史~7|你要去陪伴牙案库的僧侣~8|你把僧侣和那舱答案封在了被遗忘的密室中~9|你发现了鳌阜历史的另一版本~10|你已经解决了那舱答案的历史~4|你劝说深寻王公开鳌阜那可耻的历史"
   },
   {
     "context": "",
@@ -8871,13 +9003,13 @@
     "context": "",
     "key": "118970$Name",
     "original": "Scrimshaw Chronicler",
-    "translation": "骨雕记录者"
+    "translation": "骨雕纪事者"
   },
   {
     "context": "",
     "key": "118970$Description",
     "original": "The Chronicler's heart is weary, but his meals are hearty... and he can make soup out of almost anything.",
-    "translation": "骨雕记录者的心已经很疲惫, 但是他的食物十分丰盛... 他几乎会用一切东西煲汤."
+    "translation": "骨雕纪事者的心已经很疲惫, 但是他做的食物十分丰盛... 他几乎会用一切东西煲汤."
   },
   {
     "context": "",
@@ -9001,6 +9133,12 @@
   },
   {
     "context": "",
+    "key": "102989$AvailableAt",
+    "original": "Sometimes available for hire in London, or more reliably at the Shepherd Isles.",
+    "translation": "有时可在沦敦雇佣，更多时候可以在牧羊人岛雇佣。"
+  },
+  {
+    "context": "",
     "key": "107459$Name",
     "original": "Sly Navigator",
     "translation": "狡猾的领航员"
@@ -9046,6 +9184,12 @@
     "key": "111725$Description",
     "original": "In smaller quantities, delightful and refreshing. In larger quantities, one of the very nicest ways to die.",
     "translation": "浅尝辄止, 能使人心情愉悦, 精神倍增. 大快朵颐, 不失为一种理想的死法."
+  },
+  {
+    "context": "",
+    "key": "111725$AvailableAt",
+    "original": "This grows in the Wisp-Ways, near the Mangrove College.",
+    "translation": "它生长在红树学院附近的幽深小径。"
   },
   {
     "context": "",
@@ -9136,6 +9280,12 @@
     "key": "109505$Description",
     "original": "Your work for the Austere Acolyte has introduced you to others on the Island.",
     "translation": "你为朴素的助手做的工作向你介绍了三号要塞里的其他人."
+  },
+  {
+    "context": "",
+    "key": "109505$AvailableAt",
+    "original": "The Trade in Long Boxes may lead you to meet new people.",
+    "translation": "长箱贸易也许会引导你与更多人相识."
   },
   {
     "context": "",
@@ -9351,7 +9501,7 @@
     "context": "",
     "key": "124180$Name",
     "original": "Supremacy: the Lorn-Flukes",
-    "translation": "霸权: 孤独的海胆"
+    "translation": "霸权: 孤独锚爪"
   },
   {
     "context": "",
@@ -9364,12 +9514,6 @@
     "key": "102772$Name",
     "original": "Surgeon",
     "translation": "医生"
-  },
-  {
-    "context": "",
-    "key": "102772$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -9433,6 +9577,12 @@
   },
   {
     "context": "",
+    "key": "127573$AvailableAt",
+    "original": "Take a port report at Anthe and then submit it at the Admiralty.",
+    "translation": "为海军部带来安忒的港口报告."
+  },
+  {
+    "context": "",
     "key": "110461$Name",
     "original": "Surveyed: Avid Horizon",
     "translation": "调查: 渴求之地平线"
@@ -9478,6 +9628,12 @@
     "key": "126409$Description",
     "original": "You have explored Dahut.",
     "translation": "你已探索了达哈."
+  },
+  {
+    "context": "",
+    "key": "126409$AvailableAt",
+    "original": "Provide a Port Report on Dahut to the Admiralty.",
+    "translation": "向海军部提供达哈的港口报告."
   },
   {
     "context": "",
@@ -9646,6 +9802,12 @@
     "key": "127129$Description",
     "original": "You have explored Low Barnet.",
     "translation": "你已经探索了沉没的巴尼特."
+  },
+  {
+    "context": "",
+    "key": "127129$AvailableAt",
+    "original": "Provide a Port Report on Low Barnet to the Admiralty.",
+    "translation": "向海军部提供沉没的巴尼特的港口报告."
   },
   {
     "context": "",
@@ -9831,7 +9993,7 @@
     "context": "",
     "key": "126767$Name",
     "original": "Surveyed: The Gant Pole",
-    "translation": "调查: 刚特极点"
+    "translation": "调查: 枯寂极点"
   },
   {
     "context": "",
@@ -9915,7 +10077,7 @@
     "context": "",
     "key": "113266$Name",
     "original": "Surveyed: Visage",
-    "translation": "调查: 维瑟吉"
+    "translation": "调查: 面容岛"
   },
   {
     "context": "",
@@ -10077,7 +10239,7 @@
     "context": "",
     "key": "127503$Name",
     "original": "The Fierce Philanthropist: Gant Pole",
-    "translation": "暴躁的慈善家: 刚特极点"
+    "translation": "暴躁的慈善家: 枯寂极点"
   },
   {
     "context": "",
@@ -10114,12 +10276,6 @@
     "key": "127505$Name",
     "original": "The Fierce Philanthropist: on the Trail",
     "translation": "暴躁的慈善家: 追踪中"
-  },
-  {
-    "context": "",
-    "key": "127505$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -10473,7 +10629,7 @@
     "context": "",
     "key": "110990$Description",
     "original": "A book for children. One page is devoted to each of the colours of the Neath, which are not found on the Surface.\r\n\r\n[Return to the Curator with each of the seven impossible colours in hand. The book's pages give you clues, but you'll need to seek far ports.]",
-    "translation": ""
+    "translation": "一本为孩子写的书. 每一页上都是一种地表无法找到但是却存在于地下的颜色.\\n\\n[你每找到一种不可能的颜色都可以返回到监护官这里. 书页会给你一些线索, 但是你需要在远方的港口找到它们.]"
   },
   {
     "context": "",
@@ -10510,12 +10666,6 @@
     "key": "126782$Name",
     "original": "The respect of the Conodont",
     "translation": "老鳗的尊重"
-  },
-  {
-    "context": "",
-    "key": "126782$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -10684,6 +10834,12 @@
     "key": "102986$Description",
     "original": "Does he ever sleep? His eyes are dark-circled, but his hands are steady.",
     "translation": "他真的睡过觉吗? 他眼睛下生着重重的黑眼圈, 但是他的手依旧很稳."
+  },
+  {
+    "context": "",
+    "key": "102986$AvailableAt",
+    "original": "Sometimes available for hire in London, or in a distant port of the North.",
+    "translation": "有时可在沦敦雇佣，或是在遥远北方的港口找到."
   },
   {
     "context": "",
@@ -11307,7 +11463,7 @@
     "context": "",
     "key": "113400$Name",
     "original": "Visage: Expertise in Parts",
-    "translation": "维瑟吉: 某方面的专业知识"
+    "translation": "面容岛: 某方面的专业知识"
   },
   {
     "context": "",
@@ -11325,7 +11481,7 @@
     "context": "",
     "key": "113399$Name",
     "original": "Visage: Ritual Participant",
-    "translation": "维瑟吉: 参加仪式"
+    "translation": "面容岛: 参加仪式"
   },
   {
     "context": "",
@@ -11343,13 +11499,13 @@
     "context": "",
     "key": "113398$Name",
     "original": "Visage: your Mask",
-    "translation": "维瑟吉:你的面具"
+    "translation": "面容岛:你的面具"
   },
   {
     "context": "",
     "key": "113398$Description",
     "original": "The role assigned on the island of Visage.",
-    "translation": "维瑟吉为你分配的角色."
+    "translation": "面容岛为你分配的角色."
   },
   {
     "context": "",
@@ -11397,7 +11553,7 @@
     "context": "",
     "key": "109417$Name",
     "original": "Watchful Curio",
-    "translation": "不眠的的古偶"
+    "translation": "警惕的古董"
   },
   {
     "context": "",
@@ -11464,6 +11620,12 @@
     "key": "126412$Description",
     "original": "It is said you may eat it if you ever need to break an illusion at Dahut. But be cautious.",
     "translation": "据说, 如果你想打破达哈的幻境, 那就需要吃掉它. 请务必谨慎使用."
+  },
+  {
+    "context": "",
+    "key": "126412$AvailableAt",
+    "original": "Available for one Scintillack at the Fathomking's Hold; counteracts illusion at Dahut.",
+    "translation": "在深寻王的城堡以一块闪晶换取；用以抵消达哈的幻境."
   },
   {
     "context": "",
@@ -11779,51 +11941,9 @@
   },
   {
     "context": "",
-    "key": "108911$Name",
-    "original": "XHearts",
-    "translation": "红心值"
-  },
-  {
-    "context": "",
-    "key": "108911$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
-    "key": "108909$Name",
-    "original": "XIron",
-    "translation": "钢铁值"
-  },
-  {
-    "context": "",
-    "key": "108909$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
-    "key": "108908$Name",
-    "original": "XMirrors",
-    "translation": "镜子值"
-  },
-  {
-    "context": "",
-    "key": "108908$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
-    "key": "108910$Name",
-    "original": "XPages",
-    "translation": "书页值"
-  },
-  {
-    "context": "",
-    "key": "108910$Description",
-    "original": "",
-    "translation": ""
+    "key": "102993$AvailableAt",
+    "original": "Sometimes lurking on the docks of London.",
+    "translation": "有时会在沦敦的码头潜伏."
   },
   {
     "context": "",
@@ -11845,21 +11965,9 @@
   },
   {
     "context": "",
-    "key": "127727$Description",
-    "original": "",
-    "translation": ""
-  },
-  {
-    "context": "",
     "key": "127728$Name",
     "original": "You Fear Something More Than Death ",
     "translation": "你对某些东西的恐惧甚于死亡 "
-  },
-  {
-    "context": "",
-    "key": "127728$Description",
-    "original": "",
-    "translation": ""
   },
   {
     "context": "",
@@ -11901,7 +12009,7 @@
     "context": "",
     "key": "109778$LevelDescriptionText",
     "original": "100|Visit the Fathomking~4|Speak with the Dark-Spectacled Admiral at the Admiralty~200|Fulfil the Fathomking's Requests~54|Seek Kingeater's Castle, in the far south-east~53|Seek a parcel with your name in Nuncio, somewhere in the south of the zee~56|Seek Visage, somewhere in the south of the zee~52|Seek the Bone Men in the Chelonate, in the east of the zee~300|Fathomking's Requests Fulfilled~55|Seek Horizon's Aspect, in the North~400|A Message for the Chapel of Lights~3|Bring a Zee-Ztory, a Memory of Distant Shores and a Tale of Terror to Huffam, in London~5|Bring two sacks of Darkdrop Coffee from the South for the  Bishop of St Fiacre, in London~2|Bring Mutersalt from the North to Slivvy, in London~6|Bring Scintillack, from Port Cecil or elsewhere, to the Gracious Widow in London",
-    "translation": "100|访问深寻王~4|和海军部的黑墨镜将军交谈~200|满足深寻王的要求~54|在遥远的东南方寻找噬王者城堡~53|在农西奥寻找包含你的名字的包裹,大约在海泽的南方~56|寻找维瑟吉,南方的一个岛屿~52|寻找鳌阜的骨刃,在海泽的东方~300|已经满足深寻王的要求~55|寻找地平线的方向,在北方~400|光之礼拜堂的消息~3|带一个海泽轶事,一个远岸追忆和一个恐怖故事到赫芬姆先生处,他在伦敦~5|带两袋从南方出产的暗涌咖啡给圣菲雅克主教,他在伦敦~2|带北方出产的沉默盐给斯利拂,他在伦敦~6|带塞西尔港或者其他什么地方出产的闪晶给仁慈的寡妇,她在伦敦"
+    "translation": "100|访问深寻王~4|和海军部的黑墨镜将军交谈~200|满足深寻王的要求~54|在遥远的东南方寻找噬王者城堡~53|在农西奥寻找包含你的名字的包裹,大约在海泽的南方~56|寻找面容岛,南方的一个岛屿~52|寻找鳌阜的骨刃,在海泽的东方~300|已经满足深寻王的要求~55|寻找地平线的方向,在北方~400|光之礼拜堂的消息~3|带一个海泽轶事,一个远岸追忆和一个恐怖故事到赫芬姆先生处,他在伦敦~5|带两袋从南方出产的暗涌咖啡给圣菲雅克主教,他在伦敦~2|带北方出产的沉默盐给斯利拂,他在伦敦~6|带塞西尔港或者其他什么地方出产的闪晶给仁慈的寡妇,她在伦敦"
   },
   {
     "context": "",
@@ -12046,6 +12154,12 @@
     "key": "20279$Description",
     "original": "Just how many doors does Prisoner's Honey open? This may unlock additional starting options in Zero Summer (see the bar above) and other StoryNexus worlds...",
     "translation": "囚徒之蜜会打开多少扇门? 这会为你开启Zero Summer (查看上方提示条)的一个额外初始选项 以及其他StoryNexus 的游戏世界..."
+  },
+  {
+    "context": "",
+    "key": "20279$AvailableAt",
+    "original": "Sample Prisoner's Honey in Veilgarden",
+    "translation": "面纱花园的囚徒之蜜样品"
   },
   {
     "context": "",

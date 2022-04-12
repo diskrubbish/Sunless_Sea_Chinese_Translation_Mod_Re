@@ -213,7 +213,7 @@
     "context": "",
     "key": "101981$Description",
     "original": "A shell as big as a wild dream?",
-    "translation": "这是最荒诞的梦里才会有的大号龟壳？"
+    "translation": "如梦般巨大的龟壳，还是如龟壳般荒唐的梦？"
   },
   {
     "context": "",
@@ -429,7 +429,7 @@
     "context": "",
     "key": "101993$Description",
     "original": "DO NOT RETURN, SENDER.",
-    "translation": "<b>有来, 无回.</b>"
+    "translation": "<b>严禁退件.</b>"
   },
   {
     "context": "",
@@ -537,7 +537,7 @@
     "context": "",
     "key": "102000$Description",
     "original": "HERE IS SCREAMING.",
-    "translation": "前有尖叫."
+    "translation": "<b>这里在尖叫</b>"
   },
   {
     "context": "",
@@ -603,7 +603,7 @@
     "context": "",
     "key": "102004$Name",
     "original": "Visage",
-    "translation": "维瑟吉"
+    "translation": "面容岛"
   },
   {
     "context": "",
@@ -795,7 +795,7 @@
     "context": "",
     "key": "102784$Description",
     "original": "This is the end.",
-    "translation": "这就是终结之地."
+    "translation": "这里就是尽头."
   },
   {
     "context": "",
@@ -867,7 +867,7 @@
     "context": "",
     "key": "102852$Description",
     "original": "Sometimes - just occasionally - bits of the roof fall off. Be glad you weren't here when this one did.",
-    "translation": "有时候 - 只是有时候 - 洞顶上会落下小块岩石. 你真应该高兴你脚下的岛屿落下的时候你没在这里."
+    "translation": "有时候 - 只是有时候 - 尼斯的穹顶会崩落而下. 你真该庆幸, 现在脚下的这块落下的时候自己没在这里."
   },
   {
     "context": "",
@@ -921,7 +921,7 @@
     "context": "",
     "key": "103246$Description",
     "original": "The wise and the wicked seek sanctuary here, where the fruits are plenty and the woods wild.",
-    "translation": "水果丰富,树丛杂生,智者与恶人都到这里寻求庇护,"
+    "translation": "水果丰富,树丛杂生,智者与恶人都到这里寻求庇护."
   },
   {
     "context": "",
@@ -1161,7 +1161,7 @@
     "context": "",
     "key": "107687$Name",
     "original": "Gant Pole",
-    "translation": "刚特极点"
+    "translation": "枯寂极点"
   },
   {
     "context": "",

@@ -2234,7 +2234,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "刚特极点",
+            "Label": "枯寂极点",
             "ParentTile": null,
             "Position": {
               "X": 542,
@@ -2299,7 +2299,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "刚特极点",
+            "Label": "枯寂极点",
             "ParentTile": null,
             "Position": {
               "X": 496,
@@ -8050,7 +8050,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "梅屈里厄斯海沟",
+            "Label": "墨丘利海沟",
             "ParentTile": null,
             "Position": {
               "X": 1134,
@@ -8063,7 +8063,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "庫格尔崖",
+            "Label": "库格尔崖",
             "ParentTile": null,
             "Position": {
               "X": 963,
@@ -8076,7 +8076,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "亞當的厄運",
+            "Label": "亚当的末日",
             "ParentTile": null,
             "Position": {
               "X": 1114,
@@ -8089,7 +8089,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "馮 霍恩港",
+            "Label": "冯 霍恩港",
             "ParentTile": null,
             "Position": {
               "X": 737,
@@ -9217,7 +9217,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "達根航路",
+            "Label": "达根航路",
             "ParentTile": null,
             "Position": {
               "X": 1292,
@@ -9230,7 +9230,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "帕默斯頓山",
+            "Label": "帕默斯顿山",
             "ParentTile": null,
             "Position": {
               "X": 790,
@@ -9256,7 +9256,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "帕默斯頓港",
+            "Label": "帕默斯顿港",
             "ParentTile": null,
             "Position": {
               "X": 972,
@@ -9269,7 +9269,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "安布羅斯角",
+            "Label": "安布罗斯角",
             "ParentTile": null,
             "Position": {
               "X": 974,
@@ -9953,7 +9953,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "卡萊爾避風港",
+            "Label": "卡莱尔避风港",
             "ParentTile": null,
             "Position": {
               "X": 640,
@@ -9966,7 +9966,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "拉賽格海峽",
+            "Label": "拉塞格尔海峡",
             "ParentTile": null,
             "Position": {
               "X": 1012,
@@ -9979,7 +9979,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "斯萊克頓",
+            "Label": "斯特莱克顿",
             "ParentTile": null,
             "Position": {
               "X": 1278,
@@ -9992,7 +9992,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "納布盧斯暗礁",
+            "Label": "纳布卢斯礁",
             "ParentTile": null,
             "Position": {
               "X": 566,
@@ -10987,7 +10987,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "深尋王的城堡",
+            "Label": "深寻王的城堡",
             "ParentTile": null,
             "Position": {
               "X": 665,
@@ -11000,7 +11000,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "愛古",
+            "Label": "爱古",
             "ParentTile": null,
             "Position": {
               "X": 1010,
@@ -11026,7 +11026,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "拉柯萊特礁",
+            "Label": "拉柯莱特礁",
             "ParentTile": null,
             "Position": {
               "X": 568,
@@ -11565,7 +11565,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "農西奧",
+            "Label": "农西奥",
             "ParentTile": null,
             "Position": {
               "X": 1098,
@@ -11578,7 +11578,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "格里克的手術刀",
+            "Label": "格里克的手术刀",
             "ParentTile": null,
             "Position": {
               "X": 597,
@@ -11591,7 +11591,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "芬克諾特漩渦",
+            "Label": "芬克诺特漩涡",
             "ParentTile": null,
             "Position": {
               "X": 1166,
@@ -11604,7 +11604,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "斯凱拉的終結",
+            "Label": "斯凯拉的终结",
             "ParentTile": null,
             "Position": {
               "X": 544,
@@ -12174,7 +12174,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "雪豹廳",
+            "Label": "雪豹厅",
             "ParentTile": null,
             "Position": {
               "X": 245,
@@ -12187,7 +12187,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "鋼鐵區",
+            "Label": "钢铁区",
             "ParentTile": null,
             "Position": {
               "X": 806,
@@ -12213,7 +12213,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "鮭魚廳",
+            "Label": "鲑鱼厅",
             "ParentTile": null,
             "Position": {
               "X": 746,
@@ -12226,7 +12226,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "窩闊台大橋",
+            "Label": "窝阔台大桥",
             "ParentTile": null,
             "Position": {
               "X": 463,
@@ -12239,7 +12239,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "玄武廳",
+            "Label": "玄武厅",
             "ParentTile": null,
             "Position": {
               "X": 801,
@@ -12252,7 +12252,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "阿博若門",
+            "Label": "阿博拉门",
             "ParentTile": null,
             "Position": {
               "X": 531,
@@ -12265,7 +12265,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "可汗之門",
+            "Label": "可汗之门",
             "ParentTile": null,
             "Position": {
               "X": 803,
@@ -12278,7 +12278,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "赤銅區",
+            "Label": "赤铜区",
             "ParentTile": null,
             "Position": {
               "X": 218,
@@ -12291,7 +12291,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "蒼狼廳",
+            "Label": "苍狼厅",
             "ParentTile": null,
             "Position": {
               "X": 788,
@@ -12304,7 +12304,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "神雕廳",
+            "Label": "神雕厅",
             "ParentTile": null,
             "Position": {
               "X": 307,
@@ -12317,7 +12317,7 @@
             "Description": null,
             "DiscoveryValue": 50,
             "Important": false,
-            "Label": "軟玉區",
+            "Label": "软玉区",
             "ParentTile": null,
             "Position": {
               "X": 261,
@@ -18508,7 +18508,7 @@
             "Description": "",
             "DiscoveryValue": 50,
             "Important": true,
-            "Label": "维瑟吉",
+            "Label": "面容岛",
             "ParentTile": null,
             "Position": {
               "X": 337,

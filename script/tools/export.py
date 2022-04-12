@@ -6,6 +6,7 @@ from os import makedirs, remove, walk
 from os.path import abspath, basename, dirname, exists, join, relpath
 from sys import platform
 from json_tools import prepare
+import re
 if platform == "win32":
     from os.path import normpath as normpath_old
 
@@ -25,6 +26,7 @@ def export_json(prefix,root_dir,dump_dir,file_path):
                 result = raw_data
                 if basename(file_path) == "Associations.json":
                     for data in jsondata:
+                        
                         if data ["translation"].replace("\\n","\n") != "" and data ["translation"].replace("\\n","\n") != data["original"]:
                             temp = re.search("(.*)##(.*)\$(.*)&(.*)",data["key"])
                             for i in range(len(raw_data[0][temp.group(4)])):

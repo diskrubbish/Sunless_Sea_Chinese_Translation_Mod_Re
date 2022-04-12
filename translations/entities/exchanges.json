@@ -21,7 +21,7 @@
     "context": "",
     "key": "2/13%Shops$Description",
     "original": "Trading in common goods will only earn slim profits. Seek other opportunities.\n",
-    "translation": ""
+    "translation": "[寻常货物很少盈利，建议寻找其他机遇]"
   },
   {
     "context": "",
@@ -105,7 +105,7 @@
     "context": "",
     "key": "13/40%Shops$Description",
     "original": "BRING MATERIAL.",
-    "translation": "<b>带东西来.</b>"
+    "translation": "<b>带原料来.</b>"
   },
   {
     "context": "",
@@ -417,7 +417,7 @@
     "context": "",
     "key": "14$Description",
     "original": "Sacrifice what is needful, and gain that which is desirable.",
-    "translation": "牲祭所需，换取所得。"
+    "translation": "牲祭所需, 换取所得."
   },
   {
     "context": "",
@@ -465,7 +465,7 @@
     "context": "",
     "key": "6$Description",
     "original": "Flies. Listen.",
-    "translation": "苍蝇们。听。"
+    "translation": "苍蝇们. 听."
   },
   {
     "context": "",
@@ -585,7 +585,7 @@
     "context": "",
     "key": "21/46%Shops$Description",
     "original": "None sail East from Irem. This shop is for those who sail East from Irem.",
-    "translation": "没有人从伊瑞暮向东航行.这家店是为那些从伊瑞暮向东航行的人服务的."
+    "translation": "未曾有人从伊瑞暮向东航行.这家店是为那些从伊瑞暮向东航行的人服务的."
   },
   {
     "context": "",
@@ -633,7 +633,7 @@
     "context": "",
     "key": "18$Description",
     "original": "Trade unfettered by the Khanate's law.",
-    "translation": "不受汗国法律支配的自由交易。"
+    "translation": "不受汗国法律支配的自由交易."
   },
   {
     "context": "",
@@ -663,7 +663,7 @@
     "context": "",
     "key": "30$Name",
     "original": "The Gant Pole",
-    "translation": "刚特极点"
+    "translation": "枯寂极点"
   },
   {
     "context": "",
@@ -801,7 +801,7 @@
     "context": "",
     "key": "27$Description",
     "original": "Here: peace.",
-    "translation": "此为：平和。"
+    "translation": "此为: 平和."
   },
   {
     "context": "",
@@ -825,7 +825,7 @@
     "context": "",
     "key": "29$Description",
     "original": "A city of delights.",
-    "translation": "欢娱之城。"
+    "translation": "欢娱之城."
   },
   {
     "context": "",
@@ -849,7 +849,7 @@
     "context": "",
     "key": "28$Description",
     "original": "A city of sallow wreckers.",
-    "translation": "窘徒之城。"
+    "translation": "窘徒之城."
   },
   {
     "context": "",
@@ -873,7 +873,7 @@
     "context": "",
     "key": "31$Description",
     "original": "The finest cigar shop above or below the waves.",
-    "translation": "潮上海下最好的烟草店。"
+    "translation": "潮上海下最好的烟草店."
   },
   {
     "context": "",

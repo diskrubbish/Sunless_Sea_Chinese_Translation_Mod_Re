@@ -192,7 +192,7 @@
     "World": null
   },
   {
-    "Description": "这是最荒诞的梦里才会有的大号龟壳？",
+    "Description": "如梦般巨大的龟壳，还是如龟壳般荒唐的梦？",
     "HideName": false,
     "Id": 101981,
     "ImageName": "chelonate_port",
@@ -384,7 +384,7 @@
     "World": null
   },
   {
-    "Description": "<b>有来, 无回.</b>",
+    "Description": "<b>严禁退件.</b>",
     "HideName": false,
     "Id": 101993,
     "ImageName": "nuncio_port",
@@ -480,7 +480,7 @@
     "World": null
   },
   {
-    "Description": "前有尖叫.",
+    "Description": "<b>这里在尖叫</b>",
     "HideName": false,
     "Id": 102000,
     "ImageName": "polythreme_port",
@@ -552,7 +552,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你已进港。",
-    "Name": "维瑟吉",
+    "Name": "面容岛",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,
@@ -720,7 +720,7 @@
     "World": null
   },
   {
-    "Description": "这就是终结之地.",
+    "Description": "这里就是尽头.",
     "HideName": false,
     "Id": 102784,
     "ImageName": "avidhorizon_port",
@@ -784,7 +784,7 @@
     "World": null
   },
   {
-    "Description": "有时候 - 只是有时候 - 洞顶上会落下小块岩石. 你真应该高兴你脚下的岛屿落下的时候你没在这里.",
+    "Description": "有时候 - 只是有时候 - 尼斯的穹顶会崩落而下. 你真该庆幸, 现在脚下的这块落下的时候自己没在这里.",
     "HideName": false,
     "Id": 102852,
     "ImageName": "Godfall_port",
@@ -832,7 +832,7 @@
     "World": null
   },
   {
-    "Description": "水果丰富,树丛杂生,智者与恶人都到这里寻求庇护,",
+    "Description": "水果丰富,树丛杂生,智者与恶人都到这里寻求庇护.",
     "HideName": false,
     "Id": 103246,
     "ImageName": "generic_port",
@@ -1144,7 +1144,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你移动到了新的地方",
-    "Name": "刚特极点",
+    "Name": "枯寂极点",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,

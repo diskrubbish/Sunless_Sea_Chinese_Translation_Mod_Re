@@ -105,7 +105,7 @@
     "context": "",
     "key": "9$Description",
     "original": "You receive Fragments when you discover new places. Acquire enough of them and you'll gain a Secret. \n\nYou can use Secrets to improve your captain's skills (by talking to Officers), or for some key stories.",
-    "translation": ""
+    "translation": "当你发现新的地点时, 你会得到碎片(Fragments). 积累足够多的碎片, 你便能得到一个秘密(Secret).\\n\\n你可以花费秘密来提高船长的技能 (通过和船官交谈), 或是在那些关键的故事中使用."
   },
   {
     "context": "",
@@ -213,7 +213,7 @@
     "context": "",
     "key": "18$Description",
     "original": "You've encountered an opponent! The red arc shows the range of your deck gun. Keep the enemy in range while your crew works out a firing solution. \n\nThis will happen faster if you keep the enemy in your prow light. The deck gun will be highlighted as your crew make progress towards a firing solution. (Press space or close the tutorial to continue.)",
-    "translation": ""
+    "translation": "你遭遇了敌人! 红色的扇形显示了你的甲板火炮的射程. 当你的船员瞄准时, 保持敌人在射程之内.\\n\\n如果你将敌人保持在前灯的光照下, 瞄准过程会加快. 甲板火炮的图标会在你的船员完成瞄准和装填之后高亮. (按空格或者关闭教程以继续.)"
   },
   {
     "context": "",

@@ -1287,7 +1287,7 @@
             "SellPrice": 22
           }
         ],
-        "Description": "Trading in common goods will only earn slim profits. Seek other opportunities.\n",
+        "Description": "[寻常货物很少盈利，建议寻找其他机遇]",
         "Exchange": null,
         "Id": 13,
         "Image": "wolfstackdocks_port",
@@ -5699,7 +5699,7 @@
             "SellPrice": 150
           }
         ],
-        "Description": "<b>带东西来.</b>",
+        "Description": "<b>带原料来.</b>",
         "Exchange": null,
         "Id": 40,
         "Image": "clayman6",
@@ -11266,7 +11266,7 @@
     ]
   },
   {
-    "Description": "牲祭所需，换取所得。",
+    "Description": "牲祭所需, 换取所得.",
     "Id": 14,
     "Image": "hallowmass",
     "Name": "骷髅地的信条",
@@ -12075,7 +12075,7 @@
     ]
   },
   {
-    "Description": "苍蝇们。听。",
+    "Description": "苍蝇们. 听.",
     "Id": 6,
     "Image": "blowfly",
     "Name": "苍蝇议会",
@@ -14820,7 +14820,7 @@
             "SellPrice": 25
           }
         ],
-        "Description": "没有人从伊瑞暮向东航行.这家店是为那些从伊瑞暮向东航行的人服务的.",
+        "Description": "未曾有人从伊瑞暮向东航行.这家店是为那些从伊瑞暮向东航行的人服务的.",
         "Exchange": null,
         "Id": 46,
         "Image": "boat_basic",
@@ -15714,7 +15714,7 @@
     ]
   },
   {
-    "Description": "不受汗国法律支配的自由交易。",
+    "Description": "不受汗国法律支配的自由交易.",
     "Id": 18,
     "Image": "khansshadow_port",
     "Name": "自由市场",
@@ -16855,7 +16855,7 @@
     "Description": "怀表死去的地方.",
     "Id": 30,
     "Image": "carcass",
-    "Name": "刚特极点",
+    "Name": "枯寂极点",
     "SettingIds": [
       106126
     ],
@@ -19778,7 +19778,7 @@
     ]
   },
   {
-    "Description": "此为：平和。",
+    "Description": "此为: 平和.",
     "Id": 27,
     "Image": "drownie_bearded",
     "Name": "达哈",
@@ -20225,7 +20225,7 @@
     ]
   },
   {
-    "Description": "欢娱之城。",
+    "Description": "欢娱之城.",
     "Id": 29,
     "Image": "fist",
     "Name": "繁荣之墟",
@@ -20842,7 +20842,7 @@
     ]
   },
   {
-    "Description": "窘徒之城。",
+    "Description": "窘徒之城.",
     "Id": 28,
     "Image": "steal",
     "Name": "挣扎之墟",
@@ -21374,7 +21374,7 @@
     ]
   },
   {
-    "Description": "潮上海下最好的烟草店。",
+    "Description": "潮上海下最好的烟草店.",
     "Id": 31,
     "Image": "fuel",
     "Name": "玫瑰之门",
